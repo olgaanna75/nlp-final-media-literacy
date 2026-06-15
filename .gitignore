@@ -1,0 +1,19 @@
+# environment
+venv_rag/
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# os
+.DS_Store
+
+# data (large, regenerable)
+data/chroma/
+report_notes.md
+poster/
+report/references.bib

@@ -1,0 +1,2446 @@
+EDUCATION NUMÉRIQUE
+A L’ÉCOLE
+A l’intention
+du corps enseignant,
+des directions et
+responsables
+d’établissement
+Impressum
+Editeur
+Jeunes et médias
+Plateforme nationale de promotion des compétences médiatiques
+Office fédéral des assurances sociales
+jugendschutz@bsv.admin.ch
+Auteurs 
+Pädagogische Hochschule der Fachhochschule Nordwestschweiz,
+Beratungsstelle für digitale Medien in Schule und Unterricht – imedias
+(Haute école pédagogique de la HES de la Suisse du Nord-Ouest, service
+de consultation sur les médias à l’école et dans l’enseignement, imedias)
+Judith Mathez, Claudia Fischer, Roger Mäder, Ronny Standtke,
+Stanley Schwab
+Centre des compétences fritic
+Timon Rimensberger
+Repubblica e Cantone Ticino, Centro di risorse didattiche e digitali
+(CERDD)
+Daniele Parenti, Barbara Bonetti
+ZHAW Zürcher Hochschule für Angewandte Wissenschaften, Departement
+Angewandte Psychologie, Abteilung Studium & Forschung (Haute
+école zurichoise de sciences appliquées, département de psychologie
+appliquée, recherches en psychologie des médias)
+Sarah Genner, Daniel Süss, Lilian Suter
+Commande (gratuit)
+ 
+OFCL, Vente des publications fédérales, CH-3003 Berne
+www.publicationsfederales.admin.ch > Actualités > Jeunes et médias
+(No d’article 318.852.F)
+02.21 5000 860482131
+Disponible en français, en allemand et en italien
+Photos: 
+Pia Neuenschwander www.photopia.ch: couverture, page 4, page 17, page 28. 
+Beratungsstelle Digitale Medien in Schule und Unterricht - imedias: page 9, page 24, page 27.
+3eme édition, février 2021
+© 2014 Jeunes et médias – Plateforme nationale de promotion des compétences médiatiques,
+Office fédéral des assurances sociales
+Repubblica e Cantone Ticino
+Centro di risorse didattiche e digitali
+3
+CHÈRE LECTRICE,
+CHER LECTEUR,
+ 
+De nos jours, savoir utiliser les médias est tout aussi important qu’apprendre à lire, à écrire et à calculer. Apprendre à s’en 
+servir de façon sûre et responsable fait donc partie intégrante du programme scolaire, à tous les niveaux.
+Les directrices et directeurs d’établissements scolaires, les enseignant.e.s et les autres professionnel.le.s en ont parfaite-
+ment conscience. Leur défi consiste à assumer le mandat éducationnel relatif au développement des compétences 
+médiatiques. Cette mission s’accompagne d’une multitude de questions: comment former les élèves aux médias dans le 
+cadre des cours? Dans quelle mesure le recours aux smartphones et aux tablettes est-il utile et souhaitable – à l’école et en 
+dehors? Comment garantir la protection des données scolaires? Comment protéger les enfants et adolescent.e.s face aux 
+risques et comment éviter les dérives?
+La présente brochure a été développée dans le cadre de la plateforme nationale Jeunes et médias. Elle se propose d’aider 
+les responsables d’établissement, les enseignant.e.s et les autres professionnel.le.s à relever tous ces défis. En outre,  
+elle encourage ses lecteurs à aborder eux-mêmes les questions ayant trait aux médias et leur fournit des conseils concrets 
+pour le développement de l'éducation numérique en milieu scolaire.
+Les élèves qui maîtrisent les médias sont non seulement mieux préparés à affronter l’avenir, mais ils se protègent aussi 
+mieux contre d’éventuelles expériences négatives sur la Toile. Nous vous remercions de tout ce que vous faites en faveur du 
+développement des compétences médiatiques auprès des jeunes.
+Nous vous souhaitons une agréable lecture.
+Claudia Fischer 
+Co-responsable du Service de consulta-
+tion sur les médias à l'école et dans 
+l'enseignement imedias, Haute école 
+pédagogique de la Suisse du Nord 
+Ouest
+Ludwig Gärtner 
+Responsable du domaine Famille, 
+générations, société
+(FGG), Office fédéral des assurances 
+sociales
+5
+SOMMAIRE
+ 
+Les outils et médias numériques transforment la vie scolaire 	
+6
+Partie A: Jeunesse, médias et formation	
+9
+01_____ L’utilisation des outils et médias numériques par les enfants et les jeunes	
+10
+02_ ___ L'éducation numérique dans le plan d’études	
+14
+Partie B: Enseignement, opportunités et possibilités de développement	
+17
+03_ ___ Les médias numériques dans l’enseignement	
+18
+04_ ___ Développement possible de l’enseignement grâce aux outils et médias numériques	
+23
+05_ ___ Développement possible de l’école grâce aux outils et médias numériques	
+25
+Partie C: Prévenir, réagir à bon escient, protéger les données	
+28
+06_ ___ Protection contre les risques	
+29
+07_ ___ Quand l’utilisation des outils et médias numériques devient inadéquate ou abusive	
+35
+08_ ___ Sécurité des données scolaires	
+41
+6
+Outils et médias numériques: en quoi
+transforment-ils la vie scolaire et que
+signifient-ils pour l’école?
+Enseignantes et enseignants, directrices et directeurs 
+d’établissement, professionnel.le.s intervenant dans le 
+milieu scolaire, tous considèrent que les outils et médias 
+numériques font désormais partie de la vie à l'école. D’une 
+part, ce sont des outils de travail dans l’enseignement,  
+la communication, l’administration et l’organisation scolaires. 
+D’autre part, les outils et médias, qui évoluent très rapide-
+ment, font aussi partie du monde dans lequel vivent les 
+élèves. Cependant, la présence des médias numériques à 
+l’école soulève toute une série de questions, de possibilités 
+et de difficultés, que ce soit dans l’enseignement, sous les 
+préaux ou dans les relations avec les parents. Trois exemples 
+peuvent l’illustrer:
+•	Une classe de 7H répète une danse populaire au cours 
+d’éducation physique. L’enseignante présente la séquence 
+qui suit: une élève se précipite alors vers son sac pour en 
+sortir son smartphone. Elle vient demander à l’ensei-
+gnante de répéter les mouvements. Elle voudrait la filmer 
+pour pouvoir s’exercer à la maison. Spontanément, 
+l’enseignante trouve l’idée intéressante, mais d’un autre 
+côté, cela la met mal à l’aise. Elle n’aura aucun contrôle 
+sur l’utilisation ultérieure de cette vidéo. Que doit-elle 
+faire dans ce cas? 
+•	C’est la soirée de clôture de la semaine de projet. De 
+nombreux parents sont présents, le directeur prononce un 
+mot d’introduction. Au cours de la semaine, tous les 
+enfants des classes de 6H à 8H ont analysé leur utilisa-
+tion des médias. Ils ont non seulement appris d’impor-
+tantes règles de comportement sur Internet et la manière 
+d’utiliser téléphones portables, tablettes et ordinateurs, 
+mais ont également mené une réflexion et des débats sur 
+leurs propres expériences avec les médias. Ils sont 
+particulièrement fiers des multiples réalisations qu’ils ont 
+développées au cours de la semaine. Certains ont tourné 
+des films didactiques sur le thème en se basant sur leurs 
+propres textes et dessins. D’autres ont créé des autopor-
+LES OUTILS ET MÉDIAS
+NUMÉRIQUES TRANSFORMENT
+LA VIE SCOLAIRE
+ 
+traits artistiques à l’aide d’applications. D’autres encore 
+ont réalisé des romans-photos ou se sont essayés à 
+l’animation sur ordinateur. Tous présentent les résultats 
+de leurs travaux lors d’un vernissage.
+•	Un élève de 9H manque l’école. Sa mère téléphone à la 
+maîtresse de classe pendant la pause. Elle lui raconte que 
+son fils a été filmé la veille en train de se changer dans  
+le vestiaire de la piscine en compagnie de ses camarades. 
+Elle ne sait pas si le film a été envoyé à d’autres per-
+sonnes ou, pire, mis en ligne sur Internet. L’enseignante 
+se demande s’il faut en parler directement avec la classe 
+ou commencer par en faire part au directeur.
+Comme l’indiquent ces exemples, l’utilisation des outils et 
+médias numériques a pour conséquence que le monde 
+extrascolaire des élèves fait de plus en plus irruption dans 
+la vie scolaire. Ces deux mondes ne peuvent être séparés  
+ni sur le plan temporel ni sur le plan physique, et ils 
+s’influencent mutuellement. Que faut-il en retenir pour 
+l’école? Quels nouveaux objets d’enseignement peut-on y 
+percevoir? Comment les enseignant.e.s et les élèves 
+peuvent-ils utiliser avantageusement smartphones et 
+tablettes pour enseigner et apprendre? A quels types 
+d’incidents les établissements scolaires risquent-ils d’être 
+confrontés et comment les prévenir ou les écarter?  
+Tout établissement scolaire doit répondre à ce genre de 
+questions. 
+Car c’est en utilisant les outils et médias numériques que 
+les jeunes apprendront à les gérer de manière responsable, 
+critique, créative et sûre, tout en ayant du plaisir, et se 
+prépareront ainsi à la société de demain.
+Qu’entend-on par compétences médiatiques?
+Par compétences médiatiques, on comprend une 
+qualification indispensable pour vivre dans la société de 
+l’information. En général, cette notion comprend, outre 
+les connaissances techniques portant sur la façon de se 
+servir des outils numériques, la faculté d’utiliser les 
+7
+médias de façon critique et responsable, et de comprendre 
+comment les technologies de l’information fonctionnent 
+(éducation aux médias). Pour y parvenir, il faut savoir lire et 
+écrire, car il faut aussi pouvoir «lire» et comprendre les 
+contenus multimédias tels que les images et les films.
+Selon les définitions, on entend par compétences média-
+tiques des aptitudes à créer activement des contenus et à 
+les utiliser, ainsi que des compétences sociales ou de 
+communication. Une acception contemporaine de l’expres-
+sion range dans les compétences médiatiques l’utilisation 
+prudente de ses données personnelles sur Internet, le 
+respect de certaines règles de comportement, la protection 
+contre les distractions numériques et la capacité de relever 
+les informations pertinentes et de qualité parmi la masse de 
+celles qui sont disponibles.
+Les milieux pédagogiques ont adopté le triangle de Dagstuhl 
+pour illustrer les divers aspects de la formation numérique:
+Perspective technologique
+Comment cela fonctionne-t-il?
+Monde
+digital
+connecté
+Phénomènes, 
+objets et situations
+Perspective socio-culturelle
+Quel en est l’eﬀet?
+Perspective d’application
+Comment l’utiliser?
+Perspectives de l’éducation numérique, source: https://gi.de
+Il est indispensable de faire correspondre la progression  
+des compétences médiatiques avec le développement des 
+compétences essentielles des élèves. Quiconque peut 
+s’accommoder des exigences posées par le monde réel 
+parvient plus aisément à trouver ses repères dans le monde 
+virtuel. Sous cet angle, l’idée est que les élèves puissent 
+développer leurs compétences médiatiques en ayant 
+l’opportunité de tester certaines choses, d’en produire 
+eux-mêmes et d’amasser de l’expérience dans ce domaine, 
+particulièrement dans un espace protégé tel que l’école.
+Comment les enfants et les jeunes 
+construisent-ils l’apprentissage des compé-
+tences numériques
+Les jeunes enfants apprennent à utiliser les outils et médias 
+numériques principalement par imitation, en observant  
+et en reproduisant le comportement de leurs parents et des 
+personnes proches. A l’adolescence, les pairs prennent 
+toujours plus d’importance. Une étude (JAMESfocus 2015) 
+indique que les élèves de cet âge disent s’adresser, 
+lorsqu’ils rencontrent un problème sur Internet, de préfé-
+rence à des camarades qui s’y connaissent, avant de 
+s’informer eux-mêmes sur Internet. Mais ils comptent aussi 
+sur le soutien de leurs parents et de l’école. Il ne faut donc 
+pas sous-estimer le rôle de modèle des enseignant.e.s.
+Qu’entend-on par éducation numérique à 
+l’école?
+«On ne peut pas ne pas faire d’éducation aux médias», 
+estime Christian Doelker, spécialiste suisse de l’éducation 
+aux médias. Les outils et médias numériques sont omnipré-
+sents dans la vie des enfants et font partie intégrante de 
+chaque salle de classe. Même celui qui n’entend utiliser que 
+le tableau noir se sert d’un média. Encourager les compé-
+tences numériques à l’école suppose que l’on se fasse une 
+idée des avantages et désavantages des différents  
+médias pour encourager les enfants à en tester certains. 
+Une partie de cet exercice consiste à ce que les enfants  
+et les enseignant.e.s réfléchissent d’un point de vue critique 
+à leurs préférences médiatiques et apprennent les uns  
+des autres. Les outils et médias numériques sont ainsi un 
+enrichissement lorsqu’ils ne remplacent pas les médias 
+traditionnels et les échanges directs (sans médias) mais 
+qu’ils les complètent.
+C’est en utilisant les médias
+que les élèves acquierent  
+des compétences médiatiques.
+8
+Que contient cette brochure?
+La présente brochure s’adresse au corps enseignant, aux 
+directions d’établissement de l’école publique, ainsi qu’à 
+d’autres professionnel.le.s intervenant dans le milieu 
+scolaire, tels que les travailleurs sociaux, les thérapeutes, le 
+personnel accompagnant ou les autorités scolaires. Elle 
+présente comment ces acteurs peuvent soutenir les enfants 
+et les jeunes dans leur apprentissage des compétences 
+numériques.
+Bien entendu, livres, cahiers d’exercice et images sont aussi 
+des médias et conservent leur place à l’école. Mais cette 
+brochure traite principalement des outils et médias 
+numériques. L’ordinateur (qui combine plusieurs médias), 
+Internet, les tablettes et les smartphones (véritables 
+ordinateurs de poche) commencent à jouer un rôle de 
+premier plan à l’école, ce qui ne fait que renforcer la 
+nécessité de s’informer à ce sujet.
+La partie A pose une première série de jalons en présentant 
+l’importance que les outils et médias numériques revêtent 
+dans la vie des élèves. Elle donne également un aperçu  
+des tendances actuelles en matière d’éducation aux médias 
+et de politique de la formation.
+La partie B met en évidence les possibilités offertes. Elle 
+montre comment les enseignant.e.s peuvent faire valoir dans 
+l’enseignement les atouts des outils et médias numériques. 
+Elle expose quelles conditions doivent être remplies au 
+niveau des classes et des établissements pour que l’encoura-
+gement des compétences numériques à l’école puisse 
+s’avérer positif, et quels développements on peut en attendre.
+La partie C aborde les risques liés à l’utilisation des
+médias et présente des stratégies permettant de prévenir
+les mauvaises expériences et de garantir la sécurité des
+données scolaires.
+En Suisse, l’utilisation des outils et médias numériques dans 
+l’enseignement est soumise à de nombreuses réglementa-
+tions cantonales et régionales. Cette brochure n’est pas en 
+mesure de lister de manière détaillée les contenus pré- 
+conisés sur tout le territoire, en les rangeant par niveaux et 
+par disciplines scolaires; les plans d’études et les départe-
+ments cantonaux de l’instruction publique y pourvoient. Elle 
+indique plutôt quels types d’attitudes et de cadres favo-
+risent l’encouragement des compétences numériques. Son 
+objectif est d’inciter ainsi à la réflexion. Ses lectrices  
+et lecteurs trouveront aussi, à la fin de chaque chapitre, quel- 
+ ques suggestions pour aller plus loin et les coordonnées  
+de services et centres de compétences.
+Pour des conseils, reportez-vous au début de chaque
+chapitre aux icônes qui montrent à quel groupe cible 
+le chapitre s’adresse principalement:  
+	 Direction d’établissement
+	 Enseignant.e.s
+	 Professionnel.le.s dans le milieu scolaire
+Pour aller plus loin 
+Drot-Delange, Béatrice, & Bruillard, Eric (2012). Education aux TIC, 
+cultures informatiques et du numérique: quelques repères historiques. 
+https://hal.archives-ouvertes.fr/sic_00768672  
+Boumal, Michel (sous la coord. de) (2013). Les compétences en éducation 
+aux médias: un enjeu éducatif majeur. Cadre général. Conseil Supérieur de 
+l’Education aux Médias de la Fédération Wallonie – Bruxelles.  
+http://www.educationauxmedias.eu/sites/default/files/files/Compe-
+tencesEducationMedias_Web.pdf 
+Landry, Normand & Lefebvre, Sonia (2016). Education aux médias: que 
+faut-il savoir? Le Tableau 5 (6), consulté le 21.09.2019 sur https://
+pedagogie.uquebec.ca/le-tableau/education-aux-medias-que-faut-il-savoir 
+Landry, Normand, & Letellier, Anne-Sophie. (2016). Introduction. In 
+Letellier, A., & Landry, N. (Eds.), L’éducation aux médias à l’ère numérique: 
+Entre fondations et renouvellement. Presses de l’Université de Montréal.
+9
+PARTIE A: JEUNESSE, MÉDIAS
+ET FORMATION
+ 
+10
+Combien d’élèves possèdent un smartphone? Est-ce que les 
+jeunes lisent encore des livres? Les garçons s’intéressent-ils 
+davantage aux jeux vidéo que les filles?
+La plupart des enseignantes et enseignants, les directions 
+d’établissement et les autres professionnel.le.s intervenant 
+dans le milieu scolaire n’ont pas grandi avec les outils et 
+médias numériques dont nous disposons aujourd’hui. Il est 
+par conséquent d’autant plus important qu’ils apprennent  
+de quelle façon et à quelles fins les enfants et les jeunes s’en 
+servent. Sans cela, il ne leur sera pas possible d’encadrer  
+de manière responsable les enfants et les adolescent.e.s  
+dans leur apprentissage des compétences numériques, ni de 
+tenir compte de leur vécu et de leurs intérêts, ni d’intégrer 
+dans l’enseignement les connaissances dont ils disposent 
+( ➔ chap. 3 ).
+Comment les adolescent.e.s utilisent-ils les 
+médias numériques?
+Pour de nombreux jeunes, le smartphone tient la première 
+place des médias numériques. Selon l’étude JAMES 2020, 
+99% des plus de 11 ans en possèdent un. D’après leurs dires, 
+ils utilisent leur téléphone pendant 4 heures en moyenne 
+durant la semaine, et pendant environ 5 bonnes heures le 
+week-end. Le chat sur WhatsApp (conversation privée ou de 
+groupe) est particulièrement prisé, suivi par la musique, les 
+réseaux sociaux et Internet. Les adolescent.e.s aiment aussi 
+regarder des vidéos. De plus, une majorité d’entre eux utilise 
+leur smartphone comme horloge et réveil. Leurs applications 
+préférées sont Instagram, WhatsApp, Snapchat et YouTube. 
+Trois quarts des jeunes utilisent quotidiennement Instagram 
+et Snapchat, et plus de la moitié utilisent ces réseaux 
+plusieurs fois par jour. Les trois quarts d'entre eux environ 
+possèdent un compte TikTok. Facebook est presque complète-
+ment passé de mode: 70% des jeunes n'utilisent jamais 
+Facebook ou disent ne pas connaître la plateforme. La plupart 
+des jeunes font preuve de retenue sur les pages publiques de 
+ces réseaux sociaux et sont plutôt des utilisateurs passifs.
+01_L’UTILISATION DES OUTILS  
+ET MÉDIAS NUMÉRIQUES PAR LES 
+ENFANTS ET LES JEUNES
+ 
+Les adolescent.e.s utilisent d’autres médias en plus de leur 
+téléphone: 64% regardent régulièrement la télévision 
+(chaque jour ou plusieurs fois par semaine), 43% écoutent 
+régulièrement la radio, 34% jouent régulièrement aux  
+jeux vidéo. Les trois quarts des familles où vivent des 
+adolescent.e.s possèdent un abonnement à une plateforme 
+de streaming de films et séries comme Netflix, et plus de la 
+moitié ont un abonnement à une plateforme de streaming 
+musical comme Spotify.
+Beaucoup d’enfants en âge de fréquenter l’école primaire 
+sont fascinés par les smartphones et les tablettes. Mais 
+l’utilisation d’un téléphone est fortement corrélée à l’âge de 
+l’enfant. D’après l’étude MIKE 2019, près d’un quart des 
+6–9 ans en possèdent un, contre presque deux tiers des 
+10–11 ans et 80% des 12–13 ans. Par ailleurs, les enfants 
+des trois premiers niveaux de l’école primaire utilisent aussi 
+souvent une tablette qu’un téléphone. Leurs applications 
+préférées sont YouTube, WhatsApp, Snapchat, Instagram et 
+TikTok. Les enfants utilisent aussi régulièrement ces 
+appareils pour jouer.
+Les smartphones et Internet imprègnent moins le quotidien 
+des enfants que celui des jeunes. La plupart des enfants 
+regardent la télévision, écoutent de la musique, lisent des 
+livres, jouent aux jeux vidéo ou regardent des vidéos sur 
+YouTube au moins une fois par semaine. 
+Les jeux vidéo jouent donc un rôle important pour de 
+nombreux enfants; les garçons en âge de fréquenter l’école 
+primaire jouent plus que les filles. Cette différence s’accen-
+tue à l’adolescence. Deux tiers des enfants jouent au  
+moins une fois par semaine, que ce soit sur un téléphone, 
+une tablette, un ordinateur ou une console. Chez les 
+adolescent.e.s, l’utilisation des jeux vidéo décroît avec 
+l’âge. Fortnite, Minecraft et FIFA sont particulièrement 
+populaires chez les enfants, Call of Duty, Fortnite, Minecraft, 
+FIFA et Grand Theft Auto (GTA) chez les adolescent.e.s.
+11
+Les smartphones et Internet 
+imprègnent moins le quotidien 
+des enfants que celui des  
+adolescent.e.s.
+Bien que l’utilisation des médias ait fortement changé 
+depuis la fin des années 1990 et l’avènement d’Internet et 
+des téléphones portables, et que l’offre de médias numé-
+riques ait pris l’ascenseur, la popularité des autres loisirs  
+est globalement restée stable: les jeunes de 12 à 19 ans 
+attachent toujours de l’importance à voir leurs amis, faire du 
+sport et partir en excursion avec leur famille. Les enfants  
+en âge de fréquenter l’école primaire citent le sport, les jeux 
+et les amis parmi leurs loisirs favoris. Les jeux vidéo sont 
+l’activité médiatique venant en tête.
+Comment les enfants et les adolescent.e.s 
+utilisent-ils les médias dans le cadre sco-
+laire?
+L’utilisation que font les enfants et les jeunes des médias à 
+l’école dépend en grande partie du degré de numérisation 
+de l’école et de sa philosophie. Mais les médias jouent 
+souvent un rôle dans l’apprentissage et les devoirs. Les 
+adolescent.e.s notamment utilisent surtout leur smart-
+phone quand ils font leurs devoirs.
+Les ordinateurs servent à faire des recherches intensives 
+sur Internet, à effectuer des tâches sur certains sites  
+et plateformes ou encore à utiliser Word et PowerPoint. Par 
+contre, les jeunes utilisent rarement leur téléphone dans le 
+cadre des cours, bien qu’il y ait là un potentiel à exploiter 
+( ➔ chap. 3 ). Les élèves utilisent aussi l'ordinateur et 
+Internet pour l'école: déjà avant le coronavirus, 4 ensei-
+gnant.e.s du niveau secondaire sur 10 distribuaient des 
+devoirs qui nécessitaient l'usage des médias numériques. 
+Pour s’informer, ils utilisent d’abord des moteurs de 
+recherche comme Google, mais plus des trois quarts des 
+adolescent.e.s utilisent aussi les réseaux sociaux et  
+des plateformes vidéo telles que YouTube plusieurs fois par 
+semaine ou plus encore. Près d’un tiers d’entre eux 
+consultent Wikipédia tous les jours ou plusieurs fois par 
+semaine. Par ailleurs, les conversations de groupe sur 
+WhatsApp ont une grande importance, qu’il s’agisse du 
+contenu des cours, de l’organisation de la journée d’école 
+ou des devoirs. L’échange de devoirs terminés joue un rôle 
+mineur.
+Les enfants utilisent nettement moins Internet en général, 
+et en font donc peu usage pour les devoirs et l’apprentis-
+sage. Ils s’informent principalement sur Google, et souvent 
+aussi sur YouTube. Les plateformes qui leur sont dédiées 
+sont une autre source d’information, qu’ils utilisent toutefois 
+plus rarement.
+Les enfants et adolescent.e.s en Suisse continuent 
+d’accorder une grande importance aux loisirs et moments 
+passés loin des médias, à l’école comme à la maison.
+Études sur l’utilisation des médias par les enfants et les jeunes
+Balleys, Claire (2019): La place des écrans connectés dans les familles de 
+Suisse romande. https://www.actioninnocence.org/app/
+uploads/2019/11/Ecrans_Famille_FINAL.pdf.
+Bernath, Jael; Suter, Lilian; Willemse, Isabel; Külling, Céline; Süss, Daniel; 
+Waller, Gregor (2020): JAMES – Jeunes, Activités, Médias – enquête 
+Suisse. Zurich; Haute école des sciences appliquées de Zurich (ZHAW).
+Guillaume, Matthieu (2018): Junior Connect. https://www.ipsos.com/
+fr-fr/junior-connect-2018-jeunes-et-medias-une-consommation-toujours-
+dynamique-et-diversifiee
+Heeg, Rahel; Genner, Sarah; Steiner, Olivier; Schmid, Magdalene; Suter, 
+Lilian; Süss, Daniel (2018): Generation Smartphone. Ein partizipatives 
+Forschungsprojekt mit Jugendlichen. Haute école de travail social FHNW 
+und Haute école des sciences appliquées de Zurich ZHAW.
+Hermida, Martin (2019): EU Kids Online Schweiz. Schweizer Kinder und 
+Jugendliche im Internet: Risiken und Chancen. Pädagogische Hochschule 
+Schwyz, Goldau.
+Medienpädagogischer Forschungsverbund Südwest (mpfs) (1998–2020): 
+Jugend, Information, (Multi-)Media. Basisuntersuchung zum Medienum-
+gang 12- bis 19-Jähriger in Deutschland. 
+Steiner, Olivier, Heeg, Rahel (2019): «always on»: Comment les jeunes 
+vivent-ils la connexion permanente? Haute école de travail social de la 
+FHNW: Muttenz/Olten. Wie Jugendliche das ständige Online-Sein 
+erleben. Hochschule für Soziale Arbeit FHNW: Muttenz/Olten.
+Waller, Gregor; Suter, Lilian; Willemse, Isabel; Külling, Céline; Bernath, 
+Jael; Martel, Nicolas (2019). MIKE – Medien, Interaktion, Kinder, Eltern: 
+Ergebnisbericht zur MIKE-Studie 2019. Zurich; Haute école des sciences 
+appliquées de Zurich ZHAW.
+12
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+voir des amis
+faire du sport
+se reposer, ne rien faire
+sortir en famille
+Loisirs sans médias
+chaque jour / plusieurs fois par semaine
+en %
+GÉNÉRATION INTERNET
+Comment les loisirs des jeunes
+ont évolué depuis 1998.
+Quellen: Klingler (2008) / Medienpädagogischer Forschungsverbund Südwest (mpfs) (2009), JIM-Studien 1998–2019
+13
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+regarder la télévision
+surfer sur Internet
+lire un quotidien
+utiliser son
+téléphone portable
+écouter de la musique 
+(plateformes de  
+streaming)
+écouter de la
+musique (MP3)
+écouter de la musique
+(CD, cassette)
+écouter de la musique
+lire des livres
+jouer à des jeux vidéo
+Loisirs impliquant des médias
+chaque jour / plusieurs fois par semaine
+en %
+14
+Introduction
+De nos jours, les élèves utilisent les différents médias 
+numériques, spécifi quement les réseaux sociaux tels 
+que WhatsApp, Instagram, Facebook, Snapchat, TikTok, 
+etc., avec une grande aisance. Mais qu’en est-il de leurs 
+connaissances des ces plateformes de communication et 
+arrivent-ils à différencier les avantages et les inconvénients 
+de leur consommation? Une grande majorité n’est sûrement 
+jamais amenée à se poser ces questions. Pourtant, chaque 
+post publié sur un réseau infl uence à tout moment une ou 
+plusieurs personnes. Il est important de prendre conscience 
+de la force de ces médias numériques, dont l’offre ne cesse 
+d’exploser. De ce fait, il est primordial qu’une éducation aux 
+médias numériques, telle que prévue dans le PER EdNum 
+(Plan d’études romand, éducation numérique), fasse l’objet 
+d’une mission éducative confi ée à l’école, afi n de pouvoir 
+préparer les enfants et les jeunes à devenir acteurs de la 
+société d’aujourd’hui.
+Mais doit-on l’enseigner à l’école?
+Depuis l’introduction du PER en 2010, il est du devoir de 
+l’école d’intégrer de manière transversale des compétences 
+numériques. Dans le canton de Fribourg, comme dans la 
+plupart des autres cantons, cet objectif n’a pas été atteint 
+malgré les ressources mises à disposition: formation 
+des enseignant.e.s, mise à disposition des personnes 
+ressources, recommandations en matière d’équipement, 
+séquences d’enseignement ou encore carnet de suivi de 
+l’élève. Ce carnet n’est toutefois devenu obligatoire qu’en 
+2018, avec un triple objectif: permettre à l’élève d’(auto-)
+évaluer la progression de ses apprentissages, communiquer 
+celle-ci à ses parents et attester que ces compétences 
+soient traitées dans toutes les classes et que les élèves 
+quittent l’école primaire avec des compétences de base 
+dans l’éducation numérique.
+L’évolution du numérique nécessite d’adapter le PER de 
+l'éducation numérique actuel. C’est pourquoi la CIIP a 
+décidé, en lien avec le plan d’action en faveur de l’éduca-
+tion numérique, de mettre sur pied un groupe de rédaction 
+«PER EdNum». Ce groupe a pour mandat de repositionner 
+les objectifs d'éducation numérique du PER actuel et d’y 
+intégrer les trois dimensions de l’éducation numérique 
+selon le triangle de Dagstuhl, sans les dissocier.
+Les trois piliers de l’éducation numérique
+Science 
+informatique
+Usages d’outils 
+numériques
+Éducation aux 
+médias
+Discipline scientiﬁque. 
+Décrit les lois qui régissent le 
+monde immatériel de 
+l'information. Aborde les
+concepts fondamentaux
+qui régissent les dispositifs 
+techniques.
+Forme aux usages 
+pertinents des ressources 
+et des outils numériques 
+logiciels et matériels.
+Compétences et 
+connaissances issues des 
+sciences sociales visant à 
+rendre chaque citoyen·ne 
+actif, autonome et critique
+envers tout document ou 
+dispositif médiatique dont il 
+est destinataire ou usager. 
+Inspiré du modèle de Paul Kleiner (2014)
+Parriaux, Pellet, Lévêque & Bugmann (2019), adapté du 
+modèle de Kleiner
+Deux nouvelles dimensions (science informatique et usages 
+d’outils numériques) vont voir le jour, et l’éducation aux 
+médias sera adaptée de sorte à transmettre les compé-
+tences nécessaires pour affronter la complexité du monde 
+numérique du XXIe siècle. L’école doit donc enseigner 
+plusieurs compétences, par exemple:
+• savoir utiliser les outils mis à disposition de manière 
+compétente et dans un objectif précis; 
+• savoir recourir à des outils pour s’orienter dans la masse 
+des médias;
+• comprendre les concepts de base de l’informatique 
+(algorithmes, système binaire, etc.). 
+Les écoles de Suisse alémanique ont fondé leur plan d’études, 
+le «Lehrplan21», sur ces mêmes trois dimensions. De plus, 
+les cantons ont collaboré au sein du projet MIA21 et créé de 
+nombreux documents de références, notamment les différents 
+modules de «Informatik, Medien und Anwendung» (informa-
+tique, médias et usages), dont les contenus théoriques et 
+pratiques sont d’une grande utilité aux enseignant.e.s.
+02_L'ÉDUCATION NUMÉRIQUE 
+DANS LE PLAN D’ÉTUDES
+15
+Le Tessin, comme la Suisse romande, a intégré les technolo-
+gies et les médias dans le volet formation générale de son 
+plan d’études «Piano di studio». Un groupe de travail est 
+chargé d’approfondir et de mettre en œuvre ce domaine, ce 
+qui harmonisera les plans d’études de toutes les régions 
+linguistiques. 
+Que signifient ces changements pour  
+l’école?
+Le déploiement du PER EdNum implique plusieurs change-
+ments au sein de l’institution scolaire, qui toucheront tous 
+les domaines de l’éducation:
+•	Les enseignant.e.s devront être correctement formés, 
+tant sur les trois dimensions mises en avant dans le PER 
+EdNum que sur l’approche et la philosophie à adopter 
+pour éviter d’utiliser le numérique à l’excès. Si l’on 
+souhaite leur donner une formation de qualité, il est 
+indispensable d’avoir des formateurs et formatrices 
+compétent.e.s – techniquement, mais surtout pédagogi-
+quement.
+•	Les élèves seront également touchés par ces change-
+ments. Selon la décision de chaque canton, il se peut 
+qu’une nouvelle discipline s’ajoute à la grille horaire 
+hebdomadaire, ce qui aura bien évidemment des 
+conséquences pour les enseignant.e.s. Il faudra que les 
+élèves disposent de machines récentes (moins de 6 ans) 
+en quantité suffisante pour pouvoir intégrer la dimension 
+de l’usage des outils numériques, mais également pour 
+les cours de science informatique et d’éducation aux 
+médias. De plus, de très nombreuses personnes, dont des 
+enseignant.e.s, pensent que les élèves, les «nés-numérique», 
+possèdent plus de compétences numériques que les 
+adultes. Selon un constat de la fondation ECDL (European 
+Computer Driver Licence, 2014, il s’agit là d’une confusion 
+entre l’exposition aux technologies et les compétences 
+numériques. Certes, les élèves sont très exposés au 
+numérique, mais l’école doit les former à la littératie 
+numérique.
+•	Les services de l’instruction seront également amenés à 
+développer leurs compétences numériques afin de pouvoir 
+accompagner les enseignant.e.s en cas de questions. 
+Mais à eux seuls, ils ne pourront pas satisfaire la 
+demande importante de soutien pédagogique émanant du 
+corps professoral. Il sera donc important que chaque 
+établissement dispose de personnel assurant un soutien 
+pédagogique et technique de proximité afin de garantir  
+le bon fonctionnement de l’éducation numérique.
+•	Plus globalement, la communication et les formes de 
+collaboration sont également en pleine mutation. Les 
+outils numériques actuels révolutionnent notre manière 
+de communiquer. Les applications, telles que O365 ou 
+autres, permettent de se passer de courriels. L’école est 
+en train de rentrer dans l’ère du numérique et il est 
+souhaitable qu’elle en tire un profit pédagogique et 
+organisationnel.
+Cependant, si nous nous limitons à ces changements, nous 
+passons à côté de l’essentiel. En effet, le PER EdNum a  
+pour objectif premier de dépasser la simple utilisation des 
+médias. Il est urgent de former tous les acteurs de la société 
+à une consommation réfléchie et consciente de ces outils, 
+car toute consommation (compétente ou non) influence la 
+société connectée du XXIe siècle. 
+Les compétences que devront acquérir les élèves seront 
+sûrement réparties entre les trois cycles de l’école obli- 
+gatoire. Les objectifs de chaque cycle ne sont pas encore 
+définis, mais les trois dimensions de Dagstuhl seront 
+présentes tout au long du parcours scolaire, sous une forme 
+adaptée à chaque niveau. L’importance relative de chaque 
+dimension sera révélée au printemps 2021.
+Quels objectifs d’apprentissages à l’école?
+Après avoir été mis en consultation du 6 septembre au 14 
+octobre 2019, le PER EdNum est en cours de rédaction. Il est 
+donc impossible de s’exprimer avec certitude sur les 
+objectifs d’apprentissage. Il est cependant probable qu’il 
+s’inspire fortement de la structure mise en place en Suisse 
+16
+alémanique (Lehrplan21), comme stipulé dans le plan 
+d’action en faveur de l’éducation numérique de la CIIP.
+A la fin de la scolarité obligatoire, les élèves auront acquis 
+les compétences d’une littératie numérique solide et 
+harmonisée qui leur fournira les bases nécessaires à la suite 
+de leur formation et leur permettra de se repérer dans le 
+foisonnement des médias actuels.
+Quelle perspective pour ces prochaines 
+années?
+Le 4 septembre 2019, la conférence des secrétaires généraux 
+(CSG) a demandé que les contenus du PER EdNum,  
+élaborés par le groupe de rédaction de la CIIP, soit mis en 
+consultation. Le 14 octobre 2019, les diverses conférences, 
+commissions et associations faîtières ont pris position sur la 
+teneur des objectifs d’apprentissage. Le PER EdNum  
+est en cours d’adaptation et sera prochainement remis en 
+consultation. La version définitive est prévue pour l’automne 
+2020.
+La planification initiale accuse un certain retard en raison de 
+la pandémie. Toutefois, le déploiement du PER EdNum 
+devrait se dérouler comme prévu. Une fois la dernière consul- 
+ tation validée, chaque canton décidera des modalités à 
+mettre en place, ainsi que du calendrier de leur déploie-
+ment.
+L'éducation aux médias signifie 
+aussi être capable de réfléchir 
+de manière critique aux contenus 
+médiatiques.
+17
+PARTIE B: ENSEIGNEMENT,  
+OPPORTUNITÉS ET POSSIBILITÉS DE 
+DÉVELOPPEMENT
+ 
+18
+Presque tout le monde s’accorde à dire qu’apprendre aux 
+enfants et aux jeunes à se servir des outils et médias 
+numériques de manière adéquate fait partie des tâches de 
+l’école (  ➔ chap. 2  ). Les enseignants et enseignantes,  
+ainsi que les directions d’établissement, partagent cet avis, 
+tout en se demandant bien quand, où et comment inscrire 
+les médias numériques au programme. A cela s’ajoute un 
+univers médiatique en rapide mutation, qui permet difficile-
+ment de définir des thèmes concrets sur la durée et exige 
+d’engager une réflexion permanente à ce sujet.
+Comme toute nouveauté, ce changement génère un surcroît 
+de travail pour les enseignant.e.s, qui doivent intégrer de 
+nouvelles connaissances, compétences et méthodes. Mais 
+les avantages sont de taille: bien utilisés, les médias 
+numériques apportent une plus-value à l’enseignement et 
+l’école remplit son mandat de formation.
+Comment intégrer les compétences média-
+tiques sans pénaliser d’autres disciplines?
+Utiliser les médias numériques en classe est toujours 
+l’occasion d’aborder le sujet des médias eux-mêmes. Ainsi, 
+la vaste expérience qu’ont les enfants et les jeunes des 
+divers outils présents sur les médias sociaux (  ➔ chap. 1 ) 
+peut déboucher sur de nouvelles formes d’échange et de 
+coopération. Quelques exemples:
+•	On recueille des idées pour la prochaine course d’école 
+pendant un cours. Les propositions sont rassemblées  
+sur un tableau numérique, complétées par des images et 
+des informations, commentées et évaluées. C’est aussi 
+l’occasion de parler de l’impact des divers types de 
+communication ou de la relation aux autres, sur Internet 
+ou en classe.
+•	La question des images médiatiques survient également 
+dans le cadre des recherches. En sciences de l'environne-
+ment, les enfants réfléchissent, en groupes, à divers 
+sujets liés à la protection du climat (énergies renouve-
+lables et fossiles, changement climatique, effet de serre, 
+etc.) et font des recherches en ligne. Ils doivent décider si 
+les résultats de leurs recherches correspondent à la 
+réalité. Pour cela, ils comparent l’intelligibilité, la fiabilité, 
+l’actualité de ces résultats, ainsi que les messages 
+cachés, publicitaires ou autres. Ce travail mène à des 
+interrogations telles que: quel moteur de recherche 
+utilisons-nous? Que faire face à un nombre incalculable 
+de résultats? Lesquels choisir? Pouvons-nous sans  
+autres copier et utiliser des images trouvées en ligne?
+•	Les possibilités offertes par les médias numériques 
+enrichissent aussi les formes traditionnelles de documen-
+tation écrite. L’intégration de fichiers audios et vidéos 
+ouvre un large champ de représentations. La production 
+de films pédagogiques permet par exemple aux élèves  
+de manipuler les informations qu’ils ont trouvées au cours 
+de leurs recherches tout en tenant compte de leur public. 
+Le texte ou la parole doivent être intelligibles, les images 
+et les graphiques aider à la compréhension. Les élèves 
+filment avec leur propre smartphone et réalisent le 
+montage sur une application en quelques gestes simples. 
+L’accent est mis sur le contenu, et non sur la perfection 
+technique ou les effets spéciaux.
+•	Enfin, les e-portfolios permettent de documenter les 
+processus d’apprentissage de multiples façons, puisqu’on 
+peut y intégrer du texte, des images et des documents 
+audio et vidéo. Le fait de pouvoir travailler en équipe sans 
+contrainte de lieu ni d’horaire fait naître de nouvelles 
+formes de communication entre les adolescent.e.s ainsi 
+qu’avec le corps enseignant et d’autres personnes de 
+référence.
+On trouve en outre une foule d’offres pédagogiques sur 
+Internet ou sur des applications; ces offres permettent 
+surtout de répéter les connaissances plus efficacement.  
+Les nuits passées à corriger des dictées et des séries de 
+calculs mentaux appartiendront bientôt au passé. De plus, 
+ces programmes permettent d’évaluer plus précisément les 
+prestations. Les bons programmes donnent immédiatement 
+un feedback à l’élève et adaptent les exercices en fonction. 
+Voici ce que rapporte un élève à propos d’un projet-pilote: 
+03_LES MÉDIAS NUMÉRIQUES DANS 
+L’ENSEIGNEMENT
+ 
+19
+«Nous avions un programme pédagogique pour la géométrie 
+et l’algèbre. A la fin, on recevait un feedback sur nos 
+résultats et nos progrès. C’est différent de ce qui se passe 
+lorsque le prof explique quelque chose avant. Là, c’est plus 
+difficile de recevoir un feedback personnalisé.»
+Une partie des ressources pédagogiques modernes utilisent 
+déjà les outils numériques parallèlement aux documents 
+imprimés ou fournissent du matériel supplémentaire sous 
+forme numérique, ainsi que des conseils pour l’utiliser 
+pendant les cours.
+Vous trouverez à la fin de ce chapitre des liens renvoyant à 
+des ressources pédagogiques électroniques ainsi qu’à  
+des plateformes proposant des applications et des outils en 
+ligne destinés à l’enseignement.
+Quels outils et médias numériques et pour 
+quel degré scolaire? 
+A quel âge ou à quel degré scolaire est-il judicieux 
+d’accéder au monde numérique? Les réponses divergent en 
+fonction de l’approche adoptée, libérale ou conservatrice. 
+Une chose est sûre: la plupart des enfants entrent 
+aujourd’hui en contact avec les médias numériques avant 
+même de commencer l’école. Le smartphone ou la tablette 
+des parents fait partie de leur enfance au même titre que 
+les Lego ou les poupées. L’essentiel est que les enfants 
+soient encadrés dès le départ dans leur utilisation. 
+Autrement dit, les outils et médias numériques sont à 
+l’ordre du jour dès le début du cycle 1. En cours, il n’est 
+toutefois pas question d’utiliser ces appareils pour se 
+divertir, mais bien pour apprendre et réaliser ses propres 
+produits médiatiques.
+Les tablettes et les ordinateurs convertibles, avec leurs 
+commandes tactiles intuitives, leur faible poids et  
+leur caméra intégrée, représentent une excellente porte 
+d’entrée dans l’univers des outils et médias numériques. 
+Faciles à utiliser, ils permettent très vite aux enfants 
+d’être autonomes et de moduler eux-mêmes les conte-
+nus.
+La longue durée d’autonomie de la batterie, la mobilité et la 
+taille de l’écran, qui permet le travail en petits groupes, 
+font des tablettes, même après les premières années 
+d’école, un outil idéal pour un enseignement centré sur les 
+élèves. De plus, grâce à la caméra et au micro intégrés, 
+celles-ci remplacent à la fois l’appareil photo, la caméra 
+vidéo et l’enregistreur. 
+Ce n’est que lorsque les enfants savent écrire qu’il est 
+utile de passer au clavier. Pour cela, on peut dans un 
+premier temps se contenter du clavier virtuel de la 
+tablette. A partir de la 5H, mais au plus tard au cycle 3, 
+les élèves doivent pouvoir faire leurs expériences avec 
+différents appareils. Pour des activités comme la 
+rédaction de textes d’une certaine longueur, l’utilisation 
+du clavier et de la souris ou du pavé tactile d’un ordina-
+teur est indiquée.
+La plupart des jeunes disposent de leur propre smart-
+phone. Dans l’idéal, celui-ci devrait aussi être intégré de 
+temps à autre dans l’enseignement. Si l’enseignant.e 
+prévoit des travaux par petits groupes, les élèves 
+peuvent travailler avec les appareils disponibles en 
+classe. Un professeur décrit ainsi le potentiel pour 
+l’enseignement: «Ma méfiance par rapport à l’utilisation 
+du téléphone mobile dans l’enseignement a changé. Je 
+me suis ouvert, et les élèves ont commencé à l’utiliser 
+comme appareil photo et enregistreur pour des projets. 
+Je n’ai aujourd’hui plus la même attitude à l’égard 
+d’objets qui auparavant étaient exclus pour moi, pour 
+telle ou telle raison de sécurité. Aujourd’hui je dis: 
+utilisez ces appareils, mais utilisez-les pour apprendre 
+ et pas seulement pour vous amuser.» Toutefois, il est  
+hors de question d’obliger un élève qui n’aurait pas de 
+téléphone mobile à en acheter un.
+20
+Cette manière de voir permet de réfléchir ensemble aux 
+expériences, bonnes ou mauvaises, faites avec le 
+smartphone. Pour qu’un tel échange fonctionne et que la 
+discussion ait lieu, il faut pouvoir s’appuyer sur les 
+connaissances acquises et les expériences faites par les 
+jeunes (  ➔ chap. 6 ).
+Quelles formes didactiques se prêtent 
+particulièrement bien au travail avec des 
+outils et médias numériques?
+Pour une utilisation optimale des outils et médias numé-
+riques dans l’enseignement, il faut disposer d’une infrastruc-
+ture adéquate et d’enseignant.e.s compétent.e.s, mais aussi 
+adapter les formes d’enseignement. Le travail par projets  
+ou la définition d’objectifs hebdomadaires conviennent  
+tout particulièrement aux élèves qui peuvent élaborer et 
+préparer facilement des contenus de façon autonome. 
+Le projet https://www.my-pad.ch/ illustre bien l’apport 
+des appareils mobiles en classe: des tablettes sont utilisées 
+du jardin d’enfants à la fin de l’école obligatoire en lien 
+avec des formes d’enseignement et d’apprentissage 
+élargies.
+Voici un exemple tiré d’une classe primaire: les enfants sont 
+en train de répéter une pièce de théâtre. Les scènes sont 
+filmées avec une tablette, puis visionnées et discutées en 
+groupe pour décider des corrections à apporter. Les enfants 
+se révèlent être un public très critique: chaque mouvement 
+et chaque phrase sont analysés et jugés avec une grande 
+précision. Les propositions de correction et d’amélioration 
+sont communiquées directement aux acteurs et actrices  
+et compréhensibles aussi grâce à l’enregistrement vidéo.
+Apprentissage coopératif
+Les médias numériques et mobiles favorisent l’apprentis-
+sage coopératif, car ils se prêtent particulièrement bien à la 
+phase de préparation et de présentation. Ici, les élèves se 
+partagent le travail de recherche sur un thème imposé ou 
+choisi par eux. Ensuite, ils examinent en groupe les 
+informations obtenues et décident quels sont les résultats 
+pertinents. Après quoi, ils exposent ces résultats sous 
+forme de produit médiatique, qu’il s’agisse d’un film 
+pédagogique, d’un nuage de mots relatif au thème ou d’un 
+PowerPoint. Ils présentent ensuite ces produits à leur classe 
+ou les publient sur Internet.
+Ils acquièrent ainsi des compétences qui sont de plus en 
+plus demandées dans notre société. «Il faut finalement avoir 
+quelque chose pour pouvoir le présenter aux autres. C’est 
+aussi un stimulant. Après, on s’y connaît mieux, sur le sujet, 
+mais aussi sur les outils numériques.», explique un élève.
+L’une des raisons pour lesquelles les médias numériques 
+encouragent l’apprentissage coopératif est que les élèves 
+travaillent ensemble sur un même appareil. Cela s’avère tout 
+à fait judicieux au jardin d’enfants et à l’école primaire 
+(jusqu’en 6H), puisque l’apprentissage mutuel joue un rôle 
+central à cet âge. Plusieurs établissements scolaires 
+commencent à équiper tous les élèves de tels appareils  
+dès la 7H. Au lieu de faire ensemble leurs leçons devant  
+un écran, les élèves peuvent coopérer à n'importe quel 
+moment et depuis n'importe quel lieu.
+Les téléphones portables  
+des élèves peuvent être  
+intégrés dans l’enseignement.
+21
+Apprentissage autonome
+Dans l’apprentissage autonome, les élèves doivent 
+rechercher seuls des informations sur un sujet imposé ou 
+choisi par eux. Ils apprennent ainsi à chercher, évaluer  
+et trier les informations. Une élève rapporte ce que cela 
+change dans le processus d’apprentissage: «Ce n’est  
+pas la même chose si le prof te sert tout ce qu’il faut savoir 
+sur la tablette ou s’il te dit: <Voilà le sujet. Préparez quel-
+que chose là-dessus en groupes et présentez-le ensuite à  
+la classe.> Par groupes de quatre, on cherche alors les 
+informations sur Internet, on regarde ce qu’on peut en tirer 
+et on compose ensuite un document. Il faut être actifs.  
+On ne peut pas simplement rester assis là et dire: <Ce que 
+celui-là raconte ne me branche pas.» La notion d’autonomie 
+ne se réfère pas seulement au sujet choisi, mais aussi  
+à la technique de travail. Numérique ou «papier»: les 
+apprenant.e.s doivent décider quel est le média adéquat 
+pour élaborer des contenus et les présenter de manière 
+appropriée au public. 
+Comment le corps enseignant peut-il créer 
+une atmosphère propice à l’apprentissage?
+Il existe mille manières intéressantes d’utiliser les outils 
+numériques dans l’enseignement. Le revers de la médaille, 
+c’est qu’ils peuvent facilement inciter les élèves à s’intéres-
+ser à autre chose qu’à la matière enseignée. Pour y parer, 
+il faut proposer des travaux pratiques plaisants et diversifiés. 
+Lorsque les élèves travaillent de manière autonome dans  
+un environnement adapté à leurs besoins et à leur niveau,  
+et que les outils numériques sont régulièrement utilisés, 
+alors leur emploi dans le cadre scolaire va de soi. Cela 
+nécessite, comme dans d’autres domaines, de fixer des 
+règles claires quant à l’utilisation à l’école des médias et 
+outils numériques (  ➔ chap. 6 ).
+Pour les enseignant.e.s, cela veut notamment dire qu’il faut 
+différencier. Autrement dit, il faut que les élèves aient à 
+résoudre des problèmes qui correspondent à leurs propres 
+capacités, connaissances et niveaux. Les formes d’appren-
+tissage et d’enseignement déjà mentionnées et les outils 
+permettant de travailler de manière autonome et au niveau 
+approprié en font une réalité. En outre, cela libère du  
+temps pour l’enseignant.e, qui peut alors suivre et soutenir 
+individuellement chaque élève. Une professeure de 8H 
+rapporte avoir «organisé un atelier origami pour le cours de 
+création artistique. J’ai cherché des tutoriels de pliage  
+sur YouTube pour réaliser un oiseau, et les ai classés par 
+difficulté. Divisés en groupes de deux, les élèves ont  
+d’abord fabriqué un oiseau facile. Ils ont utilisé la possibilité 
+de mettre sur pause, et de visionner plusieurs fois les 
+séquences compliquées. Les groupes n’ont pas tous avancé 
+à la même vitesse. J’ai pu passer beaucoup de temps  
+avec les enfants qui avaient de la peine et renvoyer les plus 
+rapides aux tutoriels vidéos complémentaires.»
+22
+Faut-il limiter l’usage des outils et médias 
+numériques? 
+Beaucoup d’écoles ont instauré une interdiction générale 
+des téléphones mobiles en classe, et souvent même  
+les ordinateurs n’y sont utilisés qu’à des conditions très 
+strictes. Mais si on laisse aux élèves la liberté dans le  
+choix des outils, ils trouvent parfois des solutions auxquelles 
+les enseignant.e.s n’avaient pas pensé. Une enseignante  
+de 10H a vécu une situation de ce genre: «Je me suis 
+d’abord scandalisée quand mes élèves, à qui j’avais donné à 
+traduire une chanson anglaise, sont simplement allés voir  
+ce qu’ils trouvaient sur Internet. Ce sont là des changements 
+que je dois aussi admettre chez moi: il me faut adapter 
+certains exercices. Au fond, je trouve bien qu’il leur soit 
+venu l’idée de chercher de l’aide.»
+Cette enseignante voit dans le recours aux outils et médias 
+numériques une opportunité et elle a pris conscience  
+qu’il fallait ajuster l’enseignement ( ➔ chap. 4 ). Une chose 
+est claire: si les outils et médias numériques font leur  
+entrée dans le quotidien scolaire, l’école se rapproche de 
+l’univers de vie des enfants et des jeunes. Une attitude  
+trop restrictive de la direction et des enseignant.e.s n’est 
+pas appropriée dans cette situation. Si l’école veut 
+développer chez l’enfant une utilisation responsable des 
+médias et outils numériques, les élèves doivent aussi  
+avoir la possibilité de les utiliser: ce n’est qu’ainsi qu’ils 
+pourront faire des expériences qui les fortifient. Ils ont 
+besoin d’un terrain de jeu où expérimenter et aussi se 
+tromper. Même les expériences négatives peuvent être 
+instructives, car elles rendent les jeunes plus critiques face 
+à l’usage des outils et médias numériques ( ➔ chap. 6 ).
+Ressources pédagogiques
+Plateformes proposant des ressources didactiques
+électroniques
+Ressources électroniques d’enseignement et d’apprentissage en 
+lien avec le PER: http://www.plandetudes.ch/web/mer
+Logiciels et conseils d’utilisation en classes: https://edu.ge.ch/sem/
+ressources-pedagogiques/outils/utilisation-logiciel-1138
+Radiobus et Scolcast – réaliser une émission radio et la diffuser:
+www.radiobus.fm www.scolcast.ch
+Connected: moyen d’enseignement pour les MITIC, éditions
+loisirs et pédagogie: https://www.editionslep.ch/sous-collections/
+connected
+Outils pédagogiques pour la protection des données (PFPDT) :
+https://www.edoeb.admin.ch/edoeb/fr/home/protec-
+tion-des-donnees/Internet_und_Computer/jeunes-et-internet/
+lehrmittel-datenschutz.html
+Ressources en ligne
+RTSdécouverte: www.rts.ch/decouverte
+LearningApps: application Web 2.0 proposant de petits modules
+interactifs. Les modules existants peuvent être directement reliés
+au contenu des leçons, mais les utilisateurs peuvent également les
+modifier ou en créer de nouveaux: https://learningapps.org
+Encyclopédie en ligne réalisée par les enfants: http://fr.wikimini.org
+Cartes de Suisse en ligne: http://map.geo.admin.ch
+Guichets cartographiques des cantons: www.kkgeo.ch
+Office fédéral de la communication, en partenariat avec plusieurs 
+institutions. «Petites histoires d'Internet»: www.thewebsters.ch
+Projets utilisant des tablettes numériques
+Projet tablettes du Collège Champittet: https://www.nordangliae-
+ducation.com/fr/our-schools/switzerland/college-champittet/
+champittet-pully/facilities-and-technology
+Projet my-pad.ch avec apps recommandées (en allemand):
+www.my-pad.ch 
+Ressources pédagogiques cantonales pour les compétences 
+numériques
+Berne et Jura: www.educlasse.ch
+Fribourg: www.friportail.ch et www.hepfr.ch/dm
+Genève: http://icp.ge.ch/sem/sites et https://petit-bazar.unige.ch/
+index.html
+Neuchâtel: http://portail.rpn.ch
+Valais: www.ictvs.ch
+Vaud: www.bdrp.ch
+23
+Les outils et médias numériques transforment progressive-
+ment la vie scolaire. Ils offrent de nouvelles possibilités pour 
+l’enseignement. Les enseignant.e.s ont donc besoin de 
+soutien pour leur permettre d’utiliser au mieux ces nouvelles 
+technologies dans leur travail. Ils doivent aussi savoir  
+agir en tenant compte du fait que leurs élèves sont d’une 
+autre génération qu’eux et qu’ils font un usage des médias 
+et des appareils numériques différent du leur. Pour accom-
+plir cette tâche, a priori difficile, les enseignant.e.s ont  
+tout intérêt à tirer profit des connaissances et des aptitudes 
+de leurs élèves en les incitant à contribuer activement  
+à l’enseignement. Concrètement, ils doivent ajuster leurs 
+approches pédagogiques et didactiques. 
+A quels changements le corps enseignant 
+est-il confronté?
+Un enseignant décrit le type de changements auxquels  
+lui et ses collègues doivent faire face: «Je pense qu’avec
+l’avènement des médias numériques le savoir s’est 
+démocratisé. Il arrive que mes élèves en sachent plus que 
+moi dans certains domaines. Quand un de mes élèves 
+maîtrise bien une technologie qui ne m’intéresse pas au 
+point de vouloir me familiariser avec elle, je lui demande  
+de transmettre ses connaissances aux autres élèves et je 
+me contente d’encadrer la leçon.» 
+C’est dire que la conception des rôles respectifs et les
+tâches des enseignant.e.s évoluent et ne se limitent  
+plus à transmettre des connaissances mais à gérer l’ensem- 
+ble des processus d’apprentissage. L’enseignant.e devient 
+coach chargé de mettre en place les structures nécessaires 
+à l’apprentissage, de favoriser l’accès au savoir et d’accom-
+pagner les élèves dans leur parcours scolaire. Cette 
+conception de l’enseignement n’exige pas forcément un 
+recours aux outils et médias numériques. Cependant, 
+comme les médias numériques invitent à repenser 
+l’enseignement, ce type d’apprentissage accompagné se 
+prête spécialement aux cours qui traitent des médias 
+numériques ou les utilisent. En tant que coachs, les 
+enseignant.e.s aident les élèves à acquérir de nouvelles 
+connaissances (de manière autonome ou avec leur aide)  
+et remettent constamment en question leurs acquis. Parmi 
+les formes d’enseignement et d’apprentissage utiles 
+figurent l’apprentissage coopératif, l’apprentissage auto- 
+nome, ainsi que les activités différenciées à l’intérieur  
+de la classe ou l’apprentissage approfondi ( ➔ chap. 3 ).
+Les enseignant.e.s doivent faire preuve de courage pour
+changer ainsi d’attitude. Ils et elles doivent être prêts à 
+revoir l’idée qu’ils se font de l’enseignement en acceptant 
+d’élever leurs élèves au rang d’experts dans la classe.
+Quelles sont les exigences imposées aux
+enseignant.e.s?
+Pour pouvoir éduquer leurs élèves au bon usage des
+médias numériques, le corps enseignant doit posséder un 
+certain bagage:
+•	de connaissances générales et techniques des outils 
+numériques;
+•	de compétences pédagogiques, méthodologiques et 
+didactiques dans le domaine de l'éducation numérique 
+(  ➔ chap. 3 );
+•	de connaissances générales relatives au contexte 
+médiatique dans lequel évoluent leurs élèves  
+( ➔ chap. 1 et 6 );
+•	de la thématique de l'éducation numérique inscrite dans 
+la Formation générale du plan d’études romand (PER) et 
+de son approche transversale ( ➔ chap. 2 );
+•	de volonté de connecter les compétences de plusieurs 
+domaines et de s’adapter à l’évolution du contexte 
+médiatique.
+•	La mission de l’école et des directions scolaires est de 
+doter les enseignant.e.s de ces compétences et  
+de leur fournir les ressources nécessaires ( ➔ chap. 5 ).
+04_DÉVELOPPEMENT POSSIBLE
+DE L’ENSEIGNEMENT GRÂCE AUX
+OUTILS ET MÉDIAS NUMÉRIQUES
+ 
+24
+Les compétences numériques sont-elles 
+indispensables à l’enseignement? 
+Les outils et médias numériques offrent certes une foule de
+possibilités, mais il serait faux de surestimer leur utilité.  
+Ils peuvent aussi être employés dans l’enseignement comme 
+de simples outils, même s’il s’est avéré, dans des contextes
+d’apprentissage appropriés, que les médias numériques
+permettent d’inventer des activités entièrement nouvelles.
+C’est avant tout l’enseignant.e qui fait des cours une 
+expérience enrichissante pour ses élèves, comme le montrent 
+de récentes études sur l’efficacité de l’enseignement.  
+Aucun outil, ni aucun média − aussi sophistiqué soit-il − ne 
+saurait le remplacer.
+Pour aller plus loin
+Les centres de compétences numériques dans les cantons
+www.educa.ch/centres-tic
+Quelques idées pour le développement de l’école
+Un exemple de pratique innovante: la classe inversée
+www.classeinversee.com
+Le blog de Marcel Lebrun sur la pédagogie, la technologie et aussi
+sur un peu de tout: http://lebrunremy.be/WordPress
+25
+L’école en tant qu’institution accuse toujours un certain 
+retard par rapport aux avancées technologiques, et c’est 
+une bonne chose. En effet, elle se préoccupe avant tout de 
+l’humain. Ainsi, la technologie est toujours considérée  
+sous l’angle pédagogique, et l’économie de marché, la produc- 
+ tivité et la nécessité d’innover afin de conquérir des parts 
+de marché passent au second plan. S’agissant de la 
+numérisation, cependant, les écoles sont confrontées à un 
+phénomène social qui a aussi des répercussions impor-
+tantes sur l’organisation de la pédagogie.
+•	Quelle est l’influence de l’omniprésence des outils 
+numériques et de l’accès illimité à Internet sur l’attitude 
+et les rôles des enfants et des jeunes, des enseignant.e.s, 
+mais aussi des parents?
+•	Comment assurer la sécurité des données au vu de 
+l’augmentation du nombre d’appareils dans l’environne-
+ment scolaire?
+•	Quelles solutions adopter face au besoin accru en bande 
+passante des services et applications en ligne?
+•	Comment harmoniser les plateformes de communication, 
+de coopération et d’échange destinées à l’école avec les 
+plateformes administratives?
+Voici quelques-unes des questions que soulèvent la 
+numérisation et la transformation numérique. Les modes 
+techniques sont souvent si rapides qu’elles traversent 
+l’école sans laisser de traces. Mais les évolutions technolo-
+giques qui s’installent pour durer (la numérisation) et 
+prennent par conséquent de l’importance dans la société 
+(transformation numérique) aboutissent aussi dans  
+le système scolaire, qui doit en tenir compte dans son 
+développement.
+Que faire de la numérisation à l’école?
+La notion de numérisation fait référence à la tendance 
+mondiale de la transformation numérique et au fait que les 
+médias et technologies numériques imprègnent tous les 
+domaines (économie, État, société, individu). Comment les 
+directions d’école et le corps enseignant y répondront-ils?
+L’école devrait considérer qu’avoir un temps de retard sur 
+les nouveautés technologiques est un avantage, et en  
+tirer profit. Avant d’investir dans les derniers gadgets, il vaut 
+la peine d’observer, sur la durée, l’évolution de la technolo-
+gie et, partant de la société, ce qui permettra de décider en 
+toute connaissance de cause quelles ressources humaines, 
+pédagogiques et financières y consacrer. En matière de 
+technologie, adopter une stratégie défensive est rentable et 
+permet d’engager une réflexion sur le thème de la numérisa-
+tion à l’école.
+L’enjeu consiste à reconnaître que la numérisation est un 
+processus irréversible et à se confronter au thème de  
+la transformation numérique et de son importance pour le 
+quotidien pédagogique. On est ainsi libre d’évaluer le 
+potentiel, les chances et les risques de la numérisation et 
+de la transformation numérique à l’école et d’amorcer  
+les changements nécessaires. Mais sans oublier que 
+l’enseignement est, et reste, la préoccupation première de 
+l’école. Il faut tout faire pour éviter que la stratégie de 
+numérisation des écoles détourne des ressources finan-
+cières et personnelles de l’enseignement et de la pédagogie 
+au profit de la gestion et de l’infrastructure. 
+05_ DÉVELOPPEMENT POSSIBLE  
+DE L’ÉCOLE GRÂCE AUX OUTILS ET 
+MÉDIAS NUMÉRIQUES
+ 
+26
+Comment surmonter les défis posés par la 
+numérisation?
+Chargé.e.s de la numérisation et de la transformation 
+numérique
+Pour une direction d’école, il vaut la peine d’associer, au 
+sens d’un développement participatif, les enseignant.e.s  
+à la réflexion tournant autour de la co-responsabilité. La 
+meilleure manière est de passer par des fonctions établies 
+et spécialisées telles que les services internes s’occupant 
+des technologies de l’information et de la communication 
+sur les plans pédagogiques et techniques. En leur qualité 
+d’expert.e.s, ils peuvent développer des stratégies, 
+instruments et solutions qui permettent à l’école d’aména-
+ger au mieux son avenir numérique.
+Sur le plan pédagogique, ces spécialistes épaulent leurs 
+collègues dans la conception didactique et la mise en  
+œuvre d’un cadre d’apprentissage s’appuyant sur les médias 
+ainsi que dans le développement de thèmes ayant trait  
+à ces derniers. Ils ont également une vue d’ensemble sur  
+les applications en ligne destinées à l’enseignement.  
+Ils connaissent l’importance de la numérisation et de la 
+transformation numérique sur le quotidien des ensei-
+gnant.e.s, des élèves, des parents et des autorités.
+Sur le plan de l’organisation, ils sont chargés de faire passer 
+la transformation numérique dans la culture scolaire vécue. 
+Les plateformes numériques de travail, de coopération et  
+de communication ouvrent aux enseignant.e.s de nouvelles 
+formes de communication et d’échange de savoir. Les 
+solutions de gestion efficaces débouchent sur des proces-
+sus transparents et optimisés, qu’il s’agisse d’évaluer  
+les élèves ou les objectifs de performance cantonaux,  
+ou d’assurer la protection des données. 
+Fiabilité de l’infrastructure et de la bande passante
+Sans infrastructure fiable, pas de transformation numé-
+rique. Pour pouvoir travailler sans accroc, il faut que le 
+support technique soit assuré 24 heures sur 24, par des 
+enseignant.e.s spécialisé.e.s dans le domaine ou des 
+personnes externes.
+Conséquence de la numérisation, on peut penser qu’à 
+l’avenir, un nombre toujours croissant d’applications et de 
+services seront disponibles sur Internet. Les écoles  
+ne peuvent faire l’économie d’une connexion solide avec 
+suffisamment de bande passante, d’un réseau local stable, 
+d’un wifi configuré par des professionnel.le.s et d’une 
+stratégie moderne de sécurité informatique. Les directions 
+d’école doivent sensibiliser les autorités financières à  
+ce thème et aux coûts générés par la professionnalisation. 
+Le guide TIC du canton de Zurich propose des pistes pour 
+développer une stratégie globale en matière d’utilisation 
+des médias numériques dans le cadre scolaire.
+Discours sur le thème de la numérisation et de la 
+transformation numérique
+Peu importe le degré de numérisation que l’école entend 
+intégrer à son quotidien: l’essentiel est qu’elle se saisisse  
+de la question et adopte une démarche pédagogique  
+claire. Ce processus verra s’affronter des opinions diverses 
+au sein de l’institution, puisque la numérisation et  
+la transformation numérique touchent l’ensemble de la 
+communauté scolaire, à savoir la direction, le corps 
+enseignant, les élèves, les parents, le personnel administra-
+tif et les autorités.
+Trouver le plus grand dénominateur commun entre ces 
+divers interlocuteurs et interlocutrices est un travail de 
+longue haleine, mais aussi pour l’école une chance de se 
+développer. C’est précisément là le sens de la transforma-
+tion numérique: il ne s’agit pas d’un projet avec un début et 
+une fin, mais plutôt d’une évolution constante. La numérisa-
+tion peut aussi être l’occasion de mettre sur le tapis les 
+questions techniques d’infrastructure informatique. 
+Toutefois, ce point doit toujours être mis en regard des 
+questions pédagogiques et ne pas être considéré de 
+manière isolée.
+Chaque établissement doit 
+adopter une atttitude péda-
+gogique et didactique claire 
+face aux médias numériques.
+27
+Ce processus de développement peut être concrétisé par 
+une stratégie de numérisation, une feuille de route de la 
+transformation numérique ou encore une ligne directrice 
+relative aux médias et destinée aux écoles. Les parties 
+prenantes y fixent leur position et le rôle attribué aux 
+médias numériques dans leur établissement. Ces documents 
+permettent de définir des champs d’action concrets et  
+de créer les conditions-cadres nécessaires. Pour lancer le 
+processus, il faut que la direction s’engage clairement à 
+faire de la numérisation et de la transformation numérique 
+un thème du développement de l’école. 
+Bénéfices du processus de développement
+Disposer d’une stratégie de numérisation permet à l’école 
+de renforcer l’efficacité de ses processus administratifs et 
+organisationnels, ce qui contribue à préserver et à optimiser 
+ses ressources humaines.
+Mais, s’agissant du développement de l’école, le processus 
+de transformation numérique induit par la numérisation 
+occupe une place beaucoup plus importante. Une stratégie 
+pertinente peut établir une nouvelle culture de la coopéra-
+tion, de la communication et du transfert des connaissances 
+au sein des cours, par et pour l’ensemble des participant.e.s: 
+entre les enseignant.e.s et les élèves comme au sein de ces 
+deux groupes.
+Pour aller plus loin:
+Guide du matériel recommandé dans les écoles obligatoires 2019:  
+www.fritic.ch/fr/prestations/conseil-equipement 
+Guide TIC du canton de Zurich (en allemand): www.ict-guide.zh.ch
+Rapport du projet de Goldau (en allemand): www.projektschule-goldau.
+ch/brings-mit
+PARTIE C: PRÉVENIR, RÉAGIR À BON 
+ESCIENT, PROTÉGER LES DONNÉES
+ 
+29
+Les adolescent.e.s utilisent les réseaux sociaux, les message-
+ries instantanées et les tchats pour converser avec leurs 
+pairs, entretenir les contacts avec des membres de leur 
+famille vivant loin, nouer des relations amoureuses ou pour  
+se mettre en scène. Toutes ces activités, qui jouent aussi un 
+rôle important dans la vie hors ligne, font partie de l’adoles-
+cence et favorisent le développement d’une identité propre.
+Cela dit, tous les enfants et les jeunes ne sont pas conscients 
+des risques que recèlent aussi les outils et médias numé-
+riques. Les enseignant.e.s, les directeurs et directrices 
+d’établissement et autres professionnel.le.s sont, tout comme 
+les parents, quotidiennement en contact avec des enfants qui 
+ont souvent une grande compétence d’utilisation des médias 
+numériques et beaucoup de plaisir à tenter des expériences, 
+mais réfléchissent peu à leur comportement et usages des 
+médias. Le devoir de ces professionnel.le.s est de protéger le 
+mieux possible les enfants et les adolescent.e.s des dangers 
+liés à cette utilisation. Mais beaucoup d’enseignant.e.s ne 
+savent pas vraiment quelles règles sont indiquées pour 
+l’usage des médias numériques, où placer les limites et de 
+quels dangers les enfants doivent être protégés.
+Contenus violents
+Sur Internet, les enfants et les jeunes ont beaucoup plus
+facilement accès à des contenus inappropriés que dans  
+lemonde non numérique. Ces contenus peuvent consister 
+par exemple en représentations de la violence, diffusées 
+aussi bien via les messageries que dans des films ou des 
+jeux vidéos. Il arrive également que les jeunes produisent 
+eux-mêmes des contenus violents et les publient sur des 
+portails vidéo. A la différence des contenus à caractère 
+sexuel, les représentations de la violence, majoritairement 
+tolérées sur les plateformes vidéo en ligne, sont facilement 
+accessibles pour les enfants et les jeunes. 
+Contenus indésirables à caractère sexuel
+ou pornographique
+Internet a grandement facilité l’accès à la pornographie 
+pour les enfants et les jeunes également. Certains d’entre 
+06_PROTECTION CONTRE
+LES RISQUES
+ 
+eux consultent délibérément ce genre de contenus pour 
+assouvir leur curiosité. D’autres peuvent tomber sans  
+le vouloir sur des images et des vidéos à caractère sexuel 
+ou pornographique, par exemple dans des fenêtres 
+publicitaires intempestives.
+Cyberharcèlement et sexting
+Les outils et médias numériques font de la transmission de
+textes, d’images ou de vidéos un jeu d’enfant. Ces contenus 
+peuvent, qu’on le veuille ou non, avoir une immense portée. 
+Dans le cas du cyberharcèlement, cela signifie qu’en un clin 
+d’oeil, les victimes sont ridiculisées devant une communauté 
+et que les contenus peuvent ressurgir à tout moment, 
+n’importe où. Il en va de même des photos ou des vidéos 
+érotiques que les jeunes s’envoient, au départ comme une 
+preuve d’amour (sexting) et qui sont ensuite diffusées par 
+malveillance. Un abus de confiance peut avoir ici des 
+conséquences très graves pour les victimes.
+Harcèlement et agressions sexuelles, cybergrooming
+et pédocriminalité
+Ce qui plaît dans les tchats, c’est qu’on peut y bavarder en
+ligne en temps réel. Mais les tchats et les forums anonymes 
+sont hélas souvent le théâtre de harcèlement sexuel.  
+La moitié environ des harceleurs et harceleuses ont moins 
+de 18 ans. Le cybergrooming est le fait de personnes  
+aux penchants pédosexuels et consiste à cibler des mineurs 
+pour gagner leur confiance et ensuite les exploiter 
+sexuellement.Ces personnes utilisent les tchats et les 
+forums, mais aussi les applications de rencontre, les jeux 
+en ligne et les réseaux sociaux.
+Danger pour la protection des données et de la 
+sphère privée
+Les enfants et les jeunes n’ont souvent pas conscience du
+fossé qui existe entre les règles de la communication en
+ligne et celles d’une conversation privée. Les messageries 
+en ligne et les tchats vidéos incitent certains d’entre eux à 
+livrer sans réfléchir des informations très privées à un large 
+public. En outre, de nombreuses applications numériques  
+30
+utilisatrices et utilisateurs en ligne peuvent s’encourager 
+mutuellement à se faire du mal ou à adopter un comporte-
+ment criminel.
+Durée d’utilisation et consommation excessive de
+médias
+La grande valeur ludique d’Internet et la facilité d’accès aux 
+appareils numériques incitent de nombreux enfants et 
+adolescent.e.s à rester des heures en ligne. Mais le temps 
+passé devant l’écran ne suffit pas à lui seul à diagnosti- 
+quer une consommation problématique. En Suisse, si la 
+plupart des jeunes utilisent les médias de manière raison-
+née, certains en font une consommation disproportionnée. 
+Ils n’ont plus assez de temps pour d’autres activités de 
+loisirs, pour entretenir des contacts sociaux, pour étudier et 
+pour dormir.
+ou sur Internet recueillent les données de leurs utilisatrices 
+et utilisateurs à des fins commerciales, pour élaborer des 
+publicités ciblées ou vendre des profils d’identité à des tiers.
+Incitation à la haine, discrimination, contenus
+problématiques et informations biaisées
+Le relatif anonymat d’Internet peut favoriser les propos 
+injurieux et la discrimination fondés sur la couleur de peau, 
+l’appartenance ethnique, le sexe, l’orientation sexuelle  
+ou la religion (incitation à la haine). Les jeunes peuvent être 
+victimes ou auteur.e.s de ces propos. En outre, on trouve  
+sur certains sujets éveillant la curiosité (drogue, troubles
+alimentaires, etc.) des informations que les enfants et
+les jeunes peuvent avoir du mal à trier. Certains forums et 
+sites d’information peuvent enfermer davantage les jeunes 
+concernés dans leurs problèmes. Sans compter que les 
+VIOLENCE
+PORNOGRAPHIE
+DISCRIMINATION
+INCITATION À LA HAINE
+PÉDOCRIMINALITÉ
+ATTEINTE À LA SPHÈRE PRIVÉE
+INFORMATIONS BIAISÉES
+PROTECTION DES DONNÉES
+CYBERMOBBING
+UTILISATION/DURÉE D’UTILISATION EXCESSIVE
+CONTENUS PROBLÉMATIQUES
+PRESSION DE GROUPE
+PIÈGES À L’ABONNEMENT
+FRAUDE
+SPAM
+PUBLICITÉ
+MICROPAIEMENTS
+PUBLICITÉ DÉGUISÉE
+Dangers pour les enfants et les jeunes liés à l'usage des médias numériques
+31
+Risque d’endettement
+Même si, pris isolément, le prix des applications, du trafic
+de données, du roaming, de Spotify, de Netflix, des jeux  
+en ligne, etc. n’est pas très élevé, leur cumul peut représen-
+ter des sommes considérables. Les achats réalisés via les
+applications ou les jeux (micro-paiements) représentent un 
+autre risque. En effet, beaucoup de jeux en ligne sont 
+gratuits à la première utilisation (free to play). Mais si l’on 
+veut progresser, il faut par exemple acheter des appareils 
+ou de la monnaie (pay to win).
+Comment protéger les jeunes de ces risques?
+Il existe des approches techniques, normatives et éduca-
+tives pour protéger les enfants et les jeunes des risques 
+auxquels ils s’exposent via les outils et médias numériques. 
+Pour une protection efficace, celles-ci doivent être combi-
+nées.
+Mesures techniques pour l’école
+•	Filtrage du contenu: les filtres empêchent les jeunes de 
+tomber, sur Internet, sur des contenus relevant de  
+la protection de la jeunesse. Mais ce sont des armes à 
+double tranchant. D’un côté, les enfants peuvent tout de 
+même s’envoyer des contenus problématiques. De l’autre, 
+les enseignant.e.s peuvent se croire en sécurité et 
+oublier que la discussion sur les contenus problématiques 
+contribue aussi aux apprentissages d’un usage respon-
+sable des médias. Par ailleurs, le filtrage du contenu 
+devant être signalé, il faut en mentionner l’usage. 
+L’analyse des listes d’enregistrement est problématique 
+du point de vue de la protection des données. C’est 
+pourquoi il faut évaluer la situation juridique au préalable.
+•	Protection des données: pare-feu, antivirus, mots de 
+passe complexes, communication cryptée et élimination 
+régulière des cookies dans le navigateur sont de  
+bons moyens de protéger les données personnelles  
+( ➔ chap. 8 ).
+Définir des règles et poser des limites
+Pour que l’usage de l’ordinateur et des téléphones mobiles
+ne dépasse pas toute mesure, il faut des règles claires,  
+à la maison comme à l’école. Celles-ci définissent par 
+exemple l’usage d’appareils numériques pendant les cours.
+A l’école, elles peuvent être formulées dans un règlement
+scolaire, un règlement de classe ou des conventions
+d’utilisation spécifiques. 
+La Charte Internet proposée pour le Centre fri-tic du canton 
+de Fribourg en est un exemple.
+Associer les élèves à la définition des règles d’utili-
+sation et de sécurité
+Les aides techniques et les règles d’utilisation des outils et 
+médias numériques sont importantes, mais elles ne suffi- 
+sent pas à en faire un usage responsable. Il en va autrement 
+lorsque les élèves sont associés à la définition des condi-
+tions d’utilisation. En effet, les consulter assure que le règle- 
+ment corresponde à leur utilisation effective des médias.  
+Ils renforcent en outre leur sens des responsabilités;  
+les jeunes respectent plus facilement les règles qu’ils ont 
+aidé à façonner.
+Renforcement de l’éducation aux médias
+Les professionnel.le.s s’accordent à dire que renforcer 
+l’éducation aux médias constitue la mesure de prévention 
+aux dangers du monde numérique la plus importante.  
+Celles et ceux qui ont développé des apprentissages sur les 
+médias savent se protéger et font moins d’expériences 
+négatives; ils recourent aux outils et médias numériques de 
+façon raisonnable et appropriée. C’est pourquoi les plans 
+d’études ont inscrit cette matière au programme.
+32
+Les conditions d’une bonne éducation aux médias sont  
+une culture de la communication ouverte, une bonne 
+ambiance de classe et un courant qui passe bien entre en- 
+seignant.e et élèves. En effet, l’enseignant.e a un rôle de 
+modèle dans ce domaine-là aussi. Ces facteurs, combinés à 
+de bonnes dispositions, offrent la meilleure protection  
+qui soit contre les incidents négatifs, que ce soit avec ou 
+sans médias ( ➔ chap. 7 ). La brochure «Compétences  
+médiatiques: conseils pour utiliser les médias numériques 
+en toute sécurité» fournit de bonnes bases à ce sujet  
+(voir références en fin de chapitre).
+Quels sont les moyens concrets de renforcer
+l’éducation aux médias?
+Réfléchir sur les habitudes d’utilisation
+«A quels jeux vidéo jouez-vous?» «Combien payez-vous 
+chaque mois pour votre abonnement de mobile?» «Quelles 
+règles avez-vous à la maison pour le temps passé devant 
+l’écran?» «Pourquoi y a-t-il des âges conseillés pour les films 
+et les jeux vidéo, et est-ce que vous en tenez compte?»
+Chaque fois qu’il est question d’outils et de médias numé- 
+riques, les élèves devraient pouvoir faire part de leurs 
+expériences, donner leur opinion et réfléchir à la question.
+Non seulement cela plaît aux enfants et aux jeunes,  
+mais c’est aussi utile du point de vue pédagogique. Diffé- 
+rentes possibilités s’offrent ici selon le niveau de la classe 
+et le bagage de l’enseignant.e, par exemple de faire  
+tenir un journal d’utilisation des outils et médias numériques, 
+de travailler sur des relevés statistiques de certains  
+usages et d’en discuter en classe. Cela permet de voir que 
+d’autres ont aussi des règles d’utilisation des outils et 
+médias numériques à la maison, qu’ils se disputent aussi à 
+propos du temps passé devant l’écran ou qu’ils doivent 
+payer leurs cartes de téléphone prépayées avec leur argent 
+de poche.
+Cette comparaison entre diverses approches est d’une
+importance primordiale pour que les enfants et les jeunes
+construisent un usage raisonnable des outils et médias
+numériques. Durant la phase de réflexion, l’enseignant.e 
+assume un rôle d’animateur et s’abstient, surtout au début,
+de se prononcer sur le contenu.  Les remarques moralisa-
+trices et les signaux non verbaux, froncement de sourcils 
+par exemple, empêchent un échange ouvert. Pour inciter à 
+la discussion, il faut que l’enseignant.e procède par 
+questions sans jugement de valeur.
+Il est essentiel que la discussion sur les problèmes posés 
+par les outils et médias numériques n’ait pas lieu hors  
+de tout contexte et se déroule lorsque l’outil ou le média est 
+utilisé ou abordé dans l’enseignement. Le danger d’une 
+prévention sortie de son contexte est qu’elle risque 
+d’aiguiller les adolescent.e.s vers des idées qui ne leur sont 
+jamais venues à l’esprit auparavant.
+Les thématiques suivantes offrent matière à discussion:
+•	 Temps passé avec les outils et médias numériques: 
+il vaut la peine de demander aux enfants combien de 
+temps ils ont le droit de passer devant un écran  
+à la maison et s’ils sont d’accord avec cette règle.  
+Où commence, pour eux, «trop de temps»?  
+Une autre question intéressante est celle de savoir si les 
+parents limitent aussi le temps que les enfants ont  
+le droit de consacrer à la lecture ou à certains jeux non 
+numériques, et pourquoi ce n’est (fort probablement)  
+pas le cas.
+•	 Niveau de langue utilisé dans la communication en 
+ligne: que ce soit dans les SMS, les tchats ou les 
+commentaires, il y a sur Internet aussi des convenances à 
+respecter (la nétiquette). Pour faire comprendre cette 
+nécessité, des exemples types ou des jeux de rôle peuvent 
+aider les élèves à changer de perspective. Qu’est-ce que  
+je ressens quand d’autres choisissent mal leur vocabulaire 
+et deviennent grossiers? Est-ce que  je me lâche (plus 
+méchamment encore) lorsque je m’exprime sous pseudo?
+Les jeunes respectent
+plus facilement les  
+règles qu’ils ont aidé à 
+façonner.
+33
+•	 Age conseillé: pour les films, les jeux vidéo et même les 
+médias sociaux, il y a des âges conseillés. Les élèves 
+devraient pouvoir discuter librement du sens de ces 
+limites d’âge. Il est parfois utile d’amener les enfants à 
+adopter une autre perspective. On y arrive par exemple en 
+leur demandant à partir de quel âge ils laisseraient leurs 
+frères et soeurs plus jeunes jouer à un jeu donné. Là aussi, 
+on pourrait aborder la question de savoir pourquoi les 
+livres et souvent aussi les bandes dessinées font l’objet 
+d’un contrôle moins strict que les films et les jeux vidéo.
+•	 Fiabilité des informations: de nombreux élèves ont de 
+la difficulté à évaluer la véracité des informations qu’ils 
+rencontrent sur Internet. A quoi reconnaît-on une source 
+fiable? Quels sont les indices d’une fake news? Pourquoi 
+certains diffusent-ils des informations trompeuses?
+•	 Protection des données et de la personnalité: dans 
+le domaine de la communication par ordinateur tout 
+particulièrement, il vaut la peine de se demander s’il y a 
+des thèmes qu’il est préférable de ne pas discuter via  
+les médias numériques parce que d’autres pourraient «lire 
+pardessus notre épaule». Ou s’il y a des images qui ne 
+devraient pas être diffusées par des canaux numériques. 
+Quelles mesures peut-on prendre pour laisser moins de 
+traces numériques, susceptibles d’être utilisées à des fins 
+commerciales, par exemple pour de la publicité ciblée? 
+Comment communiquer en mode crypté? Une autre façon 
+d’aborder le thème est de discuter sur le droit à sa propre 
+image, et la question de savoir si les enfants et les jeunes 
+aimeraient que les autres puissent utiliser librement leurs 
+propres textes ou leurs propres images.
+•	 Etablissement de contacts: les tchats et les réseaux 
+sociaux mettent facilement les élèves en contact avec des 
+inconnu.e.s. Qu’est-ce qui est identique et qu’est-ce  
+qui est différent entre les contacts et les amitiés en ligne et 
+ceux noués hors ligne? Quelles sont les règles pour 
+communiquer en sécurité avec des inconnus? 
+•	 Droit d’auteur: par rapport à la musique ou au cinéma, il 
+faut se demander pourquoi ces contenus sont payants et 
+pourquoi la mise à disposition de fichiers copiés est 
+illégale. Que signifie le terme de propriété intellectuelle et 
+pourquoi celle-ci doit-elle être protégée? On peut aussi 
+mettre cette question en relation avec le mouvement open 
+source et creative commons, qui autorise par principe à 
+copier et modifier des oeuvres.
+D’autres points encore se prêtent à une discussion théma-
+tique: les coûts, les maliciels (virus ou chevaux de Troie,  
+par exemple) ou les escroqueries.
+Attitude critique
+Une attitude critique est essentielle pour éviter aux enfants 
+et aux jeunes de tomber dans les pièges d’Internet. On ne 
+pense pas ici aux connaissances techniques, mais à une saine 
+prudence et à la faculté de considérer un phénomène  
+sous différentes perspectives. L’apprentissage à l’école est 
+souvent encore fondé sur un savoir canonique qui ne connaît 
+qu’une seule vérité. Il serait important que même les 
+manuels scolaires et les propos des enseignant.e.s puissent 
+être remis en question en tout temps. A cet égard, Internet 
+est un outil extraordinaire pour rassembler diverses perspec-
+tives sur un fait donné. Les plans d’études actuels font une 
+place à l’éducation aux médias. Pour que les élèves puissent 
+transférer ces compétences à leur quotidien, il est indispen-
+sable de cultiver en permanence leur esprit critique.
+Quels peuvent être les points de départ
+de la prévention à l’école?
+L’école peut agir à différents niveaux pour prévenir une
+utilisation indésirable des outils et médias numériques:
+•	
+Les enseignant.e.s peuvent réfléchir avec les enfants et 
+les jeunes à l’utilisation des médias pendant les cours  
+et stimuler en permanence leur regard critique dans ce 
+domaine.
+•	Les responsables d’établissement peuvent autoriser les 
+enseignant.e.s à associer les médias à l’enseignement de 
+manière professionnelle et adaptée à la situation ( chap. 4 
+et 5 ). Beaucoup d’écoles disposent d’un programme 
+général de prévention et d’intervention de crise qui peut 
+34
+Pour une prévention efficace,
+les enseignant.e.s doivent collaborer 
+étroitement avec leur direction  
+et les parents.
+aussi être appliqué en relation avec les médias numé-
+riques ( ➔ chap. 7 ). 
+•	Enfin, il est recommandé d’aborder avec les parents le 
+thème de l’utilisation des outils et médias numériques en 
+dehors de l’école, au cours des entretiens avec  
+eux ou lors de séances d’information thématiques qui leur 
+sont destinées.
+ 
+Pour que l’éducation aux médias produise des effets durables, 
+il faut que les mesures prises aux différents niveaux  
+soient combinées entre elles. Il est essentiel que les divers 
+acteurs – enseignant.e.s, directions d’établissement et 
+parents – travaillent main dans la main. Même les adultes 
+peuvent apprendre des enfants et des jeunes. On pense par 
+exemple à la réalisation d’un projet de classe sur la 
+protection des données où serait développé un guide ou un 
+tutoriel sur la manière de créer un profil et de régler les 
+paramètres d’un compte sur un réseau social (Facebook, 
+Twitter ou autre). Ce document pourrait ensuite être diffusé 
+auprès des parents. Souvent, grâce à leur vécu et à leur 
+expérience éducative, les parents et les enseignant.e.s 
+arrivent à déceler où les adolescent.e.s ont des lacunes 
+dans leur utilisation des médias. A l’inverse, les plus jeunes 
+peuvent montrer à leurs aînés les aspects positifs de leur 
+utilisation des médias, par exemple l’usage des messageries 
+et des réseaux sociaux pour entretenir des contacts, ou le 
+plaisir ludique des jeux vidéo.
+Dans certains cas, les parents n’assument pas suffisamment 
+leur fonction éducative en ce qui concerne les outils et 
+médias numériques. Ainsi, dans certaines familles, on ne 
+discute pas du fait que les enfants passent des heures  
+sur Internet sans rien demander, et leurs parents ne leur 
+imposent pas de limites de durée ou de contenu lorsqu’ils 
+sont en ligne. Le travail d’éducation aux médias réalisé  
+à l’école a d’autant plus de sens dans ces cas mais les 
+parents doivent être rappelés à leurs devoirs au plus tard 
+lorsque des incidents négatifs surviennent ( ➔ chap. 7  ).
+Pour aller plus loin
+Plateforme nationale Jeunes et médias: www.jeunesetmedias.ch
+Brochure «Compétences médiatiques: conseils pour utiliser les médias
+numériques en toute sécurité» de la plateforme nationale Jeunes et 
+médias. 2019. A télécharger sur www.jeunesetmedias.ch.
+Charte Internet: boîte à outil: 
+https://www.fritic.ch/fr/prestations/chrte-internet-0
+Divers documents sur l’utilisation responsable des médias:
+www.e-media.ch (onglet «jeunes et médias»)
+Portail de prévention des risques liés à l’utilisation d’Internet du canton 
+de Vaud: www.prevention-web.ch
+Programme de prévention sur Internet:
+Office fédéral de la communication OFCOM en collaboration avec 
+plusieurs institutions partenaires «Petites histoires d’Internet»
+https://www.websters.swiss/fr/
+NETLA Mes données m’appartiennent!
+www.netla.ch
+Initiative de l’UE pour plus de sécurité sur Internet (en allemand):
+www.klicksafe.de
+Sécurité sur les réseaux sociaux:
+https://guides.educa.ch/fr/reseaux-sociaux
+Comprendre l’identité numérique:
+http://edu.ge.ch/sem/usages/outils/comprendre-lidentite-numerique-1086
+Comprendre les réseaux sociaux:
+https://edu.ge.ch/sem/usages/outils/comprendre-les-reseaux-sociaux-1060
+35
+L’éventail des possibilités d’utilisation inadéquate ou
+abusive des outils et médias numériques est large,  
+comme l’illustrent les exemples suivants – l’un quotidien, 
+l’autre exceptionnel: 
+•	Deux jeunes d’une classe de 9H se disputent dans la cour. 
+Ils se couvrent d’injures. La dispute se poursuit dans 
+l’après-midi par messagerie, sur le tchat de la classe.  
+Un des jeunes menace l’autre de violence. Le lendemain, 
+toute la classe est au courant et l’enseignante perçoit  
+une certaine agitation.
+•	Une fille de 11H année pirate le site web de son école et 
+en efface les contenus. A la place, elle publie des photos 
+d’autres élèves, assorties de commentaires. Comment la 
+direction et le corps enseignant doivent-ils réagir? 
+Comme le montrent ces exemples, les utilisations inadé-
+quates ou abusives concernent souvent l’école, directement 
+ou indirectement. Le quotidien médiatique des jeunes,  
+et donc les formes d’utilisation problématiques, changent 
+constamment. C’est souvent lorsqu’ils y sont confrontés 
+pour la première fois que les enseignant.e.s, la direction et 
+les autres professionnel.le.s intervenant en milieu scolaire 
+hésitent sur l’attitude à adopter.
+Comment l’école doit-elle réagir aux  
+problèmes et aux crises? 
+Comme pour les autres comportements inadéquats, il faut 
+opter pour une approche différenciée adaptée à la situation. 
+Un entretien entre l’enseignant.e et les élèves concernés 
+suffit souvent déjà à résoudre le problème. La mesure ne 
+doit pas avoir pour but premier de punir les jeunes, mais bien 
+de soutenir et de favoriser le développement d’un usage 
+responsable des outils et médias numériques. 
+Si l’auteur n’en est pas à son coup d’essai ou que la victime 
+a subi des dommages importants, la direction de l’école 
+décide de la suite à donner, en impliquant éventuellement 
+des services spécialisés (cf. annexe au présent chapitre).  
+Il faut parfois avertir immédiatement la police, par exemple 
+lorsqu’il s’agit d’un crime poursuivi d’office (actes d’ordre 
+sexuel avec des enfants, diffusion de pédopornographie, 
+lésions corporelles graves, homicide, etc.) ou lorsque  
+des menaces très concrètes ont été proférées sur un réseau 
+social et que le risque est grand qu’elles soient mises  
+à exécution. Cependant, si l’intérêt de l’enfant l’exige, 
+l’enseignant.e peut être dispensé.e de son devoir  
+de dénonciation (voir la législation cantonale sur l’école 
+obligatoire).
+De nombreuses écoles se sont dotées de plans d’interven-
+tion pour gérer ce type de crise. D’une manière générale,  
+il est important que les membres du corps enseignant et du 
+personnel administratif en aient connaissance. Ces plans 
+mentionnent aussi les services à contacter en cas de doute.
+Dans certains cantons, communes scolaires ou établisse-
+ments, le modèle d’intervention prévoit, par exemple,  
+une alerte précoce de la police. Il précise également dans 
+quels cas les parents doivent être impliqués. Si le modèle 
+d’intevention en vigueur ne suffit pas, le graphique suivant 
+peut aider à trouver l’approche appropriée:
+07_QUAND L’UTILISATION DES
+OUTILS ET MÉDIAS NUMÉRIQUES
+DEVIENT INADÉQUATE OU ABUSIVE
+ 
+36
+Du point de vue de la victime, un délit, même mineur, peut
+avoir des conséquences fatales. Lorsqu’une photo érotique
+envoyée en toute confiance finit par circuler au sein de
+l’école de manière incontrôlée, cela peut être synonyme de
+honte, de désespoir et de chagrin d’amour pour le jeune
+concerné et susciter parfois des pensées suicidaires. La
+situation est encore plus difficile lorsque les parents portent
+un jugement en raison de leur vision du monde.
+Il est important que la victime obtienne de l’aide, par 
+exemple qu’elle connaisse la permanence téléphonique 147 
+de Pro Juventute ou qu’elle puisse s’adresser aux travail-
+leuses et travailleurs sociaux de l’école, aux psychologues 
+scolaires ou au centre d’aide aux victimes d’infractions (LAVI).
+C’est la législation fédérale et cantonale qui règle les droits 
+et obligations d’annonce aux autorités lorsque l’on craint 
+qu’un enfant ne soit en danger; il en va de même dans le 
+cadre d’une utilisation abusive des outils et médias 
+numériques.
+Quels sont les comportements punissables?
+Dans certains cas, l’utilisation abusive des médias est
+également punissable sur le plan pénal. Il est donc utile que
+les parents et les enseignant.e.s connaissent le cadre légal. 
+En Suisse, la majorité pénale est fixée à 10 ans: dès cet âge,
+les enfants risquent donc de devoir répondre de leurs actes.
+Eventuell
+Eventuellement
+ligne du temps
+   Conséquence
+Intervention
+UTILISATION ABUSIVE DES OUTILS ET MÉDIAS NUMÉRIQUES PAR UN ÉLÈVE
+Entretien entre l’enseignant.e et les
+élèves concernés
+Intervention de la direction de
+l’établissement, et évent. des
+travailleurs sociaux
+Poursuite
+pénale
+Implication des
+parents / responsables
+des services de
+l’enseignement
+Les mesures prises ne portent pas
+leurs fruits, l’incident est
+légalement punissable et la victime
+souhaite porter plainte.
+Mesures pour les personnes
+directement concernées, prises
+au sein de la classe ou de
+l’établissement
+Le cas échéant, recours à des
+services externes
+Dépôt d’une
+plainte à
+la police
+Mesures de 
+prévention
+ou d’intervention
+au niveau de
+la classe ou de
+l’établisse-
+ment
+Aide à l’orientation en cas d’utilisation abusive des médias 
+37
+Voici la liste des infractions qui peuvent concerner les 
+enfants et les jeunes: 
+•	En lien avec le cyberharcèlement: extorsion et chantage, 
+diffamation, calomnie, injure, menace, contrainte (art. 
+156, 173, 174, 177, 180 et 181 du code pénal [CP; RS 311])
+•	Utilisation frauduleuse d’un ordinateur, violation  
+du domaine secret ou du domaine privé au moyen d’un 
+appareil de prise de vues, soustraction de données 
+personnelles (art. 147, 179quater et 179novies CP)
+•	Accès indu à un système informatique, détérioration de 
+données (art. 143bis et 144bis CP)
+•	Transmission de contenus pornographiques à une 
+personne de moins de 16 ans, transmission ou consomma-
+tion de contenus pornographiques mettant en scène  
+des mineurs (y c. soi-même dans certaines circonstances), 
+des actes de violence ou des animaux (art. 197 CP).
+•	Possession ou transmission d’enregistrements sonores  
+ou visuels qui illustrent des actes de cruauté envers des 
+êtres humains ou des animaux (art. 135 CP)
+•	Violation des droits d’auteur en rapport avec les médias 
+numériques, par ex. diffusion sur Internet de contenus 
+protégés par les droits d’auteur (musique, films, etc.): loi 
+fédérale sur le droit d’auteur (LDA; RS 231.1)
+•	En cas d’atteinte à la personnalité, il faut s’attendre en 
+outre à une action civile.
+Pourquoi un bon climat scolaire est-il
+important?
+Tout le monde ne réagit pas de la même manière aux 
+expériences négatives. Les effets des incidents en lien avec 
+les médias dépendent eux aussi fortement de la capacité  
+de résistance psychique (résilience). Les enfants et les 
+jeunes résilients sont en contact avec leurs émotions, ils 
+contrôlent leurs impulsions et mettent en place des 
+stratégies actives de résolution des problèmes. Pour pouvoir 
+développer leur capacité de résilience, il faut que  
+les enfants aient dans leur entourage des personnes de 
+référence fiables et qui les assistent.
+Les enfants et les jeunes résilients résistent mieux aux 
+effets collatéraux possibles des médias numériques, comme 
+le cyberharcèlement, la dépendance ou l’escalade de la 
+violence. C’est pourquoi il est capital que l’école cultive un 
+environnement qui promeuve la résilience et qu’on y 
+entretienne une culture de la communication positive entre 
+les enseignant.e.s et les élèves, mais aussi entre les 
+enseignant.e.s et les parents. Les jeunes sont ainsi 
+encouragés à développer leur autonomie et leurs compé-
+tences sociales, et le climat est en faveur d’une résolution 
+non violente des conflits. Si les élèves font tout de même 
+des expériences négatives avec les médias, cela se traduira 
+notamment par des changements d’humeur ou de com- 
+portement. L’enseignant.e devrait alors chercher à en savoir 
+plus, lors d’un entretien.
+Trois formes d’utilisation inadéquate et abusive des médias 
+sont abordées ci-après, à savoir le cyberharcèlement,  
+les abus sexuels en lien avec les outils et médias numériques 
+et l’utilisation frauduleuse de données. Dans ces trois cas, 
+l’école peut jouer un rôle clé en matière de prévention.
+Que faire en cas de cyberharcèlement?
+Le cyberharcèlement (aussi appelé cybermobbing ou cyber- 
+intimidation) est une forme particulière de harcèlement.  
+Il y a cyberharcèlement lorsqu’un individu ou un groupe nuit 
+intentionnellement à une personne via les médias numé-
+riques, au moyen de messages et d’images agressifs ou 
+haineux. Le cyberharcèlement se distingue du harcèlement 
+classique sur quelques points: les auteurs sont parfois 
+anonymes et les contenus, diffusés très rapidement, dispo-
+nibles en ligne 24h/24, souvent pendant longtemps.  
+Mais attention: tous les conflits qui commencent dans la 
+cour de récréation et se poursuivent sur le tchat d’un  
+réseau social et tous les SMS injurieux ne constituent pas 
+du cyberharcèlement. Dans le contexte scolaire, le cyber- 
+harcèlement peut se produire entre élèves, mais pas uni-
+quement: il arrive aussi que des enseignant.e.s et d’autres 
+personnes de l’environnement scolaire soient concerné.e.s.
+38
+Selon les études consacrées à ce sujet, les critères utilisés 
+pour évaluer l’ampleur du cyberharcèlement diffèrent.  
+Les chiffres concernant la fréquence du cyberharcèlement 
+doivent donc être interprétés avec prudence. Selon l’étude 
+EU Kids Online sur la Suisse (2019), 2 à 5% des 9–16 ans ont 
+déjà été violemment harcelés en ligne, et font l’expérience 
+d’un comportement haineux au moins une fois par semaine.
+Les grandes souffrances engendrées par le cyberharcèle-
+ment dépendent de la capacité de résistance psychique de 
+la victime et du soutien sur lequel elle peut compter dans 
+son entourage. Les conséquences du cyberharcèlement sont 
+diverses, allant de la perte de la confiance en soi à la 
+dépression, en passant par de l’angoisse.
+Que peuvent faire les écoles pour prévenir  
+le cyberharcèlement? 
+Le mieux est d’intégrer la prévention du cyberharcèlement 
+dans la prévention du harcèlement. Dans les écoles 
+entretenant une culture ouverte de la communication,  
+qui adoptent une position claire et où les procédures  
+à suivre en cas d’incident sont connues, les élèves sont 
+davantage enclins à signaler un problème. Par ailleurs,  
+les enseignant.e.s sont aussi sensibilisé.e.s par les mesures 
+de prévention et la charge qui pèse sur leurs épaules  
+est réduite lorsqu’un processus standard a été défini. 
+Que faire en cas de problème grave?
+Les adultes doivent écouter attentivement et garder leur 
+calme. Il faut ensuite bloquer sans attendre la personne  
+à l’origine du harcèlement et la signaler au réseau social ou 
+au forum de tchat concerné. Il est aussi conseillé de 
+sauvegarder des preuves des propos et photos publiés sur 
+messagerie (captures d’écran) avant d’effacer – si possible 
+– tous les contenus en ligne ou en demander le retrait  
+aux gestionnaires du portail. Les textes et les images ayant 
+trait à l’acte commis sont à conserver en tant que moyens 
+de preuve. Une personne responsable est désignée;  
+elle définit des mesures contraignantes avec toutes les 
+personnes concernées. Si les mesures prises au sein de 
+l’école ne portent pas leurs fruits, les parents sont également 
+avertis. Il faut évaluer la nécessité de porter plainte,  
+par exemple en collaboration avec les travailleuses et 
+travailleurs sociaux, un service de consultation de la police 
+ou un centre d’aide aux victimes d’infractions (LAVI), car 
+une procédure pénale risque parfois d’aggraver la situation.
+Que faire contre les abus sexuels en lien
+avec les outils et médias numériques?
+Lorsque les jeunes commencent à s’intéresser à la sexuali-
+té, les outils et médias numériques jouent aussi souvent  
+un rôle. Spontanément les jeunes cherchent des renseigne-
+ments sur Internet, regardent de la pornographie ou flirtent 
+par tchat. Cela n’est d’ailleurs pas problématique tant  
+que certaines limites sont respectées. Selon l’étude EU Kids 
+Online (2019), près d’un quart des 9–16 ans reçoivent  
+des messages à caractère sexuel sur les médias numériques, 
+ce qui peut brouiller les frontières entre plaisir, découverte 
+de sa propre sexualité et maltraitance.
+Mais lorsque les frontières personnelles des enfants et des 
+jeunes sont franchies ou que des pédocriminels profitent  
+de l’anonymat d’Internet pour contacter des mineurs,  
+la situation est problématique, voire délictuelle. Ainsi, selon 
+l’étude EU Kids Online, près d’un cinquième des enfants et 
+des jeunes suisses ont été invités à donner des informations 
+sexuelles les concernant alors qu’ils ne souhaitaient 
+absolument pas en parler. 
+L’école peut remplir ici une fonction préventive non négli- 
+geable, en particulier pour les enfants dont les parents  
+ne remplissent pas suffisamment leur rôle en matière d’édu- 
+cation sexuelle. 
+En prenant clairement
+position contre la violence,
+l’école soutient les élèves
+concernés.
+39
+Que peuvent faire les écoles pour prévenir
+les abus sexuels en lien avec les outils et
+médias numériques?
+Un travail permanent sur les compétences réflexives et
+sociales des élèves de même que l’attention et l’écoute de
+leurs souhaits et préoccupations constituent ici aussi la
+meilleure protection. L’utilisation des outils et médias
+numériques peut être intégrée à l’éducation sexuelle à
+l’école. Différents thèmes peuvent être traités en classe:
+•	Quelle image est-ce que je donne de moi sur Internet?
+•	Si je tchatte avec un inconnu, c’est avec défiance et  
+sans jamais fournir ni coordonnées ni photos. Si une ren- 
+contre doit avoir lieu, c’est toujours en présence d’un.e 
+adulte et dans un lieu public.
+•	Je réfléchis à deux fois avant de prendre des photos 
+érotiques ou pornographiques de moi-même et les 
+échanger. La même chose vaut pour les textes. Outre les 
+dommages qu’on peut créer envers soi-même,  
+la transmission de matériel pornographique à des jeunes 
+de moins de 16 ans est punissable, tout comme la 
+création, la transmission et la consommation de matériel 
+pornographique mettant en scène des mineurs (y c. 
+soi-même dans certaines circonstances). Par ailleurs, il y 
+a aussi un risque de chantage (sextorsion).
+•	A qui puis-je m’adresser si je tombe sur des contenus 
+médiatiques dérangeants ou si je fais de mauvaises 
+expériences?
+Que faire contre l’utilisation frauduleuse 
+de données?
+Beaucoup de personnes, dont quantité d’enfants et 
+d’adolescent.e.s, livrent sur Internet leurs propres images 
+ou des données personnelles: par messagerie, sur des 
+réseaux sociaux, en envoyant des textes ou des images,  
+en participant à des concours, à des enquêtes ou à des 
+tchats, mais aussi en utilisant des services en ligne dans le 
+cadre des cours.
+Selon l’étude suisse JAMES 2020, 32% des enfants et des 
+jeunes déclarent s’être déjà retrouvés dans la situation où 
+des photos ou des vidéos d’eux ont été mises en ligne sans 
+leur accord. La loi sur la protection des données protège 
+contre l’utilisation frauduleuse de données personnelles, 
+sans pour autant offrir une protection absolue. Cela tient 
+aux caractéristiques d’Internet: une photo prise avec un 
+smartphone, puis envoyée à cinq ami.e.s via un service de 
+messagerie peut être diffusée à toute vitesse et sans  
+le moindre contrôle. Il est donc indispensable d’avoir une 
+attitude responsable vis-à-vis de ses propres données. 
+Que peuvent faire les écoles pour prévenir 
+l’utilisation frauduleuse de données?
+En 2010, à peine plus de la moitié des jeunes utilisatrices  
+et utilisateurs des réseaux sociaux avaient réglé les 
+paramètres de confidentialité; en 2020, ils étaient 66% à 
+l'avoir fait. Cette augmentation tient à différentes mesures 
+d’éducation aux médias visant à sensibiliser le public à la 
+protection de la sphère privée et à la prise de conscience de 
+l’utilisation que font les jeunes d’Internet.
+Pendant les cours, les élèves manipulent des images, des
+vidéos et des données, et s’entraînent à la communication
+numérique. Pour que les acquis soient durables, il faut
+profiter de l’occasion pour aborder différentes questions
+relatives à la protection des données et de la sphère privée.
+En voici quelques exemples:
+•	Ne pas prendre de photos ni de vidéos sans l’assentiment 
+des personnes concernées (enseignant.e.s, élèves ou 
+tiers).
+•	Choisir des pseudonymes et des mots de passe sûrs. Ne 
+communiquer son mot de passe à personne.
+•	Avant de mettre en ligne des photos, des films ou des 
+informations personnelles, obtenir l’accord des personnes 
+concernées et respecter le droit à l’image. Les enfants  
+et les jeunes n’y prennent pas garde en dehors de l’école. 
+Pourtant, une telle pratique enfreint souvent la loi.
+40
+•	Ne pas accepter n’importe quel nouveau contact ou 
+nouvel «ami» et respecter la nétiquette.
+•	Sur les médias sociaux, régler les paramètres de 
+confidentialité et les contrôler régulièrement.
+Où trouver de l’aide?
+Il arrive que les conséquences d’une utilisation inadéquate
+ou abusive des médias dépassent l’expertise et la responsa-
+bilité des enseignant.e.s et de l’école. Il existe dans tous
+les cantons différents services et offres d’information qui
+peuvent alors être utiles:
+Lorsqu’un problème a été identifié
+•	La police, et notamment la brigade des mineurs du 
+canton, avec laquelle il est utile que l’école entretienne 
+des contacts indépendamment de tout problème concret
+•	Le centre d’aide aux victimes d’infractions (LAVI)
+•	Le service social de l’école
+•	Le service cantonal de promotion de la santé et de 
+prévention
+•	Le Service national de coordination de la lutte contre la 
+criminalité sur Internet (SCOCI) et la Prévention suisse de 
+la criminalité. 
+Pour se former et s’informer
+•	La plateforme nationale Jeunes et médias  
+(www.jeunesetmedias.ch) fournit une base de données  
+des offres et services pour les parents, les enfants et les 
+enseignant.e.s. Elle a également publié dans plusieurs 
+langues une brochure et un dépliant sur les compétences 
+médiatiques.
+•	Le site de la Prévention suisse de la criminalité  
+(www.skppsc.ch) fournit des informations sur le cyberhar-
+cèlement et la législation en vigueur. Il propose plusieurs 
+brochures: «My little Safebook» en deux versions:  
+une pour les adolescent.e.s et une pour les parents, 
+«Pornographie: Agir de bon droit», «Cyberharcèlement: 
+Agir de bon droit» et «Mon image: Agir de bon droit».
+•	La plateforme d’information ciao.ch (www.ciao.ch) est 
+une mine d’informations pour les jeunes, qui peuvent  
+y poser leurs questions (forum, questions-réponses 
+respectant l’anonymat). Elle contient aussi une partie 
+consacrée aux dangers d’Internet.
+•	Les HEP et les universités proposent des offres de 
+formation continue. Elles sont aussi dotées de services  
+de recherche spécialisés et de centres de documentation.
+•	La classification par âge des films, vidéos, DVD et  
+jeux vidéo en fonction du contenu: https://pegi.info/fr
+Pour les victimes
+•	 La ligne d’aide 147 (www.147.ch) de Pro Juventute fournit 
+une aide directe et rapide aux enfants et aux jeunes.
+•	Le centre d’aide aux victimes d’infractions (LAVI)
+Pour organiser des actions de prévention
+•	 La prévention suisse de la criminalité a publié plusieurs 
+brochures disponibles sur le site https://www.skppsc.ch/fr/: 
+«My little Safebook», sur le harcèlement en ligne, 
+s’adresse aux jeunes, aux parents et aux titulaires de 
+l’autorité parentale. Sont aussi disponibles des brochures 
+sur la thématique de la pornographie, du cyberharcèle-
+ment et sur «l’image de soi».
+•	Pro Juventute (www.projuventute.ch) fournit des informa-
+tions sur le droit à l’image, le sexting, le cyberharcèle-
+ment, etc.
+•	Les écoles trouveront sur le site de l’Office fédéral de la 
+santé publique une charte, un guide et les bases légales 
+relatives à la prévention et à l’intervention précoce: 
+https://www.bag.admin.ch/bag/fr/home/gesund-leben/
+gesundheitsfoerderung-und-praevention/praeven-
+tion-fuer-kinder-und-jugendliche/frueherkennung-fruehin-
+tervention-bei-jugendlichen.html
+La classification par âge des films, vidéos, DVD et jeux vidéo
+en fonction du contenu: https://pegi.info/fr
+La prévention du
+cyberharcèlement doit
+être integrée dans
+la prévention du harcè-
+lement à l’école.
+41
+Les écoles disposent d’une foule de données personnelles
+sur les élèves, souvent sous une forme numérique: résultats 
+d’examens, auto-évaluations, bulletins scolaires, informa-
+tions confidentielles sur des problèmes de santé ou sur des 
+troubles de l’apprentissage, mais encore enregistrements 
+(audio-)visuels faits pendant les cours et traces laissées par 
+les élèves en naviguant sur la Toile. Comment les ensei-
+gnant.e.s, les directeurs et directrices d’établissement et 
+les autres professionnel.le.s intervenant dans le milieu 
+scolaire assurent-ils la sécurité de ces données?
+Quelles sont les bases juridiques?
+En vertu de l’art. 13 de la Constitution fédérale, toute 
+personne a le droit d’être protégée contre l’emploi abusif 
+des données qui la concernent. Cela signifie que chaque 
+être humain a un droit fondamental à l’autodétermination 
+en ce qui concerne les informations et peut décider 
+librement si, quand et comment ses données personnelles 
+peuvent être publiées ou utilisées. Les autres bases 
+juridiques, telles que la loi fédérale sur la protection des 
+données, le Code pénal et les lois cantonales de protection 
+des données visent à protéger ce droit fondamental  
+inscrit dans la Constitution et à garantir la protection de la 
+personnalité et de la sphère privée. Les lois cantonales  
+sont applicables dans le domaine des écoles publiques, 
+tandis que la loi fédérale sur la protection des données 
+s’applique aux écoles privées.
+Qu’en est-il de l’application du droit dans 
+les écoles?
+Dans le contexte scolaire, l’exécution du mandat légal de 
+l’école en matière d’éducation se heurte souvent à 
+l’exigence d’autodétermination quant aux informations.
+Idéalement, il faudrait concilier ces deux objectifs.
+Dans la plupart des cas, les personnes qui travaillent direc- 
+tement avec les élèves ont le droit d’échanger entre elles 
+des données relatives à ces derniers (sans pour autant y 
+être obligées). Les élèves et leurs parents peuvent deman-
+der des renseignements sur les données personnelles 
+enregistrées à leur sujet ou même y avoir accès. Les don- 
+nées dont l’école n’a plus besoin sont généralement 
+conservées pendant un certain temps, puis remises aux 
+archives communales ou cantonales.
+Si ces dernières ne s’y intéressent pas, les données 
+devraient immédiatement être supprimées.
+Plusieurs cantons ont publié des recommandations relatives 
+à la protection des données, pour aider les directions 
+d’établissement et le corps enseignant à répondre aux ques-
+tions sur la protection des données sensibles (voir réfé-
+rences en fin de chapitre).
+De quels aspects sécuritaires faut-il tenir 
+compte dans l’emploi des médias numé-
+riques?
+Les appareils numériques tels qu’ordinateurs, tablettes et 
+téléphones portables facilitent la consultation et l’échange 
+de données, mais il peut en résulter des transferts illicites.
+Le défi consiste à trouver des solutions sûres et néanmoins 
+rapides ainsi que d'usage aisé. Par ailleurs, il faut pouvoir 
+contrôler ces systèmes. C’est une des raisons pour  
+lesquelles il est recommandé d’utiliser des systèmes open 
+source pour les applications informatiques appelées à 
+garantir la protection des données. Grâce aux codes source 
+ouverts et au fait que ces logiciels sont généralement 
+développés par plusieurs informaticien.ne.s indépendant.e.s, 
+les codes de ces programmes sont sans cesse améliorés. 
+Ces améliorations incluent la vérification de lacunes de 
+sécurité éventuelles.
+08_SÉCURITÉ DES DONNÉES
+SCOLAIRES
+ 
+42
+Communication
+L’échange d’informations nécessaire pour l’administration 
+scolaire porte souvent sur des données personnelles 
+sensibles. De ce fait, les protocoles de communication 
+utilisés dans le contexte scolaire doivent présenter  
+deux caractéristiques essentielles: la confidentialité 
+(seules les personnes autorisées doivent en avoir connais-
+sance) et l’imputabilité (expéditrice, expéditeur et 
+destinataire des données doivent être clairement identi-
+fiables).
+Lors d’un entretien téléphonique, on peut supposer que la 
+confidentialité est garantie. Il faut néanmoins être attentif à 
+l’imputabilité, car il est difficile de vérifier l’identité d’un 
+interlocuteur, à moins de le connaître personnellement.
+L’échange d’informations par courrier postal est, quant à lui, 
+plus facilement conforme au principe d’imputabilité,  
+mais beaucoup plus lent. Outre les lettres et le téléphone, 
+les administrations scolaires utilisent de plus en plus 
+souvent les courriels comme moyen de communication.  
+Si les courriels sont simples et efficaces dans leur forme 
+initiale, on ne saurait les qualifier de confidentiels ni 
+considérer qu’ils respectent le principe d’imputabilité.
+C’est pourquoi il est important de choisir un opérateur de 
+messagerie dont le for est situé en Suisse, et le contrat 
+soumis au droit suisse. Dans l’idéal, il devrait s’agir d’un 
+opérateur suisse, ce qui est notamment le cas de Pro- 
+tonMail (http://protonmail.com/fr/). Pour améliorer encore 
+la sécurité, il est vivement recommandé d’utiliser un  
+outil additionnel de protection, par exemple Enigmail  
+(www.enigmail.net). La confidentialité doit être garantie 
+non seulement pour le contenu des courriels, mais aussi 
+pour les autres paramètres de communication, comme  
+le cercle des destinataires. En règle générale, les courriels 
+adressés en nombre devraient masquer l’adresse des 
+destinataires (Cci, copie cachée).
+Les messageries instantanées installées sur les téléphones 
+portables, qui permettent généralement des tchats de 
+groupe, sont encore plus simples à utiliser que des courriels. 
+Mais pour garantir la protection des données, il faut utiliser 
+un logiciel libre assurant une communication protégée  
+de bout en bout, à l’instar de Signal (http://signal.org/fr/).  
+Si l’on part du principe que tou.te.s les participant.e.s ne 
+disposent pas d’un téléphone portable, on peut se tourner 
+vers Element (https://element.io/), qui permet de s’inscrire 
+sous un pseudonyme sans obligatoirement fournir son 
+numéro ou son adresse mail.
+Sécurité de l’infrastructure locale
+Alors que, traditionnellement, pour protéger les informations 
+papier, on utilise des locaux, des meubles ou des conteneurs 
+pouvant être fermés à clé, la protection des données 
+électroniques passe par des pare-feu, des VPN (virtual pri- 
+vate networks, interfaces de réseau sécurisées), des mots  
+de passe et des mécanismes de cryptage. Il est recommandé 
+de séparer les réseaux de l’administration et ceux de l’école.
+L’offre de Swisscom «Internet à l’école» inclut un pare-feu 
+et des interfaces VPN. Les écoles qui choisissent un autre 
+opérateur ou qui souhaitent garantir localement la sécurité 
+des données peuvent utiliser des solutions spécifiques  
+et simples, comme IPFire (http://www.ipfire.org).  
+Pour l’encodage des données, il est recommandé de choisir 
+VeraCrypt (http://www.veracrypt.fr).
+En ce qui concerne les informations sur papier, des mesures 
+architectoniques (ayant trait par ex. à la protection contre 
+les incendies) évitent la disparition des données matérielles. 
+Dans le monde numérique, copies de sauvegarde et 
+programmes antivirus servent à protéger les données.
+WLAN
+Les signaux radio du WLAN, réseau local de transmission 
+sans fil, sont accessibles dans toute la zone de transmission, 
+donc souvent au-delà de l’enceinte de l’établissement 
+scolaire. Dès lors, ils peuvent être interceptés par des tiers 
+non autorisés. L’école est tenue de protéger les données 
+confidentielles contre l’accès de tiers et de veiller à ce que 
+ceux-ci n’entravent pas la disponibilité du réseau Internet et 
+à ce qu’ils n’en abusent pas pour mener des activités 
+illicites. Ce devoir de protection s’oppose à l’objectif de 
+l’école d’offrir un accès rapide et facile à Internet à toutes 
+les personnes autorisées.
+Généralement, le réseau WLAN n’est accessible qu’au 
+moyen d’une clé commune (pre-shared key). C’est une 
+méthode simple et facile d’usage, mais dès que la clé est 
+confiée à un tiers, la protection du réseau n’est plus 
+garantie. Les établissements scolaires devraient donc si 
+possible utiliser un WPA-Enterprise qui protège l’accès au 
+43
+réseau à l’aide d’un nom d’utilisateur et d’un mot de passe 
+ou de certificats. L’information «Ecole, TIC et protection des 
+données» des guides.educa.ch propose encore d’autres 
+méthodes de protection des réseaux WLAN.
+Supprimer les données en toute sécurité
+Pour détruire des données papier, on utilise des broyeurs de 
+documents ou on les élimine à l’usine d’incinération, mais on 
+ne se fie jamais à la corbeille ni à la collecte de vieux papiers.
+La situation est comparable pour les médias numériques 
+dont les fonctions standard de suppression des fichiers sont 
+en quelque sorte l’équivalent numérique des corbeilles à 
+papier: les données ne s’affichent plus à l’écran, mais elles 
+continuent d’exister quelque part. Pour effacer complète-
+ment et définitivement les données numériques, il faut 
+prendre des mesures supplémentaires spécifiques au système 
+d’exploitation utilisé.
+Services en nuage (cloud)
+Aujourd’hui, les écoles utilisent souvent des services en 
+nuage mis à leur disposition par des prestataires externes.
+Ces services sont très prisés, parce qu’ils permettent 
+d’accéder aux données et aux applications depuis n’importe 
+quel lieu ou terminal.
+Cela ne libère pas pour autant les écoles de leurs responsa-
+bilités quant au traitement des données. Chaque établisse-
+ment doit continuer à remplir ses obligations en matière  
+de protection des données et de sécurité des informations, 
+ce qui empêche parfois de recourir à un prestataire externe 
+pour le stockage et le traitement des données. La religion et 
+la santé physique et psychique font partie des données 
+personnelles qu’il faut spécialement protéger.
+Du point de vue juridique, sont notamment problématiques 
+les prestataires qui ne sont pas soumis au droit suisse ou 
+qui n’ont pas de for en Suisse. Chez eux, les établissements 
+n’ont souvent pas la possibilité ou le droit d’exiger une 
+correction ou une suppression des données. Du point de vue 
+technique, il faut garantir que les contenus soient toujours 
+traités de manière confidentielle et protégés du regard des 
+prestataires externes. Ces exigences (juridiques et 
+techniques) sont actuellement remplies par le logiciel
+Seafile (http://www.seafile.com) et des fournisseurs suisses 
+comme Metanet (http://www.metanet.ch) ou Galaxyweb 
+(http://www.galaxyweb.ch). Des solutions en nuage local, 
+basées par exemple sur Nextcloud (http://nextcloud.com/), 
+garantissent aussi des services conformes aux exigences de 
+sécurité. Toutefois, il faut pour cela que l’infrastructure 
+utilisée par l’établissement soit fournie par une entreprise 
+informatique digne de confiance, la commune ou le canton.
+Données publiées sur le site web de l’école
+De nombreuses écoles publient des informations sur leur 
+site web, leurs blogs ou les réseaux sociaux. Lorsqu’elles 
+mettent en ligne des données personnelles, notamment des 
+images ou des vidéos, elles doivent respecter les principes 
+de protection des données et de la personnalité. Le droit  
+à l’image prévoit en particulier que, pour publier des photos 
+de personnes, il faut impérativement avoir leur accord (ou 
+celui de leurs parents ou représentants légaux). En outre,  
+il est déconseillé que les écoles exploitent des pages ou des 
+forums non modérés sur leur site web, car elles peuvent 
+aussi être responsables des contenus diffusés par ces 
+canaux.
+Les utilisateurs des sites web de l’école doivent également 
+bénéficier de la protection des données. Il ne faudrait donc 
+pas avoir recours à des prestataires externes pour les 
+statistiques du site, mais privilégier une solution locale, 
+comme Matomo (http://matomo.org).
+Pour aller plus loin
+Recommandations cantonales pour la protection des données: https://www.
+educa.ch/fr/conditions-cadre-pour-la-protection-des-donnees-dans-les-ecoles 
+Navigateur educa permettant de comparer les applications pour l’enseignement 
+en tenant compte de la protection des données: http://navi.educa.ch 
+Guide educa Protection des données: https://biblio.educa.ch/sites/default/files/
+guide_protection_des_donnees.pdf
+Lignes directrices du canton de Berne en matière de protection des données: 
+https://www.erz.be.ch/erz/fr/index/kindergarten_volksschule/kindergarten_
+volksschule/ict_an_den_schulen.assetref/dam/documents/ERZ/AKVB/fr/09_
+Schulleitungen_Lehrpersonen/sl_lp_Unterlagen_datenschutz_leitfaden_f.pdf
+Outils pédagogiques pour la protection des données (PFPDT) :
+https://www.edoeb.admin.ch/edoeb/fr/home/protection-des-donnees/
+Internet_und_Computer/jeunes-et-internet/lehrmittel-datenschutz.html
+S’appuyer sur des  
+solutions sûres pour 
+les services en nuage!

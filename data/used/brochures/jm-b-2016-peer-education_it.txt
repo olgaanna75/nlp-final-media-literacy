@@ -1,0 +1,1498 @@
+Per gli  
+specialisti delle 
+attività ­giovanili  
+e della scuola
+COMPETENZE MEDIALI ED  
+EDU­CAZIONE O TUTORAGGIO TRA PARI
+ESEMPI DI PROGETTI E CRITERI DI QUALITÀ
+Colophon
+A cura di
+Giovani e media
+Piattaforma nazionale per la promozione delle competenze mediali
+Ufficio federale delle assicurazioni sociali (UFAS)
+jugendschutz@bsv.admin.ch 
+www.giovaniemedia.ch
+Testi redatti da: 
+Martina Späni & Klaus Petrus 
+in collaborazione con Olivier Steiner (FHNW), Rahel Heeg (FHNW), 
+Colette Marti (UFAS) e Liliane Galley (UFAS) 
+Ordinazione (gratuita):
+ 
+UFCL, Vendita di pubblicazioni federali, CH-3003 Berna
+www.pubblicazionifederali.admin.ch, e-mail: vendita.civile@bbl.admin.ch
+(numero di ordinazione 318.859.i)
+10.2016 1 000
+Disponibile in italiano, francese e tedesco
+Layout: KARGO Kommunikation GmbH
+1a edizione, ottobre 2016
+© 2016 Giovani e media – Piattaforma nazionale per la promozione delle competenze mediali,  
+Ufficio federale delle assicurazioni sociali
+3
+CARE LETTRICI, 
+CARI LETTORI
+ 
+Principali mezzi di comunicazione della nostra moderna cultura delle tecnologie dell’informazione e della comunicazione,  
+i media digitali hanno un influsso sulla nostra vita quotidiana in tutti gli ambiti, dal lavoro alla scuola fino al tempo libero.  
+I bambini e i giovani devono imparare a utilizzare i media digitali in modo sicuro e responsabile, ovvero acquisire competen-
+ze mediali. Oltre ai genitori, anche i giovani possono svolgere un ruolo importante nella promozione delle competenze 
+mediali, poiché in questa fase della vita i coetanei («pari») assumono un’importante funzione socializzatrice. Con l’aumenta-
+re dell’età dei giovani, i genitori e la scuola perdono progressivamente importanza nell’apprendimento dell’uso dei media 
+digitali, lasciando il posto al gruppo di pari. Il principio secondo cui i giovani imparano dai giovani presenta enormi potenzia-
+lità per quanto riguarda la promozione delle competenze mediali a scuola e nel settore delle attività giovanili aperte a tutti. 
+Tuttavia, l’apprendimento informale tra coetanei è a tutt’oggi scarsamente considerato nel quadro delle numerose proposte 
+in materia di pedagogia mediale. 
+La presente guida illustra i risultati principali di uno studio di valutazione dell’Ufficio federale delle assicurazioni sociali  
+e mostra, con esempi concreti di progetti, le difficoltà e i criteri qualitativi dell’approccio del coinvolgimento dei pari per 
+l’attività pratica. La pubblicazione è destinata agli specialisti degli ambiti della scuola e del tempo libero, in particolare 
+agli insegnanti dei livelli secondari I e II, nonché agli specialisti del settore delle attività giovanili aperte a tutti. Volto  
+a incentivare lo svolgimento di progetti per la promozione delle competenze mediali tra coetanei, la guida fornisce  
+indicazioni sui fattori da considerare per un’attuazione ben riuscita.
+Buona lettura!
+Ludwig Gärtner 
+Direttore supplente, capo dell’Ambito 
+Famiglia, generazioni e società, Ufficio 
+federale delle assicurazioni sociali
+4
+INDICE 
+ 
+Di cosa tratta e a chi è destinata questa guida	
+5
+01_ ___ Utilizzo dei media digitali e competenze mediali	
+6
+Imparare dai coetanei	
+	
+6
+Che cosa s’intende per competenze mediali?	
+7
+02_ ___ Coinvolgimento dei pari: i giovani formano i giovani	
+8
+Che cosa s’intende per coinvolgimento dei pari?	
+8
+Forme e obiettivi del coinvolgimento dei pari	
+8
+Difficoltà a livello di attuazione	
+	
+9
+03_ ___ Il progetto globale e i sette progetti di coinvolgimento dei pari	
+10
+Gli attori	
+10
+Un risultato fondamentale	
+11
+Rappresentazioni teatrali, streaming radiofonici e blog: presentazione dei sette progetti		
+	
+12
+04_ ___ Esperienze e conoscenze acquisite grazie ai progetti di coinvolgimento dei pari	
+22
+Quello che conta è il contesto	
+	
+22
+Collaborazione nel quadro di progetti	 	
+	
+24
+Educatori e tutori tra pari	
+26
+Temi e attività dei progetti	
+28
+Conclusione: l’approccio del coinvolgimento dei pari richiede un notevole impegno nella fase di attuazione	
+29
+05_ ___ Criteri di qualità: elementi importanti per il successo di un progetto	
+	
+31
+Bibliografia 	
+34
+Glossario	
+	
+35
+5
+Ormai da diverso tempo i media digitali sono parte integran-
+te della vita quotidiana dei bambini e dei giovani. Gli 
+apparecchi multifunzionali influenzano durevolmente il loro 
+modo di interagire, giocare, trascorrere il tempo libero e 
+acquisire conoscenze. Al primo posto tra gli apparecchi che 
+hanno permesso questa evoluzione troviamo lo smartphone: 
+esso consente di telefonare, chattare, scattare foto e girare 
+video, mandare messaggi, guardare video, salvare dati e 
+caricarli su piattaforme online, consultare orari, determinare 
+la propria posizione geografica, avere sempre a portata di 
+mano l’agenda e tanto altro ancora.
+Vista la varietà di forme dei media digitali, è diventato 
+praticamente impossibile avere una panoramica chiara 
+delle loro possibilità di utilizzo e, di conseguenza, anche 
+delle opportunità e dei rischi a essi connessi. I responsabili 
+dell’educazione e della formazione affrontano già da 
+diversi anni la questione di come promuovere le competenze 
+mediali dei bambini e dei giovani. 
+DI COSA TRATTA E A CHI 
+È DESTINATA QUESTA GUIDA
+ 
+La presente guida fornisce informazioni su una via finora 
+ancora poco seguita, ma molto promettente: la promozione 
+delle competenze mediali dei giovani da parte dei giovani 
+stessi. Il metodo alla sua base è denominato «coinvolgimen-
+to dei pari» (peer involvement). Si tratta di un approccio 
+pedagogico che tiene conto del fatto che per l’utilizzo dei 
+media i giovani preferiscono interagire con i propri amici o 
+la propria compagnia e che in questo contesto si svolgono 
+processi di apprendimento e di socializzazione fondamentali.
+Con la presente guida s’intende far sì che gli specialisti delle 
+attività giovanili aperte a tutti e gli insegnanti dei livelli 
+secondari I e II si familiarizzino con questo tipo di promozio-
+ne delle competenze mediali e siano motivati a svolgere 
+propri progetti di questo genere. La pubblicazione presenta 
+sia i vantaggi peculiari del metodo in oggetto che le 
+difficoltà specifiche che potrebbero porsi nell’attuazione 
+pratica. Le informazioni presentate nelle pagine seguenti 
+si basano sulle valutazioni di sette progetti di coinvolgimento 
+dei pari condotti negli scorsi anni in Svizzera. 
+Contenuto e struttura
+Il capitolo 1 concerne il modo in cui generalmente i giovani ricorrono ai media e tratta quindi la questione di cosa 
+renda competente un utente, vale a dire: quali abilità e capacità costituiscono le competenze mediali?
+Il capitolo 2 presenta e illustra l’approccio del coinvolgimento dei pari, con i motivi per cui esso si presta concettual-
+mente all’apprendimento mediale dei giovani e potrebbe quindi essere adatto a promuoverne le competenze mediali. 
+Il capitolo 3 presenta sette progetti concreti incentrati sull’educazione o sul tutoraggio tra pari che hanno posto 
+l’accento in particolare sulla promozione delle competenze mediali. Svolti in Svizzera, questi progetti sono stati valutati 
+per capire se il coinvolgimento dei pari sia un approccio adeguato per la promozione delle competenze mediali. 
+Il capitolo 4 è dedicato alle esperienze e alle conoscenze acquisite grazie ai progetti. Quali sono state le difficoltà, ­ 
+quali successi si sono ottenuti, cosa si è rivelato utile e quali aspetti sono stati semplicemente sottovalutati? 
+Il capitolo 5 indica i criteri di qualità che dovrebbero aiutare a realizzare progetti riusciti sul tema dei media digitali 
+con i giovani. 
+6
+dell’età gli adulti, in particolare quelli della propria famiglia  
+o dell’ambito scolastico, perdono progressivamente 
+importanza per i giovani per quanto concerne l’utilizzo dei 
+media digitali. 
+I responsabili dell’educazione e della formazione sono 
+consapevoli del fatto che l’uso dei media comporta opportu-
+nità, ma cela anche rischi. Di conseguenza, si presta grande 
+attenzione alla prevenzione di tali rischi, ossia si cerca di 
+tutelare i giovani dalle conseguenze negative dei media 
+digitali. Tuttavia, se si chiede un po’ più direttamente cosa 
+significhi esattamente utilizzare i media digitali in modo 
+competente, ci si trova di fronte a una panoplia di capacità  
+e abilità necessarie o importanti che comportano non solo 
+rischi ma anche molte opportunità.
+01_UTILIZZO DEI MEDIA DIGITALI  
+E COMPETENZE MEDIALI
+ 
+Imparare dai coetanei
+Lo studio JAMES rileva ogni due anni il comportamento dei 
+giovani in Svizzera in materia di utilizzo dei media e indica le 
+tendenze al riguardo. Il forte coinvolgimento degli adolescen-
+ti negli spazi della comunicazione digitale è palese: quasi 
+tutti i giovani svizzeri tra i 12 e i 19 anni possiedono un 
+proprio smartphone e circa tre quarti dispongono anche di un 
+proprio computer. Inoltre, quasi il 90 per cento ha un profilo 
+in una rete sociale quale Facebook o Twitter e praticamente 
+tutti hanno accesso a Internet a casa.
+Come avviene la socializzazione mediale, ovvero l’acquisi­
+zione di competenze mediali, tra i giovani? Se i bambini 
+imparano a usare i media sostanzialmente osservando e 
+imitando i loro modelli adulti, gli adolescenti preferiscono 
+l’interazione in gruppi di coetanei. I problemi nell’utilizzo 
+dei media digitali vengono spesso risolti con gli amici. 
+Analisi scientifiche dimostrano che con l’aumentare 
+7
+Che cosa s’intende per competenze mediali?
+Chi richiede competenze mediali o cerca di definirle si trova di 
+fronte a un universo variegato di contenuti mediali realizzati 
+da singoli o gruppi a livello linguistico, filmico, fotografico o 
+acustico e utilizzati anche a scopi sociali, politici o economici. 
+La sfida pedagogica consiste nell’analizzare questo comples-
+so universo dell’utilizzo dei media e ordinarlo in modo da 
+poter individuare percorsi pedagogici. Cosa si deve sapere o 
+saper fare, per esempio, per caricare una foto su Instagram, 
+creare una pagina Facebook, distinguere gli amici virtuali da 
+quelli reali o valutare l’obiettività di una notizia? Cosa sono 
+allora le competenze mediali? Secondo l’esperto di pedago-
+gia mediale Heinz Moser, si possono distinguere i quattro tipi 
+di competenze seguenti:
+Competenze mediali tecniche: conoscere  
+le basi tecniche 
+Chi non sa dove e come accendere il cellulare non può 
+telefonare. E chi non ha idea di cosa significhino malware, 
+phishing o antivirus dovrà ben presto reinstallare il 
+proprio computer. Per competenze mediali tecniche 
+s’intendono le capacità indispensabili per poter utilizzare 
+praticamente i media digitali nella vita quotidiana. Chi
+vuole muoversi nel mondo dei media digitali deve disporre  
+di conoscenze di base che gli permettano di utilizzare 
+hardware e software e svolgere attività di manutenzione  
+e installazione. Per questo occorre anche capire alcune 
+espressioni tecniche. 
+Competenze mediali culturali: conoscere  
+le varie forme di espressione 
+Gli spazi offerti dai media digitali sono vasti e dinamici  
+e invitano alla scoperta, all’uso e alla creazione. Tuttavia, 
+chi vuole muoversi nel labirinto del World Wide Web non 
+solo cliccando a caso deve acquisire conoscenze per 
+potersi orientare e conoscere i mezzi della creazione di 
+contenuti mediali. Tra questi rientrano codici specifici 
+(si pensi agli hashtag nei tweet), simboli grafici, foto, video, 
+testi o brani musicali. Tali elementi vengono creati, copiati, 
+modificati, collegati tramite un link, inviati e ripubblicati. 
+Per comunicare con successo è necessario conoscere gli 
+elementi per esprimersi in modo consono ai media in 
+questione: un SMS è diverso da un tweet, da un blog o da  
+un post Facebook ecc. Per competenze mediali culturali 
+s’intendono le conoscenze che si riferiscono a questi tipici 
+elementi estetici e sociali delle forme di espressione mediali. 
+Competenze mediali sociali: dare  
+il proprio contributo 
+I media digitali permettono agli utenti di instaurare e curare 
+relazioni sociali, esprimere la propria opinione, partecipare 
+a sondaggi, aderire a gruppi o costituire un gruppo con 
+obiettivi propri. Per competenze mediali sociali s’intendono 
+le capacità di agire in modo comunicativo e cooperativo 
+utilizzando i media digitali. Non si tratta solo di poter comu-
+nicare i propri punti di vista e desideri o sviluppare progetti, 
+ma anche di mantenere il necessario rispetto reciproco 
+nella comunicazione con gli altri ed evitare comportamenti 
+discriminatori come mobbing e razzismo. 
+Competenze mediali riflessive: saper prendere 
+le distanze 
+Tra le varie competenze mediali, queste sono l’obiettivo 
+vero e proprio di molti approcci di pedagogia mediale.  
+Le competenze mediali riflessive comprendono la cap­
+acità di valutare criticamente il proprio comportamento 
+in materia di utilizzo dei media e di vedere i media digitali 
+quali parte della politica (degli interessi), dell’economia 
+e della società. Tra le competenze riflessive rientra 
+anche la capacità di valutare l’obiettività e la rilevanza 
+delle informazioni mediali. Solo la capacità di utilizzare i 
+media digitali con ponderazione e con uno sguardo critico 
+permette di farlo in modo sensato, sicuro e costruttivo. 
+8
+I giovani discutono più spesso con gli amici sulle loro 
+esperienze con i media digitali: si tratta di un dato di fatto 
+e su di esso si è basato il progetto globale sulla promozione 
+delle competenze mediali mediante l’educazione e il 
+tutoraggio tra pari. Ma com’è possibile una tale promozione, 
+se in quanto adulti si è esclusi dal gruppo di giovani? 
+L’approccio del coinvolgimento dei pari risponde a questo 
+interrogativo.
+Che cosa s’intende per coinvolgimento  
+dei pari? 
+Il termine inglese «peer» designa persone dello stesso 
+rango e con le medesime vedute, ragion per cui è stato 
+opportunamente parafrasato con l’espressione «others like 
+us» (altri come noi). Nell’ambito delle scienze sociali, negli 
+anni 1970 il termine si è attestato e diffuso in un’accezione 
+che poneva l’accento sui gruppi di giovani. Il «gruppo di 
+pari» è stato quindi scoperto quale luogo di socializzazione 
+interessante anche dai vari punti di vista della psicologia 
+dello sviluppo: i gruppi di giovani sono in grado di trasmet-
+tere senso di sicurezza, certezze e punti di riferimento; 
+tra coetanei, i giovani imparano nuovi schemi d’azione o ne 
+sperimentano altri. Inoltre, le cerchie di amici e le compa-
+gnie offrono sostegno ai singoli nel processo di separazio-
+ne dalla casa dei genitori.
+Con gli studi e le teorie sui gruppi di pari e sulle cerchie di 
+giovani amici è nata anche una nuova forma d’intervento a 
+sé stante: il coinvolgimento dei pari. Alla base vi è l’idea di 
+formare appositamente alcuni giovani, essi stessi membri 
+del gruppo target, affinché informino altri giovani su temi 
+specifici e incoraggino discussioni sui propri punti di vista  
+e comportamenti. Questa dinamica del dialogo dovrebbe 
+permettere loro di andare oltre la cultura del gruppo. Proprio 
+il fatto di essere tutti sullo stesso piano e la familiarità che 
+caratterizza i rapporti nel gruppo permettono di confrontarsi 
+apertamente anche su temi delicati quali le dipendenze o la 
+sessualità, cosa che risulta invece difficile in contesti di tipo 
+gerarchico con adulti.
+Forme e obiettivi del coinvolgimento dei pari
+ 
+Il coinvolgimento dei pari comprende vari approcci 
+metodologici. Con il tutoraggio tra pari i giovani trasmet-
+tono contenuti chiaramente definiti. Di conseguenza, tra 
+insegnanti (peer tutor) e allievi (peer) i ruoli sono nettamen-
+te distinti. Questo metodo si applica anche in contesti 
+formali quali le classi scolastiche. Per contro, l’educazione 
+tra pari designa uno scambio di informazioni e di esperienze 
+più informale, che viene diretto da giovani appositamente 
+formati (educatori tra pari). Questo metodo è utilizzato 
+prevalentemente in contesti meno formali quali le attività 
+giovanili aperte a tutti. Inoltre, sia presso le scuole che 
+nelle strutture dedicate alle attività giovanili aperte a tutti, 
+i giovani fungono da interlocutori per problemi quali il 
+cyberbullismo – attività denominata consulenza tra pari 
+(peer counseling) – o intervengono quali mediatori per 
+affrontare e risolvere problemi nel quadro della mediazione 
+tra pari (peer mediation).
+Il coinvolgimento dei pari – in particolare con i suoi due 
+approcci dell’educazione e del tutoraggio tra pari – 
+persegue sostanzialmente due obiettivi. In primo luogo si 
+tratta di far sì che i giovani acquisiscano conoscenze e 
+competenze, ma anche che analizzino i loro preconcetti su 
+determinati temi e, possibilmente, cambino quindi il loro 
+parere. Il coinvolgimento dei pari parte dal presupposto  
+che questo obiettivo sia raggiunto in modo particolarmente 
+efficiente se sono i giovani a formare altri giovani. In secondo 
+luogo, oltre a trasmettere contenuti occorre promuovere 
+lo sviluppo della personalità e rafforzare la fiducia dei 
+giovani nei propri mezzi. 
+02_COINVOLGIMENTO DEI PARI:  
+I GIOVANI FORMANO I GIOVANI
+ 
+9
+Difficoltà a livello di attuazione
+Sia nel quadro delle attività giovanili aperte a tutti che nelle 
+classi scolastiche l’applicazione dell’educazione e del 
+tutoraggio tra pari risulta essere quasi sempre particolar-
+mente delicata. Da un lato, infatti, i giovani vanno formati 
+come educatori o tutori tra pari, il che spesso richiede le 
+conoscenze tecniche e il coinvolgimento attivo degli adulti; 
+dall’altro, però, il coinvolgimento dei pari implica proprio che 
+ai giovani sia lasciata la maggiore libertà possibile affinché 
+essi possano far confluire nei progetti le loro idee ed 
+esperienze e realizzarle in modo interessante e utile per loro. 
+Questo gioco di equilibrio porta talvolta a critiche sostan­
+ziali sul coinvolgimento dei pari. Alcuni dei suoi detrattori 
+evidenziano ad esempio il rischio che gli educatori tra pari 
+vengano strumentalizzati dagli adulti, il che può succedere 
+ad esempio quando gli specialisti incentrano i loro progetti 
+solo sui rischi dei media digitali e perseguono quindi unica-
+mente l’obiettivo di diffondere i loro messaggi preventivi 
+tra i giovani. Un altro problema consiste nel fatto che gli 
+educatori tra pari vengono «pedagogizzati» e in un certo 
+qual modo resi «insegnanti ausiliari» troppo presto. Infine, 
+viene fatto notare che spesso i giovani scelti quali educatori 
+o tutori tra pari dispongono già di conoscenze superiori 
+agli altri, il che non fa che accrescere il divario tra educato-
+ri/tutori tra pari e pari.
+Queste obiezioni contro il coinvolgimento dei pari vanno 
+seriamente considerate come possibili ostacoli e suscitano 
+discussioni importanti. Tuttavia, questo non significa che 
+l’educazione e il tutoraggio tra pari non siano metodi 
+adeguati per promuovere le competenze mediali dei giovani. 
+Le pagine seguenti mostrano che queste sfide possono 
+benissimo offrire anche preziose opportunità.
+«Ci abbiamo guadagnato tutti: 
+oltre a imparare qualcosa, ho 
+potuto insegnare qualcosa.  
+È stata un’esperienza perfetta 
+per me!» Tutore tra pari del 
+progetto «Peer-Media-Educator»
+10
+Gli attori
+Finora sono state svolte pochissime esperienze pratiche e 
+ricerche per valutare se l’approccio del coinvolgimento dei 
+pari sia o meno adeguato per contribuire alla promozione 
+delle competenze mediali dei giovani. Proprio per questo, 
+l’Ufficio federale delle assicurazioni sociali (UFAS), in 
+collaborazione con la Jacobs Foundation, ha sostenuto tra il 
+2011 e il 2014, nel quadro del programma nazionale Giovani 
+e media, sette progetti peer-to-peer realizzati nella Svizzera 
+tedesca, nella Svizzera romanda e in Ticino. L’obiettivo di 
+questi progetti consisteva nell’accrescere le competenze 
+mediali dei giovani tra i 12 e i 18 anni applicando l’educazio-
+ne e il tutoraggio tra pari. 
+Per ottenere conoscenze fondate empiricamente, i sette 
+progetti summenzionati sono stati seguiti e valutati 
+scientificamente dalla Scuola superiore di lavoro sociale
+della Scuola universitaria professionale della Svizzera 
+nordoccidentale (FHNW). In sostanza, si trattava di capire 
+in che forma, a quali condizioni quadro e in quale contesto 
+(scuola o settore delle attività giovanili aperte a tutti) 
+l’educazione e il tutoraggio tra pari possono essere impie-
+gati efficacemente per promuovere le competenze mediali 
+dei giovani. 
+03_IL PROGETTO GLOBALE E I SETTE 
+PROGETTI DI COINVOLGIMENTO  
+DEI PARI
+ 
+11
+Un risultato fondamentale
+Va premesso un risultato fondamentale della valutazione: 
+non è un contesto specifico né una determinata struttura 
+progettuale e non sono nemmeno particolari condizioni 
+quadro istituzionali che determinano le potenzialità di 
+un progetto: i progetti possono avere successo al livello 
+secondario I, nelle scuole pubbliche o private e nel settore 
+delle attività giovanili aperte a tutti, con gruppi esistenti 
+o neocostituiti e anche a prescindere dal tema affrontato. 
+Sono piuttosto la pianificazione concreta e l’attuazione nel 
+caso specifico a determinare il successo dei progetti. Per 
+ulteriori informazioni sulle difficoltà generali sorte nel qua-
+dro dei progetti e il modo per poterle affrontare, si rimanda 
+ai capitoli 4 e 5. Di seguito vengono dapprima presentati 
+brevemente i sette progetti.
+Piattaforma nazionale Giovani e media
+La Confederazione si prefigge di far sì che tutti i bambini e i giovani residenti in Svizzera nonché i loro genitori, gli 
+insegnanti e le persone con compiti educativi abbiano le competenze per sfruttare le opportunità offerte dai media 
+audiovisivi, elettronici e interattivi e far fronte ai pericoli che questi comportano. Per questo motivo aveva lanciato il 
+programma nazionale Giovani e media (2011-2015), che ha contribuito con diverse misure a realizzare questo ideale.  
+Il programma nazionale includeva anche la sperimentazione del coinvolgimento dei pari nel quadro dei sette progetti 
+destinati a promuovere le competenze mediali. Nel maggio del 2016 il Consiglio federale ha deciso di proseguire le 
+attività di protezione dell’infanzia e della gioventù dai rischi dei media quale compito permanente della Confederazione. 
+La loro attuazione è stata affidata all’Ufficio federale delle assicurazioni sociali, che le svolge sotto il nome di «Piatta­
+forma nazionale per la promozione delle competenze mediali».
+Le informazioni dettagliate sui rapporti di valutazione pubblicati sono indicate in bibliografia. I risultati sono disponibili 
+anche online sul sito Internet giovaniemedia.ch.
+12
+Rappresentazioni teatrali, streaming radiofo-
+nici e blog: presentazione dei sette progetti
+Molteplici ed eterogenei: è così che si possono definire  
+i programmi sostenuti dal programma nazionale Giovani  
+e media. Due dei sette progetti si sono svolti in ambito 
+scolastico, quattro nel settore delle attività aperte a tutti  
+i bambini e i giovani e un altro a metà tra i due contesti. 
+Tre progetti prevedevano l’applicazione di strumenti online 
+quali programmi radio in streaming o blog, mentre gli altri 
+quattro impiegavano strategie «offline», come ad esempio 
+rappresentazioni teatrali o discussioni di gruppo. 
+Anche per quanto riguarda il gruppo target e il limite di età  
+i progetti presentavano differenze talvolta notevoli tra loro. 
+A livello geografico, essi erano ripartiti sull’intero territorio 
+svizzero: tre progetti sono stati realizzati nella Svizzera 
+tedesca, tre nella Svizzera romanda e uno in Ticino.
+Di seguito sono presentati i singoli progetti. Ogni progetto  
+è introdotto da una tabella riassuntiva. In generale, si 
+applicano le spiegazioni seguenti.
+•	
+Per «gruppi target» s’intendono di regola due gruppi:  
+il primo è quello degli educatori o dei tutori tra pari 
+scelti, il secondo quello dei pari cui si rivolge il 
+progetto. 
+•	
+Per «contesto» s’intende il quadro istituzionale e 
+organizzativo in cui sono state realizzate le diverse 
+iniziative. Occorre innanzitutto distinguere tra il  
+settore delle attività giovanili aperte a tutti e le 
+istituzioni formative a carattere formale come  
+le scuole di formazione generale o professionale. 
+•	
+Sotto «Attività realizzate» si trova una breve 
+descrizione delle iniziative. 
+•	
+Gli indirizzi Internet fanno di regola riferimento ai siti 
+Internet dei promotori del progetto in questione. 
+Spesso vi si trovano anche i prodotti (video, guide ecc.) 
+realizzati nel quadro delle attività e messi a disposi-
+zione online.  
+•	
+Le presentazioni descrivono la situazione al momento 
+della valutazione dei progetti. Alcuni di essi sono stati 
+ulteriormente sviluppati da allora.
+13
+I sette progetti e la loro collocazione geografica.
+Per informazioni dettagliate sui singoli progetti si  
+rimanda al sito Internet giovaniemedia.ch
+BE
+TI
+ZH
+BS
+VD
+GE
+Progetto VII «Educazione tra pari per 
+promuovere le competenze mediali»
+Scuola universitaria professionale 
+della Svizzera italiana SUSPI, Manno
+Progetto II «Bitte schalten Sie Ihr Handy ein – ­ 
+die Vorstellung beginnt!»
+aebi-hus – Schweizerische Stiftung für Suchthilfe, Bern
+Progetto V «LiVE» – 
+Groupe de parole sur 
+les Liens Virtuels 
+Excessifs
+Association Rien ne va plus, 
+Gèneve
+Progetto IV «Web 
+radio par les jeunes»
+Ville de Renens, Service 
+Culture-Jeunesse-Sport
+Progetto VI «Moi@Web»
+Association romande CIAO
+Progetto III «Virtual Stories»
+RADIX, Zürich
+Pädag. Hochschule Schwyz PHZ
+Stiftung ideé: sport
+Progetto I «Peer-Media-Educator» 
+peer-media-educator-medienkompetenz@jugendliche
+InTeam, Basel
+14
+Progetto I «Peer-Media-Educator» 
+Di cosa si tratta
+Il progetto «Peer-Media-Educator» è stato promosso e rea-
+lizzato dall’associazione InTeam di Basilea. Nel quadro di un 
+semestre di motivazione, InTeam sostiene giovani disoccu-
+pati a reinserirsi nel mondo del lavoro. Il tutoraggio tra pari 
+costituisce parte integrante del programma di sostegno. 
+Nel quadro del progetto alcuni giovani partecipanti a un 
+semestre di motivazione sono stati formati, mediante 22 
+incontri preparatori e formativi, a discutere con altri giovani 
+l’ampia gamma di temi concernenti i media. In una prima 
+fase preparatoria, che prevedeva l’affiancamento da parte 
+di un esperto di pedagogia mediale, i futuri tutori tra pari 
+hanno trattato in diversi modi il tema dei media e il proprio 
+utilizzo dei medesimi, tra l’altro con un blog e la realizza-
+zione di video. Una volta conclusa questa formazione, nella 
+seconda parte del progetto i giovani tutori tra pari hanno 
+svolto autonomamente diversi eventi di due ore e mezza con 
+classi scolastiche.
+Conoscenze acquisite
+InTeam si è affermata ormai da diversi anni quale istituzione 
+e programma, il che le consente di garantire condizioni qua-
+dro stabili e un ampio margine temporale per il progetto di 
+prevenzione: poiché i giovani disoccupati trascorrono diversi 
+mesi presso InTeam, possono trattare i vari temi proposti 
+in modo intensivo e hanno tempi relativamente lunghi per 
+preparare i propri eventi. Per tutto il periodo in questione 
+è offerto loro anche un affiancamento costante. Ne risulta 
+che i tutori tra pari sviluppano molte nuove competenze e 
+trovano un senso nello svolgimento del loro compito. I pari 
+apprezzano gli eventi, variati e consoni ai giovani. Dal punto 
+di vista concettuale, va rilevato che la partecipazione al pro-
+getto è solo semifacoltativa per i tutori tra pari e obbligatoria 
+per i pari.
+BE
+TI
+ZH
+BS
+VD
+GE
+Promotore del progetto e partner
+Associazione InTeam, Basilea (promotore del progetto) | Frank Egle, esperto di pedagogia mediale
+Approccio di coinvolgimento dei pari
+Tutoraggio tra pari
+Personale specializzato impiegato
+Esperto di pedagogia mediale per la formazione dei collaboratori di InTeam e dei tutori tra pari
+Gruppi target
+Tutori tra pari: giovani disoccupati (16-23 anni) | Pari: classi scolastiche (giovani a partire dai 13 anni)
+Contesto
+Semestre d’integrazione professionale e scuola (livello secondario I)
+Attività realizzate
+I giovani partecipanti a un corso d’integrazione professionale realizzano un’iniziativa di tutoraggio tra pari sotto forma di 
+evento di prevenzione di due ore e mezza destinato alle classi scolastiche.
+inteam-basel.ch 
+15
+Progetto II «Bitte schalten Sie Ihr Handy ein – 
+die Vorstellung beginnt!»
+Di cosa si tratta
+Durante la settimana del progetto, i futuri tutori tra pari 
+hanno riflettuto sul loro uso dei media digitali, imparando  
+a conoscerne le opportunità e i rischi, con il sostegno di 
+esperti che hanno fornito loro spunti specifici sul tema. 
+Le conoscenze acquisite e le proprie esperienze sono 
+state gradualmente condensate in una storia, poi trasposta 
+in un’opera teatrale. La fase preparatoria non prevedeva 
+prescrizioni sceniche, cosicché i giovani hanno potuto 
+decidere il contenuto e la forma dell’opera teatrale. Pensate 
+come un’iniziativa di educazione tra pari, le rappresenta-
+zioni teatrali sono state seguite da discussioni di gruppo, 
+con i membri della squadra teatrale che hanno assunto il 
+ruolo di educatori tra pari. Il pubblico era composto di pari 
+e, a seconda del contesto, genitori, insegnanti e operatori 
+del settore delle attività giovanili aperte a tutti. Alla fine di 
+ciascuna rappresentazione teatrale, si sono svolte discus-
+sioni, condotte da moderatori, tra i giovani partecipanti al 
+progetto e il pubblico. Nel quadro di questo progetto è stata 
+elaborata anche la guida «Handy ein – das Spiel beginnt», 
+che fornisce aiuti per tutti coloro che vogliono unire l’arte 
+della rappresentazione teatrale alla promozione delle 
+competenze mediali.
+ 
+Conoscenze acquisite
+Combinando teatro e discussione, i giovani hanno l’opportu-
+nità di immergersi nel mondo dei media digitali sia in modo 
+ludico che con uno sguardo critico. Due elementi rivelatisi 
+importanti sono una buona rete di contatti e l’integrazione 
+nel contesto locale: essi sono fondamentali per la ricerca di 
+educatori tra pari, per la pubblicizzazione della rappresenta-
+zione teatrale e, non da ultimo, per le possibilità di rielabo-
+razione e approfondimento per i pari. 
+BE
+TI
+ZH
+BS
+VD
+GE
+Promotore del progetto e partner
+aebi-hus, Berna (promotore del progetto) | TOJ Jugendarbeit Bern West | Jugendarbeit JANO Graffiti Bern
+Approccio di coinvolgimento dei pari
+Educazione tra pari
+Personale specializzato impiegato
+Un esperto di pedagogia mediale e un’esperta di pedagogia teatrale
+Gruppi target
+Educatori tra pari: 6-12 giovani (tra i 12 e i 18 anni) per gruppo teatrale | Pari: soprattutto amici e conoscenti, oltre a un 
+vasto pubblico (familiari)
+Contesto
+Attività giovanili aperte a tutti e scuola
+Attività realizzate
+I giovani analizzano in un’opera teatrale il proprio utilizzo dei media e presentano le scene elaborate nel quadro di 
+rappresentazioni pubbliche. Successivamente si svolgono discussioni condotte da moderatori.
+aebi-hus.ch/medientheater
+16
+Progetto III «Virtual Stories»
+Di cosa si tratta
+Gli eventi Midnight Sports sono realizzati dalla Fondazione 
+idée:sport al fine di proporre ai giovani un’alternativa a 
+bar, discoteche e feste tradizionali. Gli eventi si svolgono 
+generalmente il sabato sera e sono organizzati, realizzati e 
+coordinati congiuntamente da un gruppo di giovani (junior 
+coach) e adulti (capoprogetto, senior coach e volontari). 
+Tra le attività proposte rientrano diversi giochi di squadra 
+e uno spazio dedicato alla danza. 
+Nel quadro del progetto «Virtual Stories», i giovani parteci-
+panti a un evento Midnight Sports hanno raccontato le 
+esperienze più importanti da loro vissute con i media digitali. 
+La discussione è stata condotta da un junior coach, che inter-
+vistava i giovani. Le storie che ne sono risultate sono state 
+filmate e anonimizzate in modo da non poter più identificare  
+i giovani che le hanno raccontate, ad esempio distorcendo le 
+voci e facendo recitare le scene da altri giovani. I video sono 
+poi stati caricati sulle piattaforme online feel-ok.ch e 
+virtualstories.ch, dove altri giovani 
+(pari) hanno potuto visionarli e commentarli. Il progetto  
+è stato ulteriormente sviluppato dopo la conclusione del 
+periodo di valutazione ed è stato realizzato anche presso 
+alcune scuole.
+ 
+Conoscenze acquisite
+Un fattore dimostratosi positivo è stato il sostegno istituzio-
+nale di cui ha goduto il progetto. Raccontando le loro storie 
+reali, i giovani hanno avuto la possibilità di comunicare le 
+loro esperienze con i media digitali. L’apprendimento tramite 
+video è particolarmente adatto anche per gli adolescenti 
+difficilmente raggiungibili con le proposte in forma scritta. Va 
+tuttavia rilevato che la realizzazione di video è impegnativa 
+non solo dal punto di vista delle risorse di personale e  
+in termini di tempo, ma anche e soprattutto a livello tecnico. 
+Inoltre, le informazioni comunicate nei filmati possono essere 
+parziali ed errate, perché si basano sull’esperienza dei 
+singoli. Infine, è risultato difficile animare una discussione 
+online su una piattaforma poco utilizzata dai giovani. 
+BE
+TI
+ZH
+BS
+VD
+GE
+Promotore del progetto e partner
+Fondazione svizzera per la salute RADIX, Zurigo | Fondazione idée:sport, Uster | Alta scuola pedagogica di Svitto  
+(PH Schwyz)
+Approccio di coinvolgimento dei pari
+Educazione tra pari
+Personale specializzato impiegato
+Senior coach di Midnight Sports
+Gruppi target
+Educatori tra pari: partecipanti agli eventi Midnight Sports (giovani tra i 14 e i 18 anni) | Pari: utenti delle piattaforme 
+virtuali (giovani tra i 12 e i 17 anni)
+Contesto
+Attività giovanili aperte a tutti 
+Attività realizzate
+Nel quadro degli eventi Midnight Sports, i giovani raccontano le proprie esperienze con i media digitali. Le storie sono 
+caricate sotto forma di video su una piattaforma virtuale e possono essere commentate.
+feel-ok.ch | virtualstories.ch
+17
+Progetto IV «Web radio par les jeunes»
+Di cosa si tratta
+Durante periodi di una settimana, un gruppo di giovani ha 
+prodotto ogni giorno per un’emittente online trasmissioni 
+radiofoniche incentrate sul tema dell’uso dei media digitali. 
+I giovani hanno deciso insieme i temi e il programma 
+musicale e hanno prodotto autonomamente le trasmissioni, 
+con il sostegno di un gruppo di animazione. Le trasmissioni, 
+pubblicizzate dai giovani attraverso le reti sociali, sono state 
+diffuse in differita su Internet, dove potevano essere scarica-
+te. Sono inoltre state condotte discussioni con educatori tra 
+pari e pari. Nel quadro di questo progetto, l’educazione tra 
+pari ha avuto luogo tra i produttori dei programmi radiofonici 
+e gli ascoltatori. 
+Conoscenze acquisite
+Producendo insieme trasmissioni radiofoniche, i giovani 
+possono sviluppare diverse competenze mediali e scambi-
+arsi direttamente le proprie esperienze. Per loro produrre 
+trasmissioni radiofoniche è molto divertente, ma sono pochi 
+i giovani che utilizzano la radio online, cosicché le trasmissi-
+oni sono state scaricate poco e i dibattiti hanno suscitato 
+un interesse piuttosto scarso. Va infine fatto notare che 
+l’organizzazione di una settimana radiofonica richiede una 
+struttura ben definita, il che limita l’autonomia e la flessibilità 
+dei giovani.
+BE
+TI
+ZH
+BS
+VD
+GE
+Promotore del progetto e partner
+Servizio della cultura, della gioventù e dello sport, Renens (promotore del progetto) | Azimut Prod / Internet, Radio, ­ 
+Consulting | Associazione Decibel
+Approccio di coinvolgimento dei pari
+Educazione tra pari
+Personale specializzato impiegato
+Gruppo di animazione della Città di Renens
+Gruppi target
+Educatori tra pari: produttori delle trasmissioni radiofoniche (giovani tra i 18 e i 25 anni) | Pari: ascoltatori (giovani tra i 18 e  
+i 25 anni)
+Contesto
+Attività giovanili aperte a tutti
+Attività realizzate
+Durante una settimana, un gruppo di giovani produce e trasmette ogni giorno una trasmissione radiofonica, cui seguono 
+dibattiti.
+culture-mix.ch | giovaniemedia.ch
+18
+Progetto V «LiVE»
+Di cosa si tratta
+«LiVE: Liens Virtuels Excessifs» è un progetto di prevenzio-
+ne dell’associazione ginevrina Rien ne va plus, che affronta 
+il tema dei comportamenti di gioco eccessivo mediante 
+opere teatrali, formazione di adulti e gruppi di discussione.  
+Il progetto «LiVE» oggetto di valutazione è stato realizzato 
+nel quadro di questi gruppi di discussione. 
+In occasione degli incontri regolari, all’insegna del motto 
+«Videogiochi e dibattito: nella mia vita ci sono alti e bassi»,  
+i partecipanti proponevano ogni volta un gioco. Successiva-
+mente discutevano del gioco e delle conseguenze del 
+comportamento di gioco, scambiandosi le proprie esperienze 
+personali. Inizialmente i gruppi di gioco erano guidati da due 
+animatori di Rien ne va plus; dopo qualche mese questi ultimi 
+sono stati sostituiti dagli educatori tra pari e hanno assunto 
+la funzione di supervisori esterni. Nel quadro di questo 
+progetto, l’educazione tra pari si è concretizzata negli scambi 
+tra giocatori esperti più grandi e giocatori meno esperti più 
+giovani.
+Conoscenze acquisite
+Ai partecipanti è molto piaciuto giocare insieme con nuovi 
+videogiochi. La scelta di un tipo di media moderno e intensa-
+mente utilizzato dai giovani ha motivato questi ultimi a 
+trattare in generale il tema dei videogiochi. La combinazione 
+tra videogioco (elemento ricreativo) e discussione (riflessione 
+critica) si è rivelata un fattore positivo per la promozione 
+delle competenze mediali, in particolare di quelle riflessive. 
+Un fattore negativo per l’instaurazione di rapporti paritari 
+(peerness) è stata l’età generalmente più elevata degli 
+educatori tra pari rispetto ai pari, che spesso non hanno 
+quindi considerato i gruppi di discussione come occasioni  
+di scambio aperto.
+BE
+TI
+ZH
+BS
+VD
+GE
+Promotore del progetto e partner
+Associazione Rien ne va plus, Ginevra (promotore del progetto) | Maison de quartier des Acacias, Ginevra | Infor Jeune 
+(EPIC), Ginevra | Groupement Romand d’Etudes des Addictions (GREA), Losanna | Dipartimento degli affari regionali, 
+dell’economia e della salute, Ginevra
+Approccio di coinvolgimento dei pari
+Educazione tra pari
+Personale specializzato impiegato
+Animatori dell’associazione Rien ne va plus
+Gruppi target
+Educatori tra pari: giovani che giocano regolarmente ai videogiochi (14 - 18 anni) | Pari: ragazzi più giovani interessati ai 
+videogiochi 
+Contesto
+Attività giovanili aperte a tutti 
+Attività realizzate
+Nel corso di un anno, vengono organizzati gruppi di discussione con giovani che giocano insieme e poi discutono.
+carrefouraddictions.ch
+19
+Progetto VI «Moi@Web»
+Di cosa si tratta
+Il progetto di educazione tra pari svolto dall’associazione 
+romanda CIAO mirava in primo luogo a sensibilizzare i giova-
+ni sui rischi derivanti dai media digitali. 
+Durante le lezioni, diversi gruppi di giovani hanno creato 
+video, audio o fumetti sulle loro esperienze con i media 
+digitali, il che ha ovviamente richiesto un dialogo all’interno 
+dei singoli gruppi, ad esempio per scoprire chi ha avuto quali 
+esperienze negative, come le ha affrontate e se esistano 
+altre possibilità di reazione in simili casi. Questo proces-
+so è stato seguito dagli insegnanti che, ove necessario, 
+hanno messo a disposizione le loro conoscenze tecniche. 
+Le creazioni dei giovani sono poi state pubblicate sul sito di 
+prevenzione ciao.ch e rese così accessibili a un pubblico gio-
+vane, che si poteva esprimere tramite post di blog (moderati 
+da CIAO). L’area blog è stata poco utilizzata.
+Conoscenze acquisite
+Un fattore positivo da sottolineare è la collaborazione dei 
+giovani nel decidere insieme forme e contenuti e nell’aiu-
+tarsi reciprocamente per gli aspetti tecnici. L’elaborazione 
+di contenuti mediali ha rappresentato un elemento di 
+motivazione per i giovani coinvolti. Tuttavia, è emerso che  
+i contenuti dal tono prescrittivo («devi…», «non puoi…») 
+stimolano poco le discussioni su una piattaforma online,  
+per cui sono più adatte domande aperte o descrizioni di 
+situazioni.
+BE
+TI
+ZH
+BS
+VD
+GE
+Promotore del progetto e partner
+Associazione CIAO, Losanna (promotore del progetto) | Alta scuola pedagogica Vaud, Losanna | Università di Losanna | 
+Conferenza intercantonale dell’istruzione pubblica della Svizzera romanda e del Ticino (CIIP), Neuchâtel
+Approccio di coinvolgimento dei pari
+Educazione tra pari
+Personale specializzato impiegato
+Insegnanti
+Gruppi target
+Educatori tra pari: classi scolastiche (giovani tra i 13 e i 17 anni) | Pari: utenti del sito Internet CIAO
+Contesto
+Attività giovanili aperte a tutti e scuola
+Attività realizzate
+In classe, allievi di età compresa tra i 13 e i 17 anni creano video, audio o fumetti per raccontare le loro esperienze con i 
+media digitali. Pubblicate sul sito Internet di CIAO, queste creazioni possono essere commentate.
+ciao.ch 
+20
+Progetto VII «Educazione tra pari ­ 
+per promuovere le competenze mediali»
+Di cosa si tratta
+Il progetto intendeva promuovere un utilizzo consapevole e 
+creativo delle reti sociali tra i giovani. Presso alcune classi 
+scolastiche, i giovani hanno discusso l’uso di Internet, con le 
+sue opportunità e i suoi rischi, con la moderazione di educa-
+tori tra pari. Questi ultimi sono stati preparati per un mese 
+a svolgere il compito di moderazione, in modo da poter 
+dirigere autonomamente gruppi di discussione nelle classi 
+l’anno successivo. Hanno inoltre avuto il compito di istruire  
+i nuovi educatori tra pari. A titolo di pari sono state coinvol-
+te classi di altre scuole o centri di formazione.
+Conoscenze acquisite
+Gli insegnanti hanno svolto un ruolo importante soprattutto 
+per la formazione degli educatori tra pari, ma per il resto si 
+sono mostrati discreti per lasciare spazio a rapporti il più 
+possibile orizzontali tra i pari, per esempio rimanendo fuori 
+dalle aule durante le discussioni gestite dai peer junior. Gli 
+educatori tra pari hanno molto apprezzato questo atteggia-
+mento. Un aspetto emerso chiaramente è che l’approccio di 
+educazione tra pari dall’esito aperto non si presta facilmente 
+a inserirsi nella logica scolastica della trasmissione mirata 
+delle conoscenze. Instaurare l’educazione tra pari nelle 
+scuole presuppone dunque un cambiamento nella filosofia 
+scolastica.
+BE
+TI
+ZH
+BS
+VD
+GE
+Promotore del progetto e partner
+Scuola universitaria professionale della Svizzera italiana SUPSI, Dipartimento economia aziendale, sanità e sociale 
+DEASS, Manno (promotore del progetto) | Scuola d’Arti e Mestieri SAMT, Canobbio
+Approccio di coinvolgimento dei pari
+Educazione tra pari
+Personale specializzato impiegato
+Insegnanti della scuola professionale con indirizzo sanità e socialità, percorso di formazione per la maturità professionale
+Gruppi target
+Educatori tra pari: allievi della scuola di maturità professionale | Pari: allievi di diversi istituti scolastici e tipi di scuole  
+(15-19 anni) 
+Contesto
+Scuola
+Attività realizzate
+Gli allievi trattano con le classi il ruolo dei media digitali, il loro utilizzo e i rischi che essi comportano.
+supsi.ch/deass
+21
+22
+Quello che conta è il contesto 
+L’educazione e il tutoraggio tra pari permettono davvero di 
+promuovere le competenze mediali dei giovani? Cosa rende 
+difficile il compito e quali sono i fattori di successo? I sette 
+progetti summenzionati sono stati seguiti e valutati dalla 
+Scuola superiore di lavoro sociale della FHNW. La domanda 
+principale cui si è voluto dare risposta era: in che forma, a 
+quali condizioni quadro e in quale contesto (scuola o settore 
+delle attività giovanili aperte a tutti) l’educazione e il 
+tutoraggio tra pari possono essere impiegati efficacemente 
+per promuovere le competenze mediali dei giovani?
+Come sottolineato in precedenza, i progetti si distinguono 
+notevolmente gli uni dagli altri proprio per quanto concerne 
+le loro strutture, il loro contesto e il loro gruppo target. Nel 
+quadro della valutazione è pertanto stato difficile tenere 
+conto adeguatamente delle specificità dei singoli progetti  
+e al contempo fare considerazioni generali su possibilità  
+e limiti dell’educazione e del tutoraggio tra pari. 
+Fattori di successo e ostacoli dell’educazione  
+e del tutoraggio tra pari
+Il risultato della valutazione è chiaro: sia a scuola che 
+nell’ambito delle attività giovanili aperte a tutti è possibile 
+realizzare progetti di successo, indipendentemente dal 
+gruppo target (allievi della scuola dell’obbligo, giovani che 
+lavorano o disoccupati, giovani donne o uomini). Non esiste 
+la struttura progettuale ideale – e non è nemmeno necessa-
+ria per la riuscita di un progetto. La valutazione mostra però 
+anche che l’educazione e il tutoraggio tra pari sono metodi 
+complessi, che richiedono un grande impegno da parte di 
+tutti i partecipanti.
+Quali sono stati i principali problemi? Cosa si è sottovaluta-
+to? Cosa si è rivelato particolarmente utile? 
+04_ESPERIENZE E CONOSCENZE 
+­ACQUISITE GRAZIE AI PROGETTI  
+DI COINVOLGIMENTO DEI PARI
+ 
+Nelle pagine seguenti sono illustrate le principali espe­
+rienze e conoscenze acquisite grazie ai progetti, suddivi-
+se in base ai seguenti aspetti centrali dell’organizzazione 
+dei progetti:
+•	
+contesto;
+•	
+collaborazione al progetto;
+•	
+affiancamento degli educatori e dei tutori tra pari; 
+•	
+temi e attività dei progetti.
+23
+I sette progetti sono stati testati sia a scuola che nell’ambi-
+to delle attività giovanili aperte a tutti. Entrambi i contesti 
+hanno vantaggi e svantaggi specifici, ma in entrambi è 
+possibile realizzare con successo progetti di coinvolgimento 
+dei pari. 
+Progetti nell’ambito delle attività giovanili  
+aperte a tutti
+Essendo per loro natura facoltative, le attività giovanili 
+aperte a tutti vengono frequentate spontaneamente dai 
+giovani, diversamente da quelle scolastiche. Si tratta 
+pertanto di attività particolarmente indicate per il metodo 
+del coinvolgimento dei pari. L’esperienza mostra però che 
+questo carattere facoltativo può nascondere anche delle 
+insidie, in particolare per quanto riguarda la mobilitazione 
+dei giovani e la durata della loro partecipazione ai progetti.
+Se le attività giovanili aperte a tutti sono ben radicate sul 
+territorio, non vi sono grandi difficoltà a reclutare giovani, 
+dato che i promotori sono in grado di utilizzare i canali 
+d’informazione esistenti per far conoscere le loro attività. 
+La situazione è diversa per chi non dispone di una rete di 
+contatti altrettanto ampia. Ai promotori di progetti che 
+intendono operare in più regioni si consiglia di trovare 
+partner locali rinomati e affidabili e incaricarli di stabilire il 
+contatto con i giovani.
+Un’altra sfida è rappresentata dalla gestione del tempo.  
+I giovani ricorrono in modo spontaneo alle attività giovanili 
+aperte a tutti e non desiderano necessariamente impegnar-
+visi per un periodo prolungato, il che è però proprio un 
+presupposto fondamentale per una partecipazione intensa 
+e riuscita a un progetto. Tuttavia, si è potuto anche osservare 
+che si riesce a motivare i giovani a partecipare a progetti, 
+se questi propongono attività mediali molto pratiche, per 
+esempio la produzione di un’emissione radiofonica o di un 
+video.
+Progetti in ambito scolastico
+Contrariamente alle attività giovanili aperte a tutti, le lezioni 
+scolastiche non sono facoltative. Inoltre, la comunicazione 
+non avviene su un piano di parità bensì segue una logica 
+gerarchica, data dalla funzione selettiva della scuola e 
+dal piano didattico. Per questa ragione nel contesto della 
+scuola, con la sua logica di trasmissione delle conoscenze, 
+il metodo del tutoraggio tra pari appare più indicato. Può 
+invece risultare difficile applicare il metodo dell’educazione 
+tra pari. Per riuscirvi, occorre procedere con grande cautela, 
+anche in considerazione dell’obbligatorietà della partecipa-
+zione. 
+Il carattere formale della scuola presenta però anche certi 
+vantaggi: il reclutamento dei giovani non pone alcun pro-
+blema e si può contare sulla loro partecipazione per tutta la 
+durata dell’attività prevista. 
+24
+Collaborazione nel quadro di progetti 
+Di norma la ripartizione dei ruoli è chiara: gli adulti educano 
+e istruiscono i giovani, sia in famiglia che a scuola. L’educa-
+zione e il tutoraggio tra pari cercano invece di modificare 
+questa ripartizione tradizionale dei ruoli, con l’intento di 
+stimolare un dialogo riflessivo dall’esito aperto, in particolare 
+tra i giovani. È pertanto auspicabile che venga instaurato 
+consapevolmente un quadro comunicativo in cui tutti i 
+partecipanti a un progetto possano dialogare «alla pari», 
+non soltanto per evitare la strumentalizzazione dei giovani 
+da parte degli adulti ma anche per garantire ai ragazzi la 
+possibilità di partecipare al progetto apportando fin 
+dall’inizio le proprie idee ed esperienze. L’attuazione pratica  
+di questa raccomandazione è tutt’altro che facile. Per molti 
+adulti e giovani l’educazione e il tutoraggio tra pari sono 
+metodi non soltanto relativamente nuovi ma anche impegna-
+tivi, che richiedono un grande sforzo proprio sul piano della 
+comunicazione e della collaborazione.
+La partecipazione dei giovani al progetto 
+Il primo ostacolo si pone già durante la fase di pianificazione 
+del progetto: si pensa a molti aspetti (procedure, metodi), 
+ma spesso restano vaghe le riflessioni concettuali su come 
+lasciare ai giovani margini di decisione e di azione. È evidente 
+che in questo modo prende involontariamente il sopravven-
+to una logica dall’alto verso il basso (top-down), che limita 
+gli spazi di autonomia dei giovani e li rende semplici 
+esecutori delle idee degli adulti. A dimostrazione di ciò, in 
+alcuni progetti è emerso che i giovani non sapevano sempre 
+esattamente quali fossero le loro possibilità di partecipazio-
+ne. È pertanto importante che tutti i partecipanti a un 
+progetto siano concordi sull’idea di fondo dell’educazione  
+e del tutoraggio tra pari. Questo significa, tra l’altro, che 
+occorre definire a priori gli spazi di autonomia e partecipazio-
+ne dei giovani e fissarli saldamente nel contesto del 
+progetto. Una possibilità consiste nel coinvolgere i giovani 
+attivamente e rapidamente – di preferenza già nella fase 
+della pianificazione concettuale –, per poter tenere conto fin 
+dall’inizio delle loro idee ed esperienze. 
+«Siamo praticamente tutti sullo 
+­stesso piano, cioè non abbiamo un 
+rapporto del tipo allievo-insegnante 
+ma siamo piuttosto come colleghi di 
+lavoro o, direi quasi, un po' come in 
+famiglia.» Giovane partecipante al 
+progetto «Peer-Media-Educator»
+25
+Presenza e assenza: ponderazione del ruolo  
+degli adulti 
+È chiaro che senza gli impulsi degli adulti è praticamente 
+impossibile realizzare un progetto. Talvolta i giovani possono 
+incontrare difficoltà a gestire il loro ruolo di educatori o 
+tutori. Agli adulti spetta allora il delicato compito di offrire 
+sostegno, senza però imporre la propria volontà. In generale 
+si dovrebbe evitare di limitare la disponibilità alla partecipa-
+zione attiva degli educatori e dei tutori tra pari e dei pari. 
+Questo è possibile soltanto instaurando una cultura del 
+dialogo aperta, che accetti anche contributi politicamente 
+scorretti o «sbagliati». Proprio contributi di questo genere 
+vanno discussi e non semplicemente sanzionati. Quando gli 
+adulti partecipano ai colloqui tra i giovani, devono farlo 
+presentando i propri interventi come spunti di discussione e 
+non come dati di fatto indiscutibili o sotto forma di domande 
+suggestive con un’unica risposta corretta.
+La cultura della comunicazione tra i giovani 
+Quali sono i fattori determinanti per la qualità del dialogo 
+tra i giovani e in particolare tra gli educatori tra pari e i pari? 
+Dalla valutazione è emerso che le differenze tra i giovani 
+quanto a livello di formazione, età o conoscenze specifiche 
+non hanno rappresentato necessariamente un problema per 
+i pari. Molto più importante, invece, è risultato essere 
+l’atteggiamento del gruppo verso i contributi dei singoli 
+partecipanti. I giovani sono più propensi a condividere le 
+proprie esperienze personali se i loro interventi sono accolti 
+con rispetto dagli altri e, in generale, se non viene a crearsi 
+una situazione di concorrenza. Una tale situazione può per 
+esempio sussistere sin dall’inizio di un’attività di coinvolgi-
+mento dei pari, per il semplice fatto che i ragazzi frequenta-
+no da anni la stessa classe e quindi le posizioni sociali sono 
+ormai consolidate. A seconda dei casi può quindi essere 
+importante fare attenzione, prima e nel corso del progetto, 
+alle dinamiche di gruppo preesistenti.
+Va inoltre sottolineato che proprio l’assenza fisica degli 
+adulti può risultare positiva per il dialogo tra i giovani 
+nell’ambito delle attività di educazione e tutoraggio tra pari. 
+Quando non ci sono adulti, infatti, il margine di azione degli 
+educatori e dei tutori tra pari e la loro autorevolezza in 
+quanto esperti aumentano.
+26
+Educatori e tutori tra pari 
+L’aspetto centrale della partecipazione 
+In generale si può affermare che più gli educatori e i tutori 
+tra pari hanno la possibilità di partecipare alla definizione 
+del progetto e del suo indirizzo tematico nonché alla  
+sua attuazione, più essi sono motivati a impegnarsi e a 
+contribuirvi con le proprie opinioni e idee. Aumenta così 
+anche l’autenticità dei messaggi che trasmettono ai pari, il 
+che, a sua volta, ha l’effetto positivo di motivare i giovani 
+a svolgere intense discussioni tra di loro. Convincere i 
+giovani a partecipare resta tuttavia un’impresa difficile, 
+che richiede molta professionalità e sensibilità da parte 
+degli adulti.
+Formare e seguire sul piano metodologico e tecnico
+Per riuscire a innescare processi di apprendimento tra pari  
+è indispensabile preparare adeguatamente gli educatori e  
+i tutori tra pari allo svolgimento del loro compito. Occorre 
+pertanto istruirli sul piano metodologico e tecnico, se 
+necessario ricorrendo a specialisti in materia di educazio-
+ne o pedagogia dei media. Trasmettere informazioni e 
+moderare discussioni è infatti difficile e nessuno nasce 
+maestro. Questo punto è particolarmente importante nel 
+caso del coinvolgimento dei pari, proprio perché si tratta  
+di evitare il più possibile le gerarchie o le situazioni di 
+insegnamento frontale tra gli educatori o i tutori tra pari e  
+i pari. 
+Altrettanto importanti quanto le competenze metodologiche 
+sono le conoscenze sulla materia che gli educatori o i tutori 
+tra pari vorrebbero trasmettere ai pari. Di preferenza, i temi 
+non dovrebbero essere predefiniti dagli adulti ma scelti di 
+comune accordo con i giovani, altrimenti vi è il rischio che 
+questi non affrontino affatto un determinato argomento, 
+poiché lo ritengono irrilevante. La valutazione dei progetti ha 
+infatti evidenziato che i giovani sono tanto più interessati e 
+motivati quanto più i temi proposti hanno un rapporto con le 
+loro esperienze. Anche in questo caso, più spazio si lascia 
+agli educatori e ai tutori tra pari per approfondire la materia 
+e sviluppare una propria posizione al riguardo, più l’intera-
+zione con i pari ne trae beneficio.
+Tuttavia, è importante che, dopo aver ricevuto una tale 
+formazione, gli educatori e i tutori tra pari non vengano 
+semplicemente abbandonati a sé stessi, poiché spesso il 
+loro bisogno di consulenza si manifesta soltanto dopo una 
+prima fase di studio autonomo dell’argomento e dopo le 
+prime esperienze a contatto diretto con i pari.
+27
+Periodo di preparazione
+La fase di formazione degli educatori e dei tutori tra pari 
+non va sottovalutata, ragion per cui bisogna prevedere un 
+lasso di tempo sufficiente per la loro formazione. In alcuni 
+dei progetti valutati è stato previsto troppo poco tempo per 
+la pianificazione del progetto o per la fase di preparazione 
+con gli educatori e i tutori tra pari. In tali casi, gli adulti 
+coinvolti hanno pertanto dovuto svolgere una maggiore 
+mole di lavori preparatori e prendere determinate decisioni 
+preliminari. Di conseguenza, i giovani hanno avuto meno 
+possibilità di apportare il proprio contributo e, a causa delle 
+scadenze troppo brevi, non hanno potuto acquisire in misura 
+sufficiente le conoscenze e le esperienze necessarie. In 
+queste condizioni, gli educatori e i tutori tra pari tendono 
+a trasmettere ai pari le proprie esperienze quotidiane in 
+modo acritico. Laddove invece era stato previsto abbastanza 
+tempo, sono stati rilevati effetti positivi sullo spirito di 
+iniziativa e sulla partecipazione attiva dei giovani. 
+Le sfide quali occasioni di crescita 
+Un altro dato (in realtà evidente) emerso dalla valutazione  
+è che nel complesso i progetti si sono rivelati più utili per  
+gli educatori e i tutori tra pari che non per i pari e che il 
+beneficio è stato tanto maggiore quanto più lunghe erano 
+state le fasi di preparazione e attuazione del progetto. 
+«Siete i nostri educatori tra pari: 
+sappiamo che ne siete all’altezza e 
+abbiamo piena fiducia in voi (...).  
+Non funziona, però, se si dà fiducia 
+soltanto in apparenza, come per dire: 
+ti lascio fare, ma io controllo 
+­tutto.» Responsabile del progetto 
+«Peer-Media-Educator»
+I futuri educatori/tutori tra pari vengono confrontati con 
+nuovi compiti, che non vanno semplicemente risolti ma 
+devono essere affrontati in modo autonomo e creativo; si 
+tratta dunque di sfide del tutto personali che contribuiscono 
+inevitabilmente alla crescita dei giovani, i quali vengono 
+oltretutto formati e seguiti durante questo percorso. 
+28
+Temi e attività dei progetti
+Dato l’ampio ventaglio di possibilità di utilizzo e applicazione 
+dei media digitali, anche i temi scelti per i progetti possono 
+essere molto variati. Vi sono tre aspetti generali di cui si 
+dovrebbe tenere conto nella scelta e nella definizione dei 
+temi per i progetti.
+Prospettive ristrette e conseguenze
+In famiglia, tra i conoscenti, a scuola, nei media e nel mondo 
+politico si parla molto dei rischi che i nuovi media compor-
+tano per i giovani. Questo è forse uno dei motivi per cui 
+anche i progetti mediali si focalizzano principalmente sulla 
+protezione e sulla prevenzione. Effettivamente molti dei mes-
+saggi trasmessi dagli specialisti e dagli educatori o dai tutori 
+tra pari avevano carattere prescrittivo («devi...» o «non 
+devi...»). Queste valutazioni operate dagli adulti possono 
+risultare come forti imposizioni, poiché in questo modo si 
+predefiniscono regole che stabiliscono quali sono i compor-
+tamenti giusti o sbagliati. Per questa ragione i messaggi 
+veicolati sono risultati poco flessibili, stimolanti e autentici. 
+Si può supporre che questa situazione abbia determinato la 
+scarsissima partecipazione dei pari ai progetti online basati 
+su questi messaggi.
+I media digitali offrono anche opportunità
+L’uso dei media digitali non comporta solo rischi, ma presenta 
+anche numerosi aspetti positivi. Esso offre ai giovani la 
+possibilità di crearsi spazi privati al di fuori del mondo degli 
+adulti, in cui poter definire proprie regole. Le reti sociali 
+permettono inoltre di stringere numerose amicizie e di 
+gettare letteralmente lo sguardo in altri mondi. I media 
+digitali hanno anche notevoli potenzialità innovative e 
+creative, che vengono sfruttate dai giovani nella loro vita 
+quotidiana e hanno per loro una connotazione molto positiva. 
+Infine, essi offrono ai giovani possibilità di uso collaborativo, 
+per esempio consentendo loro di produrre e diffondere 
+autonomamente contenuti sociali o politici. In altre parole: 
+già il fatto di non porre esclusivamente l’accento sui rischi 
+ma di considerare anche le opportunità offerte dai media 
+digitali permette di attivare e promuovere le competenze 
+mediali culturali e sociali dei giovani. Questo dimostra che  
+le potenzialità del coinvolgimento dei pari non sono ancora 
+pienamente sfruttate.
+Possibilità di agire in prima persona e varietà dei 
+media impiegati quali fattori di motivazione
+Un altro dato emerso dalle esperienze nell’ambito dei 
+progetti è che quanto più i giovani vengono coinvolti nella 
+produzione, elaborazione e diffusione di contenuti  
+mediali e possono prendere decisioni, assumersi respon-
+sabilità e agire in prima persona, tanto più si impegnano – 
+e imparano. Questa forma di creatività può contribuire  
+a promuovere le competenze mediali dei giovani a tutti  
+i livelli, da quelle tecniche a quelle riflessive. Anche la 
+varietà dei media impiegati nei progetti può avere una 
+grande importanza: con una scelta che va dagli streaming 
+radiofonici ai videogiochi fino ai forum, è possibile 
+coinvolgere nei progetti giovani con abilità e interessi 
+diversi sia in quanto educatori o tutori tra pari che in quanto 
+pari. Soprattutto l’impiego di metodi creativi (p.es. girare 
+un video) può produrre risultati sorprendenti e innovativi. 
+29
+Conclusione: l’approccio del coinvolgimento 
+dei pari richiede un notevole impegno nella 
+fase di attuazione
+Quanto detto in precedenza mostra che l’educazione e il 
+tutoraggio tra pari hanno indubbiamente notevoli potenzia-
+lità, poiché permettono ai giovani di apprendere autono-
+mamente tra pari. Per contro, sul piano pedagogico questi 
+due metodi non funzionano affatto automaticamente, 
+ma richiedono un’impostazione consapevole e un’elevata 
+disponibilità all’autoriflessione. Questo implica che i 
+responsabili dell’educazione e della formazione riflettano 
+approfonditamente anche su cosa significhi responsabiliz-
+zare i giovani.
+30
+31
+Dalla valutazione dei progetti è emerso che non sono né 
+il contesto né la struttura progettuale a determinare la 
+qualità dei progetti di coinvolgimento dei pari. E non sono 
+nemmeno solo le condizioni quadro istituzionali a sancirne 
+il successo o l’insuccesso. Come illustrato nel capitolo 
+4, tutti questi punti possono tuttavia agevolarne oppure 
+ostacolarne la realizzazione. Per principio, ciò che conta è 
+la qualità della pianificazione, della concezione e dell’attua-
+zione pratica del singolo progetto. Le due tabelle seguenti 
+riassumono gli aspetti da considerare con particolare 
+attenzione e i criteri di qualità necessari per la riuscita di 
+un progetto. 
+05_CRITERI DI QUALITÀ: ELEMENTI 
+IMPORTANTI PER IL SUCCESSO  
+DI UN PROGETTO
+ 
+La tabella 1 elenca i principali criteri generali per la riuscita 
+dei progetti di coinvolgimento dei pari, che non valgono 
+quindi esclusivamente per i progetti di promozione delle 
+competenze mediali. 
+La tabella 2 riassume i principali criteri specifici, che si 
+applicano unicamente ai progetti di promozione delle 
+competenze mediali. Nella colonna di destra di entrambe le 
+tabelle sono spiegati i singoli criteri e formulate alcune 
+raccomandazioni pratiche. 
+«Quando si sceglie l’educazione  
+tra pari quale filosofia o metodo 
+(...) bisogna avere molto tempo per 
+­riflettere su cosa voglia dire, 
+­quali siano le esigenze e a cosa 
+serva veramente.» Responsabile del  
+progetto InTeam 
+32
+Criterio 
+Spiegazioni e raccomandazioni pratiche
+Sviluppo di una cultura del coinvolgimento 
+dei pari
+Il coinvolgimento dei pari modifica sostanzialmente la ripartizione dei ruoli tra gli adulti e i 
+giovani, ma per avere successo deve riflettere un atteggiamento di fondo e non essere 
+considerato come un semplice strumento didattico. Pertanto, tutti i partecipanti al progetto 
+devono confrontarsi con questo metodo e sviluppare una cultura ampiamente accettata del 
+coinvolgimento dei pari, in modo da evitare false aspettative e malintesi. Inoltre la partecipa­
+zione deve essere intesa quale obiettivo a sé stante del progetto.
+Approccio dal basso verso l’alto (bot-
+tom-up): sviluppo congiunto di obiettivi, 
+ruoli e procedure
+I temi e i metodi scelti devono ricollegarsi al mondo e alle esperienze dei giovani. Pertanto, 
+bisognerebbe far partecipare questi ultimi possibilmente sin dalla fase concettuale 
+oppure attendere il loro coinvolgimento prima di stabilire i temi, gli obiettivi e le procedure.
+Definizione della partecipazione a livello 
+concettuale: pianificazione di spazi di 
+libertà e flessibilità
+Nella pianificazione si possono e devono prevedere spazi di libertà per i giovani. Ciò che appare 
+come una contraddizione, vale a dire prevedere spazi di libertà e flessibilità, è invece un criterio 
+di qualità decisivo. Questo significa che nella fase di pianificazione occorre considerare la 
+possibilità che le esigenze dei giovani siano completamente diverse rispetto al previsto ed 
+essere coscienti che lo svolgimento e l’esito del progetto non sono del tutto prevedibili. La 
+flessibilità è pertanto un aspetto importante: occorre prevedere varianti, possibilità di 
+adeguamento e riserve di tempo; se necessario, gli obiettivi vanno modificati. Accordare 
+spazi di libertà ai giovani significa anche lasciarli (co)decidere e fare i propri errori. Tradurre la 
+partecipazione in obiettivi progettuali concreti aiuta a concretizzare la propria comprensione 
+del processo e permette di valutarla. L’attuazione del processo partecipativo va costantemente 
+controllata.
+Confronto alla pari tra adulti e giovani
+Una collaborazione paritaria tra gli adulti e i giovani e discussioni dall’esito aperto non nascono 
+da sole, ma necessitano di un quadro in cui riflettere sui rapporti di forza e poterne 
+discutere. Senza una riflessione consapevole e autocritica sia degli adulti che dei giovani, può 
+accadere che entrambi i gruppi si orientino al «ruolo guida» degli adulti. Pertanto, occorre 
+promuovere una cultura della comunicazione aperta e rivalutarla regolarmente e gli adulti 
+devono talvolta stare completamente in disparte. 
+Formazione e coaching intensivi degli 
+educatori e dei tutori tra pari
+Gli educatori e i tutori tra pari necessitano di conoscenze specifiche e metodologiche 
+affinché gli altri giovani li considerino competenti, degni di fiducia e credibili. Per questa 
+ragione bisogna dedicare molto tempo alla preparazione e all’affiancamento degli educatori  
+e dei tutori tra pari, affinché acquisiscano dimestichezza. Tuttavia, anche in questo caso gli 
+educatori e i tutori tra pari sono in grado di impostare da soli i propri processi d’apprendimento; 
+gli adulti dovrebbero dunque seguirli piuttosto che formarli o fissare obiettivi didattici concreti.
+Partecipazione personale e ruolo attivo  
+dei pari
+Chi si limita ad ascoltare diventa passivo. La partecipazione personale e lo svolgimento di 
+attività sono impegnativi, aumentano l’interesse ad approfondire l’argomento e accrescono il 
+coinvolgimento nel progetto. Questa considerazione vale anche per i pari! Gli educatori e i 
+tutori tra pari devono pertanto dialogare con loro e motivarli a partecipare in prima persona. 
+Per contro, messaggi preventivi del tipo «devi...» o «non devi...» hanno poca presa sui 
+giovani. Hanno invece dato buoni risultati i metodi che rendono operativi i partecipanti, quali 
+le attività pratiche con i media (p.es. la produzione di video). Essi utilizzano le risorse dei 
+giovani, ne portano alla luce di nuove attraverso l’attività pratica, hanno un effetto motivante  
+e sfociano nella realizzazione di prodotti mediali che dicono qualcosa ai giovani. L’aspetto 
+centrale dell’educazione tra pari è che essa permette agli educatori tra pari di instaurare 
+una cultura della comunicazione aperta, rispettosa e senza gerarchie. È solo allora  
+che i giovani osano condividere le proprie esperienze personali.
+Ampio dialogo sul tema scelto 
+È necessario che tutti i partecipanti dialoghino intensamente sul tema scelto, di preferenza con 
+il coinvolgimento di specialisti, prestando attenzione a che la materia venga trattata in modo 
+equilibrato. Un aspetto fondamentale è l’orientamento al mondo dei giovani: qual è il loro punto 
+di vista sul tema? Quali sono le loro preoccupazioni? Dove vedono la necessità di intervenire?
+Coinvolgimento di specialisti 
+Gli specialisti sono in grado di apportare nuove conoscenze, presentare punti di vista non 
+considerati e mettere in evidenza le relazioni esistenti. Questi sono i presupposti affinché nei 
+progetti non vengano trasmessi in modo acritico luoghi comuni (e pregiudizi). Anche gli 
+specialisti devono essere coscienti del loro difficile compito: devono stimolare i giovani 
+ad approfondire la riflessione e presentare loro nuovi punti di vista e aspetti, lasciandoli però 
+trarre le proprie conclusioni.
+Buona interconnessione del progetto e 
+collaborazione con partner esterni affidabili 
+ed esperti 
+La collaborazione con i partner giusti facilita l’intesa riguardo al progetto, agevola  
+il reclutamento degli educatori o dei tutori tra pari e, inoltre, migliora il radicamento e la 
+continuità del progetto. 
+Tabella 1: criteri di qualità per il coinvolgimento dei pari
+33
+Criterio 
+Spiegazioni e raccomandazioni pratiche
+Discussione dei rischi legati ai media 
+digitali ma anche delle opportunità che essi 
+offrono
+Chi si concentra esclusivamente sui rischi dei media digitali limita inutilmente la prospettiva  
+e sottace le opportunità che essi offrono in termini di partecipazione culturale e politica e  
+di autoeducazione. I progetti dovrebbero far conoscere la varietà delle possibilità di 
+espressione e di utilizzo in rete.
+Inclusione di elementi tecnici  
+(p.es. produzione di video)
+Girare, montare e mettere in rete video, produrre trasmissioni radiofoniche, provare videogiochi 
+e discuterne: sono numerose le possibilità per utilizzare i media digitali in un progetto in modo 
+attivo e creativo. Gli elementi tecnici piacciono ai ragazzi e rafforzano il loro 
+attaccamento al progetto. Il loro impiego promuove inoltre le competenze mediali tecniche.
+Orientamento tematico all’utilizzo dei media 
+da parte dei giovani
+I media digitali hanno un’importanza fondamentale nella vita quotidiana dei giovani, soprattutto 
+per relazionarsi con gli altri e quali fonte d’informazione. I giovani sviluppano competenze 
+mediali culturali quando apprendono i codici e le forme di espressione mediali e imparano a 
+utilizzare i media in modo creativo. È però importante che i progetti si orientino all’uso attuale 
+dei media da parte dei giovani e trattino in particolare temi variati, aventi un nesso con il 
+mondo dei ragazzi e adeguati alla loro età.
+Promozione delle competenze mediali 
+sociali attraverso la discussione sui rischi 
+della gestione digitale delle relazioni e sulle 
+nuove possibilità di partecipazione, 
+collaborazione e solidarietà
+I media digitali cambiano radicalmente i nostri rapporti e la nostra comunicazione. I giovani 
+utilizzano assiduamente i media sociali per gestire le proprie relazioni, il che li espone a rischi 
+quali il cyberbullismo, il furto di identità e la violazione della sfera privata. Nel contempo, i media 
+digitali trasformano anche l’economia, la politica e la sfera pubblica: i media digitali offrono ai 
+giovani nuove possibilità di partecipazione, collaborazione e solidarietà. La considerazione di 
+entrambi gli aspetti – i rischi e le nuove opportunità – ­consente di promuovere in modo più 
+ampio le competenze mediali sociali.
+Trasmissione di conoscenze differenziate e 
+critiche sulle interconnessioni esistenti nel 
+mondo dei media 
+Le competenze mediali riflessive sono fondamentali per poter utilizzare i media in modo 
+responsabile. Per acquisire tali competenze occorre molto tempo, impegno e spazio per 
+discussioni dall’esito aperto. A tal fine sono necessari sia l’affiancamento di persone adulte 
+(eventualmente specialisti) sia spazi di libertà che offrano occasioni di autoeducazione.  
+È qui che l’ambivalenza del doppio ruolo degli specialisti emerge in modo particolarmente 
+evidente. Se da un lato essi sono importanti per stimolare i giovani ad approfondire la 
+riflessione e per presentare loro nuovi punti di vista e aspetti, dall’altro i giovani hanno bisogno 
+di spazi di libertà per trarre le proprie conclusioni.
+ 
+Tabella 2: criteri di qualità per la promozione delle competenze mediali
+Bibliografia
+Handy ein – das Spiel beginnt. Leitfaden für Theater­
+inszenierungen zur Förderung von Medienkompetenzen bei 
+Jugendlichen (2015). Herausgegeben von aebi-hus Bern. 
+(in tedesco e francese)
+Die Medienkompetenz und die «neue» erziehungs-
+wissenschaftliche Kompetenzdiskussion. Moser, H. 
+(2010). In: Herzig, B., Meister, D. M., Moser, H. & Niesyto, H. 
+(Hg.). Jahrbuch Medienpädagogik 8. Medienkompetenz und 
+Web 2.0. Wiesbaden: Vs Verlag: pagg. 59-79. 
+Partizipation Jugendlicher in Peer-Involvement-
+Ansätzen: Erfahrungen aus der Evaluation von sieben 
+Projekten. Heeg, R., Steiner, O. & Balleys, C. (2016).  
+In: Zeitschrift für Sozialpädagogik 14: pagg. 416-435. 
+Peer Education und Medienkompetenzförderung. 
+Neumann-Braun, K. & Kleinschnittger, V. (2012). ­ 
+In: Soziale Sicherheit CHSS 4: pagg. 231-235.
+Evaluation von Peer-Education und Peer-Tutoring zur 
+Förderung von Medienkompetenzen. Das pädagogische 
+Konzept der Peer Education im Rahmen von Medien-
+kompetenzförderung und Jugendmedienschutz. Ufficio 
+federale delle assicurazioni sociali. Neumann-Braun, K. & 
+Kleinschnittger, V. (2013). Steiner, O. & Heeg, R. (2015).  
+In: Soziale Sicherheit CHSS 4: pagg. 209-214.
+Evaluation Projekte Peer Education / Peer Tutoring 
+zur Förderung von Medienkompetenzen. Steiner, O. & 
+Heeg, R. (2015). Bd. I: Anlage der Evaluation und Ergebnisse 
+der übergreifenden Analyse. Ufficio federale delle assicura-
+zioni sociali (rapporto di ricerca n. 14/15.1, disponibile anche 
+in francese, con riassunto in italiano).
+Evaluation Projekte Peer Education / Peer Tutoring 
+zur Förderung von Medienkompetenzen. Heeg, R. & 
+Steiner, O. (2015). Bd. II: Detaillierte Ergebnisse zu den 
+Modellprojekten und Anhänge. Ufficio federale delle 
+assicurazioni sociali. 
+Peer Involvement zur Förderung von Medien- 
+kompetenzen. Steiner, O. & Heeg, R. (2016). In: Merz 4:  
+pagg. 47-52. 
+JAMES. Giovani, attività, media. Willemse, I.  
+et al. (2014). Università di scienze applicate di Zurigo, 
+Dipartimento di psicologia applicata.
+Altre pubblicazioni della serie dell’UFAS relativa alle 
+competenze mediali
+•	
+Competenze mediali. Consigli per un utilizzo sicuro dei 
+media digitali
+•	
+Promozione delle competenze mediali nelle istituzioni 
+per bambini e giovani con esigenze particolari – Guida 
+per un bilancio della situazione
+•	
+Competenze mediali nella realtà scolastica
+•	
+Opuscolo: «Consigli fondamentali per un utilizzo sicuro 
+dei media digitali» (in 16 lingue)
+Scaricabili oppure ordinabili gratuitamente sul sito Internet  
+giovaniemedia.ch
+34
+35
+Glossario
+Competenze mediali
+Capacità di individui o enti di utilizzare i media in modo 
+autonomo, critico e innovativo. Le competenze mediali 
+constano di competenze tecniche (p.es. saper utilizzare le 
+tecnologie mediali), culturali (p.es. conoscere le interrela­
+zioni mediali), sociali (p.es. partecipare alla vita politica 
+tramite i media) e riflessive (guardare con occhio critico  
+i media).
+Contesto
+Questo termine designa la struttura, ovvero l’ambiente 
+esterno, i locali e l’atmosfera in cui vengono applicati i 
+metodi pedagogici dell’educazione e del tutoraggio tra pari. 
+Alcuni esempi sono le classi scolastiche e le strutture 
+dedicate alle attività giovanili aperte a tutti.
+Gruppo di pari
+Gruppo di persone della stessa età e di pari livello che 
+hanno interessi comuni e interagiscono tra loro. Questo 
+termine indica in particolare i giovani che trascorrono 
+insieme il tempo libero in un contesto informale. 
+Coinvolgimento dei pari
+Concetto generale utilizzato dagli anni 1980 per indicare 
+approcci pedagogici per l’apprendimento e la comunicazione 
+in seno a un gruppo di pari, nel cui ambito si distingue 
+perlopiù tra allievi (peer) e insegnanti (peer educator / peer 
+tutor). 
+Educazione tra pari
+forma di coinvolgimento dei pari in cui i giovani dialogano  
+in un contesto tendenzialmente poco strutturato (p.es. 
+attività giovanili aperte a tutti).
+Educatore tra pari
+Membro di un gruppo di pari che riceve una formazione 
+specifica per dirigere uno scambio dall’esito aperto in 
+seno a un gruppo di pari, con lo scopo di trasmettere deter-
+minate competenze (in questo caso, competenze mediali). 
+Tutoraggio tra pari
+Forma di coinvolgimento dei pari in cui i giovani (tutori  
+tra pari) trasmettono ad altri giovani contenuti chiaramente 
+definiti.
+Tutore tra pari
+Membro di un gruppo di pari che per il suo ruolo di 
+inse­gnante si distingue chiaramente dagli altri membri,  
+che hanno il ruolo di allievi. 

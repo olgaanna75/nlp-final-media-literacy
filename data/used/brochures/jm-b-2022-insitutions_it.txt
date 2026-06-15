@@ -1,0 +1,1783 @@
+COMPETENZE MEDIALI NELLE 
+ISTITUZIONI DI PEDAGOGIA SOCIALE, 
+CURATIVA E SPECIALE 
+GUIDA PER UN BILANCIO DELLA SITUAZIONE
+Per i responsabili 
+ed i collaboratori 
+delle istituzioni per 
+bambini e giovani
+Colophon
+A cura di:
+Giovani e media
+Piattaforma nazionale di promozione delle competenze mediali
+Ufficio federale delle assicurazioni sociali
+jugendschutz@bsv.admin.ch 
+Redazione dei contenuti: 
+BFF Kompetenz Bildung Bern
+info@bff.ch
+www.bffbern.ch 
+Monika Luginbühl e Corinne Reber (struttura generale, capitoli 01–06 e 08–10)
+Rahel Heeg (capitolo 07)
+Centre suisse de pédagogie spécialisée (CSPS)
+SUPSI
+Dipartimento formazione e apprendimento
+Centro competenze bisogni educativi, scuola e società
+Michele Mainardi e Elisa Geronimi
+Con il sostegno di:
+YOUVITA Svizzera
+info@youvita.ch
+www.youvita.ch
+Ordinazione (gratuita):
+ 
+UFCL, Vendita di pubblicazioni federali, CH-3003 Berna
+www.pubblicazionifederali.admin.ch > Attualità > Giovani e media
+Numero di ordinazione 318.853.i
+09.22  400  860517320
+Disponibile in italiano, francese e tedesco.
+Foto:
+Frank Egle: copertina, p. 4, p. 6, p. 8, p. 11, p. 15, p. 19, p. 23, p. 27, p. 31, p. 36, p. 38
+Pia Neuenschwander, photopia.ch: p. 14, p. 15, p. 16, p. 17, p. 21, p. 25, p. 28, p. 34
+4a edizione: settembre 2022
+© 2018 Giovani e media – Piattaforma nazionale di promozione delle competenze mediali, 
+Ufficio federale delle assicurazioni sociali
+3
+CARE LETTRICI,  
+CARI LETTORI, 
+ 
+ormai da diverso tempo i media digitali sono parte integrante della vita quotidiana dei bambini e dei giovani, anche di 
+quelli che si trovano nelle istituzioni di pedagogia sociale, curativa e speciale. Questi media consentono di ampliare gli 
+spazi di azione, promuovere il contatto regolare con amici, conoscenti e familiari e abbattere le barriere legate alla disabi-
+lità, fornendo così un importante contributo alle pari opportunità e migliorando le possibilità di partecipazione.  Evitare 
+ogni contatto degli adolescenti con i media digitali non è dunque sensato. I bambini e i giovani devono imparare a utilizza-
+re i media digitali in modo critico e responsabile, per sfruttarne il potenziale ed evitarne i rischi. Devono utilizzare smart­
+phone, tablet e computer per esercitarsi ed esplorare le possibilità offerte da tali dispositivi. Per consentire ai bambini e ai 
+giovani di fare le proprie esperienze è necessario adottare un approccio attivo. I responsabili delle istituzioni di pedagogia 
+sociale, curativa e speciale e i loro collaboratori sono particolarmente coinvolti nella promozione dell’alfabetizzazione 
+mediatica, al fine di adempiere al loro compito di protezione, istruzione ed educazione. Maggiori sono le loro competenze 
+nel mondo digitale, meglio possono svolgere la propria missione, ossia far sì che i bambini e i giovani siano in grado di 
+partecipare alla vita sociale. 	
+La presente guida intende aiutare i collaboratori delle varie istituzioni in questione a fare un bilancio della situazione ri-
+guardo all’alfabetizzazione mediatica – un primo passo verso una cultura mediale che incoraggi, arricchisca e protegga. 
+I media digitali offrono varie possibilità di apprendimento e sviluppo che possono essere utilizzate in special modo per i 
+bambini e i giovani nelle istituzioni di pedagogia sociale e curativa. Date loro questa opportunità e coinvolgeteli nel 
+processo.
+Susanne Fehr
+Vicedirettrice 
+BFF Kompetenz Bildung Bern
+Cornelia Rumo Wettstein 
+Direttrice YOUVITA 
+Astrid Wüthrich 
+Vicedirettrice dell’Ufficio federale 
+delle assicurazioni sociali (UFAS) e 
+capo dell’Ambito Famiglia, generazioni 
+e società
+5
+INDICE 
+ 
+01_Introduzione	
+6
+02_Media e inclusione	
+8
+03_Campi d’azione della pedagogia mediale	
+11
+04_Competenze mediali e società	
+14
+05_Media ed educazione	
+19
+06_Media e formazione 	
+23
+07_Media e aspetti giuridici	
+27
+08_Cultura dell’istituzione e sviluppo di un piano concettuale	
+31
+09_Sintesi: Bilancio e necessità di intervento	
+36
+10_Ulteriori informazioni	
+38
+6
+01_INTRODUZIONE 
+ 
+7
+Competenze mediali: la chiave per 
+la partecipazione alla vita sociale
+Il compito principale delle attività di pedagogia sociale, 
+curativa e speciale è quello di sostenere le persone e 
+metterle in condizione di impostare la loro vita quotidiana 
+il più autonomamente possibile, partecipando al contempo 
+alla vita sociale. Negli ultimi anni i media digitali hanno 
+segnato indelebilmente la società, cambiandola radicalmen-
+te. L’uso di smartphone, tablet, computer e console da gioco 
+nonché la comunicazione nelle reti sociali sono diventati 
+una tecnica culturale. Lo sviluppo in questo campo era ed 
+è tuttora rapidissimo. Chi non riesce a tenere il passo, si 
+trova di fronte a evidenti limiti nella quotidianità. I bambini 
+e i giovani crescono con i media digitali e li utilizzano con 
+naturalezza nella loro vita di tutti i giorni. Ciononostante, 
+hanno bisogno di essere sostenuti: chi ha le capacità tecni-
+che per servirsi dei media digitali non è automaticamente 
+capace di impiegarli in modo socialmente competente e 
+non è necessariamente consapevole delle ripercussioni e 
+dei rischi che si possono manifestare nella vita quotidiana. 
+È dunque qui che entrano in gioco la pedagogia e la pedago-
+gia mediale. Gli esperti di pedagogia sociale, curativa e 
+speciale hanno la possibilità, ma anche il dovere, di inte­
+grare la pedagogia mediale nei loro campi d’azione specifici 
+(cfr. cap. 3 «Campi d’azione della pedagogia mediale»), inse-
+gnando ai bambini e ai giovani a utilizzare i media digitali in 
+modo sicuro e responsabile, sfruttando costruttivamente il 
+loro potenziale di sviluppo.
+Per questo la pedagogia mediale è importante
+	
+è La promozione delle competenze mediali contribuisce in 
+modo fondamentale alla partecipazione alla vita sociale 
+e alle pari opportunità. 
+	
+è La migliore prevenzione contro i rischi dei media digitali 
+consiste nell’insegnare a usarli in modo competente.
+Qui sono chiamati in causa gli operatori professionali
+	
+è La pedagogia mediale va ben oltre l’elaborazione di 
+regole e richiede un approccio autocritico e differenziato 
+rispetto alla propria posizione nei confronti del tema. 
+	
+è Per gli esperti di pedagogia sociale, curativa e speciale 
+la pedagogia mediale non costituisce dunque una mera 
+opzione, bensì un compito specifico che comprende 
+anche l’obbligo di svolgere formazioni continue in questo 
+ambito. 
+	
+è L’elaborazione di concetti di pedagogia mediale adeguati 
+e vissuti nelle istituzioni per bambini e giovani è un pro-
+cesso complesso, ma molto interessante. Esso  compor-
+ta un’analisi autocritica e multidimensionale del pro-
+prio utilizzo dei media digitali, dei sistemi di valore che 
+ne sono alla base e degli approcci d’intervento nella 
+quotidianità professionale.
+Cosa offre questa guida agli esperti di pedagogia 
+sociale, curativa e speciale 
+	
+ü Una breve panoramica dei campi d’azione fondamentali 
+della pedagogia mediale con l’obiettivo di promuovere le 
+competenze mediali nelle istituzioni di pedagogia 
+curativa, speciale e sociale.
+	
+ü Questionari per tracciare un primo bilancio della situa-
+zione e per concretizzare i principali campi d’azione della 
+pedagogia mediale nelle istituzioni. 
+	
+ü Informazioni pratiche sugli aspetti giuridici nell’ambito 
+dei giovani e dei media. 
+	
+ü Spunti per lo sviluppo di concetti di pedagogia mediale 
+nelle istituzioni. 
+	
+ü Rimandi all’offerta informativa e formativa nonché 
+riferimenti bibliografici per approfondire l’argomento.
+ll bilancio può essere fatto anche online. Chi desidera 
+ricevere il link verso i questionari online può scrivere 
+all’indirizzo info@medienundsozialpaedagogik.ch
+8
+02_MEDIA E INCLUSIONE 
+ 
+9
+Permettere ai bambini e ai giovani di approfittare delle 
+opportunità offerte dalla digitalizzazione e fornire loro gli 
+strumenti per affrontare i relativi rischi sono un compito 
+pedagogico fondamentale. Senza l’utilizzo dei media digitali, 
+spesso non è infatti possibile partecipare alla vita sociale o 
+far parte di un gruppo. 
+Ma in questo contesto vi sono diseguaglianze: non tutti i 
+bambini e i giovani hanno le stesse opportunità di accedere 
+ai media digitali e di acquisire le competenze necessarie 
+per utilizzarli. In particolare quelli con disabilità o back-
+ground migratorio oppure provenienti da una famiglia di 
+modeste condizioni socioeconomiche incontrano diversi 
+ostacoli in tal senso. È qui che è chiamata in causa la 
+pedagogia mediale.
+Media e discriminazione socioeconomica
+La situazione materiale, sociale ed emotiva all’interno di 
+una famiglia influisce sullo sviluppo di un bambino. Le 
+difficoltà finanziarie dei genitori e i problemi emotivi che 
+ne derivano lasciano il segno anche nei figli. Spesso gli 
+adulti sono talmente occupati con i loro problemi da non 
+prestare più la dovuta attenzione a come i più piccoli 
+utilizzano i media digitali.
+Sebbene la disponibilità di apparecchi in casa nonché lo 
+scopo e l’intensità con cui vengono utilizzati non dipendano 
+in modo generalizzato dalle risorse socioeconomiche ed 
+emotive di una famiglia, c’è un nesso tra l’utilizzo dei media 
+e le possibilità dei genitori di accompagnare e sostenere i 
+loro figli nella vita quotidiana.
+Gli adulti con un sovraccarico economico ed emotivo hanno 
+spesso difficoltà a dedicare ai figli le attenzioni necessarie 
+e a manifestare interesse per le loro attività. In questo tipo 
+di situazioni i media acquisiscono per i bambini e per i giova-
+ni una particolare importanza.
+Il compito della pedagogia mediale non consiste solo nell’ac-
+compagnare i bambini e i giovani, ma anche nell’offrire aiuto 
+o consulenza ai genitori. In questo contesto, il sostegno ai 
+genitori non può limitarsi ad aspetti di pedagogia mediale, 
+ma deve prendere in considerazione la situazione familiare 
+complessiva (cfr. cap. 5 «Media ed educazione»).
+Media e disabilità
+Il fatto che i bambini e i giovani con disabilità utilizzino i 
+media digitali e si muovano in Internet desta spesso per-
+plessità e paure tra le persone che li assistono. Non si 
+perderanno nello spazio digitale? Sono in grado di valutare 
+dove si celano i rischi? A causa di dubbi simili, questi bambi-
+ni e giovani dispongono di minori opportunità di accedere ai 
+media digitali, e dunque di acquisire le competenze e le 
+esperienze necessarie per usarli.
+Al contempo, va rilevato che molte prestazioni del mondo 
+digitale non sono adatte alle esigenze e alle possibilità delle 
+persone con problemi cognitivi o di apprendimento: per 
+esempio, le informazioni sono proposte solo in forma scritta 
+e/o il tempo a disposizione per inserire i dati è troppo breve.
+D’altro canto, però, se si fornisce a questo gruppo di perso-
+ne sostegno e accompagnamento, discutendo dei rischi e 
+delle possibili reazioni, i media digitali offrono opportunità 
+interessanti.
+	
+è Le tecnologie digitali, quali il riconoscimento vocale per 
+esempio, consentono a chi presenta disabilità gravi di 
+comunicare in modo differenziato. Chi ha difficoltà a 
+scrivere può spedire messaggi vocali o immagini. Grazie 
+ai media digitali le persone con disabilità fisiche 
+possono intrattenere contatti personali, il che sarebbe 
+altrimenti reso difficoltoso, se non impossibile, dalle 
+barriere architettoniche.
+	
+è Possedere competenze nell’uso dei media digitali accre-
+sce le opportunità di integrazione nel mercato del lavoro 
+primario.
+	
+è Le app e i programmi digitali permettono di impostare 
+in modo individuale i processi di apprendimento e soste-
+gno.
+	
+è Gli apparecchi digitali possono essere usati quali assi-
+stenti e aumentare in tal modo l’autonomia delle perso-
+ne con disabilità.
+	
+è I media digitali offrono anche alle persone con disabilità 
+l’opportunità di instaurare e intrattenere contatti non-
+ché di attivarsi e procurarsi le informazioni necessarie 
+a organizzare liberamente il proprio tempo libero.
+	
+è Grazie ai media digitali questo gruppo di persone ha la 
+possibilità di esporre (p. es sui social media) il proprio 
+punto di vista sulla vita con la disabilità, il che può con-
+tribuire a cambiarne la percezione nella società.
+10
+Il compito della pedagogia mediale è di far sì che i bambini 
+e i giovani con disabilità non abbiano troppe difficol-
+tà a utilizzare i media digitali, accompagnarli e proteggerli 
+laddove non sono in grado di riconoscere i pericoli e al 
+contempo concedere loro spazio e libertà decisionale nei 
+settori in cui possono cavarsela da sé.
+Media e migrazione 
+I bambini e i giovani con background migratorio han-
+no esperienze e competenze molto diverse in termini di 
+utilizzo dei media digitali. In passato si dava per scontato 
+che i rapporti con conoscenti e amici nel proprio Paese di 
+origine perdessero importanza con l’aumentare del grado 
+d’integrazione nel nuovo Paese. Da recenti ricerche è però 
+emerso che i media digitali consentono di mantenere, 
+intrattenere e persino ampliare i propri contatti anche a 
+distanze notevoli. Così si può inoltre dare visibilità alla 
+propria famiglia e quindi anche alla propria origine. In 
+questo contesto non si tratta tanto di farsi notare quanto 
+piuttosto di mostrare a se stessi e agli altri che di fatto si 
+ha una famiglia, anche se non è così vicina.
+I media digitali svolgono un ruolo fondamentale soprattutto 
+per i giovani che sono fuggiti da soli permettendo il contat-
+to con la famiglia di origine e gli amici oppure mantenendo 
+viva la speranza di poter ritrovare amici e familiari tramite i 
+social media. Se le istituzioni limitano l’accesso a Internet, 
+questi giovani rifugiati si trovano di fronte a un problema: 
+a seconda del fuso orario, ad esempio, non possono telefo-
+nare alla loro famiglia oppure temono di non poter esse-
+re raggiunti dai genitori in caso di emergenza. Spesso 
+i giovani ricorrono quindi a punti di accesso pubblici, 
+dove – sovente a loro insaputa – rivelano dati personali.
+La sfida della pedagogia mediale consiste nell’aiutare i 
+giovani a utilizzare gli apparecchi digitali per scopi più 
+ampi della semplice comunicazione. Occorre mostrare loro, 
+ad esempio, come usare lo smartphone anche per 
+apprendere, informarsi, orientarsi e svolgere attività 
+creative.
+Riflessioni di fondo sull’accompagnamento di 
+bambini e giovani vulnerabili
+Un solido rapporto di fiducia tra specialisti e bambini e 
+giovani svantaggiati facilita l’accompagnamento della 
+pedagogia mediale. Questo rapporto può essere consolidato 
+mostrando interesse per le loro preferenze nel mondo digi-
+tale. Un’altra possibilità consiste nell’utilizzare concreta-
+mente insieme i media digitali secondo gli approcci «lavoro 
+attivo con i media» e «realizzazione pratica».
+Lavoro attivo con i media e realizzazione pratica: 
+«imparare facendo»
+Gli approcci «lavoro attivo con i media» e «realizzazione 
+pratica» fanno parte della pedagogia mediale orientata 
+all’azione. In questo contesto i media digitali vengono impie-
+gati per trattare attivamente determinati temi nonché mo-
+strare e impostare così la propria vita quotidiana. I bambini 
+e i giovani imparano a usare le tecnologie digitali agendo 
+concretamente. Riflettendo insieme agli adulti su ciò che 
+fanno, acquisiscono coscienza del proprio utilizzo dei media 
+e dell’importanza di questi ultimi nella società. Al contempo 
+danno la possibilità alle persone che li circondano di cono-
+scere le loro prospettive, instaurando così un dialogo attivo 
+con loro. In tal modo si mostra ai bambini e ai giovani un 
+modo per partecipare alla vita sociale e ai suoi processi 
+nonché per esercitare un’influenza e farsi valere.
+Progetti in cui i bambini e i giovani impostano da sé l’uso 
+dei media, ad esempio girando un film, si prestano partico-
+larmente bene per gruppi eterogenei. Essendoci svaria-
+ti compiti da svolgere, si può sicuramente trovare per cia-
+scun membro del gruppo qualcosa che corrisponda alle sue 
+capacità individuali. In questo modo si creano opportunità 
+reali per attuare nella prassi i principi d’inclusione e d’inte-
+grazione.
+ 
+Nella pratica professionale di tutti i giorni «inclusione» significa:
+Utilizzare in modo attivo i media. Se ciò è importante in generale per tutti i bambini e i giovani, per quelli con una 
+disabilità o una qualsiasi altra difficoltà di partecipazione alla vita sociale questo può diventare indispensabile.
+11
+03_CAMPI D’AZIONE DELLA 
+PEDAGOGIA MEDIALE 
+ 
+12
+Campi d’azione della pedagogia mediale 
+nelle istituzioni 
+Promuovere le competenze mediali nelle istituzioni di peda-
+gogia sociale, curativa e speciale vuol dire agire principal-
+mente in tre campi: educazione ai media, cultura mediale e 
+formazione ai media. In questo contesto si tiene particolar-
+mente conto delle interazioni tra istituzione e genitori/
+sistema di provenienza, istituzione e scuola nonché istituzio-
+ne e società, nel quadro delle quali possono nascere conflit-
+ti. Le attività sistemiche della pedagogia sociale, curativa e 
+speciale affrontano queste tensioni con un approccio attivo 
+e improntato alla ricerca di soluzioni.
+Campo d’azione Media ed educazione 
+L’educazione ai media implica non solo la negoziazione e la 
+fissazione di regole ragionevoli e controllabili, ma anche – e 
+soprattutto – il mettere i bambini e i giovani in condizione di 
+usare i media digitali (cfr. cap. 5 «Media ed educazione»). In 
+questo contesto si dovrebbe prestare particolare attenzione 
+alla collaborazione con i genitori, poiché a livello sistemico 
+l’educazione ai media dei bambini e dei giovani include il 
+sostegno ai genitori. Si tratta di affrontare con loro aspetti 
+quali la prevenzione, la risoluzione dei conflitti e i processi 
+di cooperazione e dialogo.
+© Modello TriSoziaMedia, Monika Luginbühl / Grafica: Merkur Druck AG
+Riflessione
+Competenze mediali e società
+Competenze mediali quali competenze chiave
+Competenze tecniche, di utilizzo, di ricezione, 
+di riflessione e competenze sociali
+Campi d’azione della pedagogia mediale
+	
+è Capitolo 5
+	
+è Capitolo 8
+	
+è Capitolo 6
+Collaborazione con i genitori
+Media ed educazione
+Media e cultura dell’istituzione
+Implementazione dell’istituzione
+Media e formazione
+Collaborazione con la scuola
+13
+Campo d’azione Media e cultura dell’istituzione
+Le attività della pedagogia mediale presuppongono una 
+cultura mediale positiva e vissuta nelle istituzioni e si 
+concretizzano nella quotidianità lavorativa a diversi livelli: i 
+collaboratori sono direttamente in contatto con i bambini e i 
+giovani, svolgendo quindi una funzione di modello; essi pos-
+sono promuovere un uso creativo dei media digitali nella 
+vita di tutti i giorni (cfr. cap. 2 «Media e inclusione» e cap. 5 
+«Media ed educazione»). Le istituzioni di pedagogia sociale, 
+curativa e speciale garantiscono e consentono ai giovani un 
+accesso ai media adeguato. I responsabili delle istituzioni 
+rendono visibile il loro atteggiamento verso i media digitali 
+tramite il sito Internet della loro organizzazione e un 
+approccio professionale e differenziato all’uso dei media 
+nella comunicazione interna ed esterna.
+Campo d’azione Media e formazione
+Oggi la formazione ai media è parte integrante del program-
+ma scolastico. Questo ha implicazioni anche per la vita quoti-
+diana dei bambini e dei giovani al di fuori della scuola. Per 
+offrire loro sostegno, ad esempio per i compiti a casa, è 
+fondamentale che i collaboratori delle istituzioni sappiano 
+cosa si fa a scuola (sia quella ordinaria che quella speciale) e 
+abbiano contatti e scambi con i docenti. Questo argomento è 
+ancor più importante se lo si considera nell’ottica della pre-
+parazione all’attività professionale e delle pari opportunità 
+nelle scuole e nei centri di formazione di livello superiore.
+Competenze mediali e società
+Al giorno d’oggi i media digitali incidono notevolmente sulla 
+comunicazione e sull’impostazione delle relazioni sociali. 
+Nell’ottica dell’inclusione, delle pari opportunità e della par-
+tecipazione, coloro che lavorano negli ambiti della pedago-
+gia sociale, curativa e speciale devono pertanto seguirne e 
+conoscerne gli sviluppi fondamentali. Tra questi rientrano 
+sia gli aspetti tecnici, giuridici e politici che le conoscenze 
+relative alle tendenze di utilizzo e alle loro ripercussioni a 
+livello sociale.
+Nella vita professionale di tutti i giorni «pedagogia mediale» significa:
+Badare a che i tre campi d’azione della pedagogia mediale abbiano tutti lo stesso peso e cercare di avviare in 
+ciascuno di essi processi di sviluppo positivi per promuovere le competenze mediali.
+14
+04_COMPETENZE MEDIALI 
+E SOCIETÀ 
+  
+15
+I media sono diventati parte integrante della nostra società 
+digitalizzata. Questi strumenti, fondamentali per la parteci-
+pazione alla vita sociale, non solo caratterizzano l’apprendi-
+mento e la formazione ma trovano anche impiego in (quasi) 
+tutti gli ambiti della vita. Si impara con i media digitali e in 
+merito ai media digitali. 
+Il Piano di studio del Canton Ticino ha integrato completa-
+mente i media digitali nell’insegnamento e nell’apprendimen-
+to. Il triangolo di Dagstuhl fornisce un modello del funziona-
+mento dell’«educazione nel mondo digitale e connesso».
+Triangolo di Dagstuhl, fonte: https://gi.de
+Il triangolo di Dagstuhl spiega il funzionamento della forma-
+zione nel contesto digitale da tre punti di vista. Dal punto di 
+Prospettiva tecnologica
+Come funziona?
+Mondo
+digitale
+Fenomeni, oggetti e situazioni
+Prospettiva socio-culturale
+Qual è l’eﬀetto?
+Prospettiva d'applicazione
+Come si utilizza?
+vista tecnologico tratta il funzionamento di sistemi e 
+applicazioni digitali. Dal punto di vista dell’applicazione 
+tratta il modo in cui programmi e app possono essere utiliz-
+zati in modo proficuo per progetti propri e in collaborazione. 
+Dal punto di vista socioculturale tratta gli effetti degli 
+sviluppi tecnologici prendendo in considerazione, oltre a 
+questioni di tipo etico e normativo, anche riflessioni sui 
+(possibili) risvolti ed effetti collaterali per individui e 
+società. 
+Per ulteriori informazioni sulle competenze mediali nel 
+Piano di studio, cfr. cap. 2 della guida «Competenze mediali 
+nella realtà scolastica», ugualmente pubblicata da Giovani 
+e media.
+Per coloro che lavorano negli ambiti della pedagogia sociale, 
+curativa e speciale è importante sostenere i bambini e i 
+giovani nel processo di apprendimento scolastico nonché 
+creare e rendere possibili collegamenti nella vita di tutti i 
+giorni (cfr. cap. 5 «Media ed educazione»).
+L’apprendimento attraverso i media digitali avviene anche al 
+di fuori delle lezioni. L’utilizzo dei media non produce però 
+automaticamente effetti educativi e positivi per lo sviluppo. 
+Affinché esso contribuisca alla promozione della partecipa-
+zione, della formazione e dello sviluppo sono necessarie 
+competenze mediali.
+Nell’ambito della pedagogia sociale, curativa e speciale si 
+sono affermati modelli di competenze mediali composti da 
+quattro sottocompetenze. La figura si basa sulla definizione 
+della piattaforma nazionale Giovani e media. Questo model-
+lo si ricollega bene al triangolo di Dagstuhl, dato che anche 
+in questo caso si tiene conto di aspetti tecnici e sociali non-
+ché dell’utilizzo. 
+Competenze tecniche
+Comprendono tra l’altro la manipolazione e la manutenzione 
+degli apparecchi nonché l’uso di svariati programmi. General-
+mente i bambini e i giovani comprendono molto rapidamente 
+le proprietà tecniche e si avvicinano senza timore ai nuovi 
+apparecchi. Però a volte non badano alla protezione dei 
+dati e alle impostazioni di sicurezza. La difficoltà a tenere 
+il passo con i rapidi sviluppi tecnologici riguarda dunque 
+piuttosto gli adulti. In questo ambito essi possono imparare 
+in modo consapevole dai bambini e dai giovani.
+Competenze
+tecniche
+Competenze
+di utilizzo
+Competenze di ricezione
+e di riflessione
+Competenze sociali
+ed etiche
+16
+Competenze di utilizzo
+Comprendono tra l’altro strategie per la giusta scelta e 
+la gestione generale delle informazioni, la produzione di 
+contenuti mediali (p. es. album fotografici, film o elaborazio-
+ne di immagini) nonché la conquista e la creazione di nuovi 
+spazi culturali nel ciberspazio globalizzato (p. es. diffusione 
+di propri video su YouTube o TikTok). In questo settore i 
+bambini e i giovani hanno spesso bisogno di essere accom-
+pagnati da adulti competenti per potersi muovere nel mondo 
+digitale in modo sicuro e organizzato.
+Competenze di ricezione e riflessione
+Comprendono tra l’altro un approccio critico alla questione 
+dell’attendibilità delle fonti d’informazione, la consapevolez-
+za delle tracce che si lasciano nel mondo digitale, la cono-
+scenza dei rischi nella rete, la valutazione delle conseguenze 
+del proprio uso dei media e delle regole di base relative ai 
+diritti d’autore di dati digitali. Per sviluppare queste compe-
+tenze i bambini e i giovani hanno necessariamente bisogno 
+che gli adulti li sostengano e discutano con loro.
+Competenze sociali ed etiche
+Comprendono la capacità di usare i media digitali in modo 
+socialmente responsabile e in base alle situazioni, agendo 
+poi di conseguenza. Concretamente, si tratta quindi rispet-
+tare la sfera privata propria e quella altrui, scegliere le sedi 
+adatte per la risoluzione dei conflitti, essere al corrente dei 
+rischi dei media digitali e delle possibilità di proteggere se 
+stessi e gli altri da essi. I bambini e i giovani dovrebbero 
+sfruttare il potenziale sociale positivo dei media digitali 
+(p. es. per coltivare le amicizie a distanza, condividere infor-
+mazioni o trovare nuove forme di collaborazione) e riuscire 
+a sviluppare la capacità di gestire adeguatamente il tempo 
+dedicato ai media digitali in funzione dei contenuti. Per 
+acquisire queste competenze i bambini e i giovani hanno 
+bisogno di essere accompagnati e sostenuti dagli adulti. 
+Ciò che accomuna tutti i modelli di competenze mediali è 
+che vanno oltre il mero utilizzo dei media digitali. Inol-
+tre, l’alfabetizzazione mediatica è un compito permanente 
+che va integrato in tutti gli ambiti della formazione e della 
+vita quotidiana.
+17
+Nella vita professionale di tutti i giorni «competenze mediali e società» significa:
+Non confondere le competenze tecniche con quelle mediali e svolgere la propria funzione educativa di sostegno 
+critico e di accompagnamento anche nei confronti dei bambini e dei giovani esperti dal punto di vista tecnico. Le 
+competenze dei bambini e dei giovani vanno comunque sfruttate sempre in funzione delle risorse.
+18
+Domande sulla valutazione delle competenze mediali dei collaboratori
+Per tracciare un bilancio della situazione si rilevano le competenze mediali dei singoli membri dell’équipe. Il questionario 
+può essere compilato individualmente e discusso poi in seno all’équipe oppure elaborato direttamente in gruppo. Si prega 
+di contrassegnare con una crocetta la risposta più pertinente per ogni domanda e riportare la somma nella tabella alla fine 
+della pagina. Per la valutazione finale occorre poi inserire i valori nel riepilogo a pagina 37.
+A Competenze tecniche
+Offerta di apparecchi multimediali Sono informato sulle attuali possibilità tecniche e sugli apparecchi disponibili sul mercato
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Manipolazione degli apparecchi Ho le capacità tecniche per impostare e utilizzare il mio smartphone, il mio computer, il mio tablet e altri apparecchi. 
+Posso aiutare in questo anche i bambini e giovani.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Manutenzione degli apparecchi So come procedere alla manutenzione dei miei apparecchi. In caso di problemi so come risolverli da solo. Posso aiutare 
+anche i bambini e giovani in caso di domande.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+B Competenze di utilizzo
+Gestione delle informazioni Dispongo delle strategie, delle conoscenze e dell’esperienza necessarie per procedere sistematicamente alla ricerca, 
+selezione, elaborazione e gestione di dati su un determinato tema.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Produzione di contenuti mediali Sono in grado di produrre da solo contenuti mediali (elaborare immagini, creare e modificare film o modificare file audio)  
+e posso guidare e accompagnare i bambini e i giovani nel farlo.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Social media Dispongo delle strategie e delle conoscenze necessarie per utilizzare in modo sicuro le piattaforme dei social media (p. es. TikTok o 
+Instagram), i forum, le chatroom e strumenti analoghi. Sono in grado di consigliare i bambini e i giovani al riguardo.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Impiego di media digitali quali mezzi ausiliari Dispongo di conoscenze specifiche sull’offerta e sulle possibilità d’impiego dei media digitali quali mezzi 
+ausiliari per le persone con disabilità (p. es. computer con sintetizzatori vocali o programmi di ausilio sui tablet). Sono in grado di consigliare al riguardo le 
+persone interessate e i loro familiari.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Uso dei programmi Conosco e uso senza difficolta diversi programmi (p. es. app, piattaforme di social media, Word, Excel, PowerPoint).
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+C Competenze di ricezione e di riflessione
+Analisi critica delle fonti Dispongo delle competenze necessarie per distinguere le fonti attendibili da quelle che lo sono meno (analisi critica delle fonti). 
+Posso aiutare i bambini e giovani dando loro indicazioni concrete al riguardo.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Tracce digitali Dispongo di informazioni sulle tracce digitali. Posso dare consigli concreti al riguardo ai bambini e ai giovani.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Pericoli in Internet Posso indicare i pericoli principali legati a Internet e ho le competenze per affrontarli adeguatamente. Dispongo delle competenze 
+necessarie per offrire un accompagnamento pedagogico ai bambini e ai giovani in questo contesto.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Basi giuridiche So cosa si può e cosa non si può fare in Internet. Conosco le possibili conseguenze a livello legale.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+D Competenze sociali
+Comunicazione Dispongo delle strategie necessarie per impiegare i media digitali in modo consapevole e adeguato per diversi scopi comunicativi. Posso 
+trasmettere queste strategie ai bambini e ai giovani.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Gestione del tempo Ho abbastanza autocontrollo per quanto riguarda la gestione del tempo di utilizzo dei media. Posso offrire un supporto pedagogico  
+ai bambini e ai giovani nell’acquisizione di questa competenza.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Cooperazione Faccio consapevolmente un uso positivo dei media digitali condividendo e sviluppando le conoscenze e le informazioni in forma digitale.  
+Sono in grado di incoraggiare i bambini e i giovani a usare i media digitali in modo positivo.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Totale punti
+A
+B
+C
+D
+19
+05_MEDIA ED EDUCAZIONE 
+ 
+20
+La pedagogia mediale si occupa delle questioni educative 
+legate ai media. Nella prassi, gli ambiti della pedagogia 
+sociale, curativa e speciale comprendono i quattro settori 
+esposti di seguito. 
+Accompagnamento mediale attivo 
+L’accompagnamento mediale attivo comprende un approccio 
+diretto e impegnato degli adulti nei confronti dei bambini e 
+dei giovani nel trattare la questione dei contenuti e dell’uti-
+lizzo dei media digitali nell’ottica della promozione delle 
+competenze mediali. Sono particolarmente importanti gli 
+aspetti seguenti: 
+	
+è essere presenti in caso di domande e assumere un 
+atteggiamento d’interesse all’utilizzo dei media digitali 
+da parte dei bambini e dei giovani;
+	
+è utilizzare insieme i media, dare l’esempio adeguando il 
+proprio comportamento di utilizzo, essere aperti alle 
+tendenze di utilizzo dei bambini e dei giovani e imparare 
+insieme con loro; 
+	
+è prendere posizione (p. es. esprimere proprie valutazioni, 
+positive o negative, su app e videogiochi);
+	
+è fornire informazioni e spiegazioni su temi quali gli aspet-
+ti giuridici, le tracce digitali, la violenza nei media o il 
+sexting;
+	
+è introdurre i bambini e i giovani all’uso di singoli media 
+e contenuti su base individuale e in funzione della loro 
+situazione specifica (p. es. incoraggiandoli a imparare un 
+programma e-mail con sintetizzatore e comandi vocali 
+nel caso di persone con problemi di motricità o segna-
+lando loro strumenti didattici).
+Accompagnamento attraverso regole
+Questa forma di accompagnamento comprende tutte le 
+regole inerenti all’utilizzo dei media digitali, che possono 
+riguardare il tempo, gli aspetti tecnici, il contenuto e/o la 
+comunicazione. Sul tema sono disponibili diversi aiuti sotto 
+forma di guide. In ultima analisi, però, per la definizione 
+delle condizioni generali sono decisive la situazione indivi-
+duale, psichica e cognitiva del bambino o del giovane in 
+questione e la sua maturità. I problemi di natura pedagogica 
+aumentano quando l’età e il potenziale di sviluppo cognitivo 
+divergono notevolmente. Idealmente, le regole vanno 
+negoziate e fissate assieme. In ogni caso, l’attività profes-
+sionale nell’ambito della pedagogia mediale va ben oltre lo 
+sviluppo di regole e comprende il confronto attivo con i 
+bambini e i giovani sui contenuti e sull’uso dei media. Le 
+regole devono essere periodicamente controllate e adegua-
+te alle nuove condizioni del mercato e/o al livello di sviluppo 
+e alla situazione dei bambini e dei giovani. 
+Monitoring 
+Per «monitoraggio» s’intende il controllo sul piano tecnico, 
+che può essere effettuato a diversi livelli (blocco, controllo 
+dei costi, filtraggio o ricerca di tracce informatiche). I 
+fornitori di servizi di telecomunicazioni sono esperti in 
+materia e possono fornire consulenza. Se il monitoraggio 
+è importante, può però garantire solo una sicurezza limitata: 
+più il bambino è grande e autonomo, meno il monitoraggio 
+risulta attuabile. Per gli ambiti della pedagogia sociale, 
+curativa e speciale sono attualmente rilevanti soprattutto 
+il blocco di servizi a valore aggiunto (per es. numeri 0900), 
+il controllo dei costi e i filtri per siti e contenuti problematici 
+su Internet. È fondamentale essere trasparenti riguardo alle 
+misure adottate nei confronti di tutte le persone interessa-
+te. Inoltre, occorre verificare preventivamente se nel 
+caso specifico il monitoraggio sia lecito. Indirettamente, 
+il monitoraggio può anche essere svolto tenendo d’occhio 
+l’utilizzo dei media dei bambini e dei giovani e gli effetti che 
+produce. Le informazioni che si apprendono in questo modo 
+sono uno spunto ideale per poterne parlare con loro. 
+Collaborazione con i genitori
+Tra i compiti della pedagogia sociale, curativa e speciale ri-
+entra anche trattare con i genitori le questioni relative all’ac-
+compagnamento mediale. All’interno della cerchia familiare, 
+l’accompagnamento dei figli in relazione all’uso dei media 
+digitali avviene in vari modi. In alcuni casi i bambini e i 
+giovani utilizzano i media insieme ai genitori e parlandone 
+con loro, ricevendo così spunti su come questi strumenti 
+possono essere utilizzati anche in modo creativo ed educati-
+vo. In altri casi i figli vengono tenuti lontani dai media oppure 
+li utilizzano da soli. La conseguenza è che le competenze 
+acquisite e il modo di utilizzare i media digitali sono molto 
+differenti, il che si ripercuote anche sulle opportunità educa-
+tive. Il compito degli esperti in questo caso è di contrastare 
+le disuguaglianze, tra l’altro cercando il dialogo con i genitori 
+oppure offrendo prestazioni di sostegno. 
+A tale proposito va tenuto presente che i genitori non 
+presentano tutti le stesse condizioni ed esigenze. Alcuni di 
+loro sono i primi a non avere grande esperienza di utilizzo 
+fruttuoso dei media. Altri non accompagnano molto o del 
+21
+tutto i propri figli nell’utilizzo dei media e devono innanzitut-
+to essere sensibilizzati all’importanza dell’educazione ai 
+media. In particolare i genitori in condizioni di sovraccarico 
+sociale devono far fronte a numerosi problemi e general-
+mente l’educazione ai media non è prioritaria nelle loro 
+famiglie. In questo caso bisogna mostrare comprensione, 
+pur sottolineando l’importanza dell’accompagnamento 
+nell’utilizzo dei media e familiarizzarvi i genitori in funzione 
+delle loro possibilità. 
+Nella vita professionale di tutti i giorni «competenze mediali ed educazione» significa:
+Porre l’accento non sulle regole ma soprattutto sull’impegno attivo nell’insegnare ai bambini e ai giovani a usare i 
+media digitali e a considerarli in modo critico, coinvolgendo sempre anche i genitori.
+I genitori che riconoscono l’importanza dell’accompagna-
+mento mediale ma che non sono sicuri di ciò che devono 
+fare hanno bisogno di raccomandazioni concrete e di esempi 
+di cosa è opportuno per loro e di come si comportano altre 
+famiglie. Nel caso dei genitori che accompagnano intensa-
+mente i propri figli si possono intrattenere colloqui di 
+riflessione.
+22
+1 Steiner, O., e Goldoni, M., Medienkompetenz und medienerzieherisches Handeln von Eltern. Eine empirische Untersuchung bei Eltern 
+von 10- bis 17-jährigen Kindern in Basel-Stadt, Scuola superiore di lavoro sociale della Scuola universitaria professionale della Svizzera 
+nordoccidentale: Basilea/Olten, 2011. Nel loro studio Steiner e Goldoni mostrano che sono soprattutto i genitori con un basso livello 
+d’istruzione a segnalare l’esigenza di un sostegno, ma che i corsi tradizionali di formazione per i genitori hanno un livello troppo alto 
+per loro. V. anche EU Kids Online: Svizzera, rapporto 2013, Wie Eltern ihre Kinder im Internet begleiten, http://www.eukidsonline.ch/ e 
+Paus-Hasebrink, Ingrid (2020). Mediengebrauch und Ungleichheit. Von Klüften und Spaltungen in Kindheit und Jugend. merz, anno 64, 
+numero 3, pagina 19–25: «È emerso che le famiglie particolarmente stressate necessitano di una responsabilità sociale e di un’attenzione 
+particolari; hanno bisogno di concetti di sostegno globale per l’intera famiglia che tengano conto delle rispettive condizioni di vita e siano 
+concepiti in modo differenziato e, per quanto possibile, individuale.» (pagina 24)
+Domande su media ed educazione 
+Per tracciare un bilancio della situazione si rileva come i membri dell’équipe accompagnano i bambini e i giovani 
+nell’uso dei media digitali e come collaborano con i genitori. Il questionario può essere compilato individualmente 
+e poi discusso in seno all’équipe oppure elaborato direttamente in gruppo. Si prega di contrassegnare con una crocetta 
+la risposta più pertinente per ogni domanda e riportare la somma nella tabella alla fine della pagina. Per la valutazione 
+finale occorre poi inserire i valori nel riepilogo a pagina 37.
+E Accompagnamento restrittivo
+Posso motivare dal punto di vista pedagogico le regole attualmente applicate all’uso dei media digitali.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Conosco fonti d’informazione e piattaforme cui faccio attivamente riferimento per sviluppare regole adeguate per l’uso dei media digitali.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Sul piano pedagogico mi sento sicuro nello sviluppo di regole individualizzate.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+F Accompagnamento attivo
+Conosco le attuali tendenze di utilizzo dei media da parte dei bambini e dei giovani, vi sono interessato e le esamino criticamente.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Uso i media digitali insieme con i bambini e i giovani e li informo non solo sulla protezione dai relativi rischi ma anche sulle opportunità che essi offrono.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Incoraggio i bambini e i giovani a usare i media digitali in modo competente e mi impegno affinché imparino a farlo gradualmente in base alle loro possibilità.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Parlo regolarmente con i bambini e giovani delle loro esperienze con l’uso dei media digitali e ne discuto con il resto dell’équipe.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+G Monitoraggio
+Conosco le possibilità, i limiti e il quadro giuridico nel settore del monitoraggio.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+So a chi posso rivolgermi per ricevere assistenza specialistica in materia.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+H Collaborazione con i genitori
+Discuto regolarmente con i genitori sull’uso dei media dei bambini e dei giovani.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Conosco strumenti e piattaforme per i genitori che posso utilizzare nel mio lavoro.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Ho idee concrete su come trattare attivamente il tema con i genitori.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Totale punti
+E
+F
+G
+H
+23
+06_MEDIA E FORMAZIONE  
+ 
+24
+Come in altri ambiti pedagogici, anche in quello della peda-
+gogia mediale è importante adottare un’ottica sistemica. Le 
+équipe attive negli ambiti della pedagogia sociale, curativa 
+e speciale devono pertanto informarsi su ciò che le scuole 
+regolari e quelle speciali fanno per quanto concerne la peda-
+gogia mediale. Così è possibile sostenere ulteriormente i 
+bambini e i giovani nella quotidianità e permettere loro di 
+fare altre esperienze con l’utilizzo dei media digitali. A tale 
+proposito si raccomanda la guida «Competenze mediali nella 
+realtà scolastica» di Giovani e media, che fornisce una buo-
+na panoramica sull’argomento. 
+Al giorno d’oggi nel mondo del lavoro, ma anche nella vita 
+di tutti i giorni, servono ormai ben altre competenze oltre 
+alla lettura, alla scrittura e al calcolo e in futuro ne serviran-
+no sempre di più. Secondo il modello delle 4C sono definite 
+quali competenze particolarmente importanti la comunica-
+zione, la creatività, la collaborazione e il pensiero 
+critico. Al loro sviluppo contribuiscono, oltre alla scuola, 
+anche tutti gli altri ambiti della vita. A tal fine, il dialogo e 
+la collaborazione sono imprescindibili per garantire le pari 
+opportunità e la partecipazione di tutti i bambini e i giovani.
+Con l’introduzione del Piano di studio, nelle scuole del 
+Cantone Ticino ha acquisito importanza l’ambito tematico 
+«Tecnologia e media», che viene trattato sia quale elemento 
+interdisciplinare che come materia a sé stante in determina-
+ti anni di scuola. Le competenze del Piano di studio sono 
+vincolanti per tutti gli allievi.
+Per i bambini e giovani che presentano bisogni educativi 
+particolari e non riescono a raggiungere nei tempi previsti 
+queste competenze, i docenti di scuole speciali e regolari 
+elaborano un progetto pedagogico dell'allievo, con obiettivi 
+individualizzati. Oltre alle competenze di base che devono 
+essere acquisite, in questo ambito si tratta anche la que-
+stione delle possibilità di apprendimento ed esperienza nel 
+contesto scolastico e in quello privato.
+ 
+In relazione ai media digitali, si pongono domande quali 
+«in che misura integrare i media digitali nelle situazioni 
+quotidiane e di apprendimento di un determinato bambino 
+affinché possa fare esperienze?» oppure «in che misura 
+utilizzare i media digitali per permettere al bambino di 
+gestire la vita di tutti i giorni?». Questo modo di concepire 
+la promozione e l’accompagnamento va ben oltre la scuola, 
+riguarda molti altri ambiti della vita di bambini e giovani 
+e presuppone assolutamente la collaborazione e il dialogo 
+tra le persone adulte di riferimento. Inoltre, lo strumento 
+di applicazione del Lehrplan 21 può fornire spunti e idee 
+per l’accompagnamento in generale anche al settore della 
+pedagogia sociale, curativa e speciale.
+Alcuni aspetti fondamentali per l’attività 
+quotidiana della pedagogia sociale, curativa 
+e speciale 
+Dialogo regolare con la scuola e gli insegnanti
+Per poter sostenere in modo ottimale i bambini e i giovani 
+nello sviluppo delle competenze mediali, gli operatori del 
+settore che lavorano negli istituti devono sapere quali temi 
+inerenti ai media vengono trattati a scuola e in che misura. 
+Oltre ai materiali didattici, all’impostazione dei compiti e 
+alle competenze mediali da trasmettere bisogna discutere 
+anche riguardo alle regole di utilizzo dei media digitali a 
+scuola e nella vita quotidiana.
+Con la comparsa dei social media, i confini tra i vari ambiti 
+della vita hanno iniziato a scomparire. La comunicazione e i 
+processi di gruppo sulle piattaforme sociali vengono portati 
+a scuola e poi riportati a casa. E se ne nascono problemi o 
+conflitti, questi interessano diversi ambiti della vita dei 
+bambini e dei giovani. Per poter affrontare queste sfide e 
+agire preventivamente è fondamentale il dialogo tra le 
+persone adulte di riferimento.
+Infrastruttura TIC delle istituzioni
+Nella loro vita quotidiana nell’istituzione, i bambini e i giova-
+ni necessitano di un’infrastruttura TIC adeguata per poter 
+svolgere i compiti nonché per utilizzare in modo proficuo i 
+media digitali nella vita di tutti i giorni e fare così le espe-
+rienze necessarie. Le istituzioni sono responsabili di contri-
+buire affinché tutti i bambini e i giovani abbiano accesso 
+agli apparecchi e all’infrastruttura necessari. Per garantire 
+una certa uniformità, esse dovrebbero prendere come riferi-
+mento la dotazione tecnica usuale di un’economia domesti-
+ca (connessione a Internet, potenza degli apparecchi, 
+aggiornamento dei programmi).
+25
+Sostegno pratico nella vita quotidiana
+Le strutture di assistenza e la pianificazione del personale 
+nelle istituzioni devono accompagnare i bambini e i giovani 
+nello svolgimento quotidiano dei compiti a casa, garantendo 
+loro un sostegno adeguato alle esigenze individuali. L’utilizzo 
+dei media digitali per lo svolgimento dei compiti a casa 
+rientra in questo ambito e va coordinato con le regole 
+individuali e/o dell’istituzione.
+L’utilizzo creativo dei media digitali ha un effetto di soste-
+gno alla formazione e non solo in ambito scolastico (cfr. cap. 
+2 «Media e inclusione»). Quando queste attività vengono 
+proposte a casa in forma accompagnata, contribuiscono a 
+una formazione completa. Fare insieme delle attività con i 
+media digitali costituisce inoltre un’ottima occasione per 
+intavolare discussioni più approfondite con i bambini e i 
+giovani, farsi un’idea del loro mondo nella dimensione digi-
+tale e trattare così svariati temi concernenti l’utilizzo dei 
+media e promuovere in generale le competenze mediali.
+Nella vita professionale di tutti i giorni «competenze mediali e formazione» significa:
+discutere attivamente con gli insegnanti sulla promozione delle competenze mediali. Assicurarsi che nella vita 
+quotidiana dell’istituzione non vi siano ostacoli inutili (di natura tecnica oppure connessi all’approccio di assistenza 
+sociopedagogica o alle regole dell’istituzione) che impediscono di soddisfare le esigenze scolastiche.
+26
+Domande sui media e la formazione 
+Per fare un bilancio della situazione, si chiede ai membri dell’équipe in che misura prendono in considerazione i media 
+digitali e la scuola nella loro attività pedagogica. Il questionario può essere compilato individualmente e discusso 
+poi in seno all’équipe oppure elaborato direttamente in gruppo. Si prega di contrassegnare con una crocetta la risposta 
+più pertinente per ogni domanda e riportare la somma nella tabella alla fine della pagina. Per la valutazione finale occor-
+re poi inserire i valori nel riepilogo a pagina 37.
+I Dialogo con la scuola e gli insegnanti riguardo alle TIC e ai media
+Discuto regolarmente con la scuola riguardo alle TIC e all’attività pedagogica con i media.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Conosco le regole di utilizzo dei media digitali nell’area della scuola.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Conosco le esigenze specifiche (p. es. piattaforme didattiche) relative all’utilizzo dei media digitali nelle scuole di livello secondario II  
+(p. es. le scuole professionali).
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Conosco il materiale didattico e i mezzi ausiliari (p. es. zoom per persone ipovedenti) impiegati dalla scuola nell’ambito della pedagogia mediale.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+K Assistenza pratica nella vita quotidiana nell’istituzione
+I bambini e i giovani hanno la possibilità di fare i compiti a casa in forma digitale.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Le regole dell’istituzione sono ben coordinate con le regole e le istruzioni della scuola.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Esorto i bambini e i giovani ad affrontare nuovi argomenti anche in forma digitale.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+L Infrastruttura TIC dell’istituzione
+L’infrastruttura TIC dell’istituzione permette di svolgere i compiti a casa in forma digitale.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+L’istituzione dispone di un’infrastruttura TIC (hardware e software) di livello tecnico equivalente a quello di una normale economia domestica.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Gli apparecchi sono sottoposti a manutenzione regolare e in caso di problemi si può rapidamente ricorrere a un supporto tecnico adeguato.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+M Sostegno attivo nell’ambito della pedagogia mediale
+Quando i bambini e i giovani utilizzano i media digitali per la scuola, colgo l’occasione per sostenerli attivamente.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Incoraggio i bambini e i ragazzi a usare i media digitali in modo creativo e a procurarsi informazioni, anche al di fuori dei compiti, e li accompagno nel farlo.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Sostengo attivamente i bambini e i giovani nell’apprendimento di contenuti digitali.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Totale punti
+I
+K
+L
+M
+27
+07_MEDIA E ASPETTI GIURIDICI 
+ 
+28
+I media digitali rivestono un ruolo centrale nella vita di 
+bambini e giovani e pongono le istituzioni di pedagogia 
+curativa, sociale e speciale di fronte a svariate questioni 
+di natura giuridica. Il chiarimento del quadro giuridico è 
+una condizione importante affinché una struttura possa 
+confrontarsi attivamente con i media digitali dal punto 
+di vista della pedagogia mediale.
+Di seguito vengono delineati a grandi linee alcuni temi. 
+Ulteriori informazioni sono disponibili sul sito Internet 
+www.mekis.ch. 
+Aspetti giuridici riguardanti il rapporto 
+tra istituzione, minori e genitori
+Il rapporto di tensione tra diritti della personalità dei bambi-
+ni e dei giovani e gli obblighi di vigilanza e di custodia che 
+incombono alle istituzioni e ai genitori ruota attorno alle 
+questioni seguenti: può la struttura limitare o controllare 
+l’accesso online dei bambini e dei giovani che ospita? Se sì, 
+in che misura? Come è regolata la responsabilità tra istitu-
+zione e genitori? 
+In generale gli obblighi di custodia e di vigilanza incombono 
+ai genitori. A seguito del collocamento in un’istituzione, 
+quest’ultima assume però una parte dei compiti genitoriali. 
+Nel quadro dell’obbligo di custodia la struttura è respon-
+sabile di garantire l’incolumità dei bambini e dei giovani 
+durante il loro soggiorno. Nel quadro dell’obbligo di vigi-
+lanza la struttura garantisce, nel limite delle sue possibilità, 
+che i suoi ospiti non provochino danni. La misura della 
+vigilanza necessaria dipende dalle circostanze concrete (età, 
+carattere, maturità, situazione ecc.). 
+Come sono ripartiti gli obblighi di tutela e di vigilanza tra 
+istituzioni e genitori per quanto concerne l’utilizzo dei media 
+dei bambini e dei giovani? È determinante ciò che è stato 
+convenuto per contratto. Nel caso ideale, all’interno delle 
+condizioni quadro predefinite del compito pedagogico l’isti-
+tuzione e i genitori si considerano partner congiuntamente 
+responsabili per il benessere dei bambini e dei giovani inte-
+ressati.
+29
+Al contempo, i minori hanno il diritto di esercitare i propri 
+diritti della personalità. In particolare hanno diritto all’inte-
+grità fisica (p. es. libertà di movimento), affettiva (p. es. 
+protezione da danni emotivi) e sociale (diritto alla sfera 
+segreta e alla sfera privata, libertà d’informazione). 
+Importante: un minore capace di discernimento può eserci-
+tare i diritti della personalità in modo autonomo, senza il 
+coinvolgimento dei genitori o dei curatori. Sono capaci di 
+discernimento le persone in grado di comprendere le 
+conseguenze delle proprie azioni e in base a questo giudizio 
+sono capaci di agire ragionevolmente di propria volontà.
+Le istituzioni possono limitare i diritti della personalità dei 
+minori solo se vi sono motivi validi per farlo e se le limitazio-
+ni sono proporzionate. Anche in questo caso è di particolare 
+importanza dal punto di vista giuridico quanto convenuto 
+concretamente per contratto e quindi comprovabile. 
+Molte istituzioni dispongono di regole sull’utilizzo dei media, 
+che comportano ingerenze (più o meno significative) nei 
+diritti della personalità dei bambini e dei giovani. Queste 
+regole, che fissano limitazioni concernenti tempo, luogo 
+e contenuti, possono essere stabilite mediante accordi 
+(contratti sull’utilizzo dei media) o prevedere «soluzioni» 
+tecniche. È però importante tenere presente che le limitazio-
+ni tecniche (p. es. bloccare determinati siti Internet) non 
+sostituiscono il lavoro pedagogico.
+Le regole concernenti i media devono essere impostate in 
+modo tale da essere comprensibili per i bambini e i giovani e 
+da lasciare loro lo spazio necessario alle esperienze e alla 
+creatività. Occorre mostrare genuino interesse per il mondo 
+digitale dei minori; ciò permette di instaurare un dialogo 
+anche su comportamenti o contenuti problematici. È inoltre 
+importante restare in contatto con i genitori e considerare 
+l’incarico relativo ai media quale compito congiunto.
+Questioni relative alla protezione dei dati 
+e utilizzo delle immagini nelle istituzioni
+Un altro tema rilevante dal punto di vista giuridico riguarda 
+i dati che un’istituzione è autorizzata a rilevare e come li 
+può utilizzare. Nell’ambito della raccolta di dati (p. es. la 
+rilevazione dell’uso di Internet) bisogna dare per principio 
+maggiore peso alla tutela della persona rispetto all’interes-
+se dell’organizzazione di disporre di determinate informazio-
+ni. La raccolta di dati deve essere pertanto legittimata da 
+uno dei seguenti elementi inerenti al diritto in materia di 
+protezione dei dati: un’autorizzazione scritta della persona 
+interessata, un mandato legale di raccolta dei dati o un 
+interesse privato o pubblico prioritario, per esempio in 
+situazioni d’emergenza acuta. 
+I dati personali possono essere trasmessi a terzi (compresi i 
+genitori) esclusivamente in presenza di validi motivi. Pertanto 
+vanno raccolti meno dati possibili e questi devono essere 
+conservati solo per il tempo strettamente necessario e resi 
+accessibili esclusivamente alle persone che ne hanno effetti-
+vamente bisogno. I diritti della personalità dei bambini e dei 
+giovani devono essere salvaguardati anche rispetto ai 
+genitori.
+Un diritto della personalità analogo sussiste anche per 
+quanto concerne le immagini: la pubblicazione (p. es. su un 
+sito Internet o nei social media) di uno scatto in cui vi sono 
+persone in primo piano o chiaramente riconoscibili necessita 
+di un’autorizzazione da parte di tutti gli interessati. Se le 
+persone ritratte nell’immagine non sono in primo piano, 
+non è necessaria un’autorizzazione. Le istituzioni devono 
+considerare questi aspetti nell’utilizzo di immagini all’inter-
+no della struttura e sensibilizzare anche i bambini e i giovani 
+a trattare le immagini degli altri con le dovute precauzioni.
+ 
+Quali sono i comportamenti online con cui i bambini 
+e i giovani si rendono punibili? Aspetti giuridici 
+riguardanti pornografia e ciberbullismo 
+La questione dei comportamenti online con cui i bambini 
+e i giovani possono commettere reati riguarda aspetti 
+quali il consumo di pornografia, lo scatto e l’invio di foto 
+personali erotiche o la partecipazione ad atti di ciberbulli-
+smo. Un’istituzione ha il compito di sensibilizzare su questi 
+temi i bambini e i giovani che le sono affidati e di accompa-
+gnarli nell’acquisizione delle nozioni necessarie per compor-
+tarsi in modo corretto. 
+In Svizzera la responsabilità giuridica inizia molto presto: la 
+maggiore età dal punto di vista penale è fissata a 10 anni. Ciò 
+significa che a partire da quest’età i bambini possono essere 
+denunciati e condannati per violazioni del Codice penale.
+Un tema con cui le istituzioni sono spesso confrontate 
+è quello della pornografia. È vietato rendere accessibile 
+30
+pornografia di qualsiasi genere a minori di 16 anni. Questo 
+vale sia per le piattaforme, sia per le persone private. Per-
+tanto un quindicenne può guardare un porno: il consumo di 
+materiale pornografico legale non è vietato. Egli però non 
+può inviarlo ai suoi coetanei.
+Le rappresentazioni a carattere sessuale con minori di 18 
+anni sono vietate. Se un minorenne si ritrae in atteggiamen-
+ti erotici e con parti dei genitali visibili, l’immagine prodotta 
+può essere considerata pedopornografia. Pertanto la perso-
+na in questione e tutti coloro che posseggono (per es. sal-
+vando sullo smartphone) o spediscono ad altri tale immagine 
+diventano possessori o fornitori di materiale pedopornogra-
+fico. Eccezione: se giovani tra i 16 e i 18 anni producono 
+consensualmente materiale pornografico di sé o l’uno 
+dell’altro, la produzione, il possesso o il consumo tra loro 
+di questo materiale è esente da pena a condizione che essi 
+non lo trasmettano ad altri.
+Un altro tema di rilevanza giuridica con cui le istituzioni si 
+trovano spesso confrontate è il ciberbullismo. Una 
+situazione di bullismo è caratterizzata da uno squilibrio nei 
+rapporti di forza tra autori e vittime, i quali generalmente si 
+conoscono. Nella maggior parte dei casi le persone attive 
+come autori sono poche. A queste si aggiungono gli incitato-
+ri che fanno sentire agli autori il proprio appoggio, e gli 
+spettatori silenziosi. Ciò fornisce agli autori di bullismo il 
+sostegno per perpetrare le loro azioni.
+Nel caso del ciberbullismo si presentano altri specifici 
+aspetti problematici: innanzitutto, la diffusione di informa-
+zioni, immagini e insulti avviene con estrema rapidità. In 
+secondo luogo, gli insulti hanno un effetto duraturo perché i 
+dati immessi nella rete vi rimangono e la loro diffusione è 
+incontrollata. In terzo luogo, gli autori rimangono spesso 
+anonimi. Le vittime di ciberbullismo non hanno più alcuno 
+spazio sicuro in cui rifugiarsi e così non possono più sottrar-
+si alle situazioni di bullismo. Il ciberbullismo nasce quasi 
+sempre tra conoscenti ed è dunque una forma di bullismo.
+Non vi sono esplicite disposizioni contro il ciberbullismo: 
+quelle esistenti riguardano singoli reati che possono essere 
+commessi nell’ambito di un atto di ciberbullismo (p. es. 
+danneggiamento di dati, estorsione, delitti contro l’onore, 
+calunnia, ingiuria, minaccia, coazione). 
+Le istituzioni devono formare gli specialisti in merito a 
+questi temi e definire procedure e responsabili in caso di 
+episodi gravi. Occorre inoltre trattare con i bambini e i 
+giovani le questioni della sessualità e dell’appartenenza 
+al fine di evitare che siano commessi atti illegali a causa 
+della mancanza di conoscenze, e dare loro la possibilità di 
+maturare esperienze su cui riflettere. L’accento non deve 
+essere posto su divieti e rischi. I bambini e i giovani devono 
+poter sviluppare una propria posizione. 
+ 
+Nella vita professionale di tutti i giorni, «utilizzo sicuro dei media digitali» significa:
+Disporre delle informazioni necessarie sugli aspetti giuridici al fine di permettere agli operatori di accompagnare i 
+bambini e i giovani in modo competente e di rispondere alle loro domande in proposito.
+31
+08_CULTURA DELL’ISTITUZIONE 
+E SVILUPPO DI UN PIANO 
+CONCETTUALE
+ 
+32
+Cultura dell’istituzione
+Un atteggiamento di fondo positivo e un comportamento 
+esemplare nell’uso competente dei media digitali sono 
+la premessa per la riuscita dell’attività pedagogica con 
+i media. I responsabili delle istituzioni hanno il compito 
+di riflettere sui valori e sugli atteggiamenti nella propria 
+istituzione, avviare processi ed elaborare strategie per dar 
+forma attivamente alla cultura mediale dell’istituzione. Lo 
+schema qui sotto illustra a titolo esemplificativo i diversi 
+approcci delle istituzioni ai media digitali. I tipi I e II rifletto-
+no un atteggiamento pedagogico protettivo che può ostaco-
+lare la partecipazione dei bambini e dei giovani alla vita 
+sociale. Il tipo III permette l’utilizzo di apparecchi digitali, 
+ma può ostacolare il processo di apprendimento, se il tema 
+viene trattato facendo esclusivamente riferimento a regole. 
+I tipi IV e V mirano alla trasmissione di competenze e quindi 
+all’inclusione. Nella prassi i vari tipi di approcci vengono 
+anche combinati. Con i progressi nel campo della robotica, 
+l’introduzione di robot umanoidi nella pedagogia sociale, 
+in particolare nel settore delle cure, potrebbe diventare 
+un tema di grande rilievo. Se e dove un tale impiego abbia 
+senso va valutato nel contesto globale del concetto di 
+assistenza sociopedagogica e della presa a carico della 
+persona. 
+La cultura mediale dell’istituzione si manifesta anche negli 
+ambiti dell’amministrazione e della comunicazione (attraver-
+so una «strategia digitale»), nel sito Web dell’istituzione, 
+nell’impostazione dei processi di comunicazione interni ed 
+esterni e nell’impiego di diversi canali di comunicazione in 
+funzione dei destinatari (bambini e giovani, genitori, scuola 
+o uffici pubblici). 
+I	
+«Dobbiamo proteggere i bambini e i giovani dai rischi dei media digitali.»
+II	 «Per noi non cambia nulla. I media digitali sono irrilevanti per noi.»
+III	 «Non possiamo impedire il possesso degli smartphone, ma ne regolamentiamo l’uso.»
+IV	 «Dobbiamo insegnare ai bambini e ai giovani a utilizzare i media digitali, affinché imparino a farlo in modo competente, sfruttandone  
+le opportunità ed evitandone i pericoli, e se del caso a prenderne le distanze.»
+VI	 «Nella nostra istituzione utilizziamo robot umanoidi, che sgravano i nostri collaboratori nella cura dei bambini e dei giovani disabili.»
+V	 «I media digitali fanno ormai parte della quotidianità della pedagogia sociale, curativa e speciale. Li utilizziamo in modo creativo e li integriamo 
+nella nostra attività pedagogica. I media digitali e gli assistenti digitali intelligenti (p. es. i tablet quali ausili vocali) aiutano  
+i bambini e i giovani con disabilità a risolvere in modo competente i problemi della vita quotidiana.»
+Vietare i media digitali
+Ignorare i media digitali
+Accettare e 
+regolamentare  
+i media digitali
+Utilizzare i media digitali 
+quali supporto in sostituzione 
+degli operatori educativi
+Integrare i media digitali in 
+modo creativo e utilizzarli 
+p. es. quali strumenti ausiliari
+Insegnare a utilizzare  
+i media digitali
+Tipi di atteggiamento
+Media digitali
+I
+II
+III
+IV
+V
+VI
+Il modello si basa sulla «Leitmedienreaktionsskala» di Beat Döbeli ed è stato trasposto alla pedagogia sociale da Marc Pilloud e Monika 
+Luginbühl.
+33
+espongono la posizione di un’istituzione nei confronti dei 
+media digitali e dei cambiamenti che portano nella realtà 
+quotidiana di bambini e giovani.
+Passo 4 – Ambiti d’intervento e campi tematici
+Gli aspetti e i contenuti di rilievo in materia di pedagogia 
+mediale sono numerosi. Per l’elaborazione di un piano con-
+cettuale occorre inizialmente stabilire a livello sovraordinato 
+quali sono gli ambiti rilevanti per l’istituzione in materia di 
+media, per esempio «Prestazioni di pedagogia mediale» o 
+«Collaborazione con i genitori».
+Passo 5– Prestazioni, attuazione, responsabilità
+In questa parte vengono definite le prestazioni concrete e 
+gli orizzonti temporali per l’attuazione degli ambiti tematici 
+formulati e le relative responsabilità.
+Una prestazione di pedagogia mediale può per esempio 
+essere una formazione sul tema «Sicurezza e sfera privata 
+in Internet: profili e password». È raccomandabile menziona-
+re inoltre come s’intende integrare le prestazioni e i loro 
+risultati nella realtà quotidiana e dunque assicurarne 
+l’efficacia a lungo termine. 
+Passo 6 – Pianificazione della valutazione
+Per garantire che il piano concettuale di pedagogia mediale 
+sia adeguato ai bisogni dell’istituzione, dopo una fase di 
+attuazione occorre eseguire una valutazione. Le tappe e le 
+responsabilità vanno stabilite nella relativa pianificazione.
+Lo svolgimento regolare di valutazioni permette di tenere 
+aggiornato il piano concettuale e di adeguarlo a eventuali 
+cambiamenti.
+Piani concettuali di pedagogia mediale 
+Per essere al passo con i tempi, il piano concettuale di 
+pedagogia sociale, curativa e speciale dell’istituzione 
+deve contenere una parte dedicata alla pedagogia mediale. 
+A tal fine bisogna procedere passo per passo sulla base di 
+un atteggiamento di fondo positivo e aperto. Generalmente, 
+se si pone l’accento su temi sovraordinati quali partecipa-
+zione, inclusione e autodeterminazione, è possibile inglobare 
+in larga misura i media digitali nei piani programmatici delle 
+istituzioni. Al contrario, l’esclusione dei media digitali limita 
+l’applicazione di questi valori. 
+Sul sito Internet del progetto MEKiS è disponibile una guida 
+per sviluppare un piano concettuale di pedagogia mediale 
+in sei tappe, presentate brevemente di seguito una per 
+una. Ulteriori informazioni sono disponibili sul sito Internet
+www.mekis.ch. 
+Il piano concettuale dovrebbe fungere da base per l’attua-
+zione delle prestazioni di pedagogia mediale e per un utilizzo 
+pedagogicamente adeguato dei media nella realtà quotidia-
+na dei bambini e giovani nelle istituzioni. Dato che il campo 
+tematico «media digitali» è soggetto a continui cambiamen-
+ti, anche il piano concettuale di pedagogia mediale va 
+costantemente adeguato in funzione del bisogno. Nel caso 
+delle istituzioni di grandi dimensioni è sensato sviluppare 
+un piano valido per l’intera struttura che lasci margine di 
+manovra ai singoli settori per lavorare in modo adatto a 
+seconda delle circostanze del caso. Per l’elaborazione del 
+piano concettuale di pedagogia mediale si raccomanda di 
+seguire le seguenti tappe. 
+Passo 3 – Idea guida di pedagogia mediale
+Per idea guida s’intende la formulazione di un atteggiamen-
+to di fondo vincolante rispetto a questioni di pedagogia 
+mediale. Possono essere anche solo poche frasi, che 
+Passo
+Preparazione e 
+pianificazione
+Passo
+Inventario e 
+valutazione dei 
+bisogni
+Passo
+Idea guida 
+di pedagogia 
+mediale
+Passo
+Ambiti 
+d’intervento e 
+ campi tematici
+Passo
+Prestazioni di 
+pedagogia mediale, 
+attuazione e 
+responsabilità
+1
+2
+3
+4
+5
+Passo
+Pianificazione 
+della valutazione
+6
+34
+Un’osservazione preliminare in merito agli attori coinvolti 
+nell’elaborazione del piano concettuale:
+«L’elaborazione del piano concettuale è un 
+lavoro di gruppo. Pertanto deve avvenire 
+nel modo più trasparente e con la 
+partecipazione più grande possibile»
+(Spiegel 2013, pag. 492).
+Nella vita professionale di tutti i giorni «media e cultura dell'istituzione» significa: 
+Affrontare in modo consapevole e differenziato gli atteggiamenti di base nei confronti dei media digitali e plasmare 
+in modo attivo e continuo la cultura istituzionale in questo settore – soprattutto come responsabile.
+Attori coinvolti nell’elaborazione del piano 
+concettuale di pedagogia mediale
+Il piano concettuale di pedagogia mediale non è rilevante 
+solo per bambini e giovani ospiti, collaboratori e direzione
+delle strutture stazionarie di aiuto all’infanzia e alla gioven-
+tù, bensì anche per i genitori. È dunque utile coinvolgere 
+tutti questi gruppi di persone nell’elaborazione del piano in 
+questione, affinché possano identificarvisi e vedervi 
+considerate le proprie esigenze.
+35
+N Scala degli atteggiamenti
+L’uso dei media digitali nell’istituzione va vietato il più possibile.
+1 Assolutamente vero
+2 Perlopiù vero
+3 Piuttosto vero
+4 Piuttosto falso
+5 Perlopiù falso
+6 Assolutamente falso
+Nelle attività quotidiane della nostra istituzione i media digitali non vengono utilizzati praticamente mai. 
+1 Assolutamente vero
+2 Perlopiù vero
+3 Piuttosto vero
+4 Piuttosto falso
+5 Perlopiù falso
+6 Assolutamente falso
+Non si può vietare l’uso dei media digitali, ma si può regolamentarlo severamente.
+1 Assolutamente vero
+2 Perlopiù vero
+3 Piuttosto vero
+4 Piuttosto falso
+5 Perlopiù falso
+6 Assolutamente falso
+Bisogna insegnare ai bambini e ai giovani a utilizzare i media digitali.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Ogni membro dell’équipe deve dare il buon esempio nell’uso dei media digitali.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+I media digitali possono aiutare i bambini e i giovani ad affrontare la vita quotidiana e vanno quindi assolutamente utilizzati.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+O Comunicazione
+La nostra istituzione ha adottato un concetto per la comunicazione interna ed esterna (corrispondenza elettronica con le autorità, i servizi sociali e i familiari, 
+diario, comunicazione via SMS all’interno dell’équipe o con i clienti) che regola, con un approccio integrativo, l’uso dei canali di comunicazione digitali.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Il nostro sito Internet è attrattivo e facile da utilizzare (p. es. design responsivo, ossia compatibile per smartphone e tablet).
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+P Amministrazione
+Disponiamo di un sistema digitale chiaro per la gestione dei casi, che viene utilizzato senza problemi e in modo sicuro da tutte le parti interessate.  
+Sono state definite e vengono applicate regole di utilizzo chiare.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+La nostra infrastruttura tecnica ci permette di svolgere in modo efficiente i nostri compiti amministrativi.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+I nostri dati sono protetti conformemente alla legge.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Q Pedagogia mediale creativa
+Nel tempo libero realizziamo progetti mediali creativi.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+L’utilizzo dei media digitali crea sempre situazioni in cui tutti si divertono.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Ho le competenze per utilizzare i media in modo creativo e sono in grado di motivare i bambini e i giovani a fare altrettanto.
+6 Assolutamente vero
+5 Perlopiù vero
+4 Piuttosto vero
+3 Piuttosto falso
+2 Perlopiù falso
+1 Assolutamente falso
+Totale punti
+N
+O
+P
+Q
+Domande sui media e sulla cultura dell'istituzione 
+Per fare un bilancio della situazione, si chiede ai membri dell’équipe di esprimersi riguardo alla cultura della loro istitu-
+zione e al suo atteggiamento di fondo verso i media digitali. Il questionario può essere compilato individualmente e poi 
+discusso in seno all’équipe oppure elaborato direttamente in gruppo. Si prega di contrassegnare con una crocetta la 
+risposta più pertinente per ogni domanda e riportare la somma nella tabella alla fine della pagina. Per la valutazione finale 
+occorre poi inserire i valori nel riepilogo a pagina 37.
+36
+09_SINTESI: BILANCIO E NECESSITÀ 
+DI INTERVENTO 
+  
+37
+La presente guida offre ai singoli operatori, alle équipe 
+e alle istituzioni la possibilità di stilare un bilancio sulla 
+propria situazione compilando i questionari in essa conte­
+nuti. Équipe e istituzioni devono porsi l’obiettivo di situarsi 
+nella fascia verde/arancione. Per ogni tema (da A a Q) va 
+contrassegnata la fascia in cui si rientra (rossa, arancione, 
+verde), in corrispondenza dei valori di riferimento sottoindi-
+cati. 
+I risultati dei questionari svolti in modo individuale sono 
+ora raggruppati e permettono di vedere in un colpo d’occhio 
+dove c’è bisogno di agire/intervenire e con quale urgenza. 
+Può essere interessante confrontare i questionari all’interno 
+dell’équipe per identificare risorse e potenziale. La sintesi 
+così ottenuta permette di definire i passi successivi per 
+l’elaborazione del piano concettuale e la prassi (cfr. cap. 8). 
+Questa sintesi va inoltre intesa quale strumento per il 
+controllo costante della qualità e dei risultati del proprio 
+lavoro. A tal fine i questionari vanno compilati e valutati 
+a intervalli regolari e i risultati utilizzati per individuare 
+possibili temi di rilievo.
+A Competenze tecniche
+B Competenze di utilizzo
+C Competenze di riflessione
+D Competenze sociali
+14–18
+23–30
+18–24
+14–18
+08–13
+13–22
+11–17
+08–13
+03–07
+05–12
+04–10
+03–07
+E Accompagnamento
+	 restrittivo
+F Accompagnamento attivo
+G Monitoraggio
+H Collaborazione con  
+i genitori
+14–18
+28–24
+09–12
+14–18
+08 –13
+11–17
+05–08
+08–13
+03–07
+04–10
+02–04
+03–07
+I Dialogo
+K Vita nell’istituzione
+L Infrastruttura tecnica
+M Sostegno attivo
+23–30
+14–18
+14 –18
+14–18
+13–22
+08–13
+08–13
+08–13
+05–12
+03–07
+03–07
+03–07
+N Scala degli atteggiamenti
+O Comunicazione
+P Amministrazione
+Q Pedagogia mediale
+	
+creativa
+27–36
+09–12
+14–18
+14–18
+16–26
+05–08
+08–13
+08–13
+06–15
+02–04
+03–07
+03–07
+Necessità di intervento / di sviluppo
+Necessità di intervento
+Osservazioni/Appunti
+In questi ambiti bisogna intervenire con urgenza.
+Da tenere sotto controllo
+In questi ambiti vi è un potenziale di miglioramento.
+Tutto bene
+Attualmente va tutto bene. Questi ambiti sono il punto di forza  
+e la migliore risorsa dell’istituzione.
+38
+10_ULTERIORI INFORMAZIONI 
+  
+39
+Informazioni complementari
+Piattaforma nazionale Giovani e Media
+	
+è www.giovaniemedia.ch
+Pro Juventute Svizzera
+	
+è www.projuventute.ch
+> Per le famiglie > Media e internet
+YOUVITA
+L’associazione di categoria dei fornitori 
+di servizi per bambini e adolescenti
+	
+è www.youvita.ch
+Educa
+Agenzia specializzata nello spazio formativo digitale
+	
+è www.educa.ch
+ASPI
+Fondazione della Svizzera italiana per l’aiuto, 
+il sostegno e la protezione dell’infanzia
+	
+è www2.aspi.ch 
+Infogiovani
+Piattaforma della Repubblica e Cantone Ticino per i giovani
+	
+è www.ti.ch/infogiovani 
+Centri di competenza e formazione
+Centro di risorse didattiche e digitali (CERDD)
+Educazione ai media digitali in collaborazione con 
+le istituzioni formative e gli attori scolastici
+	
+è www.ti.ch/cerdd
+SUPSI – Dipartimento formazione e apprendimento
+Laboratorio media e MINT
+	
+è www.supsi.ch/dfa/ricerca/laboratori/mem
+dfa.mem@supsi.ch  
+Centro di competenze Bisogni educativi, 
+scuola e società
+	
+è www.supsi.ch/dfa/ricerca/centri-competenza/bess
+dfa.bess@supsi.ch 
+SUPSI – Dipartimento economia aziendale, 
+sanità e sociale
+Centro di competenze lavoro, welfare e società > Area 
+tematica Partecipazione sociale e intervento socio-educativo
+	
+è www.supsi.ch/lws 
+lws@supsi.ch 
+USI – Istituto media e giornalismo
+	
+è www.imeg.com.usi.ch 
+Letteratura
+• Geronimi, E., Zanchin, L., Mainardi, M., & Hättich, 
+A. (2020). Uso dei media da parte di giovani con disabilità 
+intellettive nella Svizzera italiana. Italian Journal of 
+special education for inclusion, 8(2), 72–80.
+• Hättich, A., Zanchin, L., Geronimi, E., & Mainardi, M. 
+(2020). Uso dei media da parte degli allievi delle scuole 
+speciali: la situazione in Svizzera e nel cantone Ticino. 
+Locarno: Centro competenze bisogni educativi, scuola 
+e società.
+• Mainardi, M., & Zgraggen, L. (2010). Minori in internet e 
+comportamenti a rischio. Maltrattamento e abuso dell’in-
+fanzia, 2(12), 25–41.
+• Mainardi, M., Zgraggen, L., & Balerna, C. (2010). Genitori 
+e web: il confronto con l’uso della rete da parte dei figli 
+minorenni. Maltrattamento e abuso dell’infanzia, 2(12), 
+43–59. 
+• Mainardi, M., & Zgraggen, L. (2012). Minori in internet (II) 
+Studio longitudinale dell’evoluzione dei comportamenti 
+dei minori in internet e al computer. Manno/Locarno: 
+SUPSI/DFA-DEASS.
+40

@@ -1,0 +1,1518 @@
+Für Fachleute 
+aus der OJA 
+und der Schule
+MEDIENKOMPETENZEN  
+UND PEER-EDUCATION / -TUTORING
+PROJEKTBEISPIELE UND QUALITÄTSKRITERIEN
+Impressum
+Herausgegeben von
+Jugend und Medien
+Nationale Plattform zur Förderung von Medienkompetenzen
+Bundesamt für Sozialversicherungen BSV
+jugendschutz@bsv.admin.ch
+www.jugendundmedien.ch
+Die Inhalte wurden erarbeitet von: 
+Martina Späni & Klaus Petrus 
+in Zusammenarbeit mit Olivier Steiner (FHNW), Rahel Heeg (FHNW), 
+Colette Marti (BSV) und Liliane Galley (BSV) 
+Bestellung (kostenlos):
+ 
+BBL, Verkauf Bundespublikationen, CH-3003 Bern
+www.bundespublikationen.admin.ch > Aktuelles > Jugend und Medien
+(Bestellnummer 318.859.d)
+02.18 3'000 860415121
+Erhältlich in Deutsch, Französisch und Italienisch
+Layout: KARGO Kommunikation GmbH
+2. Auflage, Januar 2018
+© 2016 Jugend und Medien, Nationale Plattform zur Förderung von Medienkompetenzen,  
+Bundesamt für Sozialversicherungen
+3
+LIEBE LESERIN, 
+LIEBER LESER
+ 
+Digitale Medien sind das Leitmedium unserer modernen ICT-Kultur. In allen Lebensbereichen – Beruf, Schule und Freizeit – 
+prägen sie unseren Alltag. Kinder und Jugendliche müssen lernen, sicher und verantwortungsvoll mit digitalen Medien 
+umzugehen, das heisst, sie müssen Medienkompetenzen erwerben. Nebst den Eltern können auch Jugendliche eine 
+wichtige Rolle bei der Förderung von Medienkompetenzen spielen, denn im Jugendalter übernehmen die Gleichaltrigen 
+(Peers) eine wichtige Sozialisationsfunktion. Mit zunehmendem Alter der Jugendlichen verlieren Eltern und Schule beim 
+Erlernen der Mediennutzung an Relevanz. Der Austausch verlagert sich hin zur sogenannten Peer-Group. Das Prinzip 
+«Jugendliche lernen von Jugendlichen» birgt ein grosses Potenzial für die Förderung von Medienkompetenzen in der Schule 
+und in der Offenen Jugendarbeit. Das informelle Lernen unter Gleichaltrigen ist allerdings bis heute unter den zahlreichen 
+medienpädagogischen Angeboten noch kaum anzutreffen. 
+Die vorliegende Broschüre stellt die zentralen Erkenntnisse einer Evaluationsstudie des Bundesamts für Sozialversiche­- 
+­r­ungen dar und zeigt anhand von konkreten Projektbeispielen die Herausforderungen sowie Qualitätskriterien des 
+Peer-Involvement-Ansatzes praxisnah auf. Wir möchten Fachpersonen aus dem Schul- und Freizeitbereich, spezifisch 
+Lehrpersonen der Sekundarstufen I und II sowie Fachleute aus der Offenen Jugendarbeit dazu anregen, Projekte zur 
+­Förderung der Medienkompetenzen durch Gleichaltrige einzusetzen und ihnen Hinweise geben, worauf für eine erfolgreiche 
+Durchführung zu achten ist.
+Ich wünsche Ihnen eine gute Lektüre.
+Ludwig Gärtner 
+Vizedirektor, Leiter des Geschäftsfeldes 
+Familie, Generationen, Gesellschaft FGG, 
+Bundesamt für Sozialversicherungen
+4
+INHALTSVERZEICHNIS
+ 
+Worum es geht 	
+5
+01_ ___ Nutzung von digitalen Medien und Medienkompetenzen	
+6
+Von Gleichaltrigen lernen	
+6
+Was sind Medienkompetenzen?	
+7
+02_ ___ Peer-Involvement: Jugendliche bilden Jugendliche	
+8
+Was ist Peer-Involvement?	
+8
+Formen und Ziele von Peer-Involvement	
+8
+Herausforderungen bei der Umsetzung		
+9
+03_ ___ Das Gesamtprojekt und die sieben Peer-Projekte	
+10
+Die Akteure	
+10
+Ein zentrales Ergebnis vorweg	
+11
+Theateraufführungen, Radiostreams und Blogs – die sieben Projekte im Porträt	
+	
+12
+04_ ___ Erfahrungen und Erkenntnisse aus den Peer-Projekten	
+22
+Es kommt auf das Setting an		
+22
+Zusammenarbeit in Projekten	
+24
+Peer-Educators und Peer-Tutors	
+26
+Themen und Aktivitäten in den Projekten	
+28
+Fazit: Der Peer-Involvement-Ansatz fordert in der Umsetzung heraus	
+29
+05_ ___ Qualitätsmerkmale – oder was für ein gelingendes Projekt wichtig ist	 	
+31
+Literatur 	
+34
+Glossar_	
+35
+5
+Längst sind digitale Medien fester Bestandteil des Alltags 
+von Kindern und Jugendlichen. Die multifunktionalen Geräte 
+prägen nachhaltig deren Art, sich untereinander auszu­
+tauschen, zu spielen, Freizeit zu verbringen und sich 
+Wissen anzueignen. Den Spitzenplatz unter den Geräten, 
+die solches erst ermöglichten, besetzt heute das Smartpho-
+ne. Mit ihm wird telefoniert, gechattet, fotografiert und 
+gefilmt; werden Messages verschickt, Videos geschaut, 
+Daten gespeichert und auf Internetplattformen platziert; es 
+wird der Fahrplan abgefragt, die geografische Position 
+bestimmt und die Agenda geführt – und noch vieles mehr.
+Die Nutzungsmöglichkeiten digitaler Medien sind in ihrer 
+Vielgestaltigkeit schier unüberblickbar geworden und damit 
+auch deren Chancen und Risiken. Schon seit etlichen Jahren 
+beschäftigen sich Erziehungs- und Bildungsverantwortliche 
+entsprechend mit der Frage, wie die Medienkompetenzen 
+von Kindern und Jugendlichen gefördert werden können. 
+Die vorliegende Broschüre informiert über einen bislang 
+wenig begangenen, aber vielversprechenden Weg: 
+WORUM ES GEHT
+ 
+Die Förderung der Medienkompetenzen von Jugendlichen 
+durch Jugendliche selbst. Die Methode dahinter wird als 
+«Peer-Involvement» bezeichnet. Es handelt sich um einen 
+pädagogischen Ansatz, der die Tatsache berücksichtigt, dass 
+sich Jugendliche im Bereich der Mediennutzung am liebsten 
+im Freundeskreis oder in der Clique austauschen und dabei 
+wesentliche Lern- und Sozialisationsprozesse durchlaufen.
+Diese Broschüre möchte Fachleute aus der Offenen 
+Jugendarbeit und Lehrpersonen der Sekundarstufe I und II 
+sowie weitere interessierte Personen mit dieser Art der 
+Förderung von Medienkompetenzen vertraut machen und  
+sie zur Durchführung eigener solcher Projekte motivieren.  
+In dieser Publikation wird sowohl auf die spezifischen 
+Vorteile dieser Methode hingewiesen wie auch auf 
+Herausforderungen, die sich in der praktischen Umsetzung 
+ergeben können. Die auf den folgenden Seiten dargestellten 
+Erkenntnisse basieren auf der Evaluation von sieben Peer- 
+Involvement-Projekten, die in den vergangenen Jahren in 
+der Schweiz durchgeführt wurden. 
+Inhalt und Gliederung
+In Kapitel 1 geht es um den typischen Medienzugang von Jugendlichen und in diesem Zusammenhang um die Frage, 
+was denn eine kompetente Userin und einen kompetenten User ausmacht, also: Was beinhalten Medienkompetenzen  
+an Fähigkeiten und Fertigkeiten?
+In Kapitel 2 wird der Ansatz des Peer-Involvements vorgestellt und dargelegt, weshalb er konzeptuell gut zum medialen 
+Lernen von Jugendlichen passt und entsprechend geeignet sein könnte, deren Medienkompetenzen zu fördern. 
+In Kapitel 3 werden sieben konkrete Projekte vorgestellt, welche Peer-Education bzw. Peer-Tutoring mit Fokus auf die 
+Förderung von Medienkompetenzen nutzten. Diese wurden in der Schweiz durchgeführt und im Hinblick auf die Frage,  
+ob Peer-Involvement für die Förderung von Medienkompetenzen geeignet sei, evaluiert. 
+Kapitel 4 ist den Erfahrungen und Erkenntnissen aus der Durchführung der Projekte gewidmet. Was war schwierig,  
+was erfolgreich, was hilfreich und was wurde ganz einfach unterschätzt? 
+In Kapitel 5 werden die Merkmale eines gelingenden Projekts aufgezeigt. Sie wollen eine Hilfestellung sein auf dem 
+Weg zu einem gelingenden Projekt zum Thema digitale Medien mit Jugendlichen. 
+6
+Gruppen von Gleichaltrigen aus. Probleme im Umgang mit 
+digitalen Medien werden häufig zusammen mit Freunden 
+und Freundinnen gelöst. Wissenschaftliche Untersuchungen 
+zeigen, dass Erwachsene, insbesondere aus dem Kreis der 
+eigenen Familie oder Schule, für Jugendliche mit zunehmen-
+dem Alter an Bedeutung verlieren, wenn es um die Nutzung 
+digitaler Medien geht. 
+Dass die Mediennutzung nicht nur Chancen, sondern auch 
+Risiken birgt, dem sind sich Erziehungs- und Bildungsverant-
+wortliche bewusst. Entsprechend gross ist die Aufmerksam-
+keit für die Prävention solcher Risiken, d.h. den Versuch, 
+Jugendliche vor negativen Folgen digitaler Medien zu 
+bewahren. Wer nun aber etwas unbefangener danach fragt, 
+was es eigentlich heisst, digitale Medien kompetent zu 
+nutzen, stösst auf einen ganzen Strauss an notwendigen 
+oder wichtigen Fähigkeiten und Fertigkeiten, mit denen nicht 
+nur Risiken einhergehen, sondern auch viele Chancen.
+01_NUTZUNG DIGITALER MEDIEN 
+UND MEDIENKOMPETENZEN 
+ 
+Von Gleichaltrigen lernen
+Die JAMES-Studie erfasst alle zwei Jahre das Medien­
+nutzungsverhalten von Jugendlichen in der Schweiz und 
+zeigt die Trends auf. Die starke Einbindung der Heran-
+wachsenden in die digitalen Kommunikationsräume ist 
+offensichtlich: Nahezu alle Schweizer Jugendlichen 
+zwischen 12 und 19 Jahren besitzen ein eigenes Smart-
+phone, und rund drei Viertel verfügen zudem über einen 
+eigenen Computer. Über 90 Prozent besitzen ein eigenes 
+Profil in einem Sozialen Netzwerk wie Instagram oder 
+Snapchat und praktisch alle haben zu Hause Zugang zum 
+Internet.
+Doch wie erfolgt die Mediensozialisation bzw. der Erwerb 
+von Medienkompetenzen bei Jugendlichen? Während 
+jüngere Kinder den Umgang mit Medien noch massgeblich 
+durch Beobachtung und Imitation ihrer erwachsenen Vor- 
+bilder lernen, tauschen sich die Heranwachsenden lieber in 
+7
+Was sind Medienkompetenzen?
+Wer Medienkompetenzen einfordert oder diese zu definie-
+ren versucht, sieht sich einer vielgestaltigen Medienwelt 
+gegenübergestellt, die durch Einzelne oder Gruppen 
+sprachlich, filmisch, fotografisch oder akustisch gestaltet 
+und auch für soziale, politische oder ökonomische Zwecke 
+genutzt wird. Der pädagogische Anspruch besteht darin, 
+diese komplexe Welt der Mediennutzung zu analysieren und 
+so zu ordnen, dass pädagogische Pfade erkennbar werden. 
+Was muss jemand können oder wissen, um z.B. ein Foto auf 
+Instagram aufzuschalten, um eine Facebook-Seite zu 
+gestalten, um «friends» von Freunden zu unterscheiden oder 
+die Objektivität einer Nachricht einzuschätzen? Was also 
+sind Medienkompetenzen? Gemäss dem Medienpädagogen 
+Heinz Moser lassen sich vier Arten von Kompetenzen 
+unterscheiden: 
+Technische Medienkompetenzen – technische 
+Basics kennen 
+Wer nicht weiss, wo und wie man das Handy einschal-
+tet, kann nicht telefonieren. Und wer keine Ahnung von 
+­Schadsoftwares, gefakten Mails oder Virenschutz hat,  
+wird bald einmal seinen Computer neu installieren müssen. 
+Mit technischen Medienkompetenzen sind Befähigungen 
+gemeint, die das praktische Handeln im Alltag mit digitalen 
+Medien erst ermöglichen. Wer sich in der digitalen Medi-
+enwelt bewegen will, muss somit über Grundkenntnisse 
+verfügen, die zum Umgang mit Hard- und Software befähi-
+gen sowie Wartungs- und Installationsarbeiten ermöglichen. 
+Dazu kommt auch das Verständnis etlicher Fachausdrücke. 
+Wie nutzen Jugendliche Computer und Internet für die 
+Schule?
+Kulturelle Medienkompetenzen – die Ausdrucks-
+formen kennen 
+Die Räume, die digitale Medien anbieten, sind riesig und 
+dynamisch und laden zur Entdeckung, Nutzung und Ge-
+staltung ein. Wer sich jedoch im Labyrinth des World Wide 
+Web nicht nur mit zufälligen Klicks bewegen will, muss 
+Orientierungswissen aufbauen und die Mittel der Gestaltung 
+kennen. Dazu gehören spezifische Codes – man denke an 
+Hashtags in Tweets –, grafische Symbole, Fotos, Videos, 
+Texte oder Musikstücke. Solche Elemente werden selbst 
+gestaltet, kopiert, verändert, verlinkt, verschickt und wieder 
+veröffentlicht. Wer erfolgreich kommunizieren will, muss die 
+zum Medium passenden Ausdruckselemente kennen: ein 
+SMS ist kein Tweet ist kein Blog ist kein Facebook-Eintrag 
+usw. Wenn von kulturellen Medienkompetenzen die Rede ist, 
+sind damit also Kenntnisse gemeint, die sich auf diese 
+typischen ästhetischen wie gesellschaftlichen medialen 
+Ausdrucksformen und -elemente beziehen. 
+Soziale Medienkompetenzen – sich einbringen 
+Digitale Medien erlauben es den Nutzenden, soziale Be­
+ziehungen einzugehen und zu pflegen, die eigene Meinung ­ 
+zu platzieren, im Rahmen von Umfragen abzustimmen, sich 
+an Gruppen zu beteiligen oder selbst eine Gruppe mit eigenen 
+Zielen ins Leben zu rufen. Soziale Medienkompetenzen 
+bezeichnen die Fähigkeiten zu kommunikativem und koope-
+rativem Handeln unter Verwendung digitaler Medien. Dabei 
+geht es nicht nur um die Fähigkeit, eigene Ansichten und 
+Wünsche einzubringen oder Projekte zu entwickeln, sondern 
+auch darum, im kommunikativen Umgang mit anderen den 
+nötigen Respekt zu wahren und diskriminierendes Verhalten 
+wie Mobbing oder Rassismus zu unterlassen. 
+Reflexive Medienkompetenzen – Distanz gewinnen
+Unter den Medienkompetenzen sind diese die eigentliche­ 
+Zielkategorie vieler medienpädagogischer Ansätze. 
+Reflexive­ Medienkompetenzen schliessen die Fähigkeit ein, 
+das eigene Mediennutzungsverhalten kritisch zu hinterfra-
+gen wie auch die digitalen Medien als Teil von (Interessens-)
+Politik, Ökonomie und Gesellschaft wahrzunehmen. Zu 
+diesen reflexiven Kompetenzen zählt auch die Fähigkeit, 
+Medieninformationen auf ihre Objektivität und Relevanz­ 
+hin beurteilen zu können. Erst die Fähigkeit, digitale 
+­Medien reflexiv und kritisch zu verwenden, ermöglicht eine 
+­sinnstiftende, sichere und konstruktive Mediennutzung. 
+8
+Dass sich Jugendliche über ihre Erfahrungen mit digitalen 
+Medien häufiger mit ihren Freunden austauschen als mit 
+Erwachsenen, ist eine Tatsache, von der das Gesamtprojekt 
+«Förderung von Medienkompetenzen durch Peer-Education / 
+Peer-Tutoring» ausging. Aber wie soll eine solche Förderung 
+möglich sein, wenn man als erwachsene Person gleichzeitig 
+aus der Gruppe von Jugendlichen ausgeschlossen ist? Eine 
+Antwort darauf bietet der Ansatz des Peer-Involvements an.
+Was ist Peer-Involvement? 
+Der englische Begriff «peer» meint Gleichrangige und 
+Gleichgesinnte. Treffend wurde der Begriff mit «others like 
+us» paraphrasiert. Mit den Sozialwissenschaften wurde der 
+Begriff in den 1970ern mit Fokus auf jugendliche Gruppen 
+etabliert und populär: Die «Peer-Group» wurde als Ort der 
+Sozialisation entdeckt, der auch unter entwicklungspsycho-
+logischen Gesichtspunkten von Interesse ist: Jugendgrup-
+pen vermögen Geborgenheit, Sicherheit und Orientierung zu 
+vermitteln; Jugendliche lernen unter Gleichaltrigen neue 
+Handlungsmuster oder probieren unter ihresgleichen andere 
+aus. Zudem unterstützen solche Freundeskreise und Cliquen 
+die Einzelnen bei der Ablösung vom Elternhaus.
+Mit den Studien und Theorien über Jugendgruppen und 
+jugendliche Freundeskreise entstand auch die eigenständige 
+Interventionsform namens «Peer-Involvement». Die Idee 
+dabei: speziell geschulte Jugendliche, die der Zielgruppe 
+selbst angehören, informieren Jugendliche über spezifische 
+Themen und regen zu Diskussionen über die je eigenen 
+Haltungen und Verhaltensweisen an. Die Dynamik der 
+gemeinsamen Auseinandersetzung soll über die gelebte 
+Cliquenkultur hinausführen. Gerade die Gleichrangigkeit und 
+die Vertrautheit in der Gruppe soll eine offene Auseinander-
+setzung auch mit heiklen Themen wie Sucht oder Sexualität 
+ermöglichen, was in hierarchischen Settings mit Erwachse-
+nen schwierig ist.
+Formen und Ziele von Peer-Involvement
+ 
+Peer-Involvement beinhaltet unterschiedliche methodische 
+Ansätze: Beim Peer-Tutoring vermitteln Jugendliche klar 
+definierte Inhalte. Entsprechend sind die Rollen zwischen 
+den Unterrichtenden (Peer-Tutors) und den Unterrichteten 
+(Peers) streng getrennt. Die Methode kommt denn auch eher 
+in formalen Settings wie Schulklassen zur Anwendung. 
+Dagegen bezeichnet Peer-Education einen mehr informellen 
+Austausch von Informationen und Erfahrungen, der durch 
+speziell ausgebildete Jugendliche (Peer-Educators) geleitet 
+wird. Diese Methode wird meist in weniger formalen 
+Settings wie der Offenen Jugendarbeit benutzt. Ferner 
+treten Jugendliche sowohl an Schulen wie auch in Einrich-
+tungen der Offenen Jugendarbeit als Ansprechpartner bei 
+Problemen wie etwa Cybermobbing auf, was Peer-Counse-
+ling genannt wird. Oder sie bringen sich im Rahmen der 
+Peer-Mediation als Vermittler bei der Lösung und Bearbei-
+tung von Problemen ein.
+Peer-Involvement – und im Speziellen die beiden Ansätze 
+Peer-Education und Peer-Tutoring – verfolgt im Wesentli-
+chen zwei Ziele. Erstens geht es darum, dass sich Jugendli-
+che Wissen und Kompetenzen aneignen, aber auch ihre 
+Vorurteile bezüglich bestimmter Themen hinterfragen und 
+aufgrund dessen möglicherweise ihre Einstellung ändern. 
+Dieses Ziel wird, so die Annahme von Peer-Involvement, 
+besonders gut erreicht, wenn Jugendliche andere Jugendli-
+che bilden. Nebst dieser Vermittlung von Inhalten soll 
+zweitens die Persönlichkeitsentwicklung der Jugendlichen 
+gefördert und ihr Selbstbewusstsein gestärkt werden. 
+02_PEER-INVOLVEMENT: JUGEND­
+LICHE BILDEN JUGENDLICHE
+ 
+9
+Herausforderungen bei der Umsetzung 
+Ob in der Offenen Jugendarbeit oder in Schulklassen: Die 
+Anwendung von Peer-Education und Peer-Tutoring erweist 
+sich fast immer als Gratwanderung. Auf der einen Seite 
+sollen Jugendliche als Peer-Educators/-Tutors ausgebildet 
+werden, was häufig das Fachwissen und den Input von 
+Erwachsenen erfordert. Auf der anderen Seite geht es 
+beim Peer-Involvement aber gerade darum, den Jugendli-
+chen so viel Freiräume wie möglich zuzugestehen, damit 
+sie ihre Ideen und Erfahrungen in die Projekte einbringen 
+und diese auf für sie interessante und gewinnbringende 
+Weise realisieren können. 
+Diese Gratwanderung führt bisweilen zu einer grund­
+sätzlichen Kritik am Peer-Involvement. So sehen manche  
+die Gefahr, dass Peer-Educators von den Erwach­senen 
+instrumentalisiert werden. Das sei etwa dann der Fall, wenn 
+die Fachpersonen in ihren Projekten den Fokus einseitig auf 
+die Gefahren der digitalen Medien legen und damit einzig 
+das Ziel verfolgen, ihre Präventionsbotschaften an die 
+Jugendlichen zu bringen. Ein anderes Problem bestehe 
+­darin, dass Peer-Educators frühzeitig «pädagogisiert» und 
+gewissermassen zu «Hilfslehrern» gemacht werden. 
+Schliesslich wird darauf hingewiesen, dass oft jene 
+Jugendlichen als Peer-Educators bzw. -Tutors ausgewählt 
+werden, die bereits über einen höheren Wissensstand 
+verfügen. Auf diese Weise werde die Kluft zwischen 
+Peer-Educators/-Tutors und Peers zusätzlich vergrössert.
+Diese Einwände gegen Peer-Involvement sind als mögliche 
+«Stolpersteine» ernst zu nehmen und regen zu wichtigen 
+Diskussionen an. Doch es heisst nicht, dass Peer-Education 
+und Peer-Tutoring ungeeignet wären, um die Medienkompe-
+tenzen von Jugendlichen zu fördern. Wie die folgenden 
+Seiten zeigen, können diese Herausforderungen sehr wohl 
+auch überaus wertvolle Chancen beinhalten. 
+«Es ist eine Win-win-Situation, 
+ich konnte etwas lernen und 
+etwas weitergeben, das ist 
+eigentlich perfekt gewesen für 
+mich.» Peer-Tutor aus dem 
+­Projekt «Peer-Media-Educator»
+10
+Die Akteure
+Ob der Ansatz von Peer-Involvement geeignet sein könnte, 
+einen Beitrag zur Förderung der Medienkompetenzen 
+von Jugendlichen zu leisten, wurde bislang kaum erprobt 
+und erforscht. Um genau dies zu tun, unterstützte das 
+Bundesamt für Sozialversicherungen (BSV) im Rahmen des 
+nationalen Programms Jugend und Medien zusammen mit 
+der Jacobs Foundation zwischen 2011 und 2014 insgesamt 
+sieben «peer-to-peer»-Projekte in der Deutschschweiz, 
+der Romandie und im Tessin. Das Ziel dieser Projekte sollte 
+darin bestehen, mithilfe der Methoden Peer-Education und 
+Peer-Tutoring die Medienkompetenzen der 12- bis 18-Jähri-
+gen zu erhöhen. 
+Um empirisch abgestützte Erkenntnisse zu gewinnen, 
+wurden die genannten sieben Projekte von der Hochschule 
+für Soziale Arbeit der Fachhochschule Nordwestschweiz 
+(FHNW) begleitend evaluiert. Dabei ging es im Wesentli-
+chen um folgende Frage: In welcher Form, unter welchen 
+Rahmenbedingungen und in welchem Setting (Schule oder 
+Offene Jugendarbeit) kann Peer-Education / Peer-Tutoring 
+erfolgreich eingesetzt werden, um die Medienkompetenzen 
+von Jugendlichen zu fördern?
+03_DAS GESAMTPROJEKT UND DIE  
+SIEBEN PEER-PROJEKTE 
+ 
+11
+Ein zentrales Ergebnis vorweg
+Um ein zentrales Ergebnis der Evaluation vorwegzu-
+nehmen: Es ist nicht ein konkretes Setting, nicht eine 
+­bestimmte Projektstruktur und es sind auch nicht 
+­spezifische institutionelle Rahmenbedingungen, die das 
+­Potenzial eines Projekts auszeichnen. Projekte können auf 
+der Sekundarstufe I oder in der Berufsschule, in öffent-
+lichen und privaten Schulen oder auch in der Offenen 
+Jugendarbeit erfolgreich sein; sie können mit bestehenden 
+oder neu gebildeten Gruppen gelingen, und der Erfolg 
+hängt auch nicht einfach vom gewählten Thema ab. Es ist 
+vielmehr die konkrete Planung und Umsetzung im Einzelfall 
+selbst, welche den Erfolg von Projekten ausmacht. Worin 
+diese generellen Herausforderungen für die Projekte 
+bestanden und wie ihnen begegnet werden kann, zeigen 
+das 4. und das 5. Kapitel. Zuvor werden die sieben Projekte 
+kurz einzeln vorgestellt.
+Nationale Plattform «Jugend und Medien» 
+Der Bund verfolgt die Vision, dass alle in der Schweiz wohnhaften Kinder und Jugendlichen sowie Eltern, Lehrpersonen 
+und Erziehungspersonen in der Lage sind, kompetent mit den Chancen und Gefahren von audiovisuellen, elektronischen 
+und interaktiven Medien umzugehen. Deshalb hatte er das 5-jährige nationale Programm Jugend und Medien (2011 bis 
+2015) ins Leben gerufen, welches mittels verschiedener Massnahmen zur Realisierung dieser Vision beigetragen hat.  
+Die Erprobung des Peer-Involvements im Rahmen der sieben Projekte zur Förderung der Medienkompetenzen war Teil 
+dieses nationalen Programms. Der Bundesrat hat im Mai 2015 beschlossen, die Aktivitäten im Kinder- und Jugendme-
+dienschutz als ständige Aufgabe weiterzuführen. Das Bundesamt für Sozialversicherungen tut dies unter dem Namen 
+«Nationale Plattform Jugend und Medien.»
+Die genauen Angaben zu den veröffentlichten Evaluationsergebnissen finden sich im Literaturverzeichnis.  
+Die Ergebnisse sind unter jugendundmedien.ch online zugänglich.
+12
+Theateraufführungen, Radiostreams und 
+Blogs – die sieben Projekte im Porträt
+Vielfältig und heterogen – so können die vom nationalen 
+Programm Jugend und Medien unterstützten Projekte 
+charakterisiert werden. Zwei der insgesamt sieben Projekte 
+waren im schulischen Kontext angesiedelt, drei im Bereich 
+Offene Kinder- und Jugendarbeit und zwei im Schnittbe-
+reich dieser beiden Settings. Bei drei Projekten kamen 
+Online-Verfahren wie Radiostreamings oder Blogs zum 
+Einsatz, bei den anderen vier wurden Offline-Strategien wie 
+Theateraufführungen oder Diskussionsrunden verwendet. 
+Auch hinsichtlich der Zielgruppe und deren Altersgrenze 
+variierten die Projekte zum Teil beträchtlich. Geografisch 
+verteilten sich die Projekte auf die ganze Schweiz: So 
+fanden drei der sieben Projekte in der Deutschschweiz, drei 
+in der Westschweiz und eines im Tessin statt. 
+Auf den folgenden Seiten werden die einzelnen Projekte 
+präsentiert. Jedem Projekt wird eine tabellarische Übersicht 
+vorangestellt. Dazu folgende Erläuterungen:
+•	
+Unter «Zielgruppen» werden in der Regel zwei Grup­
+pen bezeichnet: als erste Gruppe die ausgewählten 
+Peer-Educators oder -Tutors und als zweite die ange-
+sprochenen Peers.
+•	
+Unter «Setting» ist der institutionelle und organisa­
+torische Rahmen zu verstehen, in dem die Anläs-
+se realisiert wurden. Es geht vor allem um die 
+­Unterscheidung zwischen Offener Jugendarbeit und 
+formalen Bildungsinstitutionen wie den allgemein- und 
+berufs­bildenden Schulen.
+•	
+Unter «durchgeführte Angebote» erfolgt eine Kurz­
+beschreibung der Anlässe.
+•	
+Die Webadressen beziehen sich in der Regel auf die 
+Sites der Projektträger. Oftmals lassen sich dort auch 
+die entstandenen Produkte (Videos, Leit­faden u.a.m.) 
+der Anlässe finden, die online gestellt wurden. 
+•	
+Die Porträts bilden den Stand zum Zeitpunkt der 
+Projekt­evaluation ab. Einige von ihnen wurden danach 
+weiterentwickelt.
+13
+Die sieben Projekte – geografisch verordnet.
+Ausführliche Informationen zu den einzelnen Medienprojek-
+ten unter jugendundmedien.ch
+BE
+TI
+ZH
+BS
+VD
+GE
+Projekt VII «Educazione tra pari per 
+promuovere le competenze mediali»
+Scuola universitaria professionale 
+della Svizzera italiana SUSPI, Manno
+Projekt II «Bitte schalten Sie Ihr Handy ein – ­ 
+die Vorstellung beginnt!»
+aebi-hus – Schweizerische Stiftung für Suchthilfe, Bern
+Projekt V «LiVE» – 
+Groupe de parole sur 
+les Liens Virtuels 
+Excessifs
+Association Rien ne va plus, 
+Gèneve
+Projekt IV «Web radio 
+par les jeunes»
+Ville de Renens, Service 
+Culture-Jeunesse-Sport
+Projekt VI «Moi@Web»
+Association romande 
+CIAO
+Projekt III «Virtual Stories»
+RADIX, Zürich
+Pädag. Hochschule Schwyz PHZ
+Stiftung ideé: sport
+Projekt I «Peer-Media-Educator» 
+peer-media-educator-medienkompetenz@jugendliche
+InTeam, Basel
+14
+Projekt I «Peer-Media-Educator» 
+Um was geht es? 
+Das Projekt «Peer-Media-Educator» wurde vom Verein 
+InTeam aus Basel initiiert und durchgeführt. InTeam 
+unterstützt stellenlose Jugendliche im Rahmen eines 
+Motivations­semesters bei der beruflichen Integration in die 
+Arbeitswelt. Dabei stellt das Peer-Tutoring einen integralen 
+Bestandteil des Unterstützungsprogramms dar. 
+Im Projekt «Peer-Media-Educator» wurden Jugendliche 
+während eines Motivationssemesters in rund 22 Vorberei-
+tungs- und Schulungssitzungen ausgebildet, um mit anderen 
+Jugendlichen die breite Palette an Themen zu Medien zu 
+diskutieren. In einer ersten, vorbereitenden Phase, die durch 
+einen Medienpädagogen begleitet wurde, setzten sich die 
+angehenden Peer-Tutors auf vielfältige Weise mit Medien und 
+mit ihrem eigenen Medienumgang auseinander, unter anderem 
+in einem Blog und mit dem Drehen von Videos. Nachdem 
+sie diese Ausbildung abgeschlossen hatten, führten die 
+jungen Peer-Tutors in einer zweiten Projektphase selbstständig 
+Veranstaltungen mit Schulklassen durch. Diese dauerten 
+zweieinhalb Stunden.
+Gewonnene Erkenntnisse
+InTeam ist als Institution und Programm bereits seit Jahren 
+gut etabliert, was stabile und zeitlich grosszügige Rahmen­
+bedingungen für das Präventionsprojekt ermöglicht: Da die 
+stellenlosen Jugendlichen mehrere Monate bei InTeam 
+verbringen, können sie sich intensiv mit den Thematiken 
+auseinandersetzen und haben vergleichsweise viel Zeit, 
+um die Veranstaltungen zu entwickeln. Auch eine enge 
+Begleitung während der gesamten Zeit ist vorhanden. Im 
+Ergebnis entwickeln die Peer-Tutors viele neue Kompetenzen 
+und erleben ihre Aufgabe als sinnhaft. Die Peers schätzen die 
+jugendgerechten und abwechslungsreichen Veranstaltungen. 
+Konzeptuell betrachtet, ist festzuhalten, dass die Peer-Tutors 
+nur halbfreiwillig und die Peers nicht freiwillig am Projekt 
+teilnehmen.
+BE
+TI
+ZH
+BS
+VD
+GE
+Projektträger und Partner
+Verein InTeam, Basel (Projektträger) | Frank Egle, Medienpädagoge
+Peer-Involvement-Ansatz
+Peer-Tutoring
+Eingesetztes Fachpersonal
+Medienpädagoge für die inhaltliche Schulung der InTeam-Mitarbeitenden und die Ausbildung der Peer-Tutors
+Zielgruppen 
+Peer-Tutors: stellenlose Jugendliche (16 – 23 Jahre) | Peers: Schulklassen (Jugendliche ab 13 Jahren)
+Setting 
+Berufsintegrationssemester und Schule (Sekundarstufe I)
+Durchgeführte Angebote
+Jugendliche Teilnehmende eines Berufsintegrationskurses führten eine zweieinhalbstündige Präventionsveranstaltung  
+für Schulklassen als Peer-Tutoring-Anlass durch. 
+inteam-basel.ch
+15
+Projekt II «Bitte schalten Sie Ihr Handy ein –  
+die Vorstellung beginnt!»
+Um was geht es?
+Während einer Projektwoche setzten sich Jugendliche als 
+angehende Peer-Educators mit ihrem eigenen Medienum-
+gang auseinander und lernten so Chancen und Risiken 
+digitaler Medien kennen. Sie wurden dabei von Fachperso-
+nen begleitet und erhielten von diesen themenspezifische 
+Inputs. Das erworbene Wissen sowie die eigenen Erfahrun-
+gen wurden schrittweise zu einer Geschichte verdichtet und 
+als Theaterstück umgesetzt. Szenische Vorgaben gab es in 
+der Erarbeitungsphase keine. Die Jugendlichen konnten 
+über Inhalt und Form des Theaterstückes entscheiden. Die 
+Theateraufführungen wurden als Peer-Education-Anlass mit 
+anschliessender Diskussionsrunde konzipiert, wobei die 
+Theatercrew als Peer-Educators wirken sollte. Das 
+Publikum bestand aus Peers und, je nach Setting, aus Eltern, 
+Lehrpersonen und Personen der Offenen Jugendarbeit. Im 
+Anschluss an die Theateraufführungen fanden moderierte 
+Diskussionen zwischen den im Projekt involvierten  
+Jugendlichen und dem Publikum statt. Im Rahmen dieses 
+Projekts ist auch der Leitfaden «Handy ein – das Spiel 
+beginnt» entstanden, der Hilfestellungen für Dritte bietet, 
+die Theaterinszenierungen und Förderung von Medien­
+kompetenzen verknüpfen wollen.
+ 
+Gewonnene Erkenntnisse
+Durch die Kombination von Theater und Diskussion erhalten 
+die Jugendlichen die Chance, sich sowohl spielerisch als 
+auch kritisch vertiefend mit digitalen Medien auseinander-
+zusetzen. Als wichtig erwiesen sich eine gute Vernetzung 
+und eine lokale Einbettung: Sie sind zentral bei der Suche 
+nach Peer-Educators, bei der Bewerbung der Theaterauffüh-
+rung und nicht zuletzt für Möglichkeiten der Nachbereitung 
+und Vertiefung für die Peers. 
+BE
+TI
+ZH
+BS
+VD
+GE
+Projektträger und Partner
+aebi-hus, Bern (Projektträger) | TOJ Jugendarbeit Bern West | Jugendarbeit JANO Graffiti Bern
+Peer-Involvement-Ansatz
+Peer-Education
+Eingesetztes Fachpersonal
+Medienpädagoge und Theaterpädagogin
+Zielgruppen 
+Peer-Educators: sechs bis zwölf Jugendliche (12 – 18 Jahre) pro Theatergruppe | Peers: v.a. Freunde und Bekannte, 
+zusätzlich ein breites Publikum (Familie)
+Setting 
+Berufsintegrationssemester und Schule (Sekundarstufe I)
+Durchgeführte Angebote
+Jugendliche setzten sich in einem Theaterstück mit ihrem eigenen Medienumgang auseinander und präsentierten die 
+erarbeiteten Szenen an öffentlichen Aufführungen. Im Anschluss daran gab es moderierte Diskussionen.  
+aebi-hus.ch/medientheater 
+16
+Projekt III «Virtual Stories»
+Um was geht es?
+Midnight Sports sind von der Stiftung Idée:sport durch-
+geführte Anlässe, die den Jugendlichen eine Alternative zu 
+herkömmlichen Bars, Discos oder Partys bieten sollen. Die 
+Veranstaltungen finden in der Regel am Samstagabend statt 
+und werden von einem Team aus Jugendlichen (Juniorcoachs) 
+und Erwachsenen (Projektleitung, Seniorcoachs, Freiwil-
+ligen) gemeinsam organisiert, durchgeführt und betreut. 
+Zum Programm gehören verschiedene Mannschaftsspiele 
+und ein Tanzbereich. 
+Im Projekt «Virtual Stories» berichteten Jugendliche, die an 
+einem Midnight-Sports-Anlass dabei waren, über zentrale 
+Erlebnisse mit digitalen Medien. Die Gesprächssituation 
+wurde von einem Juniorcoach gestaltet, der die Jugendli-
+chen befragte. Die so entstandenen Fallgeschichten wurden 
+per Video aufgezeichnet und anonymisiert; z.B. wurden die 
+Stimmen verzerrt und Szenen von anderen Jugendlichen 
+nachgespielt. Anschliessend wurden die Videos auf die 
+Online-Plattformen feel-ok.ch und virtualstories.ch 
+gestellt und konnten so von anderen Jugendlichen (Peers) 
+angeschaut und kommentiert werden. Das Projekt wurde 
+über den Evaluationszeitraum hinaus weiterentwickelt und 
+auch in Schulen realisiert.
+ 
+Gewonnene Erkenntnisse
+Als positiver Faktor zeigte sich die gute institutionelle 
+Abstützung des Projekts. Die Jugendlichen hatten in den 
+Fallgeschichten die Möglichkeit, ihre eigenen Erfahrungen 
+mit digitalen Medien zu teilen. Das Lernen über Videos 
+eignet sich v.a. auch für Heranwachsende, die durch 
+schriftliche Angebote schlecht zu erreichen sind. Zu 
+b­edenken ist, dass Videoproduktionen sowohl personell wie 
+auch zeitlich, aber v.a. technisch aufwendig sind. Ausser-
+dem können die in den Videos mitgeteilten Informationen 
+einseitig und fehlerhaft sein, weil sie auf der Erfahrung 
+einer einzelnen Person beruhen. Es stellte sich ausserdem 
+als schwierig heraus, eine Online-Diskussion auf einer von 
+Jugendlichen wenig genutzten Plattform anzuregen. 
+BE
+TI
+ZH
+BS
+VD
+GE
+Projektträger und Partner
+RADIX Schweizerische Gesundheitsstiftung, Zürich | Stiftung Idée:sport, Uster | Pädagogische Hochschule Schwyz
+Peer-Involvement-Ansatz
+Peer-Education
+Eingesetztes Fachpersonal
+Seniorcoachs von Midnight Sports
+Zielgruppen 
+Peer-Educators: Teilnehmende von Midnight Sports (14 – 18 Jahre) | Peers: Besuchende der virtuellen Plattformen  
+(12 – 17 Jahre)
+Setting 
+Offene Jugendarbeit 
+Durchgeführte Angebote
+Im Rahmen von Midnight-Sports-Anlässen erzählten Jugendliche von ihren Erfahrungen mit digitalen Medien.  
+Die Geschichten wurden als Videos auf einer virtuellen Plattform veröffentlicht und konnten kommentiert werden.  
+feel-ok.ch | virtualstories.ch 
+17
+Projekt IV «Web radio par les jeunes»
+Um was geht es?
+Während je einer Woche produzierte eine Gruppe Jugendli-
+cher täglich ein Radioprogramm für einen Internetradiosen-
+der. Den Schwerpunkt der Sendungen bildete der Umgang 
+mit digitalen Medien. Die Jugendlichen entschieden 
+gemeinsam über das Themen- und Musikprogramm und 
+produzierten die Sendungen selber. Sie wurden dabei von 
+einem Animationsteam unterstützt. Die Sendungen wurden 
+zeitverzögert übers Internet veröffentlicht, wo sie herunter-
+geladen werden konnten. Die Jugendlichen machten über 
+soziale Medien Werbung für ihre Sendungen. Ausserdem 
+wurden Diskussionen mit Peer-Educators und Peers 
+durchgeführt. Die Peer-Education erfolgte in diesem Projekt 
+zwischen den Radiomachern und -macherinnen sowie den 
+Zuhörern und Zuhörerinnen. 
+Gewonnene Erkenntnisse
+Durch das gemeinsame Produzieren von Radiosendungen 
+können die Jugendlichen unterschiedliche Medienkompe-
+tenzen entwickeln und ihre Erfahrungen unmittelbar mit 
+anderen teilen. Radiosendungen zu produzieren, macht 
+Jugendlichen grossen Spass. Allerdings nutzen nur wenige 
+Jugendliche das Medium Online-Radio: Die Radiosendungen 
+wurden deswegen wenig heruntergeladen, auch die 
+Diskussionsrunden stiessen auf eher wenig Interesse. Zu 
+bedenken ist, dass eine Radiowoche klar strukturiert 
+organisiert werden muss, was Autonomie und Flexibilität der 
+Jugendlichen einschränkt.
+BE
+TI
+ZH
+BS
+VD
+GE
+Projektträger und Partner
+Service Culture-Jeunesse-Sport, Renens (Projektträger) | Azimut Prod / Internet, Radio, Consulting | Verein Deci-bel
+Peer-Involvement-Ansatz
+Peer-Education
+Eingesetztes Fachpersonal
+Animationsteam der Gemeinde Renens
+Zielgruppen 
+Peer-Educators: Radiomacher und -macherinnen (18-25 Jahre) | Peers: Zuhörer und Zuhörerinnen (18 – 25 Jahre)
+Setting 
+Offene Jugendarbeit 
+Durchgeführte Angebote
+Jugendliche produzierten und sendeten während einer Woche täglich ein Radioprogramm, ergänzt wurde dies mit  
+Diskussionsrunden.  
+www.facebook.com/culturemixradio | jeunesetmedias.ch
+18
+Projekt V «LiVE»
+Um was geht es?
+LiVE (Liens Virtuels Excessifs) ist ein Präventionsprojekt des 
+Genfer Vereins Rien ne va plus, das sich mittels Theaterstü-
+cken, Erwachsenenbildung und Diskussionsrunden mit 
+exzessivem Spielverhalten befasst. Das evaluierte Projekt 
+LiVE fand im Rahmen solcher Diskussionsrunden statt. 
+In den regelmässigen Treffen, die unter dem Motto «Video-
+spiel und Diskussion: Ich erlebe Höhen und Tiefen» stand, 
+stellten die Teilnehmenden je ein Videospiel vor. Im Anschluss 
+daran wurde über das Spiel und über Folgen des Spielverhal-
+tens diskutiert, und es wurden persönliche Erfahrungen 
+ausgetauscht. Zu Beginn moderierten zwei Animatoren von 
+Rien ne va plus die Diskussionsrunden. Nach einigen 
+Monaten übernahmen die Peer-Educators Leitung und 
+Moderation und die Animatoren der ersten Phase wirkten als 
+externe Supervisoren. Peer-Education fand in diesem Projekt 
+entsprechend im Austausch zwischen älteren erfahrenen und 
+jüngeren, weniger erfahrenen Spielerinnen und Spielern statt.
+Gewonnene Erkenntnisse
+Die beteiligten Jugendlichen fanden grossen Spass daran,  
+aktuelle Videospiele gemeinsam zu spielen. Die Wahl eines 
+aktuellen, von Jugendlichen intensiv genutzten Mediums 
+motivierte die Jugendlichen, sich generell mit Videospielen 
+auseinanderzusetzen. Die Kombination zwischen Videospiel 
+(Spassfaktor) und Diskussion (kritisches Hinterfragen) 
+erweist sich als positiver Faktor bei der Förderung insbeson-
+dere reflexiver Medienkompetenzen. Nachteilig für die 
+Herstellung von Peerness (Gleichrangigkeit) war, dass die 
+Peer-Educators z.T. deutlich älter als die Peers waren. Die 
+Peers interpretierten die Diskussionsrunden deshalb oftmals 
+nicht als offenen Austausch.
+BE
+TI
+ZH
+BS
+VD
+GE
+Projektträger und Partner
+Verein Rien ne va plus, Genf (Projektträger) | Maison de quartier des Acacias, Genf | Infor Jeune (EPIC), Genf | Groupement 
+Romand d’Etudes des Addictions (GREA), Lausanne | Département des affaires régionales, de l’économie et de la santé, Genf
+Peer-Involvement-Ansatz
+Peer-Education
+Eingesetztes Fachpersonal
+Animatoren von Rien ne va plus
+Zielgruppen 
+Peer-Educators: Jugendliche, welche regelmässig gamen (14 – 18 Jahre) | Peers: jüngere Jugendliche mit Interesse  
+an Computerspielen 
+Setting 
+Offene Jugendarbeit 
+Durchgeführte Angebote
+Während eines Jahres wurden mit Jugendlichen Diskussionsrunden organisiert, wo sie gemeinsam Videospiele spielten 
+und anschliessend diskutierten.
+carrefouraddictions.ch
+19
+Projekt VI «Moi@Web»
+Um was geht es?
+Das vom Westschweizer Verein CIAO durchgeführte 
+Peer-Education-Projekt verfolgte vor allem das Ziel, 
+Jugendliche mit den Risiken der digitalen Medien vertraut 
+zu machen. 
+In Gruppen gestalteten Jugendliche während des 
+­Schulunterrichts Videos, Audiobeiträge und Comics zum 
+Thema Erfahrungen mit digitalen Medien, was natürlich 
+eine Auseinandersetzung in der Gruppe erforderlich 
+machte: Wer hatte welche negativen Erlebnisse? Wie ging 
+er/sie damit um? Gibt es andere Reaktionsmöglichkeiten? 
+usw. Dieser Prozess wurde von Lehrkräften begleitet, die 
+nach Bedarf ihr technisches Wissen und ihr Know-how 
+einbrachten. Die Beiträge der Jugendlichen wurden dann 
+auf der Präventionswebsite ciao.ch publiziert und so einem 
+jugendlichen Publikum öffentlich zugänglich gemacht, das 
+sich in Blogbeiträgen äussern konnte (von CIAO moderiert). 
+Die Blogfunktion wurde nur wenig genutzt.
+Gewonnene Erkenntnisse
+Positiv hervorzuheben ist, dass die Jugendlichen gemein-
+sam über Formen und Inhalte entschieden und sich 
+gegenseitig in technischen Belangen unterstützten. Die 
+Erarbeitung von Medieninhalten wirkte motivierend auf die 
+beteiligten Jugendlichen. Allerdings zeigte sich, dass ein 
+direktiver Tonfall von Inhalten («Du sollst, … », «Du darfst 
+nicht …») kaum zu Diskussionen auf einer Online-Plattform 
+anregte, besser geeignet sind offen formulierte Fragen oder 
+Situationsbeschreibungen.
+BE
+TI
+ZH
+BS
+VD
+GE
+Projektträger und Partner
+Verein CIAO, Lausanne (Träger) | Haute école pédagogique Vaud, Lausanne | Université de Lausanne | Conférence 
+inter­cantonale d’instruction publique de la Suisse romande et du Tessin (CIIP), Neuenburg
+Peer-Involvement-Ansatz
+Peer-Education
+Eingesetztes Fachpersonal
+Lehrkräfte 
+Zielgruppen 
+Peer-Educators: Schulklassen (13 – 17 Jahre) | Peers: User/-innen der Website von CIAO
+Setting 
+Offene Jugendarbeit und Schule
+Durchgeführte Angebote
+Jugendliche zwischen 13 und 17 Jahren produzierten in der Schulklasse Videos, Tonbeiträge oder Comics und berichte-
+ten über ihre Erfahrungen mit digitalen Medien. Diese wurden auf der Website von CIAO veröffentlicht und konnten 
+kommentiert werden.  
+ciao.ch 
+20
+Projekt VII «Educazione tra pari ­ 
+per promuovere le competenze mediali»
+Um was geht es?
+Das Projekt verfolgte das Ziel, die bewusste und kreative 
+Nutzung sozialer Netzwerke unter Jugendlichen zu fördern. 
+In Schulklassen diskutierten Jugendliche die Verwendung 
+des Internets sowie die damit verbundenen Möglichkeiten 
+und Risiken, wobei die Diskussionen von Peer-Educators 
+moderiert wurden. Auf die Moderationsaufgabe wurden 
+die Peer-Educators vorgängig während eines Monats 
+vorbereitet, um dann während des Folgejahrs selbstständig 
+Diskussionsgruppen in Schulklassen zu leiten. Auch führten 
+sie neue Peer-Educators in die Aufgabe ein. Als Peers 
+wurden Klassen von anderen Schulen oder Bildungsstätten 
+einbezogen.
+Gewonnene Erkenntnisse
+Die Lehrpersonen spielten insbesondere bei der Schulung 
+der Peer-Educators eine Rolle, sie hielten sich ansonsten 
+aber zugunsten möglichst horizontaler Peer-to-Peer-­
+Beziehungen zurück und waren z.B. bei den von den Peer-
+Juniors geleiteten Diskussionen im Klassenzimmer nicht an-
+wesend. Dies wurde von den Peer-Educators sehr geschätzt. 
+Deutlich wurde, dass das ergebnisoffene Vorgehen von 
+Peer-Education nicht einfach so in die schulische Logik der 
+zielorientierten Wissensvermittlung passt. Peer-Education 
+in Schulen zu etablieren, bedingt deshalb eine Veränderung 
+der Schulkultur.
+BE
+TI
+ZH
+BS
+VD
+GE
+Projektträger und Partner
+Scuola universitaria professionale della Svizzera italiana SUPSI, Dipartimento economia aziendale, sanità e sociale 
+DEASS, Manno (Projektträger) | Scuola d’Arti e Mestieri SAMT, Canobbio
+Peer-Involvement-Ansatz
+Peer-Education
+Eingesetztes Fachpersonal
+Lehrpersonen aus der Berufsfachschule Gesundheit und Soziales, Ausbildungsweg Berufsmaturität
+Zielgruppen 
+Peer-Educators: Studierende der Berufsmaturitätsschule | Peers: Schülerinnen und Schüler verschiedener Schulen und 
+Schultypen (15 – 19 Jahre) 
+Setting 
+Schule
+Durchgeführte Angebote
+Studierende setzten sich mit Schulklassen mit der Rolle von digitalen Medien, deren Verwendung und Risiken auseinander. 
+supsi.ch/deass
+21
+22
+Es kommt auf das Setting an
+Können die Medienkompetenzen von Jugendlichen mit 
+Peer-Education und Peer-Tutoring tatsächlich gefördert 
+werden? Was macht die Aufgabe schwierig, was fördert das 
+Gelingen? Die sieben zuvor vorgestellten Projekte wurden von 
+der Hochschule für soziale Arbeit (FHNW) begleitend 
+evaluiert. Die zentrale Frage lautete: In welcher Form, unter 
+welchen Rahmenbedingungen und in welchem Setting 
+(Schule oder Offene Jugendarbeit), kann Peer-Education / 
+Peer-Tutoring erfolgreich eingesetzt werden, um die 
+Medienkompetenzen von Jugendlichen zu fördern?
+Wie auf den vorangegangenen Seiten deutlich wurde, sind 
+die Projekte gerade hinsichtlich dieser Komponenten – näm-
+lich: Projektstrukturen, Setting und Zielgruppe – sehr unter-
+schiedlich. Entsprechend schwierig war es für die Evaluation, 
+einerseits den einzelnen Projekten in ihrer Eigenart gerecht 
+zu werden, und andererseits doch allgemeine Aussagen über 
+Möglichkeiten und Grenzen von Peer-Education bzw. Peer-
+Tutoring zu treffen. 
+Gelingensbedingungen und Stolper- 
+steine von Peer-Education / Peer-Tutoring
+Das Ergebnis der Evaluation ist eindeutig: Es kann in  
+der Schule wie in der Offenen Jugendarbeit gelingen, 
+erfolgreiche Projekte zu realisieren. Die Zielgruppe – ob 
+schulpflichtige, berufstätige oder stellenlose weibliche  
+oder männliche Jugendliche – macht es nicht aus. Und  
+die ideale Projektstruktur gibt es nicht – oder braucht es 
+nicht, um ein gelingendes Projekt zu realisieren. Allerdings 
+zeigt die Evaluation auch, dass Peer-Education bzw. 
+Peer-­Tutoring anspruchsvolle Methoden sind, welche von 
+allen Beteiligten viel verlangen.
+Was forderte dabei ganz besonders heraus? Was wurde 
+unterschätzt? Und was erwies sich als besonders hilfreich? 
+04_ERFAHRUNGEN UND ERKENNT-
+NISSE AUS DEN PEER-PROJEKTEN
+ 
+Auf den folgenden Seiten werden die wichtigsten Erfah-
+rungen und Erkenntnisse aus den Projekten vorgestellt. 
+Sie sind nach diesen zentralen organisatorischen Projekt-
+dimensionen geordnet:
+•	
+Setting
+•	
+Zusammenarbeit im Projekt
+•	
+Begleitung der Peer-Educators und -Tutors 
+•	
+Themen und Aktivitäten in den Projekten
+23
+Die sieben Projekte wurden sowohl in der Schule als auch  
+in der Offenen Jugendarbeit erprobt. Beide Orte haben 
+spezifische Vor- und Nachteile, doch hier wie dort kann ein 
+erfolgreiches Peer-Involvement-Projekt realisiert werden. 
+Projekte in der Offenen Jugendarbeit 
+Angebote der Offenen Jugendarbeit basieren auf Freiwillig-
+keit und werden von Jugendlichen – im Unterschied zur 
+Schule – aus eigenem Antrieb aufgesucht. Entsprechend 
+passen diese Angebote gut zur Methode des Peer-Involve-
+ments, da sie auf ebensolche freiwilligen Bildungsanlässe 
+setzt. Doch diese Freiwilligkeit, das zeigen die Erfahrungen  
+in der Offenen Jugendarbeit, hat auch ihre Tücken. Dies 
+betrifft grundsätzlich die Mobilisierung von Jugendlichen  
+und deren Verweildauer in den Projekten.
+Einer lokal gut verankerten Offenen Jugendarbeit fällt die 
+Rekrutierung von Jugendlichen relativ leicht, da sie ihr 
+jeweiliges Angebot in den bestehenden Informationskanä-
+len direkt kommunizieren kann. Anders sieht es bei weniger 
+gut vernetzten Anbietern aus. Projektträger, die überregio-
+nal tätig werden wollen, tun gut daran, sich zuverlässige 
+und etablierte lokale Partner zu suchen, die den Kontakt zu 
+Jugendlichen herstellen.
+Eine zweite Herausforderung stellt das Zeitmanagement 
+dar. Jugendliche nutzen die Offene Jugendarbeit in 
+spontaner Weise und wollen sich in diesem Setting nicht 
+unbedingt für etwas länger verpflichten. Gerade dies ist 
+aber eine wichtige Voraussetzung für eine gelingende 
+intensive Auseinandersetzung in einem Projekt. Beobachtet 
+werden konnte aber auch, dass sich Jugendliche für ein 
+Projekt gewinnen lassen, wenn es auch ganz praktische 
+Medienarbeit verspricht, d.h., wenn sie selber beispielsweise 
+eine Radiosendung oder ein Video gestalten können.
+Projekte im schulischen Kontext
+Im Gegensatz zu den Angeboten in der Offenen Jugendarbeit 
+ist der Schulunterricht nicht freiwillig. Auch basiert die 
+Kommunikationskultur nicht auf Gleichrangigkeit, sondern auf 
+einer hierarchischen Logik, die durch die schulische Selekti-
+onsfunktion und den Lehrplan gegeben ist. Deshalb passt 
+Peer-Tutoring auch besser in den Kontext Schule und deren 
+Wissensvermittlungslogik. Dagegen kann es sich als schwierig 
+erweisen, Peer-Education in Schulen zu implementieren. Soll 
+dies gelingen, ist gerade auch im Hinblick auf die fehlende 
+Freiwilligkeit der Teilnahme viel Umsicht erforderlich. 
+Der formelle Charakter der Schule hat aber auch gewisse 
+Vorteile. So stellt die Rekrutierung von Jugendlichen kein 
+Problem dar, und es kann damit gerechnet werden, dass die 
+Jugendlichen bis zum Schluss dabei sind.
+«Wir stehen praktisch alle auf einer 
+Ebene, das heisst, wir haben nicht 
+irgendwie so eine Schüler-Lehrer- 
+Beziehung, sondern eher wie Arbeits-
+kollegen, oder ich würde auch sagen 
+familiär.» Jugendlicher aus dem  
+Projekt «Peer-Media-Educator»
+24
+Zusammenarbeit in Projekten 
+Üblicherweise sind die Rollen verteilt: Erwachsene erziehen 
+und unterrichten Jugendliche, ob nun in der Familie oder in 
+der Schule. Dagegen wollen Peer-Education und Peer-Tuto-
+ring diese etablierten Rollen zwischen Erwachsenen und 
+Jugendlichen verändern. Angestrebt wird eine ergebnisoffe-
+ne und reflektierende Auseinandersetzung insbesondere 
+zwischen Jugendlichen. Entsprechend ist ein bewusst 
+gestalteter kommunikativer Rahmen erwünscht, innerhalb 
+dessen sich alle an einem Projekt Beteiligten «auf Augenhö-
+he» begegnen können. Dies soll nicht nur der Instrumentali-
+sierung von Jugendlichen durch Erwachsene entgegenwir-
+ken, sondern auch sicherstellen, dass die Jugendlichen von 
+Anfang an mit eigenen Ideen und Erfahrungen am Projekt 
+partizipieren. Dies zu gewährleisten, ist alles andere als 
+einfach. Peer-Education und Peer-Tutoring sind für viele 
+Erwachsene und Jugendliche nicht bloss vergleichsweise 
+neue Methoden, sondern auch anspruchsvolle Ansätze, die 
+gerade auch auf der Ebene der Kommunikation bzw. der 
+Zusammenarbeit herausfordert.
+Beteiligung der Jugendlichen am Projekt 
+Der erste Stolperstein liegt bereits bei der Projektplanung: 
+An vieles wird gedacht, an Abläufe und Vorgehensweisen, 
+aber oft bleiben die konzeptuellen Überlegungen dazu vage, 
+wie den Jugendlichen Entscheidungs- und Handlungsspiel-
+räume ermöglicht werden können. Es liegt nahe, dass sich 
+dadurch ungewollt eine Top-down-Logik durchsetzt, also 
+autonome Handlungsräume der Jugendlichen beschnitten 
+werden und sie zu Ausführenden der Vorstellungen 
+Erwachsener werden. Tatsächlich hat sich bei manchen 
+Projekten gezeigt, dass die Jugendlichen nicht immer genau 
+wussten, welche Möglichkeiten sie eigentlich haben, um 
+sich in die Projekte einzubringen. Entsprechend wichtig ist 
+es, dass alle an einem Projekt Beteiligten sich darüber einig 
+sind, was hinter Peer-Education bzw. Peer-Tutoring genau 
+steckt. Das heisst unter anderem, dass Autonomie und 
+Partizipation der Jugendlichen vorweg abgesprochen und im 
+jeweiligen Setting gut verankert werden muss. Eine 
+Möglichkeit besteht darin, die Jugendlichen bereits früh 
+– idealerweise bereits bei der Konzeptplanung – aktiv in 
+das Projekt einzubinden, sodass deren Ideen und Erfahrun-
+gen von Anfang an berücksichtigt werden. 
+25
+Präsenz und Abwesenheit – die Rolle  
+der Erwachsenen
+Gewiss, Projekte sind ganz ohne Inputs von Erwachsenen 
+kaum umsetzbar. So können Jugendliche etwa in ihrer Rolle 
+als Peer-Educator bzw. -Tutor bisweilen überfordert sein. 
+Dann besteht die Herausforderung der Erwachsenen darin, 
+ihnen einerseits Unterstützung anzubieten, ohne sie 
+andererseits damit zu bevormunden. Generell sollte die 
+Bereitschaft zur aktiven Beteiligung der Peer-Educators bzw. 
+-Tutors sowie diejenige der Peers nicht geschmälert werden. 
+Das ist nur durch eine offene Diskussionskultur möglich, die 
+auch Platz für politisch nicht korrekte und «falsche» Beiträge 
+lässt. Gerade solche Beiträge müssen diskutiert und dürfen 
+nicht einfach sanktioniert werden. Wenn Erwachsene also 
+an Gesprächen unter Jugendlichen teilnehmen, dann so, 
+dass sie ihre Inputs als Gesprächsimpulse einbringen – und 
+nicht als letztgültiges Faktum oder in suggestiver Frageform, 
+auf die es nur eine richtige Antwort geben kann.
+Kommunikationskultur unter Jugendlichen 
+Welche Faktoren sind für die Qualität der Ausein­
+andersetzung zwischen Jugendlichen bzw. insbesondere 
+zwischen Peer-Educators und Peers entscheidend? 
+Ungleichheit in Bezug auf Bildungs­hintergrund, Alter oder 
+Fachwissen zwischen den Jugendlichen wurde von den 
+Peers nicht unbedingt als störend empfunden. Viel 
+wichtiger war dagegen der Umgang in der Gruppe mit 
+persönlichen Beiträgen. Jugendliche bringen ihre 
+persönlichen Erfahrungen eher ein, wenn die anderen mit 
+diesen Beiträgen wertschätzend umgehen und insgesamt 
+keine «Konkurrenzsituation» besteht. Eine solche Konkur-
+renzsituation kann z.B. schon zu Beginn eines Peer-
+Involvement-Anlasses gegeben sein – dies alleine deshalb, 
+weil Jugendliche seit Jahren die gleiche Klasse besuchen 
+und die sozialen Positionen entsprechend zementiert sind. 
+Von daher kann es je nachdem wichtig sein, vor und 
+während des Projektes auf bereits bestehende Gruppendy-
+namiken zu achten.
+Und übrigens: Gerade die physische Abwesenheit von 
+Erwachsenen bei Peer-Education- bzw. Peer-Tutoring-Anläs-
+sen kann sich als positiv für die Auseinandersetzung unter 
+Jugendlichen erweisen. Sind Erwachsene abwesend, so 
+stärkt dies den Handlungsspielraum sowie den Expertensta-
+tus der Peer-Educators bzw. -Tutors.
+26
+Begleitung der Peer-Educators und 
+­Peer-Tutors 
+Der zentrale Aspekt der Mitwirkung 
+Insgesamt kann festgehalten werden: Je stärker Peer-
+Educators bzw. Peer-Tutors bei Gestaltung, inhaltlicher 
+Ausrichtung sowie Umsetzung eines Projektes partizipieren 
+können, umso motivierter sind sie, sich in einem Projekt zu 
+engagieren und ihre Ansichten und Ideen einzubringen. 
+Damit erhöht sich auch die Authentizität der Botschaften, 
+die sie an die Peers vermitteln. Dies wiederum hat den 
+positiven Effekt, dass sich die Jugendlichen untereinander 
+in intensive Diskussionen einlassen. Dennoch bleibt die 
+Partizipation von Jugendlichen ein anspruchsvolles 
+Unterfangen und verlangt von den Erwachsenen sowohl 
+Professionalität als auch Sensibilität. 
+Bilden und Begleiten in methodischer  
+und fachlicher Hinsicht
+Lernprozesse unter Peers anzustossen, gelingt nur, wenn die 
+Peer-Educators und -Tutors ausreichend auf ihre Aufgabe 
+vorbereitet und in methodischer sowie fachlicher Hinsicht 
+geschult werden – je nach Bedarf durch Fachpersonen im 
+Bereich Medienbildung oder -pädagogik. Denn Inhalte zu 
+vermitteln und Diskussionen zu moderieren, ist nicht einfach 
+und muss gelernt sein. Gerade beim Peer-Involvement 
+erweist sich dieser Punkt als besonders wichtig, weil es ja 
+darum geht, Hierarchien oder «Frontalsituationen» zwischen 
+Peer-Educators bzw. Peer-Tutors und den Peers nach 
+Möglichkeit zu vermeiden. 
+Genauso wichtig wie methodisches Rüstzeug sind Kenntnis-
+se über jene Themen, die Peer-Educators bzw. -Tutors den 
+Peers vermitteln möchten. Idealerweise werden die Themen 
+bereits mit den Jugendlichen zusammen gewählt und 
+erarbeitet und nicht von den Erwachsenen vorgegeben. 
+Andernfalls besteht die Gefahr, dass die Jugendlichen gar 
+nicht auf die Thematik einsteigen, da sie diese selbst für 
+nicht relevant halten. Die Evaluation der Projekte hat 
+nämlich klar gezeigt, dass die Jugendlichen umso interes-
+sierter und motivierter sind, je mehr die betreffenden 
+Themen mit ihren eigenen Erfahrungen etwas zu tun haben. 
+Auch hier gilt: Haben die Peer-Educators bzw. -Tutors 
+genügend Raum, um sich mit den Lerninhalten zu befassen 
+und eine eigene Haltung gegenüber den Themen zu 
+entwickeln, wirkt sich das positiv auf die Interaktion mit den 
+Peers aus.
+Peer-Educators und Peer-Tutors sollen aber auch nach einer 
+solchen Schulungsphase nicht einfach alleine gelassen 
+werden, denn der Beratungsbedarf der Peer-Educators und 
+-Tutors zeigt sich oft erst nach einer ersten Phase der 
+eigenständigen Auseinandersetzung und den ersten 
+Einsätzen.
+27
+Vorbereitungszeit
+Den «Trainingsaufwand» der Peer-Educators und -Tutors 
+sollte man nicht unterschätzen; entsprechend viel Zeit muss 
+für deren Schulung einberechnet werden. Bei manchen der 
+evaluierten Projekte wurde für die Projektplanung oder die 
+Vorbereitungszeit mit den Peer-Educators bzw. -Tutors zu 
+wenig Zeit eingeplant. Das führte dazu, dass die Erwach-
+senen mehr Vorarbeiten übernehmen und Vorentscheidun-
+gen treffen mussten. Dadurch hatten die Jugendlichen 
+weniger Möglichkeiten, sich selber einzubringen. Zudem 
+konnten bei einem zu engen Zeitplan die Wissens- und 
+Erfahrungsin­halte nicht auseichend vertieft werden. Alltags-
+erfahrungen werden dann von den Peer-Educators und 
+-Tutors eher unreflektiert an die Peers weitergereicht. War 
+dagegen ausreichend Zeit vorhanden, hatte dies nachweis-
+lich positive Auswirkungen auf die Initiative und die aktive 
+Beteiligung der Jugendlichen.
+An der Herausforderung wachsen 
+Dass der «Nutzen» der Projekte insgesamt für die Peer-­
+Educators / -Tutors höher als für die Peers ausfiel und umso 
+deutlicher, je länger die Vorbereitungs- und Durchführungszeit 
+eines Projekts dauerte, ist auch eine Erkenntnis der Evalua­
+tion, und sie liegt eigentlich auf der Hand. Angehende 
+Peer-Educators / -Tutors werden mit – für sie – neuen 
+Aufgaben konfrontiert, die sie nicht einfach lösen, sondern 
+mit denen sie eigenständig und gestalterisch umgehen sollen; 
+ganz persönliche Herausforderungen also, an denen 
+Jugendliche fast nur wachsen können. Und auf diesem Weg 
+werden sie zudem geschult und begleitet. 
+«Ihr seid bei uns Peer-Educators, und 
+wir trauen euch das zu, wir vertrauen 
+euch komplett (...). Es gelingt nicht, 
+wenn man Pseudovertrauen gibt, mach 
+du das, aber ich kontrolliere alles.» 
+Projektverantwortliche von «Peer- 
+Media-Educator»
+28
+Themen und Aktivitäten  
+in den Projekten
+So reichhaltig die Nutzungs- und Verwendungsmöglichkei-
+ten digitaler Medien sind, so vielfältig können entsprechend 
+auch die Themen ausfallen, die für ein Projekt ausgewählt 
+werden. Als wichtig erwiesen sich dabei drei generelle, 
+projektübergreifende Aspekte, die bei der Themenwahl und 
+-gestaltung beachtet sein wollen. 
+Verengte Sichtweisen und ihre Folgen
+Es ist viel von den Risiken der neuen Medien für Jugendliche 
+die Rede, sei das im Familien- und Bekanntenkreis, in der 
+Schule oder in den Medien und der Politik. Das mag ein 
+Grund sein, wieso auch die Medienprojekte ihren Fokus 
+mehrheitlich auf den Schutz und die Prävention legten. 
+Tatsächlich hatten viele Botschaften, die durch die Fachper-
+sonen oder Peer-Educators bzw. -Tutors an die Peers 
+vermittelt wurden, den Charakter von Anweisungen («Du 
+sollst ...», «Du sollst nicht ...»). Solche von den Erwachse-
+nen vorgenommenen Gewichtungen können sich als 
+machtvolle Setzungen erweisen. Denn auf diese Weise 
+wurden teilweise bereits Regeln für falsches oder richtiges 
+Verhalten vordefiniert. Entsprechend waren die entwickel-
+ten Botschaften wenig ergebnisoffen, anregend und authen-
+tisch. Es darf vermutet werden, dass diese Konstellation 
+dazu führte, dass sich die Peers nur sehr gering an den 
+Online-Settings beteiligten, die auf diese Botschaften hin 
+ausgerichtet waren.
+Digitale Medien bieten auch Chancen
+Die Nutzung digitaler Medien birgt nicht nur Gefahren. Es 
+gibt auch viele positive Aspekte. Digitale Medien schaffen 
+für die Jugendlichen abseits von der Erwachsenenwelt 
+Privaträume, in denen sie eigene Regeln definieren können. 
+Auch lassen sich in sozialen Netzwerken viele Freundschaf-
+ten knüpfen und man erhält Einblicke in buchstäblich andere 
+Welten. Zudem haben digitale Medien viel innovativ-
+gestalterisches Potenzial, das von den Jugendlichen in 
+ihrem Alltag oft genutzt wird und für sie sehr positiv besetzt 
+ist. Schliesslich bieten digitale Medien für Jugendliche die 
+Möglichkeit einer kooperativen Nutzung, indem sie z.B. 
+soziale oder politische Inhalte selber produzieren und 
+verbreiten können. Mit anderen Worten: Allein dadurch, 
+dass der Blick nicht nur auf Risiken, sondern auch auf die 
+Chancen digitaler Medien gerichtet wird, können kulturelle 
+sowie soziale Medienkompetenzen von Jugendlichen 
+angesprochen und gefördert werden. Gerade darin liegt 
+noch weiteres Potenzial von Peer-Involvement.
+Eigenaktivität und Medienvielfalt als Motivator
+Auch das ist eine Erkenntnis aus den Erfahrungen mit den 
+Projekten: Je mehr die Jugendlichen in Produktion, Bearbei-
+tung und Verbreitung der Medieninhalte einbezogen werden, 
+Entscheidungen treffen, Verantwortung tragen und sich 
+eigenaktiv betätigen dürfen, umso engagierter sind sie – 
+und umso mehr lernen sie. Dabei hat diese Form von 
+­Eigenkreativität das Potenzial, die Medienkompetenzen der 
+Jugendlichen auf allen Ebenen – von technischen bis hin zu 
+reflexiven Kompetenzen – zu fördern. Auch die Vielfalt der 
+in den Projekten eingesetzten Medien kann sich als wichtig 
+erweisen. Das Spektrum reicht von Radiostreams über 
+Videospiele bis hin zu Foren. Dadurch können Jugendliche 
+mit unterschiedlichen Fertigkeiten und Interessen als 
+Peer-Educators oder -Tutors in die Projekte integriert oder 
+als Peers angesprochen werden. Insbesondere der Einsatz 
+von kreativen Methoden (z.B. Video drehen) kann zu 
+überraschenden, innovativen Ergebnissen führen. 
+29
+Fazit: Der Peer-Involvement-Ansatz  
+fordert in der Umsetzung heraus
+Peer-Education und Peer-Tutoring haben – das zeigen diese 
+projektübergreifenden Ausführungen – unzweifelhaft viel 
+Potenzial. Sie ermöglichen den Jugendlichen ein selbstbe-
+stimmtes Lernen unter ihresgleichen. Doch sind diese 
+Methoden gerade keine pädagogischen Selbstläufer, 
+sondern fordern zu einer bewussten Gestaltung und einer 
+hohen Bereitschaft zur Selbstreflexion heraus. Dazu gehört 
+auch, dass sich Erziehungs- und Bildungsverantwortliche 
+auch intensiv damit beschäftigen, was es bedeutet, den 
+Jugendlichen Verantwortung zu übertragen.
+30
+31
+Die Evaluation der Projekte hat ergeben, dass es nicht 
+ein bestimmtes Setting und auch nicht eine bestimmte 
+­Projektstruktur ist, welche die Qualität von Peer- 
+Involvement-Projekten ausmacht. Ebenso wenig sind es 
+einfach institutionelle Rahmenbedingungen, die einem 
+Projekt den Stempel des Gelingens oder Misslingens 
+­auf­drücken. Alle genannten Punkte können jedoch, wie im 
+­4. Kapitel gezeigt, Auswirkungen haben, die die ­Durchführung 
+eines Projektes erleichtern oder erschweren. Grundsätzlich 
+kommt es auf die Qualität von Planung, Konzeptualisierung 
+und praktischer Umsetzung in jedem ­einzelnen Projekt an. 
+Worauf speziell zu achten ist und ­welches die Qualitäts-
+merkmale sind, welche ein gelingendes Projekt ermöglichen, 
+ist in den folgenden beiden Tabellen aufgeführt.
+05_QUALITÄTSMERKMALE – ­ 
+ODER WAS FÜR EIN GELINGENDES 
+PROJEKT WICHTIG IST
+ 
+Die Tabelle 1 zählt die wichtigsten generellen Merk-
+male von gelingendem Peer-Involvement auf; sie gelten 
+entsprechend nicht ausschliesslich für Projekte im Bereich 
+der Förderung von Medienkompetenzen. 
+Tabelle 2 versammelt die wichtigsten spezifischen 
+Qualitätsmerkmale, die ausschliesslich für Projekte im 
+Bereich der Medienkompetenzförderung gelten. In der 
+rechten Spalte beider Tabellen wird das jeweilige 
+Qualitätsmerkmal kurz erläutert und mit Handlungs-
+empfehlungen versehen.
+«Beim Peer-Education als Philosophie 
+oder als Methode (...) muss man viel 
+Zeit haben, sich damit auseinander-
+zusetzen: Was bedeutet das, was sind 
+die Forderungen, was bringt das 
+eigentlich?» Projektverantwortliche 
+von InTeam
+32
+Qualitätsmerkmal
+Begründung und Handlungsempfehlungen
+Entwicklung einer  
+Kultur des Peer-Involvements
+Peer-Involvement verändert die Rollen zwischen Erwachsenen und Heranwachsenden grundle-
+gend. Damit Peer-Involvement gelingt, darf es nicht einfach als didaktisches Element betrachtet 
+werden, sondern muss einer Grundhaltung entsprechen. Darum: Alle am Projekt Beteiligten 
+setzen sich mit Peer-Involvement auseinander und entwickeln eine breit abgestützte Kultur des 
+Peer-Involvements. Dies verhindert falsche Erwartungen und Missverständnisse. Ausserdem soll 
+Partizipation als eigenständiges Projektziel verstanden werden.
+Bottom-up-Vorgehen: partizipative  
+Entwicklung von Zielen,  
+Rollen und Verfahren
+Themen und Methoden müssen an die Lebens- und Erfahrungswelten der Jugendlichen 
+anknüpfen. Darum: entweder Jugendliche möglichst bereits in der Konzeptphase 
+einbeziehen oder Themen, Ziele und Verfahren erst zu einem Zeitpunkt festlegen, wenn 
+Jugendliche beteiligt sind.
+Konzeptuelle Verankerung von  
+Partizipation: Planung von Freiräumen  
+und Flexibilität
+Freiräume für Jugendliche müssen und können geplant werden. Was hier wie ein Widerspruch 
+klingt, nämlich Freiräume und Flexibilität einzuplanen, ist ein entscheidendes Qualitätskriterium. 
+Es bedeutet, bei der Planung zu bedenken, dass die Bedürfnisse der Jugendlichen vielleicht ganz 
+anders als angenommen sind, und sich bewusst zu sein, dass der Verlauf und das Ergebnis des 
+Projekts nur bedingt vorhersehbar sind. Darum ist Flexibilität wichtig: Es braucht Varianten, 
+Anpassungsmöglichkeiten und zeitliche Puffer, Ziele sollen bei Bedarf angepasst 
+werden. Freiräume für Jugendliche bedeuten zudem, dass sie Entscheidungen (mit-)treffen und 
+dass sie (ihre eigenen) Fehler machen dürfen. Partizipation in konkrete Projektziele zu «übersetzen» 
+hilft, das eigene Verständnis zu konkretisieren und überprüfbar zu machen. Die Umsetzung des 
+partizipativen Prozesses soll laufend überprüft werden.
+Begegnung von Erwachsenen und  
+Jugendlichen auf Augenhöhe
+Eine Zusammenarbeit auf Augenhöhe zwischen Erwachsenen und Jugendlichen und ergebnis­offene 
+Diskussionen entstehen nicht von selbst. Benötigt wird ein Rahmen, in welchem Machtverhält-
+nisse reflektiert werden und thematisierbar sind. Ohne bewusste, selbstkritische Reflexion 
+der Erwachsenen und der Jugendlichen orientieren sich beide womöglich an der «Führungsrolle» der 
+Erwachsenen. Darum: offene Kommunikationskultur fördern und regelmässig überprüfen, sich als 
+Erwachsene manchmal ganz zurücknehmen. Partizipation in konkrete Projektziele zu «übersetzen», 
+hilft, das eigene Verständnis zu konkretisieren und überprüfbar zu machen. Die Umsetzung des 
+partizipativen Prozesses soll laufend überprüft werden.
+Intensive Ausbildung und Coaching  
+von Peer-Educators/-Tutors
+Peer-Educators/-Tutors benötigen Fachkenntnisse und methodisches Wissen, damit ihnen 
+andere Jugendliche Expertise, Vertrauenswürdigkeit und Glaubwürdigkeit zuschreiben. Darum:  
+Für die Vorbereitung und Begleitung der Peer-Educators/-Tutors viel Zeit einsetzen, damit sie 
+Handlungs­sicherheit erlangen. Allerdings gilt auch hier, dass Peer-Educators/-Tutors ihre eigenen 
+Lern­prozesse gestalten können. Erwachsene begleiten sie dabei vielmehr, als dass sie sie 
+ausbilden oder konkrete Lernziele vorgeben.
+Persönliche Beteiligung und  
+aktive Rolle der Peers
+Wer die Zuhörerrolle hat, wird träge. Persönliche Beteiligung und Aktivitäten fordern heraus, 
+erhöhen das Interesse an einer Auseinandersetzung und binden verstärkt ins Projekt ein. Das gilt 
+auch für die beteiligten Peers! Peer-Educators/-Tutors treten deshalb in Dialog mit Peers und 
+regen zu persönlicher Beteiligung an. Präventionsbotschaften im Stile von «Du sollst», 
+«Du sollst nicht» finden bei Jugendlichen dagegen kaum Resonanz. Bewährt haben sich 
+ausserdem aktivierende Methoden wie praktische Medienarbeit (z.B. Produktion eines Videos). 
+Diese nutzen vorhandene Ressourcen Jugendlicher, erschliessen Neues durch praktisches Tun, 
+wirken motivierend und resultieren in medialen Produkten, die für Jugendliche anschlussfähig 
+sind. Bei Peer-Education liegt der Fokus darauf, dass die Peer-Educators eine offene, respekt-
+volle und hierarchiefreie Kommunikationskultur etablieren können. Nur dann getrauen 
+sich Jugendliche, ihre persönlichen Erfahrungen einzubringen.
+Breite Auseinandersetzung  
+mit der gewählten Thematik 
+Notwendig ist eine intensive Auseinandersetzung aller Beteiligten mit der gewählten Thematik, 
+idealerweise unter Beiziehung spezialisierter Fachpersonen. Dabei ist darauf zu achten, dass die 
+Thematik ausgewogen behandelt wird. Zentral ist die Orientierung an der Lebenswelt 
+der Jugendlichen: Was ist ihre Sicht auf die Thematik? Was beschäftigt sie? Wo sehen sie 
+Handlungsbedarf?
+Heranziehen einer Fachperson 
+Fachpersonen vermögen neue Kenntnisse und ausgeblendete Gesichtspunkte einzubringen und 
+Zusammenhänge herzustellen, was eine Voraussetzung darstellt, damit in Projekten nicht einfach 
+ein unreflektiertes Alltagsverständnis (und Vorurteile) reproduziert werden. Auch die Fachper­
+sonen müssen sich ihrer nicht einfachen Rolle bewusst sein: Sie sollen die Jugendlichen 
+zum Weiterdenken anregen und neue Sichtweisen und Aspekte einbringen, aber die 
+Jugendlichen sollen ihre eigenen Schlussfolgerungen ziehen können. 
+Gute Vernetzung des Projekts und  
+Kooperation mit zuverlässigen und erfahrenen 
+externen Projektpartnern 
+Geeignete Projektpartner erleichtern die Verständigung über das Projekt, entlasten bei der 
+Rekrutierung von Peer-Educators/-Tutors und Peers und erhöhen zudem die Verankerung und die 
+Nachhaltigkeit des Projekts. 
+Tabelle 1: Qualitätsmerkmale von Peer-Involvement
+33
+Qualitätsmerkmal
+Begründung und Handlungsempfehlungen
+Im Projekt werden sowohl Risiken  
+wie auch Chancen digitaler Medien zum  
+Gegenstand der Auseinandersetzung.
+Wer nur die Risiken digitaler Medien thematisiert, verengt den Blick unnötig und unterschlägt die 
+Chancen zur kulturellen wie politischen Partizipation und zur Selbstbildung, die mit den digitalen 
+Medien gegeben sind. Es sollte die Vielfalt der Ausdrucks- und Nutzungsmöglichkeiten 
+im Netz einbezogen werden.
+Technische Elemente (z.B. Video herstellen)  
+werden im Projekt berücksichtigt.
+Filme drehen, schneiden und online stellen, Radiosendungen produzieren, Games ausprobieren und 
+darüber sprechen – es gibt viele Möglichkeiten, digitale Medien aktiv und produktiv in einem Projekt 
+zu nutzen. Der Einsatz von technischen Elementen macht Jugendlichen Spass und erhöht 
+die Bindung an ein Projekt. Zudem werden dadurch technische Medienkompetenzen gefördert.
+Die Themen orientieren sich an der  
+Mediennutzung der Jugendlichen.
+Digitale Medien sind im Alltag der Jugendlichen zentral, insbesondere für die Gestaltung von 
+Beziehungen sowie als Informationsquelle. Jugendliche entwickeln kulturelle Medienkompe­
+tenzen, wenn sie die medialen Codes und Ausdrucksformen kennenlernen und digitale Medien 
+gestalterisch nutzen können. Dabei ist wichtig, dass sich das Projekt an der aktuellen Medien­
+nutzung der Jugendlichen orientiert. Zentral sind vielfältige, lebensweltorientierte und 
+altersadäquate Themen.
+Soziale Medienkompetenzen werden 
+gefördert, in dem Risiken der digitalen 
+Beziehungsgestaltung wie auch neue 
+Möglichkeiten von Partizipation, Kooperation 
+und Solidarität diskutiert werden.
+Digitale Medien verändern grundlegend unsere Beziehungen und unsere Kommunikation. 
+Jugendliche nutzen Soziale Medien intensiv für die Beziehungspflege. Dabei sind sie mit Risiken 
+wie Cyberbullying, Fake-Accounts und Verletzungen der Privatsphäre konfrontiert. Gleichzeitig 
+verändern digitale Medien auch Wirtschaft, Politik und Öffentlichkeit: Digitale Medien bieten 
+Jugendlichen neue Möglichkeiten zur politischen Partizipation, Kooperation und Solidarität. Durch 
+die Berücksichtigung beider Aspekte – der Risiken wie der neuen Möglichkeiten – werden die 
+sozialen Medienkompetenzen umfassend gefördert.
+Vielfältiges und kritisches Wissen über  
+Zusammenhänge der Medienwelt fliesst  
+in die Projekte ein. 
+Reflexive Medienkompetenzen sind zentral, um Medien verantwortungsvoll nutzen zu 
+können. Um reflexive Medienkompetenzen aufzubauen, braucht es viel Zeit, Engagement und 
+Platz für ergebnisoffene Diskussionen. Benötigt wird hierbei einerseits die Begleitung durch 
+erwachsene (Fach-)Personen, andererseits der Freiraum für autonome Bildungsgelegen-
+heiten. Hier zeigt sich die spannungsreiche Doppelrolle der Fachpersonen besonders deutlich:  
+Sie sind wichtig, um die Jugendlichen zum Weiterdenken anzuregen und neue Sichtweisen und 
+Aspekte einzubringen, aber die Jugendlichen brauchen Freiräume, um ihre eigenen Schlussfol­
+gerungen ziehen zu können.
+Tabelle 2: Qualitätsmerkmale zur Förderung von Medienkompetenzen
+Literatur
+Handy ein – das Spiel beginnt. Leitfaden für Theaterin­
+szenierungen zur Förderung von Medienkompetenzen bei 
+Jugendlichen (2015). Herausgegeben von aebi-hus Bern.
+Die Medienkompetenz und die «neue» erziehungs-
+wissenschaftliche Kompetenzdiskussion. Moser, H. 
+(2010). In: Herzig, B., Meister, D. M., Moser, H. & Niesyto, H. 
+(Hg.). Jahrbuch Medienpädagogik 8. Medienkompetenz und 
+Web 2.0. Wiesbaden: Vs Verlag: 59 – 79.
+Partizipation Jugendlicher in Peer-Involvement-
+Ansätzen: Erfahrungen aus der Evaluation von sieben 
+Projekten. Heeg, R., Steiner, O. & Balleys, C. (2016).  
+In: Zeitschrift für Sozialpädagogik 14: 416 – 435.
+Evaluation Projekte Peer Education / Peer Tutoring 
+zur Förderung von Medienkompetenzen. Heeg, R. & 
+Steiner, O. (2015). Bd. II: Detaillierte Ergebnisse zu den 
+Modellprojekten und Anhänge. Bundesamt für Sozial­- 
+ver­sicherungen.
+Peer Education und Medienkompetenzförderung. 
+Neumann-Braun, K. & Kleinschnittger, V. (2012). ­ 
+In: Soziale Sicherheit CHSS 4: 231 – 235.
+Evaluation von Peer-Education und Peer-Tutoring zur 
+Förderung von Medienkompetenzen. Das pädagogische 
+Konzept der Peer Education im Rahmen von Medien-
+kompetenzförderung und Jugendmedienschutz. 
+Bundesamt für Sozialversicherungen. Neumann-Braun, K. & 
+Kleinschnittger, V. (2013). Steiner, O. & Heeg, R. (2015).  
+In: Soziale Sicherheit CHSS 4: 209 – 214.
+Evaluation Projekte Peer Education / Peer Tutoring 
+zur Förderung von Medienkompetenzen. Steiner, O. & 
+Heeg, R. (2015). Bd. I: Anlage der Evaluation und Ergebnisse 
+der übergreifenden Analyse. Bundesamt für Sozialversiche-
+rungen.
+Peer Involvement zur Förderung von Medien- 
+kompetenzen. Steiner, O. & Heeg, R. (2016). In: Merz 4:  
+47 – 52. 
+JAMES. Jugend, Aktivitäten, Medien. Waller, G.,  
+et al. (2016). Erhebung Schweiz, ZHAW Zürcher Hoch­
+schule für Angewandte Wissenschaften. Departement 
+Angewandte Psychologie.
+Broschüren aus der Reihe Medienkompetenz des BSV
+•	
+Medienkompetenz – Tipps zum sicheren Umgang mit 
+digitalen Medien
+•	
+Medienkompetenz im Schulalltag
+•	
+Förderung von Medienkompetenzen in Institutionen für 
+Kinder und Jugendliche mit spezifischen Bedürfnissen – 
+Leitfaden zur Standortbestimmung
+•	
+Flyer: Die wichtigsten Tipps für den sicheren Umgang 
+mit digitalen Medien (in 16 Sprachen)
+Kostenloser Download oder Bestellung unter:  
+jugendundmedien.ch
+34
+35
+Glossar
+Medienkompetenzen
+Die Fähigkeit von Individuen oder Institutionen, Medien 
+mündig, kritisch und innovativ einzusetzen. Medienkompe-
+tenzen umfassen technische (z.B. Umgang mit Medientech-
+nologien), kulturelle (z.B. Wissen über mediale Zusammen-
+hänge), soziale (z.B. mediengestützte politische 
+Partizipation) sowie reflexive Kompetenzen (z.B. Fähigkeit 
+zur kritischen Beurteilung von Medien).
+Setting
+Der Begriff bezeichnet hier die Struktur, d.h. die äussere 
+Umgebung, die Räumlichkeiten und die Atmosphäre, in 
+welcher die pädagogischen Methoden Peer-Education / 
+Peer-Tutoring zur Anwendung kommen. Beispiele dafür sind 
+Schulklassen und Einrichtungen der Offenen Jugendarbeit.
+Peer-Group
+Gruppe von gleichgestellten, gleichaltrigen Menschen mit 
+gemeinsamen Interessen, die untereinander interagieren. 
+Speziell sind damit Jugendliche gemeint, die in informellen 
+Kontexten freiwillig Zeit miteinander verbringen. 
+Peer-Involvement
+Seit den 1980er-Jahren verwendeter Sammelbegriff für 
+pädagogische Ansätze des Lernens und Kommunizierens 
+innerhalb einer Peer-Group, wobei meist zwischen Lernen-
+den (Peers) und Lehrenden (Peer-Educators / Peer-Tutors) 
+unterschieden wird. 
+Peer-Education
+Form des Peer-Involvements, bei der sich Jugendliche in 
+einem eher wenig strukturierten Setting (z.B. Offene 
+Jugendarbeit) untereinander austauschen. 
+Peer-Educator
+Mitglied einer Peer-Group, welches durch ein spezielles 
+Training dafür qualifiziert wird, einen ergebnisoffenen 
+Austausch in einer Peer-Group anzuleiten, mit dem Ziel, 
+bestimmte Kompetenzen (in diesem Fall: Medienkompetenzen) 
+zu vermitteln. 
+Peer-Tutoring
+Form des Peer-Involvements, bei der Jugendliche  
+(Peer-Tutors) anderen Jugendlichen klar definierte Inhalte 
+vermitteln. 
+Peer-Tutor
+Mitglied einer Peer-Group, das sich durch seine Rolle als 
+unterrichtende Person klar von den übrigen Mitgliedern der 
+Peer-Group in ihrer Rolle als unterrichtete Personen 
+unterscheidet. 

@@ -1,0 +1,1826 @@
+LES COMPÉTENCES NUMÉRIQUES DANS 
+LES INSTITUTIONS D’ÉDUCATION ET 
+DE PÉDAGOGIE SPÉCIALISÉE ET SOCIALE
+GUIDE POUR LA CONDUITE D’UN BILAN INSTITUTIONNEL
+A la direction  
+et au personnel  
+des institutions  
+pour enfants  
+et jeunes
+Impressum
+Editeur :
+Jeunes et médias
+Plateforme nationale de promotion des compétences médiatiques
+Office fédéral des assurances sociales
+jugendschutz@bsv.admin.ch 
+Auteurs : 
+BFF Kompetenz Bildung Bern
+info@bff.ch
+www.bffbern.ch
+Monika Luginbühl et Corinne Reber (conception globale, chapitres 01–06 et 08–10) 
+Rahel Heeg (chapitre 07)
+Centre suisse de pédagogie spécialisée, CSPS (pour l’édition française)
+SUPSI
+Dipartimento formazione e apprendimento
+Centro competenze bisogni educativi, scuola e società
+Michele Mainardi et Elisa Geronimi
+Avec le soutien de :
+YOUVITA Suisse
+info@youvita.ch
+www.youvita.ch
+Commande (gratuit) :
+ 
+OFCL, Vente des publications fédérales, CH-3003 Berne
+www.publicationsfederales.admin.ch > Actualités > Jeunes et médias
+No d’article 318.853.f
+09.22  700  860517320 
+Disponible en français, en allemand et en italien. 
+Photos: 
+Frank Egle : couverture, page 4, page 6, page 8, page 11, page 15, page 19, page 23, page 27, page 31, page 36, page 38.
+Pia Neuenschwander, photopia.ch : page 14, page 15, page 16, page 17, page 21, page 25, page 28, page 34.
+4ème édition : septembre, 2022
+© 2018 Jeunes et médias – Plateforme nationale de promotion des compétences médiatiques,  
+Office fédéral des assurances sociales
+3
+CHÈRE LECTRICE,  
+CHER LECTEUR
+ 
+Les médias numériques occupent depuis longtemps une place centrale dans le quotidien des enfants et des jeunes, y compris 
+au sein des institutions de pédagogie sociale, curative et spécialisée. Ces médias peuvent élargir leur champ d’action, favo- 
+riser un contact régulier avec les amis, les connaissances et la famille ainsi qu’abolir les barrières dues au handicap. Ils 
+constituent ainsi une contribution importante à l’égalité des chances et ouvrent des possibilités de participation. Vouloir 
+préserver les jeunes des médias numériques n’est donc guère judicieux. Au contraire, il faut leur apprendre à les utiliser de 
+façon critique et responsable, afin de leur permettre d’en exploiter le potentiel tout en se protégeant des dangers. L’utilisa-
+tion d’un smartphone, d’une tablette ou d’un ordinateur nécessite un temps de découverte et de tâtonnement. Pour offrir  
+ce champ d’expérimentation aux enfants et aux jeunes, une approche active est nécessaire. Afin de remplir leur mission  
+de protection, de formation et d’éducation, les responsables et le personnel des institutions de pédagogie sociale, curative  
+et spécialisée doivent mettre particulièrement l’accent sur les compétences médiatiques. Plus ces personnes sont compé-
+tentes en la matière, plus elles peuvent remplir efficacement leur mandat, à savoir donner aux enfants et aux jeunes les 
+moyens de participer à la vie sociale.
+Le présent guide permet aux personnes travaillant pour ces institutions de faire le bilan de leurs compétences média-
+tiques – un premier pas vers une culture médiatique stimulante, enrichissante et protectrice à la fois. Les médias numéri- 
+ques offrent de nombreuses possibilités d’apprentissage et de développement dont les institutions de pédagogie sociale, 
+curative et spécialisée peuvent elles aussi se servir. Donnez cette chance aux enfants et aux jeunes et n’hésitez pas à 
+vous lancer dans ce processus.
+Cornelia Rumo Wettstein
+Directrice de l’association YOUVITA
+Astrid Wüthrich 
+Vice-directrice de l’Office fédéral  
+des assurances sociales  
+et responsable du domaine Famille, 
+générations et société
+Susanne Fehr
+Vice-directrice  
+BFF Kompetenz Bildung Bern
+5
+TABLE DES MATIÈRES
+ 
+01_Introduction	
+6
+02_Médias et inclusion	
+8
+03_Champs d’action de l’éducation numérique 	
+11
+04_Compétences numériques et société	
+14
+05_Médias et éducation	
+19
+06_Médias et formation	
+23
+07_Médias et questions juridiques	
+27
+08_Culture d’institution et développement de concept	
+31
+09_Vue d’ensemble : bilan et mesures nécessaires	
+36
+10_Informations complémentaires	
+38
+6
+01_INTRODUCTION 
+ 
+7
+Compétences numériques :  
+la clé de l’inclusion sociale
+La tâche de soutenir des personnes et de leur permettre 
+d’organiser leur quotidien de façon aussi autonome et 
+autodéterminée que possible est au coeur de l’éducation et 
+de la pédagogie spécialisée. Les personnes concernées 
+doivent être associées à la vie sociale et y prendre part. Ces 
+dernières années, les médias numériques ont considérable-
+ment marqué et modifié la société. L’utilisation des smart- 
+phones, des tablettes, des ordinateurs et des consoles de 
+jeux, ainsi que la communication et le lien via les réseaux 
+sociaux, font aujourd’hui partie des compétences culturelles 
+du plus grand nombre. Dans ce domaine, les évolutions ont 
+été et seront encore extrêmement rapides. Les enfants et 
+les jeunes grandissent au contact des médias numériques  
+et les intègrent donc naturellement à leur quotidien, mais  
+ils ont cependant besoin d’être soutenus. Même s’ils ont 
+des compétences techniques (savoir-faire) pour utiliser les 
+médias numériques, ils ne possèdent pas forcément les 
+compétences sociales (savoir-être) nécessaires et ne sont 
+pas toujours conscients des risques qu’ils encourent au 
+quotidien. C’est là que l’éducation numérique doit intervenir. 
+L’éducation et la pédagogie spécialisée ont la possibilité, 
+mais aussi le devoir, d’intégrer l’éducation numérique dans 
+ses champs d’action spécifiques (cf. ch. 3 « Champs d’action 
+de l’éducation numérique ») et de permettre ainsi aux 
+enfants et aux jeunes d’utiliser les médias numériques de 
+façon sûre, responsable et constructive.
+L’éducation numérique est importante
+	
+è La promotion des compétences numériques est une 
+contribution essentielle à l’inclusion et à l’égalité des 
+chances dans la société.
+	
+è Permettre une utilisation appropriée des médias 
+numériques constitue la prévention la plus efficace 
+contre les risques.
+C’est à vous, en tant que professionnels, de jouer
+	
+è L’éducation numérique va bien au-delà de la simple 
+élaboration de règles ; elle requiert une réflexion  
+critique sur sa propre attitude à l’égard des médias. 
+	
+è Pour les professionnels de l’éducation et la pédagogie 
+spécialisée, l’éducation numérique ne constitue donc 
+pas qu’une simple option, mais bien une responsabilité 
+professionnelle qui implique également un devoir de 
+formation continue.
+	
+è L’élaboration de stratégies pédagogiques appropriées  
+et leur mise en œuvre dans des institutions pour enfants 
+et jeunes est une tâche stimulante. Elle exige des 
+professionnels une réflexion sur leur propre utilisation 
+des médias numériques, les systèmes de valeurs sous-
+jacents et les approches utilisées dans le quotidien de 
+l’institution.
+Ce que cette brochure propose aux professionnels de 
+l’éducation et de la pédagogie spécialisée
+	
+ü Un aperçu des principaux champs d’action de l’éduca-
+tion numérique, visant à promouvoir les compétences 
+numériques dans les institutions pour enfants et jeunes 
+présentant des besoins éducatifs particuliers. 
+	
+ü Des questionnaires permettant de dresser un premier 
+bilan et déterminer les principaux champs d’action de 
+l’éducation numérique dans votre institution.
+	
+ü Des informations d’ordre pratique sur les aspects 
+juridiques dans le domaine des jeunes et des médias.
+	
+ü Des suggestions permettant de développer des 
+stratégies pédagogiques relatives aux médias numé-
+riques en institution.
+	
+ü Des offres d’information et de formation continue, ainsi 
+que quelques références bibliographiques pour appro-
+fondir la question.
+Souhaitez-vous établir un bilan en ligne ? è Le lien 
+vers le questionnaire peut être obtenu auprès de 
+info@medienundsozialpaedagogik.ch
+8
+02_MÉDIAS ET INCLUSION 
+ 
+9
+Faire profiter les enfants et jeunes des possibilités offertes 
+par la numérisation tout en les préparant à faire face aux 
+risques qui l’accompagnent est une tâche éducative 
+essentielle. Prendre part à la société, mais aussi faire partie 
+d’un groupe, n’est souvent pas possible sans l’accès et 
+l’utilisation des médias numériques. 
+Tous les jeunes n’ont pas les mêmes chances à cet égard. 
+L’accès aux médias et la possibilité d’acquérir des compé-
+tences quant à leur utilisation sont inégalement répartis. 
+Pour les jeunes en situation de handicap, issus de la 
+migration ou de familles au statut socio économique bas, 
+ces conditions ne sont souvent pas réunies. C’est là que 
+l’éducation numérique est particulièrement nécessaire.
+Médias et inégalités socio économiques
+La situation matérielle, sociale et émotionnelle d’une famille 
+influence le développement de l’enfant. Les difficultés fi-
+nancières des parents et les problèmes émotionnels qui en 
+découlent n’épargnent pas les enfants. Il n’est pas rare que 
+les parents soient tellement absorbés par leurs problèmes 
+que l’utilisation des médias numériques par leurs enfants 
+leur échappe.
+Certes, les ressources socio économiques et socio émotion-
+nelles d’une famille ne dictent pas nécessairement le type 
+d’équipement dont elle dispose, ni l’usage dont elle en fait, 
+ou encore les objectifs qu’elle poursuit. En revanche, la 
+possibilité des parents de soutenir leurs enfants au quoti-
+dien impacte l’utilisation que ces derniers font des médias.
+Et bien souvent, des parents vulnérables sur le plan éco- 
+nomique et émotionnel ont plus de difficulté à accorder 
+suffisamment de temps et d’attention aux activités de leurs 
+enfants. Dans de telles situations, les médias peuvent 
+prendre une importance particulière pour les jeunes.
+Le défi de l’éducation numérique consiste non seulement  
+à accompagner le jeune individuellement, mais aussi 
+à proposer une aide aux parents ou à leur permettre d’en 
+obtenir.
+ 
+Le soutien aux parents ne doit pas se limiter strictement  
+à l’éducation numérique, mais doit prendre en compte 
+la situation familiale dans son ensemble (cf. ch. 5 
+« Médias et éducation »).
+Médias et handicap
+Les personnes qui encadrent les enfants et jeunes en situa- 
+tion de handicap sont souvent préoccupées et inquiètes 
+lorsque ces derniers utilisent les médias numériques et 
+naviguent sur Internet. Savent-ils s’orienter dans le cyber- 
+espace ? Peuvent-ils identifier les risques ? De par ces 
+préoccupations, les enfants et jeunes en situation de handi- 
+cap ont généralement moins accès aux médias numériques. 
+Cela diminue les compétences et l’expérience qu’ils peuvent 
+acquérir avec ces derniers.
+En même temps, de nombreuses offres numériques ne sont 
+pas adaptées aux besoins et aux aptitudes des personnes 
+ayant des troubles cognitifs ou d’apprentissage, notamment 
+lorsque les informations ne sont présentées que sous forme 
+écrite et/ou que le temps disponible pour la saisie est trop 
+court.
+Si les personnes en situation de handicap sont soutenues  
+et accompagnées dans l’utilisation des médias numériques  
+et si les risques éventuels – et comment y réagir – sont  
+abordés, les médias numériques offrent des opportunités ­ 
+intéressantes à cette catégorie de la population :
+	
+è Les technologies numériques, telles que la synthèse 
+vocale, constituent un moyen essentiel de communiquer 
+de manière alternative. Ceux qui ont des difficultés à 
+écrire peuvent envoyer des messages vocaux ou des 
+images. Grâce aux médias numériques, les personnes 
+ayant un handicap physique peuvent entretenir des 
+contacts que les obstacles environnementaux rendraient 
+autrement difficiles, voire impossibles.
+	
+è Les compétences numériques améliorent les chances 
+d’intégration sur le marché primaire du travail.
+	
+è Les applications et autres logiciels permettent de 
+personnaliser les processus d’apprentissage et de 
+soutien.
+	
+è Les outils numériques peuvent faciliter l’autonomie.
+	
+è En ce qui concerne les loisirs, les médias numériques 
+offrent également la possibilité d’être actif, de s’infor-
+mer, ainsi que d’organiser et d’entretenir des contacts.
+	
+è Grâce aux médias numériques, par exemple sur les 
+réseaux sociaux, elles ont la possibilité d’exprimer  
+leur point de vue sur la vie avec un handicap. Cela  
+peut changer la perception du handicap au sein de la  
+société.
+10
+Dans l’utilisation des médias, l’enjeu de l’éducation numé- 
+rique consiste à ne pas soumettre les enfants et jeunes en 
+situation de handicap à une pression excessive, mais à les 
+accompagner et à les protéger là où ils ne perçoivent pas 
+eux-mêmes les dangers, tout en leur accordant une certaine 
+liberté et en les laissant prendre des décisions dans les 
+domaines qu’ils peuvent appréhender eux-mêmes.
+Médias et migration
+Les enfants et les jeunes issus de la migration ont des 
+expériences et des compétences très diverses dans l’utili­
+sation des médias numériques. Par le passé, on partait de 
+l’idée que les relations avec les amis et connaissances dans 
+le pays d’origine perdaient en importance à mesure que les 
+personnes s’intégraient dans le pays d’accueil. Cependant, 
+des recherches récentes montrent que les médias numé-
+riques permettent de maintenir les contacts même à très 
+grande distance, de les entretenir et même de les étendre. 
+Par ailleurs, ils permettent aussi de présenter en ligne sa 
+famille et sa propre origine. Il s’agit ici moins de se mettre 
+en scène que de montrer que sa propre famille est bien 
+présente, même si elle vit ailleurs.
+Les médias numériques jouent un rôle important, en par­
+ticulier pour les jeunes qui ont fui seuls leur pays. Ils main-
+tiennent le contact avec la famille et les amis restés au  
+pays ou entretiennent l’espoir d’en retrouver certains via  
+les réseaux sociaux. Il est donc problématique pour les 
+jeunes réfugiés si les institutions limitent l’accès à Internet. 
+En fonction du décalage horaire, ils ne peuvent guère télé-
+phoner à leurs parents ou doivent craindre que ces derniers 
+ne puissent les joindre en cas d’urgence. Les jeunes utilisent 
+alors souvent des hotspots publics, où ils divulgent – sou-
+vent à leur insu – des données personnelles.
+L’enjeu de l’éducation numérique est d’aider les jeunes à 
+faire un usage plus étendu des appareils numériques que 
+celui de la seule communication. Il s’agit de leur montrer 
+comment, par ex., le smartphone peut aussi être utilisé pour 
+apprendre, pour obtenir des informations, pour s’orienter ou 
+encore pour des activités créatives.
+Réflexions de fond sur l’encadrement des enfants  
+et jeunes défavorisés
+Une relation solide et basée sur la confiance entre les 
+professionnels et les enfants et jeunes défavorisés facilite 
+l’accompagnement en matière d’éducation numérique. 
+Montrer de l’intérêt pour les préférences numériques des 
+enfants et jeunes permet de renforcer cette relation. Une 
+relation peut également être approfondie grâce à la 
+pratique commune des médias numériques au sens d’un 
+travail actif avec les médias et du « making ».
+Travail actif avec les médias et making :  
+apprentissage par la pratique
+Le travail actif avec les médias et le « making » font partie 
+de l’éducation aux médias axée sur la pratique. Les médias 
+numériques sont alors utilisés pour se confronter active-
+ment à diverses thématiques et ainsi exposer et façonner 
+son propre univers de vie. Grâce à une telle approche, les 
+enfants et les jeunes apprennent à utiliser les technologies 
+numériques par la pratique. La réflexion commune avec les 
+adultes sur ce qui a été entrepris leur permet de prendre 
+conscience de leur propre utilisation des médias et de 
+l’importance des médias dans la société. En même temps, 
+les enfants et les jeunes livrent aussi leur point de vue et 
+entament ainsi un dialogue actif avec leur entourage. De 
+cette manière, les jeunes se voient offrir la possibilité de 
+participer à la société et à ses processus, d’exercer une 
+influence et de défendre leurs propres intérêts.
+Les projets dans lesquels les enfants et les jeunes créent 
+eux-mêmes des contenus médiatiques, par exemple en 
+tournant un film, conviennent très bien aux groupes hétéro- 
+gènes. Les tâches à accomplir étant nombreuses et variées, 
+chaque membre du groupe trouvera une activité correspon-
+dant à ses aptitudes individuelles. Il en résulte la possibilité 
+de mettre en pratique les principes de l’inclusion.
+Dans le quotidien professionnel, inclusion signifie :
+Utiliser activement les médias, ne pas se contenter de consommer des médias numériques. Si cela est important 
+pour tous les enfants et les jeunes, pour ceux qui sont en situation de handicap ou pour lesquels la participation à 
+la vie sociale est difficile, cela peut s’avérer indispensable.
+11
+03_CHAMPS D’ACTION DE  
+L’ÉDUCATION NUMÉRIQUE  
+ 
+12
+Champs d’action de l’éducation numérique 
+dans les institutions pour enfants et les jeunes 
+ayant des besoins éducatifs particuliers 
+Le développement des compétences numériques intervient 
+dans trois champs d’action principaux : l’éducation, la 
+culture institutionnelle et la formation. Une attention parti-
+culière est portée aux interactions entre l’institution et  
+le milieu familial, entre l’institution et l’école ainsi qu’entre 
+l’institution et la société. C’est là que les tensions peuvent 
+surgir. Une approche systémique permet d’aborder ces 
+zones de tension de manière active en cherchant des moyens 
+de les résoudre.
+Champ d’action « médias et éducation »
+Les tâches éducatives en matière d’utilisation des médias 
+impliquent de négocier et de faire respecter des règles 
+raisonnables et contrôlables, mais avant tout de donner aux 
+enfants et aux jeunes les compétences d’utiliser les médias 
+numériques de manière appropriée (cf. ch. 5 «Médias et 
+éducation»). Une attention particulière devrait être portée à 
+la collaboration avec les parents, car, d’un point de vue 
+systémique, l’éducation numérique destinée aux enfants et 
+aux jeunes implique de proposer un soutien actif aux 
+parents. Elaborer conjointement les principes de prévention, 
+de désescalade, de coopération et de dialogue permet de 
+viser à une certaine cohérence entre l’institution et la 
+famille.
+© Modèle TriSoziaMedia, Monika Luginbühl/Graphique : Merkur Druck AG
+Réflexion
+Compétences numériques et société
+Les compétences numériques comme facteur clé
+Compétences techniques, compétences d’utilisation, compétences 
+d’analyse et de réflexion, compétences sociales et éthiques
+Champs d’action de l’éducation numérique
+	
+è Chapitre 5
+	
+è Chapitre 8
+	
+è Chapitre 6
+Collaboration avec 
+les parents
+Médias et éducation
+Médias et culture d’institution
+Mise en application  
+dans l’institution
+Médias et formation
+Collaboration 
+avec l’école
+13
+Champ d’action « médias et culture d’institution »
+L’éducation numérique présuppose l’existence, dans l’insti-
+tution, d’une culture numérique concrète, perceptible 
+et positive, et se manifeste dans le quotidien professionnel 
+à plusieurs niveaux : face aux enfants et aux jeunes, les 
+collaborateurs ont un rôle de modèle. Ils peuvent ainsi pro-
+mouvoir et encadrer de façon créative une bonne utilisation 
+des médias numériques au quotidien (voir ch. 2 et 5). Les 
+institutions garantissent ainsi aux enfants et aux jeunes 
+présentant des besoins éducatifs particulier un accès appro-
+prié aux médias. Par le biais de la présence de l’institution 
+sur le web ainsi que par la professionnalisation et la diffé-
+renciation dans l’utilisation des médias numériques dans 
+la communication interne et externe, les responsables  
+d’institutions rendent visible et transparente leur position 
+par rapport au thème des médias.
+Champ d’action « médias et formation »
+La formation fait aujourd’hui faire partie intégrante du pro- 
+gramme scolaire. Mais les enfants sont aussi concernés 
+dans leur vie en dehors de l’école. Pour offrir aux enfants et 
+aux jeunes un soutien supplémentaire au quotidien, par 
+exemple pour leurs devoirs, il est primordial que les colla- 
+borateurs des institutions pour enfants et jeunes présentant 
+des besoins éducatifs particuliers sachent ce qui est fait à 
+l’école (ordinaire ou spécialisée), qu’ils soient en relation 
+étroite et se concertent avec elle. Cet aspect revêt d’autant 
+plus d’importance lorsqu’il s’agit de préparer les jeunes à 
+une activité professionnelle ou de leur garantir l’égalité des 
+chances dans les écoles supérieures ou les centres de 
+formation.
+Compétences numériques et société 
+Le numérique joue aujourd’hui un rôle prépondérant pour  
+la communication et la construction des relations. Pour 
+favoriser l’inclusion, l’égalité des chances et la partici­
+pation, les professionnels de l’éducation et la pédagogie 
+spécialisée doivent suivre et connaître leurs principales 
+évolutions. Ils doivent être au fait des aspects techniques, 
+juridiques et politiques, et connaître les tendances d’utili­
+sation et leur impact sur la société.
+Dans le quotidien professionnel, l’éducation numérique signifie :
+Accorder la même attention aux différents champs d’action de l’éducation numérique. Chercher à développer les 
+compétences numériques dans ces trois champs.
+14
+04_COMPÉTENCES 
+NUMÉRIQUES ET SOCIÉTÉ 
+  
+15
+Les médias font désormais partie intégrante de notre socié-
+té. Ils sont primordiaux pour la participation à la société.  
+Ils se répercutent non seulement sur l’apprentissage et 
+l’éducation, mais sont utilisés dans (presque) tous les 
+domaines de la vie. L’apprentissage se fait avec, sur et par 
+les médias numériques. 
+L’éducation numérique fait partie intégrante du Plan 
+d’études romand. Le triangle de Dagstuhl constitue un 
+modèle pour l’éducation dans un monde numérique et 
+interconnecté.
+Perspectives de l’éducation numérique, source : https://gi.de
+Le triangle de Dagstuhl met en lumière l’éducation dans 
+le contexte numérique sous trois angles. D’un point de 
+vue technologique, le fonctionnement des systèmes et 
+des applications numériques est abordé en se demandant 
+Perspective technologique
+Comment cela fonctionne-t-il ?
+Monde
+digital
+connecté
+Phénomènes, 
+objets et situations
+Perspective socio culturelle
+Quel en est l’eﬀet ?
+Perspective d’application
+Comment l’utiliser ?
+« comment cela fonctionne-t-il ? » Dans la perspective de 
+l’application, on se demande comment celle-ci peut être 
+utilisée de manière bénéfique pour des projets personnels 
+et coopératifs. La question de l’impact des développements 
+technologiques est posée dans une perspective socio­
+culturelle. Outre les questions éthiques et normatives, il 
+s’agit également de réfléchir aux (éventuels) effets secon-
+daires sur les individus et la société. 
+ 
+(Pour plus d’informations sur les compétences numériques 
+dans le Plan d’études romand, consultez le chapitre 2  
+de la brochure « Éducation numérique à l’école », également 
+publiée par la plateforme nationale Jeunes et médias.)
+Pour les professionnels de l’éducation et la pédagogie 
+spécialisée, il est important de soutenir les enfants dans 
+leur apprentissage scolaire en leur permettant de créer  
+des liens avec le quotidien (cf. ch. 5 « Médias et éduca­- 
+tion »).
+L’apprentissage avec les médias numériques se fait égale-
+ment en dehors des cours. Cependant, toute utilisation 
+des médias n’a pas un effet éducatif. Pour que les médias 
+numériques contribuent à la participation, à l’éducation et 
+au développement, il faut d’abord travailler sur les compé-
+tences numériques.
+Il existe de nombreux modèles d’éducation numérique ou 
+d’éducation aux médias. La suite de cette brochure se base 
+sur la définition qu’en donne la plateforme « Jeunes et 
+médias ». Ce modèle se combine aisément avec le triangle 
+de Dagstuhl, car il prend également en compte les aspects 
+techniques, sociaux et d’utilisation.
+Compétences techniques 
+Il s’agit notamment des compétences de maniement et  
+de maintenance des appareils ainsi que de l’utilisation  
+des logiciels les plus variés. Les enfants et les jeunes se 
+familiarisent généralement très vite avec les fonctionnali-
+tés techniques et n’éprouvent guère d’appréhension devant 
+de nouveaux appareils. Toutefois, ils négligent en partie  
+les paramètres de confidentialité et de sécurité. Ce sont 
+plutôt les adultes qui sont confrontés au défi de suivre 
+l’évolution technologique. Dans ce domaine, ils peuvent 
+justement apprendre quelque chose des enfants et des 
+jeunes.
+Compétences 
+techniques 
+Compétences
+d’utilisation
+Compétences d’analyse
+et de réflexion
+Compétences sociales
+et éthiques
+16
+Compétences d’utilisation
+Il s’agit notamment des stratégies de recherche et de 
+gestion de l’information, de la réalisation de contenus 
+numériques (par ex. albums photo, vidéos ou traitement 
+d’images), ainsi que du développement d’espaces person-
+nels et leur publication dans le cyberespace (par ex. 
+réalisation et partage de vidéos sur YouTube). Dans ce 
+domaine, les enfants et les jeunes doivent souvent 
+être encadrés par des adultes pour pouvoir évoluer dans 
+le monde numérique de façon organisée et sécurisée.
+Compétences d’analyse et de réflexion
+Il s’agit notamment de garder une attitude critique quant 
+à la fiabilité des sources d’information, d’avoir conscience 
+de l’empreinte numérique qu’on laisse, de connaître les 
+risques d’Internet, de savoir évaluer les conséquences de 
+son propre usage des médias et, enfin, d’être au fait des 
+règles fondamentales en matière de droits de propriété 
+liés aux contenus numériques. Pour développer ces compé-
+tences les enfants et les jeunes ont besoin du soutien des 
+adultes ainsi que la possibilité de discuter avec eux.
+Compétences sociales et éthiques
+Les enfants et les jeunes doivent apprendre à utiliser les 
+médias numériques de façon responsable et adaptée à leurs 
+besoins, et agir en conséquence. On entend par là une 
+utilisation impliquant le respect de la sphère privée, tant de 
+la sienne que de celle d’autrui, le choix d’un endroit 
+approprié pour régler des conflits, des connaissances sur 
+les risques liés aux médias numériques et les façons de s’en 
+protéger. Les enfants et les jeunes doivent pouvoir exploiter 
+le potentiel social des médias numériques (par ex. pour 
+entretenir des amitiés à distance, partager leurs connais-
+sances ou trouver de nouvelles formes de collaboration) tout 
+en développant une gestion du temps appropriée. Pour 
+acquérir et développer ces compétences, les enfants 
+et les jeunes sont tributaires de l’encadrement et du soutien 
+des adultes. 
+Tous les modèles de compétence numérique ont en commun 
+le fait qu’ils incluent davantage que la simple utili­sation  
+des médias numériques. De plus, en raison de l’évolution  
+con­stante de cette thématique, s’y ajoute que le développe-
+ment des compétences numériques est un apprentissage 
+sans fin, qu’il convient d’intégrer dans tous les domaines 
+de l’éducation et de la vie.
+17
+Dans le quotidien professionnel, compétences numériques et société signifient : 
+Ne pas confondre compétences techniques et compétences numériques. Assumer son rôle éducatif et apprendre 
+aux enfants et aux jeunes, même à ceux qui ont une grande maîtrise technique, à développer leur sens critique. 
+Recourir aux compétences des enfants et des jeunes en misant sur leurs ressources.
+18
+Questions relatives à l’évaluation des compétences numériques des collaborateurs
+Afin de réaliser un bilan institutionnel, les membres de l’équipe sont interrogés sur leurs propres compétences numériques. 
+Le questionnaire peut être rempli individuellement et discuté ensuite en équipe, ou être rempli directement en équipe. Pour 
+chaque question, veuillez cocher la réponse qui convient le mieux et noter le total des points obtenus dans les cases prévues 
+au bas du tableau. Reportez ensuite ces valeurs dans la vue d’ensemble de la p. 37 pour l’appréciation générale.
+A Compétences techniques
+Offre globale actuelle Je suis informé sur les possibilités techniques actuelles et sur les appareils disponibles sur le marché.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Utilisation des appareils Je sais configurer et utiliser comme je le souhaite mon smartphone, mon ordinateur, ma tablette et d’autres appareils 
+numériques. Je suis en mesure d’apporter aux enfants et aux jeunes mon aide en la matière.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Maintenance des appareils Je sais ce qu’il faut faire pour la maintenance de mes appareils. En cas de problème, je sais comment procéder pour  
+les régler en toute autonomie. Je suis en mesure d’apporter aux enfants et aux jeunes mon aide en la matière.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+B Compétences d’utilisation
+Gestion des informations Je possède les connaissances, l’expérience et les stratégies nécessaires pour la recherche, le tri, le traitement et la gestion  
+de données sur un thème précis.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Réalisation de contenus numériques Je sais réaliser des contenus numériques (traitement d’image, réalisation/traitement de vidéos, fichiers audio)  
+et suis en mesure d’apporter aux enfants et aux jeunes mon aide et mon encadrement en la matière. 
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Réseaux sociaux Je possède les connaissances et les stratégies nécessaires pour utiliser en toute sécurité les plateformes de médias sociaux  
+(par ex. Facebook ou Instagram), les forums, les tchats, etc. Je suis en mesure de conseiller les enfants et les jeunes à ce sujet.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Utilisation de moyens auxiliaires numériques Je possède un savoir-faire en matière de technologies d’aide (offre et possibilités d’utilisation) destinés aux 
+personnes en situation de handicap (par ex. ordinateur à commande vocale ou programmes d’aide sur tablette). Je suis en mesure de conseiller les jeunes et 
+leurs proches à ce propos.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Utilisation de programmes Je connais et utilise sans difficultés divers programmes (par ex. applications, plateformes de réseaux sociaux, Word,  
+Excel, PowerPoint).
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+C Compétences d’analyse et de réflexion
+Critique des sources Je possède les compétences permettant de distinguer les sources fiables des sources moins fiables. Par des conseils concrets,  
+je suis en mesure d’aider les enfants et les jeunes à cet égard.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Empreinte numérique Je sais gérer mon empreinte numérique. Je suis en mesure d’apporter aux enfants et aux jeunes des conseils concrets 
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Risques d’Internet Je sais identifier les principaux risques d’Internet et de son environnement, et je sais comment les gérer de manière appropriée.  
+Je possède les compétences nécessaires pour accompagner pédagogiquement les enfants et les jeunes à cet égard.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Bases légales Je sais ce que j’ai le droit de faire sur Internet ou non. Je connais les conséquences juridiques possibles.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+D Compétences sociales
+Communication Je possède les stratégies nécessaires pour utiliser les médias numériques en toute conscience et de façon adaptée aux diverses intentions 
+de communication. Je suis en mesure d’expliquer et de transmettre ces stratégies aux enfants et aux jeunes.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Gestion du temps Je sais parfaitement gérer mon temps et mon utilisation des médias. Je suis en mesure d’accompagner pédagogiquement les enfants  
+et les jeunes dans l’acquisition de cette compétence.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Coopération J’utilise les médias numériques de façon positive, en partageant adéquatement mes informations et en développant mes connaissances.  
+Je suis en mesure de guider les enfants et les jeunes pour qu’ils utilisent les médias numériques de façon positive.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Total des points
+A
+B
+C
+D
+19
+05_MÉDIAS ET ÉDUCATION 
+ 
+20
+L’éducation numérique traite de questions d’éducation 
+en matière de médias. Partie intégrante de l’éducation et 
+la pédagogie spécialisée, elle aborde quatre aspects.¹ 
+Accompagnement actif
+L’accompagnement actif implique que les adultes aient  
+une relation directe avec les enfants et les jeunes pour leur 
+parler des contenus et de l’utilisation des médias numé-
+riques, afin d’encourager leurs compétences numériques.  
+Il importe de veiller aux aspects suivants : 
+	
+è répondre aux questions et montrer un intérêt de 
+fond pour l’utilisation des médias par les enfants 
+et les jeunes ;
+	
+è utiliser collectivement les médias, montrer l’exemple 
+d’une utilisation adaptée des outils numériques, suivre 
+l’évolution des pratiques des enfants et des jeunes  
+et partager leur apprentissage ;
+	
+è se positionner (par ex. en émettant une appréciation 
+positive ou négative des logiciels ou des jeux vidéo) ;
+	
+è fournir des informations et des explications sur les 
+aspects juridiques, l’empreinte numérique, la violence 
+dans les médias, le sexting, etc. ;
+	
+è guider les enfants et les jeunes dans leur utilisation des 
+médias et des contenus médiatiques spécifiques, de 
+façon individuelle et adaptée à leur situation (par ex. 
+programme de messagerie à fonction vocale pour les 
+personnes atteintes de troubles moteurs, logiciels 
+d’apprentissage).
+Encadrement restrictif
+L’encadrement restrictif englobe toutes les règles d’utilisa-
+tion des médias numériques relatives au temps d’utilisation, 
+aux aspects techniques, aux contenus et à la communica-
+tion. Pour mieux en cerner les enjeux, il est possible de 
+s’appuyer sur de nombreuses ressources. Mais c’est avant 
+tout la situation individuelle, physique et cognitive, et le 
+degré de maturité de l’enfant ou de l’adolescent qui sont 
+déterminants pour fixer un cadre. Si le potentiel de dévelop-
+pement cognitif d’un enfant ne correspond pas à son âge, un 
+défi pédagogique supplémentaire se pose. Dans tous les cas, 
+l’éducation numérique professionnelle va bien au-delà de 
+l’établissement de règles et englobe la réflexion active avec 
+les enfants et les jeunes sur les contenus médiatiques et 
+leur utilisation. Les règles doivent être régulièrement 
+réexaminées et adaptées aux nouvelles réalités du marché 
+ou à l’évolution et à la situation des enfants et jeunes.
+Monitoring
+Par monitoring, on entend la surveillance technique, qui peut 
+s’effectuer à divers niveaux (limitation d’accès, contrôle des 
+coûts, filtrage ou suivi de traçabilité). Dans ce domaine, les 
+interlocuteurs compétents sont les fournisseurs de télécom-
+munications. Si le monitoring est important, il n’offre qu’une 
+sécurité limitée. Plus l’enfant avance en âge et en autono-
+mie, moins il est efficace. Les fonctionnalités de monitoring 
+les plus pertinentes dans le cadre de l’éducation et la péda- 
+gogie spécialisée sont : le blocage de services mobiles sur 
+les appareils personnels (par ex. numéros 0900 ou SMS 
+surtaxés), le contrôle des coûts et le filtrage de sources ou 
+de contenus inappropriés. Il est essentiel d’appliquer, à 
+l’égard de toutes les parties, une culture de la transparence 
+en ce qui concerne les mesures prises. De plus, toute dé-
+marche envisagée institutionnellement dans le domaine du 
+monitoring devrait faire l’objet d’une évaluation juridique, en 
+fonction de son contexte particulier. Le monitoring indirect 
+peut aussi se faire en gardant un œil critique sur la consom-
+mation médiatique des enfants et jeunes ainsi que sur ses 
+effets. Les enseignements ainsi obtenus sont un excellent 
+moyen d’entamer un dialogue avec eux à ce sujet.
+Collaboration avec les parents
+L’éducation et la pédagogie spécialisée incluent notamment 
+le fait d’aborder les questions d’encadrement médiatique 
+avec les parents. Les enfants sont accompagnés de manière 
+variable dans leur environnement familial en ce qui concerne 
+l’utilisation des médias numériques. Certains utilisent les 
+médias en étant accompagnés et en échangeant avec leurs 
+parents, recevant ainsi des suggestions sur la manière d’uti-
+liser les médias numériques de manière créative et éduca-
+tive. D’autres sont tenus à l’écart des médias ou livrés à 
+eux-mêmes dans l’utilisation des interfaces numériques. 
+Il en résulte des compétences et des manières variables 
+d’utiliser les médias numériques, ce qui se répercute égale-
+ment sur les chances de réussite scolaire des enfants. Il 
+incombe ici aux professionnels de lutter contre les inégali-
+tés, notamment dans le cadre de discussions avec les 
+parents ou en offrant un soutien. 
+Il convient de noter que tous les parents n’ont pas les 
+mêmes besoins ni la même expérience. Certains parents 
+n’ont eux-mêmes parfois que peu d’expérience en matière 
+d’utilisation adéquate des médias. D’autres parents, qui 
+n’accompagnent peu ou pas la consommation médiatique 
+21
+de leurs enfants, doivent d’abord être sensibilisés à l’impor-
+tance de l’éducation aux médias. En particulier les parents 
+vivant des situations socialement difficiles sont confrontés 
+à de nombreux défis. Dans ces familles, l’éducation numé­- 
+rique est loin d’être la première préoccupation. Ici, il faut se 
+montrer compréhensif et souligner malgré tout l’importance 
+de l’encadrement numérique tout en initiant les parents, 
+dans la mesure de leurs possibilités, à un tel encadrement. 
+Dans le quotidien professionnel, compétences numériques et éducation signifient :
+Mettre l’accent sur l’encadrement actif des enfants et des jeunes dans l’utilisation des médias, plutôt que sur  
+les règles. Associer systématiquement les parents à la démarche.
+Les parents qui ont compris l’importance de l’encadrement 
+numérique, mais qui manquent d’assurance, ont besoin 
+de conseils et d’exemples concrets adaptés à leur situation 
+et en présentant la manière dont d’autres familles s’y 
+prennent. Des discussions approfondies peuvent être 
+menées avec les parents qui encadrent étroitement leurs 
+enfants.
+22
+1 Steiner, O., et Goldoni, M. (2011). Medienkompetenz und medienerzieherisches Handeln von Eltern. Eine empirische Untersuchung bei 
+Eltern von 10- bis 17-jährigen Kindern in Basel-Stadt. Haute école de travail social de la HES de la Suisse du Nord-Ouest : Bâle/Olten. 
+Dans leur étude, Steiner et Goldoni montrent que les parents de milieux à faible niveau d’instruction signalent un besoin de soutien, 
+mais estiment que le niveau des cours de formation pour parents est trop élevé. Voir également Hermida, M., et Signer, S. (2013), 
+Wie Eltern ihre Kinder im Internet begleiten [Rapport 2013 : EU Kids Online Suisse] : https://www.eukidsonline.ch/ et Paus-Hasebrink, 
+Ingrid (2020). Mediengebrauch und Ungleichheit. Von Klüften und Spaltungen in Kindheit und Jugend. Merz, Jahrgang 64, Nr. 3, p. 19–25 : 
+« Il s’est avéré que les familles particulièrement touchées avaient besoin d’une responsabilité et d’une attention particulières de la part de 
+la société ; elles ont besoin de concepts de soutien globaux pour l’ensemble de la famille, qui tiennent compte de leurs conditions de vie 
+respectives et qui sont conçus de manière différenciée et aussi individuelle que possible […] » (p. 24).
+Questions relatives aux médias et à l’éducation
+Afin de réaliser un bilan institutionnel, les membres de l’équipe sont interrogés sur leur manière de gérer les médias 
+numériques avec les enfants et les jeunes et sur leur collaboration avec les parents. Le questionnaire peut être 
+rempli individuellement et discuté ensuite en équipe, ou être rempli directement en équipe. Pour chaque question, veuillez 
+cocher la réponse qui convient le mieux et noter le total des points obtenus dans les cases prévues au bas du tableau. 
+Reportez ensuite ces valeurs dans la vue d’ensemble de la p. 37 pour l’appréciation générale.
+E Encadrement restrictif
+Je suis en mesure de justifier les règles en matière d’utilisation de médias numériques appliquées actuellement dans mon institution.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Je connais des sources d’information et sites dédiés à l’application de règles adaptées en matière d’utilisation de médias numériques et je les intègre 
+activement dans ma pratique.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Je maîtrise le sujet, lorsqu’il s’agit d’établir et/ou de faire évoluer des règles adaptées à la situation individuelle.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+F Accompagnement actif
+Je connais les pratiques actuelles des enfants et des jeunes, je m’y intéresse et je prends position à cet égard de façon critique.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+J’utilise les médias numériques avec les enfants et les jeunes et je les informe sur les possibilités d’utilisation mais aussi sur les mesures de protection  
+les concernant.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+J’encourage et j’aide les enfants, les jeunes à utiliser adéquatement les médias numériques, en progressant pas à pas en fonction de leurs capacités.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Je parle régulièrement avec les enfants et les jeunes de leurs expériences d’utilisation des médias et cela constitue un thème traité en équipe.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+G Monitoring 
+Je connais les possibilités, les limites et le cadre juridique du monitoring.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Je sais où je peux trouver un soutien spécialisé dans ce domaine.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+H Collaboration avec les parents
+Je parle régulièrement avec les parents de l’utilisation des médias par leurs enfants et/ou leurs jeunes.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+J’ai connaissance d’outils et de ressources, destinés aux parents, que je peux intégrer à mon travail.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+J’ai des idées concrètes sur la façon d’aborder activement cette thématique avec les parents.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Total des points
+E
+F
+G
+H
+23
+06_MÉDIAS ET FORMATION 
+ 
+24
+Comme pour d’autres aspects du domaine pédagogique, une 
+approche systémique est essentielle pour les thèmes rele-
+vant de l’éducation numérique. Pour les équipes de l’éduca-
+tion et la pédagogie spécialisée, cela signifie s’informer sur 
+ce qui se fait en matière d’éducation numérique dans les 
+écoles ordinaires ou spécialisées. Les enfants et les jeunes 
+peuvent ainsi bénéficier d’un soutien supplémentaire au 
+quotidien et d’expériences complémentaires dans l’utilisa-
+tion des médias numériques. La brochure « Education 
+numérique à l’école » donne un bon aperçu de la question; 
+nous vous la recommandons. 
+Outre la lecture, l’écriture et les mathématiques, d’autres 
+compétences sont d’ores et déjà requises dans le monde du 
+travail, mais aussi pour la vie quotidienne, et le seront de 
+plus en plus à l’avenir. Le modèle d’apprentissage des 4 C 
+met l’accent sur la communication, la créativité, la 
+collaboration et la pensée critique et les désigne 
+comme des compétences incontournables. L’école, mais 
+aussi tous les autres domaines de la vie des enfants et des 
+jeunes contribuent au développement de ces compétences. 
+Si l’on souhaite l’égalité des chances et la participation de 
+tous les enfants, l’échange et la collaboration sont alors 
+indispensables.
+Avec l’introduction du Plan d’études romand (PER), le do-
+maine « Éducation numérique » a gagné en importance à 
+l’école. Ce champ thématique est traité à la fois de manière 
+interdisciplinaire et en tant que matière à part entière 
+durant certaines années scolaires. Les exigences du Plan 
+d’études romand sont obligatoires pour tous les enfants.
+Pour les enfants et jeunes qui ne peuvent pas satisfaire aux 
+exigences de ce plan d’études dans les délais prévus, le 
+projet « PER-EDISP » est à la fois un outil et une démarche 
+d’adaptation et de traduction du Plan d’Etudes Romand pour 
+des Elèves présentant une Déficience Intellectuelle Sévère 
+ou un Polyhandicap. Souple et modulable en fonction des 
+situations très spécifiques dans lesquelles évoluent ces 
+enfants ou ces jeunes, il est au service des professionnels, 
+et plus particulièrement des enseignants spécialisés 
+romands.2
+Pour les enfants et jeunes qui ne peuvent pas satisfaire aux 
+exigences du plan d’étude, des adaptations du plan de 
+formation, ou du plan d’études peuvent-être proposées.  
+À ce moment il est nécessaire de se questionner d’une part 
+sur l’intégration des médias dans les situations d’apprentis-
+sage et d’autre part de l’éventualité de l’utili­sation de 
+technologies d’aide pour répondre aux besoins quotidiens de 
+l’enfant ou de l’adolescent. Dans ces situations, l’accompa-
+gnement va au-delà de l’école et concerne de nombreux 
+autres domaines de la vie, la collaboration et l’échange 
+entre les proches et les professionnels entourant le jeune 
+concerné est indispensable.
+Thèmes essentiels pour la pratique en 
+éducation et pédagogie spécialisée
+Echanges réguliers avec l’école et le corps enseignant 
+Afin de pouvoir soutenir de manière optimale les enfants et 
+les jeunes dans le développement de leurs compétences 
+numériques, il est important que les professionnels travail-
+lant au sein des institutions sachent quels thèmes liés au 
+numérique sont traités à l’école et dans quelle mesure. Outre 
+le matériel pédagogique, les énoncés et les compétences 
+visées, les règles d’utilisation devraient faire l’objet d’un 
+échange aussi bien à l’école qu’au quotidien à la maison.
+Les réseaux sociaux suppriment les frontières entre les diffé- 
+rents milieux de vie. La communication et les dynamiques 
+de groupe sont transportés de la maison à l’école via les 
+réseaux sociaux, puis ramenés à la maison par le même 
+chemin. Tout problème ou conflit dans ce contexte touchera 
+plusieurs milieux de vie des enfants et des jeunes. L’échange 
+entre les adultes accompagnants est indispensable pour 
+faire face à ce défi et intervenir de manière préventive.
+Infrastructure des institutions dans le domaine 
+des TIC (Technologies de l’Information et de la 
+Communication)
+Les enfants et les jeunes ont besoin d’infrastructures TIC 
+adaptées pour effectuer leurs tâches scolaires au quotidien, 
+mais aussi pour tirer profit des médias numériques et acqué-
+rir de l’expérience. Il incombe aux institutions de contribuer 
+2 Anne Rodi, Le PER, un plan d’études adapté aux élèves en situation de polyhandicap : Revue suisse de pédagogie spécialisée, 4/2016.
+25
+à garantir l’accès de tous les enfants et les jeunes aux 
+équipements et infrastructures. En vertu du principe de 
+normalisation, les institutions devraient se baser sur le 
+niveau technique moyen pour une utilisation à domicile 
+(accès Internet, performance des appareils, actualité des 
+programmes).
+Accompagnement pratique au quotidien
+Les structures de prise en charge et la planification du per- 
+sonnel des institutions doivent permettre un accompagne-
+ment au quotidien pour les devoirs scolaires et garantir un 
+encadrement adapté aux besoins individuels de prise en 
+charge. Cela inclut l’utilisation des médias numériques pour 
+faire les devoirs et cela doit être coordonné avec les règles 
+institutionnelles et/ou individuelles.
+L’utilisation créative des médias numériques soutient 
+l’éducation. Cela vaut également en dehors de l’école (cf. 
+ch. 2 « Médias et inclusion »). Proposer de telles activités au 
+domicile contribue à une éducation complète. Les activités 
+communes utilisant les médias numériques offrent en outre 
+une bonne opportunité d’approfondir le dialogue avec les 
+enfants et les jeunes, de se faire une idée de leur univers 
+numérique et d’aborder ainsi les thèmes les plus divers liés 
+à l’utilisation des médias et de promouvoir les compétences 
+numériques de manière globale.
+Dans le quotidien professionnel, médias et formation signifient : 
+Avoir, avec les enseignants, des échanges actifs sur le développement des compétences numériques. 
+S’assurer que, dans la vie quotidienne au sein de l’institution, aucun obstacle inutile (technique, prise en 
+charge, règles) n’entrave la mise en application des exigences scolaires.
+26
+Questions relatives aux médias et à la formation 
+Afin de réaliser un bilan institutionnel, les membres de l’équipe sont interrogés sur le degré d’intégration des médias 
+numériques dans le travail pédagogique à l’école. Le questionnaire peut être rempli individuellement et discuté 
+ensuite en équipe, ou être rempli directement en équipe. Pour chaque question, veuillez cocher la réponse qui convient 
+le mieux et noter le total des points obtenus dans les cases prévues au bas du tableau. Reportez ensuite ces valeurs dans 
+la vue d’ensemble de la p. 37 pour l’appréciation générale.
+I Echanges avec l’école et le corps enseignant au sujet des MITIC
+J’ai des échanges réguliers avec l’école concernant les MITIC et l’éducation numérique.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Lorsque des problèmes surviennent dans l’utilisation des médias par les enfants et les jeunes, j’en parle également avec les enseignants et nous cherchons 
+ensemble des solutions.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+J’ai connaissance des règles d’utilisation des médias numériques dans le périmètre de l’école.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Je connais les exigences spécifiques (par ex. plateformes d’apprentissage, cyberlearning) concernant l’utilisation des médias numériques dans les écoles 
+supérieures (par ex. écoles professionnelles).
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Je connais des outils didactiques précis, des aides à l’apprentissage et des moyens auxiliaires (par ex. le logiciel Zoomtext) pour les personnes en 
+situation de handicap, auxquels l’école recourt dans le domaine numérique.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+K Accompagnement concret au quotidien
+Au sein de mon institution, les enfants et les jeunes ont la possibilité de faire leurs devoirs sous forme informatique.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Les règles appliquées à la vie quotidienne de mon institution sont coordonnées avec les règles et les consignes appliquées à l’école.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+J’encourage les enfants et les jeunes à découvrir et approfondir de nouveaux thèmes également avec les outils numériques.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+L Infrastructure MITIC dans les groupes d’habitation
+L’infrastructure MITIC de mon institution permet de faire ses devoirs sous forme informatique.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+L’infrastructure MITIC dans les lieux de vie correspond à un niveau technique moyen pour l’usage domestique (matériel et logiciel).
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Les appareils sont régulièrement entretenus et, en cas de problème, une assistance et/ou des ressources sont rapidement disponibles.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Q Travail approfondi de pédagogie des médias
+J’exploite consciemment les possibilités d’encadrement actif lorsque les enfants et les jeunes travaillent pour l’école avec des médias numériques.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+J’encourage les enfants et les jeunes à utiliser les médias numériques de manière créative et pour obtenir des informations, même en dehors des devoirs, et je 
+les accompagne dans cette démarche.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+J’apporte aux enfants et aux jeunes un soutien actif lorsqu’ils travaillent sur des contenus didactiques numériques.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Total des points
+I
+K
+L
+M
+27
+07_MÉDIAS ET QUESTIONS 
+JURIDIQUES 
+ 
+28
+Les médias numériques occupent une place centrale dans 
+la vie des enfants et des jeunes, et les institutions dédiées  
+à ceux d’entre eux présentant des besoins éducatifs parti­
+culiers sont confrontées à de nombreuses questions juri- 
+diques. Un cadre juridique bien défini est une condition 
+importante pour qu’un établissement puisse aborder active-
+ment l’éducation numérique.
+Quelques thématiques sont esquissées ci-après. Vous 
+trouverez de plus amples informations sous le lien suivant : 
+www.mekis.ch 
+Questions juridiques concernant la relation entre 
+l’établissement, les jeunes et les parents
+Le rapport de tension entre les droits de la personnalité des  
+enfants et des jeunes d’une part et le devoir de sur­veillance 
+et de garde de l’institution et des parents de l’autre, soulève 
+des questions telles que les suivantes. L’établissement peut-il 
+limiter ou contrôler l’accès des enfants et des jeunes à Inter- 
+net, et si oui, de quelle manière ? Comment les responsabili-
+tés sont-elles réparties entre l’établissement et les parents ? 
+En principe, ce sont les parents qui ont le devoir de garde  
+et de surveillance. Or, un placement confère à l’institution 
+une partie des tâches parentales. Dans le cadre de son 
+devoir de garde, l’établissement a la responsabilité de 
+veiller à préserver l’intégrité des enfants et des jeunes 
+pendant leur séjour. Dans le cadre de son devoir de 
+surveillance, l’établissement met tout en œuvre pour  
+que les jeunes ne causent pas de dommages. Le degré de 
+surveillance nécessaire dépend des circonstances con- 
+crètes (âge, caractère, maturité intellectuelle, situation, 
+etc.). 
+Quels sont les devoirs de garde et de surveillance de 
+l’établissement et quels sont ceux des parents quant à 
+la consommation médiatique des jeunes ? Sont détermi-
+nants les éléments convenus par contrat. Dans l’idéal, 
+l’institution et les parents se reconnaissent – dans les 
+limites du cadre donné – comme partenaires éducatifs qui 
+assument ensemble la responsabilité du bien-être des 
+enfants et des jeunes.
+29
+En même temps, les jeunes doivent pouvoir exercer leurs 
+droits de la personnalité. Ils disposent notamment du droit 
+à l’intégrité physique (liberté de mouvement, par ex.), à 
+l’intégrité affective (protection contre les atteintes émotion-
+nelles) et à l’intégrité sociale (sphère et vie privée, autodé-
+termination informationnelle). 
+Important : un enfant capable de discernement peut exer-
+cer ses droits de la personnalité de manière autonome, sans 
+que les parents ou le curateur ne soient nécessairement 
+impliqués. Une personne est capable de discernement 
+lorsqu’elle comprend la portée de ses actes et qu’elle peut 
+agir librement et raisonnablement sur la base de cette 
+compréhension.
+Les institutions ne peuvent restreindre les droits de la 
+personnalité des jeunes à moins que de bonnes raisons ne 
+le justifient et que la restriction soit proportionnée. Ici aussi, 
+revêt une importance juridique particulière ce qui a été 
+convenu concrètement, preuves à l’appui, dans le contrat. 
+Nombre d’établissements disposent de règles d’utilisation 
+des médias. Certaines atteintes (plus ou moins importantes) 
+aux droits de la personnalité des enfants et des jeunes sont 
+alors inévitables. Les règles fixent des cadres temporels, 
+géographiques ou de contenu. Elles peuvent être définies au 
+travers d’accords (contrats d’utilisation des médias) ou il 
+peut être fait appel à des « solutions » techniques. Mais : 
+les restrictions techniques, comme le blocage de certains 
+sites Internet, ne remplacent pas le travail éducatif.
+Concevez des règles médiatiques qui accordent aux enfants 
+et aux jeunes une liberté d’expérience et de création et 
+qu’ils puissent comprendre. Montrer un intérêt véritable 
+pour le monde numérique des jeunes permet d’aborder 
+les actes ou contenus problématiques. Poursuivez le dia- 
+logue avec les parents et considérez votre mission dans le 
+domaine des médias comme une responsabilité commune.
+Questions de protection des données et gestion 
+des images dans les établissements
+Un autre domaine juridique concerne les données qu’un 
+établissement peut collecter et l’usage qu’il peut en faire. 
+D’une manière générale, la protection de la personne doit 
+primer sur l’intérêt de l’organisation à obtenir des informa-
+tions (par ex. enregistrement de l’utilisation d’Internet). 
+La collecte de données suppose donc un motif prévu par la 
+législation sur la protection des données, soit : le consente-
+ment de la personne concernée, un mandat officiel de 
+collecte des données ou un intérêt privé ou public majeur, 
+par ex. en cas d’urgence. 
+La transmission de données personnelles à des tiers (y com- 
+pris aux parents !) doit être pleinement justifiée. Donc : 
+collectez le moins de données possible, ne les conservez 
+pas plus longtemps que nécessaire et n’y donnez accès 
+qu’aux personnes qui en ont réellement besoin. Respectez 
+également les droits de la personnalité des enfants et 
+jeunes vis-à-vis des parents.
+De même, il existe un droit de la personnalité sur les images : 
+si une personne se trouve au centre d’une image et est 
+facilement reconnaissable, elle doit en être informée et son 
+consentement est nécessaire pour la publier (par ex. sur les 
+réseaux sociaux ou des sites Internet). Si la personne n’est 
+pas au centre de l’image, le consentement n’est pas 
+nécessaire. Gardez cela à l’esprit pour la gestion des images 
+par l’établissement et sensibilisez également les enfants et 
+les jeunes à la manière d’utiliser les photos des autres. 
+Comment les enfants et les jeunes se rendent-ils 
+punissables par leur comportement en ligne ?  
+Questions juridiques sur la pornographie et le cyber- 
+harcèlement 
+La question de savoir comment les enfants et les jeunes se 
+rendent punissables sur Internet englobe plusieurs aspects, 
+par exemple : quand et de quelle manière les enfants et les 
+jeunes se rendent-ils punissables lorsqu’ils consomment de 
+la pornographie en ligne, lorsqu’ils prennent et envoient des 
+photos érotiques d’eux-mêmes ou encore lorsqu’ils sont 
+impliqués dans des actes de cyberharcèlement ? Une insti- 
+tution a pour mission de sensibiliser et d’accompagner les 
+enfants et les jeunes qui lui sont confiés sur ces théma-
+tiques. 
+En Suisse, la responsabilité juridique commence très tôt : 
+les enfants sont pénalement responsables à partir de leur 
+10e année révolue. Dès cet âge, ils peuvent être dénoncés 
+et condamnés pour des infractions au code pénal.
+La pornographie est un sujet qui préoccupe souvent les 
+institutions. Il est interdit de mettre de la pornographie à 
+30
+la disposition des enfants de moins de 16 ans. Cela s’ap-
+plique aussi bien aux plateformes commerciales qu’aux 
+particuliers. Un jeune de 15 ans n’a donc pas le droit d’en-
+voyer de films pornos à d’autres personnes de son âge. Il 
+peut toutefois les regarder – la consommation de matériel 
+pornographique légal n’est pas punissable, même pour les 
+enfants et les jeunes.
+Les représentations sexuelles faisant apparaître des per- 
+sonnes de moins de 18 ans sont interdites. Si des mineurs 
+se prennent en photo de manière sexualisée en exposant 
+leurs parties génitales, la photo peut être considérée 
+comme de la pédopornographie. Ces jeunes et tous ceux  
+qui possèdent (par ex. une image/une vidéo enregistrée sur 
+le téléphone) ou transmettent la photo deviennent ainsi  
+des fournisseurs de pédopornographie. La seule exception 
+concerne les jeunes de 16 à 18 ans qui produisent, pos-
+sèdent (par ex. une image/une vidéo enregistrée sur le 
+téléphone) ou consomment du matériel pornographique d’un 
+commun accord ne sont pas punissables pour autant qu’ils 
+ne le transmettent pas à d’autres personnes.
+Une autre question juridique qui préoccupe souvent les 
+établissements est celle du cyberharcèlement. En 
+situation de harcèlement, un déséquilibre des forces existe 
+entre les auteurs et les victimes. En règle générale, les 
+personnes concernées se connaissent. Le plus souvent, les 
+initiateurs sont peu nombreux. S’y ajoutent des suiveurs qui 
+donnent aux harceleurs le sentiment d’agir également dans 
+leur sens. D’autres observent en simples spectateurs, ce qui 
+renforce les harceleurs dans leurs agissements.
+Dans le cas du cyberharcèlement, d’autres problématiques 
+spécifiques viennent s’ajouter. Premièrement, les infos, les 
+photos et les insultes se répandent à toute vitesse. Deuxiè-
+mement, les insultes ont un effet durable, car les données 
+restent stockées sur Internet et peuvent être diffusées de 
+manière incontrôlée. Troisièmement, les auteurs restent 
+souvent anonymes. Les victimes de cyberharcèlement n’ont 
+plus d’espace de repli sûr, elles ne peuvent plus se sous-
+traire à la situation. Le cyberharcèlement se produisant 
+presque toujours entre connaissances, il s’agit d’une forme 
+de harcèlement.
+Aucune loi interdit explicitement le cyberharcèlement, 
+s’appliquent les lois portant sur des actes individuels 
+relevant du cyberharcèlement (par ex. détérioration de 
+données, chantage, atteinte à l’honneur, diffamation, 
+injures, menaces, contrainte). 
+Formez les professionnels sur ces sujets. Définissez des 
+responsables et des procédures pour les incidents graves. 
+Abordez avec les enfants et les jeunes les questions de 
+sexualité et d’appartenance, afin d’éviter les actes illégaux 
+commis par ignorance, et offrez-leur l’occasion de réfléchir 
+à leurs expériences personnelles. L’accent ne devrait pas 
+être mis sur les interdictions ou les risques. Les enfants et 
+les jeunes devraient pouvoir développer leur propre position. 
+Pour le quotidien professionnel, une utilisation sûre des médias numériques signifie :
+De connaître la législation afin d’accompagner les enfants et les jeunes vers une utilisation compétente et de 
+pouvoir répondre à leurs questions juridiques.
+31
+08_CULTURE D’INSTITUTION ET 
+DÉVELOPPEMENT DE CONCEPT  
+ 
+32
+Culture d’institution
+Le succès du travail mené en éducation numérique dépend 
+d’une appréhension positive et d’un usage compétent des 
+médias. Il appartient ici aux directions d’institution de 
+réfléchir aux valeurs et aux attitudes à adopter, de lancer 
+des processus et d’élaborer des stratégies visant à 
+renforcer la culture de l’institution dans le domaine de 
+l’utilisation des médias numériques. Le schéma ci-dessous 
+montre à quel point les tendances générales peuvent 
+diverger. Le type III autorise les appareils numériques, mais 
+il n’y a pas de processus d’apprentissage si l’utilisation des 
+outils numériques fait sur une base purement réglementaire. 
+Les types I à II dénotent des attitudes pédagogiques 
+protectrices susceptibles d’entraver la participation des 
+enfants et des jeunes à la vie sociale. Les types IV et V 
+reflètent des attitudes de base qui visent à leur donner des 
+compétences et donc à les inclure. En pratique, on rencontre 
+aussi des formes mixtes combinant différentes catégories. 
+Avec les progrès accomplis dans le domaine de la robotique, 
+les robots humanoïdes pourraient faire leur apparition dans 
+le domaine de l’éducation, mais aussi et surtout dans le 
+domaine des soins. La question de savoir si le recours à  
+ces instruments est utile, et pour quelles tâches, devra être 
+examinée dans le contexte général du concept de prise  
+en charge.
+La culture de l’institution en matière d’utilisation des médias 
+numériques transparaît aussi dans les domaines de l’admi-
+nistration et de la communication, via une « stratégie numé-
+rique ». Celle-ci se révèle notamment dans l’organisation de 
+la structure administrative et informatique (par ex. docu-
+mentation, archives ou rapports), dans le site Internet de  
+l’institution, dans la forme donnée aux canaux de communi-
+cation internes et externes, ainsi que dans le recours à diffé- 
+rents canaux de communication selon le groupe cible (enfants 
+et jeunes, parents, école ou services officiels).
+I	
+« Nous devons protéger les enfants et les jeunes contre les risques liés aux médias numériques. »
+II	 « Cela ne change rien pour nous. Les médias numériques ne jouent aucun rôle dans notre cas. »
+III	 « On ne peut pas empêcher la présence de smartphones, mais nous réglementons strictement leur usage. »
+IV	 « Nous devons transmettre aux enfants et aux jeunes des contenus pédagogiques qui leur permettent d’utiliser les médias numériques en étant 
+conscients des opportunités et des risques, et en étant aussi capables de porter un regard critique. »
+VI	 « Notre institution recourt à des robots humanoïdes. Ils déchargent notre personnel pour les soins à fournir aux enfants et aux jeunes ayant  
+un handicap physique. »
+V	 « Les médias numériques font partie du quotidien de l’éducation et de la pédagogie spécialisée : nous les utilisons de façon créative et les intégrons 
+dans notre travail pédagogique. Les médias numériques et les technologies d’aides (par ex. les tablettes utilisées pour faciliter la communication 
+orale) aident les enfants et les jeunes en situation de handicap à faire face aux situations quotidiennes. »
+Les interdire
+Les ignorer
+Les accepter et 
+les réglementer
+Les utiliser pour assister 
+ou remplacer le personnel 
+de prise en charge
+Les intégrer activement, 
+par ex. en tant qu’aide 
+ou assistance
+Donner les 
+compétences 
+de les utiliser
+Types d’attitude
+à l’égard des médias 
+numériques
+I
+II
+III
+IV
+V
+VI
+Le modèle est basé sur l’échelle des attitudes face aux principaux médias numériques de Beat Döbeli et a été transposée à l’éducation 
+et la pédagogie spécialisée par Marc Pilloud et Monika Luginbühl.
+33
+l’éducation numérique. Elle peut tenir en quelques phrases 
+seulement et exprime la position de l’établissement par 
+rapport aux médias numériques et aux changements qui en 
+découlent dans la vie quotidienne des enfants et des jeunes.
+Étape 4 : domaines d’intervention et thématiques
+De nombreux aspects et contenus sont pertinents en ma-
+tière d’éducation numérique. La première étape de l’élabo-
+ration du concept consiste à définir, globalement, les do-
+maines de l’établissement ayant trait aux médias. Il peut 
+s’agir, par exemple, des « offres d’éducation numérique »  
+ou de la « collaboration avec les parents ».
+Étape 5 : offres, mises en œuvre et responsabilités
+Cette partie permet de préciser les offres et les créneaux 
+de mise en œuvre pour les domaines thématiques définis 
+au préalable et d’attribuer les responsabilités.
+Une offre d’éducation numérique peut s’intituler, par 
+exemple : « Sécurité de la sphère privée sur Internet : 
+profils et mots de passe ». Il est également recommandé 
+de mentionner dans quelle mesure les offres– ou le fruit 
+de ces dernières – s’intègrent durablement dans le quoti-
+dien et se révèlent ainsi efficaces à long terme. 
+Étape 6: planification de l’évaluation
+Pour que le concept d’éducation numérique corresponde aux 
+besoins de l’établissement, un examen est nécessaire après 
+une phase de mise en œuvre. Les étapes et les responsabili-
+tés relatives à cela sont consignées dans la planification de 
+l’évaluation.
+Une évaluation régulière maintient l’actualité du concept et 
+permet de l’adapter aux changements.
+Concepts d’éducation numérique 
+Un concept moderne pour les institutions d’éducation et  
+de pédagogie spécialisée inclut un concept spécifique à 
+l’éducation numérique. Il peut être développé progressive-
+ment en adoptant un attitude positive et ouverte. Les 
+lignes directrices des institutions se raccordent générale-
+ment sans difficulté à ce processus, dans lequel des thèmes 
+génériques tels que la participation, l’inclusion et l’autodé-
+termination constituent des valeurs centrales. Inversement, 
+en excluant l’éducation numérique, l’application de ces 
+valeurs reste limitée. 
+Sur le site Internet du projet MEKiS, un guide en six étapes 
+explique comment développer un concept d’éducation 
+numérique. Nous présentons ci-après brièvement les 
+différentes étapes : Vous trouverez davantage d’informa-
+tions sur : www.mekis.ch 
+Le concept doit servir de base à la mise en œuvre d’offres 
+relevant de l’éducation numérique et à l’utilisation pédago-
+gique de ces derniers dans le quotidien des enfants et des 
+jeunes au sein des établissements. Étant donné que le 
+domaine thématique des médias est en constante évolution, 
+tout concept d’éducation numérique devra lui aussi être 
+adapté en fonction des besoins. Les grandes institutions ont 
+avantage à adopter un concept global de d’éducation numé- 
+rique pour l’ensemble de l’établissement, laissant aux diffé-
+rents groupes suffisamment de liberté pour accomplir un 
+travail approprié en fonction du contexte. Nous recomman-
+dons de prévoir les parties suivantes lors de la rédaction 
+d’un concept d’éducation numérique. 
+Étape 3 : 
+idée directrice concernant l’éducation numérique
+L’idée directrice présente l’attitude fondamentale que l’ins-
+titution s’engage à adopter face aux questions relevant de 
+Étape
+Préparation et 
+planification
+Étape
+Bilan de la 
+situation et 
+évaluation des 
+besoins
+Étape
+Idée directrice 
+concernant 
+l’éducation 
+numérique
+Étape
+Domaines 
+d’intervention 
+et thématiques
+Étape
+Offres, mises 
+en œuvre et 
+responsabilités
+1
+2
+3
+4
+5
+Étape
+Planification 
+de l’évaluation
+6
+34
+Une remarque préliminaire concernant les personnes 
+impliquées dans l’élaboration du concept :
+« Élaborer un concept est un travail d’équipe. 
+Il devrait donc être aussi public que possible et 
+bénéficier d’une large participation ». 
+
+(Spiegel 2013, p. 492)
+Dans le quotidien professionnel, médias et culture d’institution signifient : 
+En particulier pour les directions d’institution, réfléchir de façon consciente et nuancée aux attitudes de base à l’égard 
+des médias numériques. Faire évoluer activement et de manière continue la culture de l’institution en la matière.
+Personnes impliquées dans l’élaboration d’un 
+concept d’éducation numérique
+Un concept d’éducation numérique ne concerne pas unique-
+ment les jeunes, les collaborateurs et la direction des 
+institutions, mais aussi les parents. Il est judicieux d’impli-
+quer toutes ces catégories de personnes dans l’élaboration 
+du concept, afin qu’elles s’identifient à ce dernier et y 
+retrouvent leurs besoins.
+35
+Questions relatives à la culture d’institution et au développement de concept
+Afin de réaliser un bilan institutionnel, les membres de l’équipe sont interrogés sur la culture de l’institution et sur leur 
+attitude générale à l’égard des médias numériques. Le questionnaire peut être rempli individuellement et discuté 
+ensuite en équipe, ou être rempli directement en équipe. Pour chaque question, veuillez cocher la réponse qui convient le 
+mieux et noter le total des points obtenus dans les cases prévues au bas du tableau. Reportez ensuite ces valeurs dans la 
+vue d’ensemble de la p. 37 pour l’appréciation générale.
+N Types d’attitude
+Les médias numériques devraient autant que possible être interdits au sein de l’institution.
+1 oui
+2 pour l’essentiel, oui
+3 plutôt oui
+4 plutôt non
+5 pratiquement pas
+6 non
+Les médias numériques ne sont pratiquement pas utilisés dans notre institution et leur rôle reste donc secondaire.
+1 oui
+2 pour l’essentiel, oui
+3 plutôt oui
+4 plutôt non
+5 pratiquement pas
+6 non
+On ne peut pas interdire les médias numériques, mais il faut réglementer strictement leur utilisation.
+1 oui
+2 pour l’essentiel, oui
+3 plutôt oui
+4 plutôt non
+5 pratiquement pas
+6 non
+Il faut apprendre aux enfants et aux jeunes comment se servir des médias numériques.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Chaque membre de l’équipe doit donner l’exemple d’une bonne utilisation des médias numériques.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Les médias numériques peuvent aider les enfants et les jeunes à gérer leur quotidien et doivent donc absolument être utilisés.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+O Communication 
+Notre concept de communication interne et externe (courriels avec les autorités, les services sociaux, les membres de la famille, journal de bord,  
+SMS au sein de l’équipe ou avec les clients) intègre la réglementation de l’utilisation des canaux numériques.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Notre site Internet est attrayant et convivial (par ex. responsive web design, compatible avec smartphones et tablettes).
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+P Administration 
+Nous disposons d’un système numérique de gestion des dossiers clair et sécurisée qui est utilisé par tous au quotidien. Les règles d’utilisation sont définies
+et appliquées.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+L’état de notre équipement technique permet une réalisation efficiente des tâches administratives.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Nos données sont protégées conformément à la loi.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Q Éducation numérique et créativité
+Nous réalisons avec les jeunes des projets médiatiques créatifs durant les loisirs.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+L’utilisation des médias numériques conduit régulièrement à des situations dans lesquelles chacun prend du plaisir.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Je dispose de compétences pour utiliser les médias de façon créative. Je suis en mesure d’encourager les enfants et les jeunes à cet égard.
+6 oui
+5 pour l’essentiel, oui
+4 plutôt oui
+3 plutôt non
+2 pratiquement pas
+1 non
+Total des points
+N
+O
+P
+Q
+36
+09_VUE D’ENSEMBLE :  
+BILAN ET MESURES NÉCESSAIRES 
+  
+37
+En remplissant les questionnaires de cette brochure, indi- 
+vidus, équipes et institutions ont la possibilité de dresser  
+un bilan de leur situation. 
+En tant qu’équipe et/ou institution, veillez à demeurer dans 
+le vert ou l’orange. Marquez vos résultats d’un X dans la 
+colonne de gauche. Basez-vous à chaque fois sur les valeurs 
+de référence de la colonne de droite.
+Les faits et constatations relevés dans les différents ques-
+tionnaires sont regroupés et indiquent en un coup d’œil  
+dans quels domaines et avec quelle urgence des mesures  
+s’imposent. 
+Il peut être intéressant de comparer les questionnaires au sein 
+de l’équipe et d’identifier ainsi les ressources et les potentiels 
+internes. La vue d’ensemble ainsi obtenue permet de détermi-
+ner les étapes suivantes (chap. 08). 
+En remplissant régulièrement les questionnaires, en les inter- 
+prétant et en faisant ressortir les thématiques possibles,  
+la vue d’ensemble sert également d’autocontrôle continu de  
+la qualité et de l’efficacité du travail. 
+ 
+A Compétences techniques
+B Compétences d’utilisation
+C Compétences de réflexion
+D Compétences sociales
+14–18
+23–30
+18–24
+14–18
+08–13
+13–22
+11–17
+08–13
+03–07
+05–12
+04–10
+03–07
+E Encadrement restrictif
+F Accompagnement actif
+G Monitoring
+H Collaboration
+avec les parents
+14–18
+18–24
+09–12
+14–18
+08–13
+11–17
+05–08
+08–13
+03–07
+04–10
+02–04
+03–07
+I Echanges
+K Vie quotidienne
+L Infrastructure technique
+M Approfondissement
+23–30
+14–18
+14 –18
+14–18
+13–22
+08–13
+08–13
+08–13
+05–12
+03–07
+03–07
+03–07
+N Types d’attitude
+O Communication
+P Administration
+Q Éducation numérique  
+et créativité
+27–36
+09–12
+14 –18
+14–18
+16–26
+05–08
+08–13
+08–13
+06–15
+02–04
+03–07
+03–07
+Mesures nécessaires / Besoin de développement
+Nous devons agir dans ces domaines.
+Notes / Remarques
+Les cases rouges indiquent les thèmes à aborder d’urgence.
+Nous devons porter une attention particulière à ces sujets.
+Les cases oranges signalent les domaines présentant un potentiel 
+de développement.
+Tout va bien pour le moment dans ces domaines.
+Les cases vertes indiquent les domaines où vous êtes sur
+la bonne voie et où résident vos points forts.
+38
+10_INFORMATIONS  
+COMPLÉMENTAIRES 
+  
+39
+Informations complémentaires
+Informations générales
+	
+è www.jeunesetmedias.ch
+	
+è www.projuventute.ch 
+	
+è www.youvita.ch 
+	
+è www.educa.ch/fr
+Centres de compétences
+	
+è www.apiceras.ch
+	
+è www.cellcips.ch
+	
+è www.intics.ch/fr/ 
+Prévention et ressources
+	
+è www.actioninnocence.org
+	
+è app.iqr.ch/diagnostic 
+	
+è www.ciao.ch
+	
+è www.digital-dabei.ch/f/ 
+	
+è www.e-enfance.org
+	
+è www.mediasmarts.ca
+	
+è www.inshea.fr/fr/content/orna- 
+observatoire-des-ressources-numeriques-adaptees
+	
+è www.websters.swiss/fr/ 
+Formations continues
+Consulter les sites Internet des diverses universités, hautes 
+écoles pédagogiques et hautes écoles spécialisée en travail 
+social :
+	
+è www.unifr.ch | www.unige.ch 
+	
+è www.hep-bejune.ch | www.hepfr.ch | www.hepl.ch | 
+www.hepvs.ch 
+	
+è www.hetsl.ch | www.hets-fr.ch | www.hesge.ch/hets | 
+www.hevs.ch/fr/hautes-ecoles/haute-ecole- 
+de-travail-social/travail-social/ 
+Litérature
+Ansa. (2020). Cartographie des usages du numérique 
+pour les personnes en situation de handicap. https://
+www.prith-bretagne.fr/images/Ansa_LaboNum%
+C3%A9riqueHandicap_Typologie_situations_VF.pdf 
+Thierry Karsenti, K. (Ed.). (2019). Le numérique en éducation. 
+Pour développer des compétences. Presses de l’Université 
+du Québec.
+Lussier-Desrochers, D. (2018). Intervention technoclinique 
+dans le secteur des services sociaux. Enjeux cliniques 
+et organisationnels. Presses de l’Université du Québec.
+Numa-Bocage, L., & Pacurar, E. (Eds.) (2019). Le numérique 
+par et pour l’éducation inclusive. La nouvelle revue. 
+Éducation et société inclusives, (87), 165–176. https:// 
+doi.org/10.3917/nresi.087.0165
+Récamier, E. (2019). L’éducation aux médias et à l’informa-
+tion (EMI): Slogan ou savoir-faire. L’Harmattan.
+40

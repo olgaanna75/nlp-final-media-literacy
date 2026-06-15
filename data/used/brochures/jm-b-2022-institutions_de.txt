@@ -1,0 +1,1803 @@
+MEDIENKOMPETENZ IN SOZIAL-,  
+HEIL- UND SONDERPÄDAGOGISCHEN  
+INSTITUTIONEN
+LEITFADEN ZUR STANDORTBESTIMMUNG
+Für Leitende 
+und Mitarbeitende 
+in Kinder- und 
+Jugendinstitutionen
+Impressum
+Herausgegeben von:
+Jugend und Medien
+Nationale Plattform zur Förderung von Medienkompetenzen
+Bundesamt für Sozialversicherungen
+jugendschutz@bsv.admin.ch
+Die Inhalte wurden erarbeitet von: 
+BFF Kompetenz Bildung Bern
+info@bff.ch
+www.bffbern.ch
+Monika Luginbühl und Corinne Reber (Gesamtkonzept, Kapitel 01–06 und 08–10) 
+Rahel Heeg (Kapitel 07)
+Schweizer Zentrum für Heil- und Sonderpädagogik, SZH (für die französische Ausgabe)
+SUPSI
+Dipartimento formazione e apprendimento
+Centro competenze bisogni educativi, scuola e società
+Michele Mainardi und Elisa Geronimi
+Mit Unterstützung von:
+YOUVITA Schweiz
+info@youvita.ch
+www.youvita.ch
+Bestellung (kostenlos):
+ 
+BBL, Verkauf Bundespublikationen, CH-3003 Bern
+www.bundespublikationen.admin.ch > Aktuelles > Jugend und Medien
+Bestellnummer 318.853.d
+09.22  3000  860517320
+Erhältlich in Deutsch, Französisch und Italienisch
+Fotos: 
+Frank Egle: Titelbild, S. 4, S. 6, S. 8, S. 11, S. 15, S. 19, S. 23, S. 27, S. 31, S. 36, S. 38
+Pia Neuenschwander, photopia.ch: S. 14, S. 15, S. 16, S. 17, S. 21, S. 25, S. 28, S. 34
+4. Auflage: September 2022
+© 2018 Jugend und Medien, Nationale Plattform zur Förderung von Medienkompetenzen,  
+Bundesamt für Sozialversicherungen
+3
+LIEBE LESENDE 
+ 
+Digitale Medien sind längst zentraler Bestandteil des Alltags von Kindern und Jugendlichen – auch von jungen Menschen in 
+sozial-, heil- und sonderpädagogischen Institutionen. Diese Medien können Handlungsräume erweitern, den regelmässigen 
+Kontakt mit Freund*innen, Bekannten und Familie fördern und behinderungsbedingte Barrieren abbauen. Damit leisten sie 
+einen wichtigen Beitrag zur Chancengleichheit und bieten Möglichkeiten zur Teilhabe. Die Heranwachsenden von digitalen 
+Medien abzuschirmen ist daher nicht sinnvoll. Vielmehr müssen sie lernen, kritisch und verantwortungsvoll damit umzuge-
+hen. So können sie die Potenziale der Medien nutzen und sich vor den Gefahren schützen. Der Umgang mit Smartphones, 
+Tablets und Computern muss geübt und erforscht werden. Um den Kindern und Jugendlichen dieses Experimentierfeld zu 
+ermöglichen, braucht es eine aktive Herangehensweise. Leitungspersonen und Mitarbeitende in sonder-, heil- und sozial­
+pädagogischen Institutionen sind in der Förderung von Medienkompetenz speziell gefordert, um ihrem Schutz-, Bildungs- 
+und Erziehungsauftrag gerecht zu werden. Je kompetenter sie sich selbst in der digitalen Welt bewegen, desto wirkungs-
+voller können sie ihren Auftrag wahrnehmen: Kinder und Jugendliche zu befähigen, am gesellschaftlichen Leben 
+teilzunehmen. 	
+Der vorliegende Leitfaden dient Mitarbeitenden von Institutionen zur Standortbestimmung im Bereich Medienkompetenz – 
+ein erster Schritt auf dem Weg hin zu einer fördernden, bereichernden und schützenden Medienkultur. Die digitalen Medien 
+bieten vielfältige Lern- und Entwicklungsmöglichkeiten, die gerade auch in sozial- und heilpädagogischen Institutionen 
+genutzt werden können. Geben Sie den Kindern und Jugendlichen diese Chance und lassen Sie sich auf diesen Prozess ein.
+Susanne Fehr
+Vizedirektorin
+BFF Kompetenz Bildung Bern 
+Cornelia Rumo Wettstein 
+Geschäftsführerin YOUVITA 
+Astrid Wüthrich 
+Vizedirektorin des Bundesamts für 
+Sozialversicherungen (BSV) und 
+Leiterin des Geschäftsfelds Familie, 
+Generationen und Gesellschaft.
+5
+INHALTSVERZEICHNIS
+ 
+01_Einleitung	
+6
+02_Medien und Inklusion	
+8
+03_Medienpädagogische Handlungsfelder	
+11
+04_Medienkompetenz und Gesellschaft	
+14
+05_Medien und Erziehung	
+19
+06_Medien und Bildung	
+23
+07_Medien und Recht	
+27
+08_Institutionskultur und Konzeptentwicklung	
+31
+09_Übersicht: Standortbestimmung und Handlungsbedarf	
+36
+10_Weiterführende Informationen	
+38
+6
+01_EINLEITUNG 
+ 
+7
+Medienkompetenz: der Schlüssel zur  
+gesellschaftlichen Partizipation
+Im Zentrum der sozial-, heil- und sonderpädagogischen 
+Arbeit steht die Aufgabe, Menschen zu unterstützen 
+und zu befähigen, möglichst eigenständig und weitgehend 
+selbstbestimmt ihren Alltag gelingend zu gestalten. Dabei 
+sollen sie am gesellschaft­lichen Leben teilhaben und teil-
+nehmen. Digitale Medien haben die Gesellschaft in den 
+letzten Jahren massgeblich verändert und geprägt. Die 
+Nutzung von Smartphone, Tablet, Computer und Spielkon-
+solen sowie die Kommunika­tion in den sozialen Netzwerken 
+sind zur Kulturtechnik geworden. Die Entwicklung war und 
+ist rasant. Wer nicht Schritt halten kann, stösst im Alltag 
+deutlich an Grenzen. Kinder und Jugendliche wachsen mit 
+digitalen Medien auf und integrieren diese selbstverständ-
+lich in ihren Alltag. Dennoch sind sie auf Unterstützung 
+angewiesen. Denn wer digitale Medien technisch bedienen 
+kann, ist nicht auto­matisch fähig, diese sozialkompetent 
+einzusetzen oder sich der Auswirkungen und Risiken im 
+Alltag bewusst zu sein. Hier ist pädagogische und medien-
+pädagogische Arbeit gefragt. Die Fachpersonen der Sozial-, 
+Heil- und Sonderpä­dagogik haben die Möglichkeit, aber auch 
+die Pflicht, Medien­pädagogik in ihre spezifischen Handlungs-
+felder zu integrieren (vgl. Kap. 3, «Medienpädagogische 
+Handlungsfelder») und so die Kinder und Jugendlichen zu 
+befähigen, sicher und verantwortungsvoll mit digitalen 
+Medien umzugehen und deren Entwicklungspotenzial 
+konstruktiv zu nutzen.
+Deshalb ist Medienpädagogik wichtig 
+	
+è Die Förderung der Medienkompetenz ist ein wesentli-
+cher Beitrag zur Partizipation und zur Chancengleich-
+heit in der Gesellschaft.
+	
+è Die effektivste Prävention in Bezug auf die Risiken im 
+Umgang mit digitalen Medien ist die Befähigung zur 
+kompetenten Nutzung.
+Hier sind Sie als Fachpersonen gefordert
+	
+è Medienpädagogik geht weit über das Erarbeiten  
+von Regeln hinaus und erfordert eine differenzierte 
+sowie selbstkritische Auseinandersetzung mit der 
+eigenen Haltung zum Thema. 
+	
+è Medienpädagogische Arbeit ist daher für die Fachper­
+sonen der Sozial-, Heil- und Sonderpädagogik nicht 
+einfach eine Option, sondern ein fachlicher Auftrag,  
+der auch eine ent­sprechende Pflicht zur Weiterbildung 
+einschliesst. 
+	
+è Der Weg zu geeigneten und gelebten medienpädago­
+gischen Konzepten in Kinder- und Jugendinstitutionen 
+ist komplex, aber spannend. Er erfordert von Seiten der 
+Fachpersonen die Beschäftigung mit dem eigenen 
+Medienverhalten, den dahinterliegenden Wertesys­
+temen und den Handlungsansätzen für den Berufsalltag. 
+Das erwartet Sie als Fachpersonen der Sozial-, 
+Heil- und Sonderpädagogik in dieser Broschüre 
+	
+ü Ein kurzer Überblick zu den wesentlichen Handlungs­
+feldern der medienpädagogischen Arbeit mit dem Ziel 
+der Medienkompetenzförderung in sozial- und heilpä­
+dagogischen Institutionen für Kinder und Jugendliche.
+	
+ü Fragebögen zur ersten Standortbestimmung und zur 
+Konkretisierung der wichtigsten medienpädagogischen 
+Handlungsfelder in Kinder- und Jugend­institutionen.
+	
+ü Praxisrelevante Informationen zu rechtlichen Aspekten 
+im Bereich Jugend und Medien. 
+	
+ü Weiterführende Anregungen zur Entwicklung von 
+medienpädagogischen Konzepten in einer Institution.
+	
+ü Informations- und Weiterbildungsangebote sowie 
+Literaturhinweise zur weiteren Vertiefung des Themas.
+Möchten Sie die Standortbestimmung online vor­- 
+nehmen? è Link zum Online-Fragebogen per E-Mail 
+anfor­dern bei info@medienundsozialpaedagogik.ch 
+8
+02_MEDIEN UND INKLUSION 
+ 
+9
+Kinder und Jugendliche an den Möglichkeiten, welche die 
+Digitalisierung bietet, teilhaben zu lassen und sie auf den 
+Umgang mit Risiken vorzubereiten, ist eine zentrale pädago-
+gische Aufgabe. An der Gesellschaft teilzuhaben, aber auch 
+in Gruppen mitzumachen, ist oftmals ohne den Zugang zu 
+und die Nutzung von digitalen Medien nicht möglich. 
+Nicht alle Heranwachsenden haben diesbezüglich die 
+gleichen Chancen. Der Zugang zu digitalen Medien und 
+die Möglichkeit, Kompetenzen im Umgang mit diesen zu 
+erwerben, sind ungleich verteilt. Für Heranwachsende 
+mit Behinderungen, mit Migrationshintergrund oder aus 
+Familien mit tieferem sozio-ökonomischen Status sind 
+diese Voraussetzungen oft nicht gegeben. Hier ist die 
+Medienpädagogik gefordert.
+Medien und sozio-ökonomische Benachteiligung
+Die materielle, soziale und emotionale Situation einer 
+Familie beeinflusst das Aufwachsen der Kinder. Finanzielle 
+Schwierig­keiten der Eltern und damit verbundene emotio­
+nale Probleme hinterlassen auch bei jungen Menschen ihre 
+Spuren. Oft sind Eltern derart stark mit ihren Problemen 
+beschäftigt, dass sie dem Umgang ihrer Kinder mit den 
+digitalen Medien nicht mehr die nötige Beachtung schenken 
+können.
+Welche Geräte in einer Familie vorhanden sind, wofür und 
+wie intensiv diese genutzt und welche Ziele damit ange-
+strebt werden, hängt zwar nicht generell von den so­zio-
+ökonomischen und sozio-emotionalen Ressourcen einer 
+Familie ab. Es besteht aber ein Zusammenhang zwischen 
+der Mediennutzung und den Möglichkeiten der Eltern, ihre 
+Kinder im Alltag unterstützend zu begleiten.
+Ökonomisch und emotional belasteten Eltern fällt es oft 
+schwer, den Kindern die nötige Zeit und Aufmerksamkeit zu 
+schenken. In solchen Situationen bekommen Medien für die 
+Heranwachsenden eine besondere Bedeutung.
+Die medienpädagogische Herausforderung besteht darin, 
+nicht nur den individuellen jungen Menschen zu begleiten, 
+sondern auch den Eltern Hilfe anzubieten oder zu vermitteln. 
+Die Unterstützung der Eltern darf sich hier nicht auf medien-
+pädagogische Aspekte beschränken, sondern muss die 
+gesamte Lebenslage der Familie in den Blick nehmen (vgl. 
+Kap. 5 «Medien und Erziehung»).
+Medien und Behinderung
+Wenn Kinder und Jugendliche mit Behinderung digitale 
+Medien nutzen und im Internet unterwegs sind, löst das 
+bei den Betreuenden oftmals Bedenken und Ängste  
+aus. Verlieren sie sich nicht im digitalen Raum? Können 
+sie einschätzen, wo Risiken lauern? Diese Bedenken führen 
+dazu, dass Heranwachsende mit Behinderungen grund­
+sätzlich weniger Möglichkeiten haben, digitale Medien 
+zu nutzen. Dadurch können sie weniger Kompetenzen im 
+Umgang mit diesen erwerben und Erfahrungen werden 
+ihnen verwehrt.
+Gleichzeitig sind viele digitale Angebote nicht an die Be­
+dürfnisse und Möglichkeiten von Menschen mit kognitiven 
+bzw. Lernbehinderungen angepasst. Die Informationen 
+werden zum Beispiel nur in schriftlicher Form dargeboten 
+und/oder Zeitfenster zur Eingabe sind zu kurz bemessen.
+Werden Menschen mit Behinderungen im Umgang mit 
+digitalen Medien unterstützt und begleitet, allfällige Risiken 
+thematisiert und mögliche Reaktionen besprochen, bieten 
+digitale Medien ihnen interessante Chancen:
+	
+è Digitale Technologien, z. B. Sprachcomputer, ermög­lichen 
+es Menschen mit schweren Behinderungen, überhaupt 
+differenziert zu kommunizieren. Wem es schwerfällt zu 
+schreiben, kann Sprach- oder Bildnachrichten verschi-
+cken. Menschen mit körperlichen Be­hinderungen können 
+dank digitaler Medien Kontakte pflegen, die sonst durch 
+räumliche Barrieren erschwert oder gar unmöglich wären.
+	
+è Kompetenzen im Umgang mit digitalen Medien erhöhen 
+die Chancen der Integration auf dem ersten Arbeitsmarkt. 
+	
+è Apps und andere digitale Anwendungen ermöglichen  
+es, Lern- und Unterstützungsprozesse individuell zu ge­
+stalten.
+	
+è Digitale Geräte können assistierend eingesetzt werden, 
+was die Autonomie erweitern kann.
+	
+è Bei der Freizeitgestaltung bieten digitale Medien  
+die Möglichkeit, aktiv zu werden, sich Informationen  
+zu beschaffen sowie Kontakte zu organisieren und zu 
+pflegen.
+	
+è Durch die digitalen Medien erhalten Menschen mit 
+Behinderung die Möglichkeit (z. B. auf Social Media),  
+ihre Sichtweise auf ihr Leben darzu­stellen. Dies kann  
+die Wahrnehmung von Behinderung in der Gesellschaft 
+verändern.
+10
+Die medienpädagogische Herausforderung besteht einer­- 
+seits darin, Kinder und Jugendliche mit Behinderung nicht  
+zu überfordern, sie aber zu begleiten und dort zu schützen, 
+wo sie Gefahren selbst nicht erkennen. Andererseits geht  
+es darum, ihnen in den Bereichen, die sie selbst überblicken 
+können, Freiräume zu gewähren und Entscheidungen zu 
+überlassen.
+Medien und Migration
+Kinder und Jugendliche mit Migrationshintergrund bringen 
+sehr unterschiedliche Erfahrungen und Kompetenzen im 
+Umgang mit digitalen Medien mit. Früher wurde davon  
+aus­gegangen, dass die Beziehungen, die Menschen zu  
+Bezugspersonen im Herkunftsland haben, mit zunehmen-
+der Integration im neuen Land an Bedeutung verlieren. 
+Neuere Forschungen zeigen aber, dass die digitalen Me­
+dien es möglich machen, Kontakte auch über weite Dis­
+tanzen aufrechtzuerhalten, zu pflegen und sogar auszu­
+bauen. Ausserdem ist es den migrierten Personen möglich, 
+ihren neuen Bekanntschaften über digitale Kanäle die 
+zurückgebliebene Familie, den Herkunftsort etc. näherzu-
+bringen. Dabei geht es weniger um Selbst­inszenierung als 
+darum, sich selber und anderen zu zeigen, dass die eigene 
+Familie da ist, wenn auch nicht so nah. 
+Insbesondere für Jugendliche, die allein geflüchtet sind, 
+spielen die digitalen Medien eine grosse Rolle. Sie er­
+möglichen ihnen den Kontakt zur Herkunftsfamilie und zu 
+Freund*innen oder halten die Hoffnung aufrecht, Bezugs­
+personen über Social Media wiederzufinden. Beschränken 
+Institutionen den Zugang zum Internet, stellt dies für ge-
+flüchtete Jugendliche ein Problem dar. Je nach Zeitverschie-
+bung können sie kaum mit ihren Eltern telefonieren, oder  
+sie befürchten, dass die Eltern sie im Notfall nicht erreichen 
+können. Häufig nutzen Jugendliche dann öffentliche Hot-
+spots, bei denen sie – oft ohne ihr Wissen – persönliche 
+Daten preisgeben.
+Die medienpädagogische Herausforderung besteht darin, die 
+jungen Menschen darin zu unterstützen, die digitalen Geräte 
+umfangreicher als nur zur Kommunikation zu nutzen. So soll 
+ihnen gezeigt werden, wie z. B. das Smartphone auch zum 
+Lernen, zum Informationsgewinn, als Orientierungshilfe und 
+für kreative Aktivitäten genutzt werden kann.
+Grundsätzliche Gedanken zur Begleitung von 
+benachteiligten Kindern und Jugendlichen
+Eine tragfähige, vertrauensvolle Beziehung zwischen Fach-
+personen und benachteiligten Kindern und Jugend­lichen 
+erleichtert die medienpädagogische Begleitung. Zeigt man 
+Interesse für die digitalen Vorlieben der Kinder und Jugend-
+lichen, kann diese Beziehung gestärkt werden. Eine ver­
+tiefte Beziehung kann auch durch gemeinsame Aktivitäten  
+mit digitalen Medien im Sinne der «Aktiven Medienarbeit»  
+und des «Making» gelingen. 
+Aktive Medienarbeit und Making:  
+«Learning by doing»
+«Aktive Medienarbeit» und «Making» sind Teil der handlungs-
+orientierten Medienpädagogik. Dabei werden digitale Medien 
+eingesetzt, um sich aktiv mit Themen auseinanderzusetzen 
+und so die eigene Lebenswelt zu zeigen und zu gestalten. 
+Kinder und Jugendliche lernen den Umgang mit digitalen 
+Technologien handelnd. Durch die gemeinsame Reflexion der 
+Handlungen mit Erwachsenen werden Einsichten über den 
+eigenen Umgang mit Medien und der Bedeutung von Medien 
+in der Gesellschaft gewonnen. Gleichzeitig gewähren die 
+Heranwachsenden ihrem Umfeld Einblicke in ihre Perspekti-
+ven und treten so mit der Umgebung in einen aktiven Dialog. 
+Auf diese Weise wird ihnen eine Möglichkeit aufgezeigt, sich 
+an der Gesellschaft und ihren Prozessen zu beteiligen, Einfluss 
+zu nehmen und für sich selbst einzustehen.
+Projekte, bei denen Kinder und Jugendliche Medien selbst 
+gestalten (z. B. einen Film drehen), eignen sich sehr gut für 
+heterogene Gruppen. Da viele verschiedene Aufgaben  
+er­ledigt werden müssen, findet sich für jedes Gruppenmit­-
+glied eine Tätigkeit, die seinen individuellen Fähigkeiten 
+entspricht. So entsteht die Möglichkeit, die Prinzipien 
+der Inte­gration und Inklusion in der Praxis umzusetzen.
+Inklusion heisst im Berufsalltag:
+Aktiv Medien gestalten und nicht nur konsumieren. Das ist zwar für alle Kinder und Jugendlichen wichtig, für jene 
+mit einer Behinderung oder einer sonstigen erschwerten Teilhabe am gesellschaftlichen Leben aber unabdingbar.
+11
+03_MEDIENPÄDAGOGISCHE 
+HANDLUNGSFELDER 
+ 
+12
+Handlungsfelder der medienpädagogischen 
+Arbeit in heil- und sozialpädagogischen 
+Institutionen
+Förderung von Medienkompetenzen in sozial-, heil- und 
+sonder­pädagogischen Institutionen bedeutet, innerhalb von 
+drei zentralen Handlungsfeldern zu agieren: Medienerziehung, 
+Medienkultur und Medienbildung. Besonders beachtet wird 
+dabei die Arbeit an den Schnittstellen Institution–Eltern /  
+Her­kunftssystem, Institution–Schule sowie Institution–
+Gesell­schaft. An diesen Schnittstellen können Konflikte 
+entstehen. Systemische sozial-, heil- und sonderpädagogi-
+sche Arbeit begegnet diesen Spannungsfeldern aktiv 
+und lösungsorientiert. 
+Handlungsfeld: Medien und Erziehung
+Erziehungsaufgaben rund um Medien beinhalten das Aus- 
+­handeln und Einfordern sinnvoller und kontrollierbarer 
+Regeln, aber vor allem auch die Befähigung von Kindern und 
+Jugendlichen im Umgang mit digitalen Medien (vgl. Kap. 5 
+«Medien und Erziehung»). Die Zusammenarbeit mit Eltern 
+sollte dabei besonders beachtet werden, denn Mediener-
+ziehung heisst aus systemischer Sicht, dass auch den Eltern 
+Unterstützung angeboten wird. Dabei geht es um Aspekte 
+wie Prävention, Deeskalation sowie kooperative und 
+dialogische Prozesse.
+© Modell TriSoziaMedia, Monika Luginbühl / Grafik: Merkur Druck AG
+Reflexion
+Digitale Medienkompetenz und Gesellschaft
+Medienkompetenz als Schlüsselkompetenz
+Technische Kompetenz, Nutzungskompetenz, Rezeptions- und 
+Reflexionskompetenz, soziale und ethische Kompetenz
+Medienpädagogische Handlungsfelder
+	
+è Kapitel 5
+	
+è Kapitel 8
+	
+è Kapitel 6
+Zusammenarbeit mit Eltern
+Medien und Erziehung
+Medien und Institutionskultur
+Implementierung Institution
+Medien und Bildung
+Zusammenarbeit mit Schule
+13
+Handlungsfeld: Medien und Institutionskultur
+Medienpädagogische Arbeit setzt eine gelebte, positive 
+Medienkultur in der Institution voraus und zeigt sich im 
+Berufsalltag auf verschiedenen Ebenen: Mitarbeitende haben 
+im direkten Kontakt mit Kindern und Jugendlichen eine 
+Vorbildfunktion und können den positiven Umgang mit  
+digitalen Medien im Alltag kreativ fördern (siehe Kapitel 2  
+und Kapitel 5). Heil- und sozialpädagogische Institutionen 
+ermöglichen den Heranwachsenden einen entsprechenden 
+Medienzugang. Institutions­leitende machen über den 
+Web-Auftritt der Institution sowie über die Profes­sionalität 
+und Differenziertheit bei der Nutzung digitaler Medien in  
+der internen und externen Kommunikation ihre Haltung in 
+Bezug auf das Thema Medien sichtbar.
+Handlungsfeld: Medien und Bildung
+Medienbildung sollte heute ein fester Bestandteil der  
+Schulbildung sein. Dies tangiert auch das Leben junger 
+Menschen ausserhalb der Schule. Um ihnen im Alltag zusätz-
+liche Unterstützung zu bieten, beispielsweise im Bereich der 
+Hausaufgaben, ist es zentral, dass Mitarbeitende von heil- 
+und sozialpädagogischen Institutionen wissen, was in der 
+Schule (hier sind sowohl Regel- als auch Sonderschulen 
+gemeint) gemacht wird, und sich aktiv mit der Schule ver­
+netzen und absprechen. Als Vorbereitung auf eine berufli-
+che Tätigkeit und im Hinblick auf die Chancengleichheit an 
+weiterführenden Schulen und Ausbildungsstätten erhält 
+das Thema eine zusätzliche Relevanz.
+Medienkompetenz und Gesellschaft
+Digitale Medien sind heute prägend für die Kommunikation 
+und die Beziehungsgestaltung. Mit Blick auf Inklusion, 
+Chancengleichheit, Teilhabe und Teilnahme müssen die 
+Fachpersonen der Sozial-, Heil- und Sonderpädagogik daher 
+wesentliche Entwicklungen verfolgen und kennen. Dazu 
+gehören sowohl technische als auch rechtliche und poli­- 
+tische Aspekte sowie Kenntnisse über Nutzungstrends und 
+deren gesellschaftliche Auswirkungen.
+Medienpädagogik heisst im Berufsalltag:
+Berücksichtigen Sie die einzelnen medienpädagogischen Handlungsfelder gleichwertig und versuchen Sie, in allen 
+drei Handlungsfeldern positive Entwicklungsprozesse zur Förderung der Medienkompetenz anzustossen.  
+14
+04_MEDIENKOMPETENZ UND 
+GESELLSCHAFT 
+  
+15
+In unserer digitalisierten Gesellschaft sind Medien zu  
+einem festen Bestandteil geworden. Sie sind grundlegend 
+für die Teilhabe an der Gesellschaft. Sie prägen nicht  
+nur das Lernen und die Bildung, sondern werden in (fast)  
+allen Lebensbereichen genutzt. Gelernt wird mit, über  
+und durch Medien. 
+Der Lehrplan 21 nimmt digitale Medien als festen Be­
+standteil auf. Ein Modell für die "Bildung in der digitalen, 
+vernetzten Welt" stellt das Dagstuhl-Dreieck dar.
+Perspektiven der digitalen Bildung, Quelle: https://gi.de
+Das Dagstuhl-Dreieck beleuchtet die Bildung im digitalen  
+Kontext aus drei Blickwinkeln. Aus der technologischen  
+Perspektive werden Funktionsweisen von Systemen und 
+digitalen ­Anwendungen mit der Frage «Wie funktioniert 
+das?» in den Blick genommen. Aus der anwendungsbe­
+Technologische Perspektive
+Wie funktioniert das?
+Digitale
+vernetzte 
+Welt
+Phänomene, Gegenstände 
+und Situationen
+Gesellschaftlich-kulturelle
+Perspektive
+Wie wirkt das?
+Anwendungsbezogene Perspektive
+Wie nutze ich das?
+zogenen Perspektive wird danach gefragt, wie diese ge­
+winnbringend für eigene und kooperative Projekte genutzt 
+werden kann. Die Frage nach der Wirkung von technologi-
+schen Entwicklungen wird aus der gesellschaftlich-kultu-
+rellen Perspektive gestellt. Dabei geht es neben ethischen 
+und normativen Fragen auch um die Reflexion von (mögli-
+chen) Aus- und Nebenwirkungen auf Individuen und die 
+Gesellschaft. 
+(Weitere Informationen zur Medienkompetenz im Lehrplan 
+21 finden Sie in Kapitel 2 der Broschüre «Medienkompe-
+tenz im Schulalltag», ebenfalls herausgegeben von der 
+Nationalen Plattform Jugend und Medien.)
+Für Fachpersonen aus der Sozial-, Heil- und Sonderpäda-
+gogik ist es wichtig, die Kinder im schulischen Lernprozess 
+zu unterstützen sowie Verbindungen in den Alltag zu 
+schaffen und zu ermöglichen (vgl. Kap. 5 «Medien und 
+Erziehung»).
+Lernen mit digitalen Medien findet auch neben dem Unter­- 
+richt statt. Nicht jedes Handeln mit Medien hat aber eine 
+bildende, entwicklungsfördernde Wirkung. Damit digitale 
+Medien zur Teilhabe, Bildung und Weiterentwicklung bei­- 
+tragen, braucht es Medienkompetenz.
+In der Sozial-, Heil- und Sonderpädagogik haben sich  
+Medienkompetenzmodelle mit Teilkompetenzen etabliert. 
+Die nebenstehende Darstellung basiert auf der Definition 
+der Plattform Jugend und Medien. Das Modell lässt sich 
+gut mit dem Dagstuhl-Dreieck verbinden, da hier ebenfalls 
+sowohl technische als auch soziale Aspekte sowie die Be-
+nutzung in den Blick genommen werden. 
+Technische Kompetenz 
+Dazu gehören unter anderem das Bedienen und Instand­
+halten der Geräte sowie die Nutzung von verschiedensten 
+Programmen. Kinder und Jugendliche verstehen die tech­
+nischen Eigenheiten in der Regel sehr schnell und haben 
+kaum Berührungsängste mit neuen Geräten. Allerdings  
+vernachlässigen sie teilweise die Datenschutz- und 
+Sicherheitseinstellungen. Die Herausforderung, mit 
+der raschen technischen Entwicklung Schritt zu halten,  
+liegt eher bei den Erwachsenen. Sie können in dem 
+Bereich bewusst von und gemeinsam mit den Kindern  
+und Jugendlichen lernen.
+Technische 
+Kompetenz 
+Nutzungs-
+kompetenz
+Rezeptions- und 
+Reflexionskompetenz
+Soziale und ethische 
+Kompetenz
+16
+Nutzungskompetenz 
+Dazu gehören unter anderem Strategien zur sinnvollen Aus- 
+wahl und zur übersichtlichen Verwaltung von Informationen, 
+die Gestaltung von digitalen Medien (z. B. Fotoalben, Film- 
+oder Bildbearbeitung) sowie das Erschliessen und Erschaf-
+fen von neuen Kulturräumen im globalisierten Cyber­space 
+(z. B. YouTube- oder TikTok-Videos erstellen und teilen). 
+Kinder und Jugendliche sind oft auf ein Coaching durch 
+kompetente Erwachsene angewiesen, um sich in der 
+digitalen Welt organisiert und sicher bewegen zu können. 
+Rezeptions- und Reflexionskompetenz 
+Dazu gehören unter anderem der kritische Umgang mit  
+der Zuverlässigkeit von Informationsquellen, das Bewusst-
+sein über den eigenen digitalen Fussabdruck, das Kennen 
+von Risiken, das Abschätzen der Konsequenzen der eigenen 
+Mediennutzung sowie Grundregeln bezüglich der Eigentums­
+rechte von digitalen Daten. Zur Entwicklung dieser Kompe­
+tenzen brauchen Heranwachsende zwingend die Unterstüt-
+zung von und die Auseinandersetzung mit Erwachsenen. 
+Soziale und ethische Kompetenz 
+Dazu gehört, dass Kinder und Jugendliche einen sozial ver- 
+antwortungsvollen und situationsgerechten Umgang mit 
+digitalen Medien erlernen und danach handeln. Gemeint  
+sind damit ein respektvoller Umgang mit der eigenen und  
+der fremden Privatsphäre, eine adäquate Wahl von Aus- 
+tragungsorten bei Konflikten sowie Kenntnisse über die 
+Risiken im Umgang mit digitalen Medien und über die 
+Möglichkeiten, sich und andere davor zu schützen. Junge 
+Menschen sollen das soziale, positive Potenzial digitaler 
+Medien nutzen (z. B., um Freundschaften über Distanzen 
+zu pflegen, Wissen zu teilen oder neue Zusammenarbeits­
+formen zu finden) und dabei ein angemessenes Zeitmana­
+gement für die zeitliche und inhaltliche Nutzung digitaler 
+Medien entwickeln können. Für die Erlangung dieser Kom­
+petenzen sind sie auf Begleitung und Unterstützung von 
+Erwachsenen angewiesen.
+Allen Modellen von Medienkompetenz gemeinsam ist, dass 
+sie mehr als nur die Nutzung von digitalen Medien beinhal-
+ten. Zudem ist der Erwerb von Medienkompetenz aufgrund 
+der ständigen Weiterentwicklung der Thematik eine fort-
+währende Aufgabe, die in alle Bildungs- und Lebensbereiche 
+integriert werden muss.
+17
+Digitale Medienkompetenz und Gesellschaft heisst im Berufsalltag: 
+Verwechseln Sie technische Kompetenz nicht mit Medienkompetenz und nehmen Sie Ihre erzieherische Rolle als 
+kritische und begleitende Unterstützung auch bei technisch versierten Kindern und Jugendlichen wahr. Beziehen 
+Sie dabei die Kompetenzen der Kinder und Jugendlichen trotzdem ressourcenorientiert ein.
+18
+Fragen zur Einschätzung der Medienkompetenz der Mitarbeitenden
+Im Sinne einer Standortbestimmung wird erhoben, wie es um die Medienkompetenz der einzelnen Teammitglieder steht. 
+Der Fragebogen kann individuell ausgefüllt und im Team besprochen oder direkt als Team bearbeitet werden. Kreuzen Sie 
+jeweils die Antwort an, welche am besten zutrifft, und übertragen Sie die Summe in die Tabelle am Schluss der Seite. 
+Für die Gesamtauswertung tragen Sie die Werte anschliessend in die Übersicht auf S. 37 ein.
+A Technische Kompetenz
+Angebot von Mediengeräten Ich bin informiert über die aktuellen technischen Möglichkeiten bzw. die auf dem Markt verfügbaren Mediengeräte.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Bedienung der Geräte Ich kann mein Smartphone, meinen Computer, mein Tablet und andere Mediengeräte technisch nach meinen Wünschen einrichten 
+und bedienen. Ich kann auch den Kindern und Jugendlichen dabei behilflich sein. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Instandhaltung von Geräten Ich weiss, wie ich meine Geräte warten muss. Bei Problemen weiss ich, wie ich vorgehen muss, um diese selbstständig 
+zu beheben. Ich kann auch den Kindern und Jugendlichen bei Fragen behilflich sein.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+B Nutzungskompetenz
+Verwaltung von Information Ich verfüge über Strategien, Wissen und Erfahrung, systematisch Daten zu einem bestimmten Thema zu suchen, 
+zu selektionieren, zu verarbeiten und zu verwalten. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Gestaltung von Medien Ich kann Medien selber gestalten (Bilder bearbeiten, Filme herstellen und bearbeiten oder Audiodateien bearbeiten) und Kinder 
+und Jugendliche dazu anleiten und sie begleiten. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Social Media Ich verfüge über Strategien und Kenntnisse für einen sicheren Umgang mit Social-Media-Plattformen (z. B. TikTok oder Instagram), Foren, 
+Chatrooms und Ähnlichem. Ich bin in der Lage, die Kinder und Jugendlichen diesbezüglich zu beraten. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Einsatz von digitalen Hilfsmitteln Ich verfüge über Know-how bezüglich Angebot und Einsatzmöglichkeiten von digitalen Hilfsmitteln für Menschen mit 
+Behinderungen (z. B. Sprachcomputer oder Hilfsprogramme auf Tablets). Ich bin in der Lage, Betroffene und Angehörige diesbezüglich zu beraten. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Nutzung von Programmen Ich kenne und nutze ohne Schwierigkeiten verschiedene Programme (z. B. Apps, Social-Media-Plattformen, Word, Excel, 
+PowerPoint). 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+C Rezeptions- und Reflexionskompetenz 
+Quellenkritik Ich verfüge über Kompetenzen, verlässliche von weniger verlässlichen Quellen zu unterscheiden (Quellenkritik). Ich kann den Kindern und 
+Jugendlichen diesbezüglich mit konkreten Hinweisen zur Seite stehen. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Digitaler Fussabdruck Ich verfüge über Informationen im Umgang mit digitalen Spuren. Ich kann die Kinder und Jugendlichen diesbezüglich konkret beraten.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Gefahren im Internet Ich kann wesentliche Risiken im und durch das Internet benennen und weiss, wie ich diesen kompetent begegne. Ich verfüge über die 
+nötigen Kompetenzen, um die Kinder und Jugendlichen diesbezüglich pädagogisch zu begleiten. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Rechtliche Grundlagen Ich weiss, was ich im Internet tun darf und was nicht. Ich kenne mögliche rechtliche Konsequenzen. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+D Soziale Kompetenz
+Kommunikation Ich verfüge über Strategien, digitale Medien bewusst und angemessen für verschiedene Kommunikationszwecke einzusetzen. Ich kann diese 
+Strategien den Kindern und Jugendlichen vermitteln.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Zeitmanagement Ich verfüge über genügend Selbstkontrolle im Umgang mit dem Thema Zeit und Mediennutzung. Ich kann Kinder und Jugendliche im Erwerb 
+dieser Kompetenz pädagogisch unterstützen.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Kooperation Ich nutze digitale Medien bewusst positiv, indem ich Wissen und Informationen digital teile und entwickle. Ich bin in der Lage, Kinder und 
+Jugendliche zur positiven Nutzung digitaler Medien zu ermutigen.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Total Punkte
+A
+B
+C
+D
+19
+05_MEDIEN UND ERZIEHUNG 
+ 
+20
+Die Medienpädagogik beschäftigt sich mit erzieherischen 
+Fragen rund um Medien. Als Bestandteil der sozial-, heil- 
+und sonderpädagogischen Praxis umfasst sie vier Teilbereiche, 
+die es zu berücksichtigen gilt: 1
+Aktive Medienbegleitung 
+Die aktive Medienbegleitung beinhaltet einen direkten und 
+engagierten Umgang von Erwachsenen mit Kindern und 
+Jugendlichen, um mit Blick auf die Förderung der Medien-
+kompetenz die Inhalte und die Nutzung digitaler Medien zu 
+thematisieren. Folgende Aspekte sind dabei wichtig: 
+	
+è Für Fragen da sein und grundsätzliches Interesse an der 
+Mediennutzung der Kinder und Jugendlichen zeigen. 
+	
+è Gemeinsame Mediennutzung, gemeinsame Aktivitä-
+ten, angepassten Umgang mit digitalen Medien 
+vorleben, sich auf Nutzungstrends von Kindern und 
+Jugendlichen einlassen und gemeinsam mit ihnen 
+lernen. 
+	
+è Stellung beziehen (z. B. eigene positive oder negative 
+Bewertungen von Tools und Games).
+	
+è Information und Aufklärung zu Themen wie rechtliche 
+Aspekte, digitaler Fussabdruck, Gewalt und Medien 
+oder Sexting.
+	
+è Kinder und Jugendliche individuell und auf ihre Situation 
+angepasst an die Nutzung spezifischer Medien und Me-
+dieninhalte heranführen (z. B. durch Ermunterung zum 
+Erlernen eines audiobasierten Mailprogramms für 
+motorisch beeinträchtigte Personen; auf Lern-Tools 
+hinweisen).
+Begleitung durch Regeln
+Diese Form der Begleitung umfasst alle Regeln in Bezug  
+auf die Nutzung digitaler Medien. Regeln können sich auf 
+zeitliche, technische, inhaltliche und/oder kommunikative 
+Aspekte beziehen. Es gibt eine Reihe von Hilfestellungen 
+in Form von Ratgebern. Letztlich sind aber die individuelle 
+physische und kognitive Situation sowie die Reife des 
+jungen Menschen für die Festlegung des Rahmens ent­
+scheidend. Gerade wenn das Alter und das kognitive  
+Entwicklungspotenzial weit auseinanderklaffen, stellen 
+sich zusätzliche pädagogische Herausforderungen. Re-
+geln werden idealerweise zusammen ausgehandelt und 
+festgelegt. Allerdings geht eine professionelle medienpä­
+dagogische Arbeit in jedem Fall weit über die Entwicklung 
+von Regeln hinaus und beinhaltet die aktive Auseinander-
+setzung mit Kindern und Jugendlichen über die medialen 
+Inhalte und deren Nutzung. Regeln sollen regelmässig 
+überprüft und den neuen Begebenheiten des Marktes  
+bzw. der Entwicklung und Situation der Heranwachsenden 
+angepasst werden. 
+Monitoring 
+Mit Monitoring ist die technische Kontrolle gemeint. Diese 
+kann auf verschiedenen Ebenen erfolgen (Sperren, Kosten-
+kontrolle, Filterungen oder Spurennachverfolgung). Telecom-
+Anbieter sind hierfür kompetente Anlaufstellen. Monitoring 
+ist wichtig, gibt aber nur eine beschränkte Sicherheit. Je 
+älter und autonomer das Kind, desto weniger greift das Mo-
+nitoring. Für die Sozial-, Heil- und Sonder­pädagogik sind 
+aktuell vor allem das Sperren von Mobile-Diensten bei den 
+persönlichen Geräten (wie 0900-Nummern oder Premium-
+SMS durch den Netzanbieter), die Kostenkontrolle und die 
+Filterung von problematischen Quellen beziehungsweise 
+Inhalten relevant. Zentral ist die Kultur der Transparenz 
+bezüglich der getroffenen Massnahmen gegenüber allen 
+Beteiligten. Zudem sind Umsetzungen im Bereich Monito-
+ring grundsätzlich bezogen auf den jeweiligen Kontext 
+vorher juristisch zu prüfen. Indirektes Monitoring kann aber 
+auch dadurch erfolgen, dass man den Medienkonsum der 
+Kinder und Jugendlichen sowie dessen Auswirkungen 
+kritisch im Blick behält. Die so erhaltenen Erkenntnisse eig-
+nen sich gut, um mit ihnen darüber ins Gespräch zu kommen.
+Zusammenarbeit mit Eltern
+Zur sozial-, heil- und sonderpädagogischen Aufgabe gehört 
+auch die Thematisierung von Medienbegleitungsfragen mit 
+den Eltern. Der Umgang mit digitalen Medien unterscheidet 
+sich je nach dem familiären Umfeld eines jungen Menschen. 
+Manche nutzen Medien begleitet und im Austausch mit 
+ihren Eltern und erhalten so auch Anregungen, wie digitale 
+Medien kreativ und bildungsbezogen genutzt werden 
+können. Andere werden von Medien ferngehalten oder im 
+Umgang mit den Geräten alleingelassen. So entstehen 
+unterschiedliche Kompetenzen und Umgangsformen mit 
+digitalen Medien, welche sich auch auf die Bildungschancen 
+auswirken. Hier ist es die Aufgabe der Fachpersonen, Un-
+gleichheiten entgegenzuwirken, unter anderem durch Ge-
+spräche mit den Eltern oder durch Unterstützungsangebote.
+21
+Dabei ist zu beachten, dass nicht alle Eltern die gleichen 
+Bedürfnisse und Voraussetzungen haben. So haben einige 
+teilweise selbst nur wenige Erfahrungen mit einer gelingen-
+den Mediennutzung. Andere Eltern, die den Medienkonsum 
+ihrer Kinder nicht oder kaum begleiten, müssen erst für  
+die Bedeutung der Medienerziehung sensibilisiert werden.  
+Gerade Eltern in sozial belasteten Situationen haben vie-
+le Herausforderungen zu bewältigen. Medienerziehung  
+hat in diesen Familien allenfalls nicht erste Priorität. Hier  
+Digitale Medienkompetenz und Erziehung heisst im Berufsalltag:
+Legen Sie den Erziehungsschwerpunkt nicht nur auf die Regeln, sondern vor allem auf die aktive Befähigung der 
+Kinder und Jugendlichen im Umgang mit digitalen Medien. Beziehen Sie dabei immer auch die Eltern mit ein. 
+gilt es Verständnis zu zeigen und trotzdem die Bedeutung 
+der Medienbegleitung hervorzuheben und die Eltern, im 
+Rahmen ihrer Möglichkeiten, an eine solche heranzuführen.
+Eltern, die die Bedeutung der Medienbegleitung erkannt 
+haben, aber unsicher sind, brauchen konkrete Tipps und 
+Beispiele, was zu ihnen passt und wie andere Familien 
+damit umgehen. Mit Eltern, die ihre Kinder intensiv beglei-
+ten, können reflexive Gespräche geführt werden.
+22
+Fragen zu Medien und Erziehung 
+Im Sinne einer Standortbestimmung wird bei den Teammitgliedern erhoben, wie sie Kinder und Jugendliche im Umgang 
+mit digitalen Medien begleiten und mit den Eltern zusammenarbeiten. Der Fragebogen kann individuell ausgefüllt 
+und im Team besprochen oder direkt als Team bearbeitet werden. Kreuzen Sie jeweils die Antwort an, welche am besten 
+zutrifft, und übertragen Sie die Summe in die Tabelle am Schluss der Seite. Für die Gesamtauswertung tragen Sie die Werte 
+anschliessend in die Übersicht auf S. 37 ein.
+E Restriktive Begleitung
+Ich kann die aktuellen Regeln im Umgang mit digitalen Medien fachlich begründen.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich kenne Informationsquellen und Plattformen zur Abstützung und zur Entwicklung von angemessenen Regeln im Umgang mit digitalen Medien und beziehe 
+diese aktiv ein. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich bin fachlich sicher, wenn es um die Entwicklung von individuell angepassten Regeln geht.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+F Aktive Begleitung 
+Ich kenne die aktuellen Nutzungstrends der Kinder und Jugendlichen und nehme interessiert und kritisch Stellung dazu. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich nutze digitale Medien mit den Kindern und Jugendlichen gemeinsam und gebe ihnen Informationen zu Themen rund um den Schutz, aber auch zu 
+Nutzungsmöglichkeiten.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich ermutige und befähige Kinder und Jugendliche schrittweise und gemäss ihren Möglichkeiten zur kompetenten Nutzung digitaler Medien. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich spreche mit den Kindern und Jugendlichen regelmässig über ihre Erfahrungen mit der Nutzung digitaler Medien und tausche mich im Team diesbezüglich aus. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+G Monitoring 
+Ich kenne die Möglichkeiten, Grenzen und juristischen Rahmenbedingungen im Bereich des Monitorings. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich weiss, wo ich diesbezüglich fachliche Unterstützung holen kann. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+H Zusammenarbeit mit Eltern
+Ich thematisiere die Mediennutzung der Kinder und Jugendlichen regelmässig mit den Eltern.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich kenne Tools und Plattformen für Eltern, welche ich in die Arbeit einbeziehen kann. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich habe konkrete Ideen, wie ich mit Eltern das Thema aktiv angehen kann. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Total Punkte
+E
+F
+G
+H
+1 Steiner, O. / Goldoni, M. (2011). Medienkompetenz und medienerzieherisches Handeln von Eltern. Eine empirische Untersuchung bei Eltern 
+von 10- bis 17-jährigen Kindern in Basel-Stadt. Hochschule für Soziale Arbeit, Fachhochschule Nordwestschweiz: Basel/Olten. Steiner und 
+Goldoni zeigen in ihrer Studie, dass gerade Eltern aus bildungsferneren Schichten Bedarf an Unterstützung signalisieren, jedoch die klassi-
+schen Elternbildungskurse als zu hochschwellig einstufen. Vgl. auch: Bericht 2013: «EU Kids Online Schweiz. Hermida, M. & Signer,  
+S. (2013), Wie Eltern ihre Kinder im Internet begleiten.» http://www.eukidsonline.ch/ und Paus-Hasebrink, Ingrid (2020). Mediengebrauch 
+und Ungleichheit. Von Klüften und Spaltungen in Kindheit und Jugend. In: merz, Jahrgang 64, Nr.3, S.19–25: «Es zeigte sich, dass besonders 
+belastete Familien besondere gesellschaftliche Verantwortung und Aufmerksamkeit benötigen; sie brauche umfassende Förderkonzepte  
+für die gesamte Familie, die auf ihre jeweiligen lebensweltlichen Bedingungen Rücksicht nehmen und differenziert und möglichst individuell 
+abgestimmt ausgestaltet sind …» (S. 24).
+23
+06_MEDIEN UND BILDUNG 
+ 
+24
+Wie in anderen pädagogischen Fragen ist auch bei medien-
+pädagogischen Themen eine systemische Sichtweise  
+wichtig. Für sozial-, heil- und sonderpädagogische Teams 
+bedeutet dies, sich zu informieren, was in der Regel- bzw. 
+Sonderschule punkto Medienpädagogik gemacht wird. So 
+können Kinder und Jugendliche im Alltag zusätzlich unter-
+stützt und es können ihnen ergänzende Erfahrungen im 
+Umgang mit digitalen Medien ermöglicht werden. Die Bro-
+schüre «Medienkompetenz im Schulalltag» gibt hier einen 
+guten Einblick und ist unbedingt zu empfehlen. 
+Neben Lesen, Schreiben und Rechnen sind bereits heute 
+weitere Kompetenzen in der Berufswelt, aber auch zur 
+Bewältigung des Alltages gefordert und werden es in 
+Zukunft noch vermehrt sein. Mit dem 4K-Modell werden 
+Kommunikation, Kreativität, Kollaboration und kriti-
+sches Denken als bedeutsame Kompetenzen hervorgeho-
+ben. Zur Entwicklung dieser Kompetenzen tragen nicht nur 
+die Schule, sondern auch alle weiteren Lebensbereiche der 
+Kinder und Jugendlichen bei. Austausch und Zusammenar-
+beit sind dabei unerlässlich, wenn Chancengleichheit und 
+Partizipation für alle jungen Menschen angestrebt werden.
+Mit der Einführung des Lehrplans 21 hat der Bereich «Medien 
+und Informatik» in der Schule an Bedeutung gewonnen. Das 
+Themenfeld wird sowohl fächerübergreifend als auch in 
+bestimmten Schuljahren als eigenes Fach bearbeitet. Die 
+Anforderungen des LP 21 sind für alle Kinder verbindlich.
+Für Kinder und Jugendliche, die diese Anforderungen dieses 
+Lehrplans nicht in der vorgesehenen Zeit erfüllen können, 
+wurde mit der «Anwendung des Lehrplans 21 für Schülerin-
+nen und Schüler mit komplexen Behinderungen in Sonder- 
+und Regelschulen» ein Instrument geschaffen, mit welchem 
+individuelle Bildungspläne in allen Fachbereichen auf der 
+Grundlage des LP 21 erarbeitet werden können. Dabei wird 
+neben der Frage, welche elementaren Kompetenzen erreicht 
+werden sollen, auch die Frage nach der Befähigung und den 
+Erfahrungsmöglichkeiten in Lern- und Lebenskontexten an-
+gestossen. 
+In Bezug auf digitale Medien kann dies zu Fragen führen 
+wie: «Inwiefern beziehen wir bei diesem Kind Medien in 
+Lern- und Alltagssituationen mit ein, um ihm Erfahrungen zu 
+ermöglichen?» oder «Inwiefern können wir digitale Medien 
+nutzen, um das Kind zu befähigen, seinen Alltag zu bewälti-
+gen?» So verstandene Förderung und Begleitung gehen über 
+die Schule hinaus und betreffen viele andere Lebensberei-
+che. Zusammenarbeit und Austausch zwischen den beglei-
+tenden Erwachsenen sind unbedingt notwendig. Zudem 
+kann die «Anwendung des LP 21» auch dem ausserschuli-
+schen sozial-, heil- und sonderpädagogischen Arbeitsbe-
+reich Anregungen und Ideen für die Begleitung allgemein 
+geben.
+Zentrale Themen für die sozial-, heil-  
+und sonder­pädagogische Praxis sind:
+Regelmässiger Austausch mit der Schule und 
+den Lehrkräften 
+Um Kinder und Jugendliche bei der Entwicklung von Medien­
+kompetenz optimal unterstützen zu können, ist es wichtig, 
+dass Berufsleute in den Institutionen wissen, welche medien­
+bezogenen Themen in der Schule in welchem Umfang bear-
+beitet werden. Neben Lehrmitteln, Aufgabenstellungen und 
+angestrebten Kompetenzen sollten sowohl Nutzungsregeln 
+in der Schule als auch im Wohnalltag Gegenstand des Aus-
+tausches sein.
+Durch die sozialen Medien verschwinden Grenzen zwischen 
+den Lebensbereichen. Kommunikation und Gruppenprozesse 
+werden auf sozialen Plattformen von zu Hause in die Schule 
+getragen und wieder mit nach Hause genommen. Treten da-
+bei Probleme oder Konflikte auf, betreffen diese mehrere 
+Lebensbereiche der Kinder und Jugendlichen. Austausch 
+zwischen den begleitenden Erwachsenen ist unerlässlich, 
+um Herausforderungen zu begegnen und präventiv zu han-
+deln.
+ICT-Infrastruktur der Institutionen
+Heranwachsende brauchen im Wohnalltag angemessene 
+ICT-Infrastrukturen zur Bearbeitung der schulischen Aufga-
+ben, aber auch, um digitale Medien im Alltag gewinnbrin-
+gend einsetzen und Erfahrungen machen zu können. Institu-
+tionen sind dafür zuständig mitzuwirken, damit alle Kinder 
+und Jugendlichen Zugang zu Geräten und zur Infrastruktur 
+haben. Im Sinne des Normalisierungsprinzips sollten sich 
+Institutionen dabei an einem durchschnittlichen techni-
+schen Niveau für den Heimgebrauch orientieren (Internet­
+zugang, Leistungsfähigkeit der Geräte, Aktualität der 
+Programme).
+25
+Konkrete Begleitung im Alltag
+Betreuungsstrukturen und personelle Planung in Institutio-
+nen müssen Hausaufgabenbegleitung im Alltag ermöglichen 
+und die an den individuellen Betreuungsbedarf angepasste 
+Begleitung sicherstellen. Die Nutzung von digitalen Medien 
+bei der Bearbeitung der Hausaufgaben gehört dazu und 
+muss mit den institutionellen und/oder individuellen Regeln 
+abgestimmt werden.
+Die kreative Nutzung digitaler Medien unterstützt 
+die Bildung. Dies geschieht nicht nur in der Schule (vgl. 
+Kap. 2 «Medien und Inklusion»). Werden solche Aktivitäten 
+im Wohnbereich unter Begleitung angeboten, trägt dies zu 
+einer umfassenden Bildung bei. Gemeinsame Aktivitäten 
+mit digitalen Medien bieten zudem eine gute Gelegenheit, 
+um mit Kindern und Jugendlichen vertiefter ins Gespräch 
+zu kommen, einen Eindruck von ihrer digitalen Lebenswelt 
+zu bekommen und so verschiedenste Themen rund um die 
+Mediennutzung anzu­packen sowie Medienkompetenz 
+umfassend zu fördern.
+Medien und Bildung heisst im Berufsalltag: 
+Tauschen Sie sich aktiv mit den Lehrpersonen über die Förderung der Medienkompetenz aus. Stellen Sie sicher, 
+dass im Wohnalltag keine unnötigen Hürden (Technik, Betreuung, Regeln) die Umsetzung der schulischen Anforde-
+rungen behindern.
+26
+Fragen zu Medien und Bildung
+Im Sinne einer Standortbestimmung wird bei den Teammitgliedern erhoben, inwiefern die digitalen Medien und die 
+Schule in der pädagogischen Arbeit einbezogen werden. Der Fragebogen kann individuell ausgefüllt und im Team 
+besprochen oder direkt als Team bearbeitet werden. Kreuzen Sie jeweils die Antwort an, welche am besten zutrifft, und 
+übertragen Sie die Summe in die Tabelle am Schluss der Seite. Für die Gesamtauswertung tragen Sie die Werte 
+anschliessend in die Übersicht auf S. 37 ein.
+I Austausch mit der Schule und den Lehrkräften in Bezug auf ICT und Medien
+Ich pflege einen regelmässigen Austausch mit der Schule betreffend ICT sowie medienpädagogischer Aktivitäten. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Wenn bei der Mediennutzung von Kindern und Jugendlichen Probleme auftauchen, tausche ich mich auch mit den Lehrpersonen aus und wir suchen gemeinsam 
+nach Lösungen.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich kenne die Nutzungsregeln in Bezug auf digitale Medien auf dem Schulgelände.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Mir sind die spezifischen Anforderungen (z. B. Lernplattformen) zur Nutzung und zum Umgang mit digitalen Medien in weiterführenden Schulen  
+(z. B. Berufsfachschulen) bekannt.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich kenne konkrete Lehrmittel sowie Lern- und Hilfsmittel (z. B. Zoomtext für Menschen mit Beeinträchtigungen), welche die Schule im Bereich der 
+Medienpädagogik einsetzt.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+K Konkrete Begleitung im Wohnalltag 
+Die Kinder und Jugendlichen haben die Möglichkeit, ihre Schularbeiten digital zu erledigen.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Die Regeln im Wohnalltag sind mit den Regeln und Aufträgen der Schule gut koordiniert. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich ermutige die Kinder und Jugendlichen, sich mit neuen Themen auch digital auseinanderzusetzen.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+L ICT-Infrastruktur auf den Wohngruppen
+Die ICT-Infrastruktur ermöglicht es, Hausaufgaben digital zu erarbeiten. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Die ICT-Infrastruktur auf der Wohngruppe entspricht einem durchschnittlichen technischen Niveau für den Heimgebrauch (Hardware und Software).
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Die Geräte werden regelmässig gewartet und bei Problemen steht rasch ein Support (mit entsprechenden Ressourcen) zur Verfügung.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+M Vertiefte medienpädagogische Arbeit
+Ich nutze das Potenzial zur aktiven Medienbegleitung, wenn die Kinder und Jugendlichen für die Schule mit digitalen Medien arbeiten, bewusst.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich ermutige die Kinder und Jugendlichen, digitale Medien auch ausserhalb der Hausaufgaben kreativ und zur Informationsbeschaffung zu nutzen und begleite 
+sie dabei.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Die Kinder und Jugendlichen erhalten von mir aktive Unterstützung bei der Erarbeitung von digitalen Lerninhalten.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Total Punkte
+I
+K
+L
+M
+27
+07_MEDIEN UND RECHT 
+ 
+28
+Digitale Medien haben im Leben von Kindern und Jugend­
+lichen einen zentralen Stellenwert. Heil- und sonderpäda­
+gogische Einrichtungen für Kinder und Jugendliche stehen 
+vor vielfältigen rechtlichen Fragen. Ein geklärter rechtlicher 
+Rahmen ist eine wichtige Bedingung, damit sich eine Institu-
+tion aktiv medienpäda­gogisch mit digitalen Medien ausein-
+andersetzen kann.
+Im Folgenden werden einige Themen skizziert. Weiter­
+gehende Informationen finden sich auf www.mekis.ch
+Rechtliche Fragen im Verhältnis zwischen 
+Einrichtung, Heranwachsenden und Eltern
+Beim Spannungsverhältnis zwischen Persönlichkeitsrechten 
+der Kinder und Jugendlichen und der Aufsichts- und Ob­- 
+hut­spflicht sowohl der Einrichtung als auch der Eltern geht 
+es um Fragen wie: Darf die Einrichtung den Online-Zugang 
+von Kindern und Jugendlichen einschränken oder kontrollie-
+ren, und wenn ja, in welcher Weise? Wie ist die Verantwor-
+tung zwischen Einrichtung und Eltern geregelt? 
+Grundsätzlich haben die Eltern die Obhuts- und Aufsichts-
+pflicht. Mit einer Platzierung übernimmt aber die Einrichtung 
+einen Teil der elterlichen Aufgaben. Im Rahmen ihrer Ob- 
+hut­spflicht trägt die Einrichtung die Verantwortung, dass  
+die Kinder und Jugendlichen während des Aufenthalts un­- 
+versehrt bleiben. Im Rahmen ihrer Aufsichtspflicht sorgt 
+die Einrichtung nach ihren Möglichkeiten dafür, dass die 
+Heranwachsenden keinen Schaden anrichten. Das Mass  
+der notwendigen Beaufsichtigung hängt von den konkreten 
+Gegebenheiten ab (Alter, Charakter, geistige Reife, Situation 
+etc.). 
+Welche Obhuts- und Aufsichtspflichten hat die Einrichtung, 
+welche haben die Eltern bezogen auf den Medienkonsum 
+der jungen Menschen? Entscheidend ist, was vertraglich 
+ver­einbart wurde. Ideal ist, wenn sich Institution und Eltern – 
+innerhalb der vorgegebenen Rahmenbedingungen –  als päd-
+agogische Partner verstehen, die gemeinsam die Verantwor-
+tung für das Wohlbefinden der Kinder und Jugendlichen 
+tragen.
+29
+Gleichzeitig sollen Heranwachsende ihre Persönlichkeits-
+rechte ausüben können. Sie haben insbesondere das Recht 
+auf physische Unversehrtheit (z. B. Bewegungsfreiheit), 
+affektive Unversehrtheit (Schutz vor emotionalen Beein-
+trächtigungen) und soziale Unversehrtheit (Geheim- und 
+Privatsphäre, informationelle Freiheit). 
+Wichtig: Ein urteilsfähiges Kind kann Persönlichkeitsrechte 
+selbstständig ausüben, ohne dass die Eltern bzw. der Bei-
+stand, die Beiständin einzubeziehen sind. Urteilsfähig  
+sind Personen, wenn sie die Tragweite des eigenen Han-
+delns begreifen und gemäss dieser Einsicht aus freiem 
+Willen vernunftgemäss handeln können.
+Einrichtungen dürfen die Persönlichkeitsrechte der Heran-
+wachsenden nur einschränken, wenn dafür gute Gründe 
+vorliegen und die Einschränkung verhältnismässig ist. Auch 
+hier ist rechtlich von besonderer Bedeutung, was konkret 
+und beweisbar vertraglich abgemacht wurde. 
+Viele Einrichtungen haben Mediennutzungsregeln. Diese 
+sind mit (kleineren oder grösseren) Eingriffen in die Persön- 
+lichkeitsrechte der Kinder und Jugendlichen verbunden. 
+Regeln setzen zeitliche, örtliche oder inhaltliche Rahmen. 
+Sie können mittels Vereinbarungen getroffen werden 
+(Mediennutzungsverträge) oder es können technische 
+«Lösungen» beigezogen werden. Aber: Technische Ein-
+schränkungen, wie beispielsweise bestimmte Webseiten  
+zu blockieren, ersetzt nicht die pädagogische Arbeit.
+Entwickeln Sie Medienregeln so, dass diese den Kindern 
+und Jugendlichen Erfahrungs- und Gestaltungsfreiräume 
+gewähren und für diese nachvollziehbar sind. Zeigen Sie 
+echtes Interesse an der digitalen Welt der Heranwachsen-
+den, so können auch problematische Handlungen oder 
+Inhalte zur Sprache kommen. Und: Bleiben Sie im Gespräch 
+mit den Eltern und verstehen Sie ihren Auftrag im Bereich 
+Medien als gemeinsame Aufgabe.
+Datenschutzfragen und Umgang mit Bildern  
+in Einrichtungen
+Ein weiterer rechtlicher Themenbereich bezieht sich auf  
+die Frage, welche Daten eine Institution erheben und wie  
+sie diese verwenden darf. Beim Sammeln von Daten (z. B. ­ 
+Protokollieren des Internetkonsums) ist der Schutz der Person 
+grundsätzlich höher zu gewichten als das Informationsinter­
+esse der Organisation. Es braucht darum für eine Datensamm-
+lung einen der folgenden datenschutzrechtlichen Gründe:  
+eine Einwilligung der betroffenen Person, einen gesetzlichen 
+Auftrag für die Datensammlung oder ein starkes privates  
+oder öffentliches Interesse, z. B. in akuten Notsituationen. 
+Personenbezogene Daten dürfen nur mit gutem Grund an 
+Dritte (auch an Eltern!) weitergegeben werden. Darum: 
+Sammeln Sie so wenig Daten wie möglich, speichern Sie 
+diese nur so lange wie nötig und geben Sie nur den Perso-
+nen Zugriff, welche diese tatsächlich benötigen. Wahren  
+Sie auch den Eltern gegenüber die Persönlichkeitsrechte 
+der Kinder und Jugendlichen.
+In ähnlicher Weise besteht ein Persönlichkeitsrecht zu 
+Bildern: Wenn eine Person im Zentrum der Abbildung steht 
+und gut erkennbar ist, muss sie darüber informiert sein und 
+damit einverstanden sein, dass und in welcher Weise die 
+Bilder veröffentlicht werden (z. B. auf sozialen Medien oder 
+Websites). Wenn die Person nicht im Zentrum der Abbildung 
+steht, braucht es keine Einwilligung. Beachten Sie dies beim 
+Umgang der Einrichtung mit Bildern und sensibilisieren Sie 
+auch die Kinder und Jugendlichen dafür, wie sie mit Fotos 
+von anderen umgehen.
+Wann machen sich Kinder und Jugendliche durch  
+ihr Onlineverhalten strafbar? Rechtliche Fragen zu 
+Pornografie und Cybermobbing 
+Bei der Frage, wie sich junge Menschen mit Online-Handlun-
+gen strafbar machen können, geht es um Aspekte wie z. B.: 
+Wann und in welcher Weise ist es strafbar, Online-Porno-
+grafie zu konsumieren, sexuell aufreizende Fotos von sich 
+zu machen und zu verschicken oder sich an Online-Mobbing 
+zu beteiligen? Eine Einrichtung hat die Aufgabe, die ihr 
+anvertrauten Kinder und Jugendlichen für diese Thematiken 
+zu sensibilisieren. 
+Die rechtliche Verantwortung beginnt in der Schweiz  
+schon früh: Kinder sind ab dem 10. Geburtstag strafmündig.  
+Ab diesem Alter können sie wegen Verstössen gegen  
+die Strafgesetzordnung angezeigt und verurteilt werden.
+Ein Thema, das Einrichtungen oft beschäftigt, sind Fragen 
+zur Pornografie. Kindern und Jugendlichen unter 16 Jahren 
+pornografisches Material zur Verfügung zu stellen, ist straf-
+bar. Dies gilt sowohl für kommerzielle Plattformen als auch 
+30
+für Privatpersonen. Ein 15-Jähriger darf also Gleichaltrigen 
+keine Pornos weiterleiten. Er darf sie aber anschauen – der 
+Konsum von legalem pornografischem Material ist auch für 
+Kinder und Jugendliche nicht strafbar.
+Sexuelle Darstellungen mit Personen unter 18 Jahren sind 
+verboten. Wenn Jugendliche unter 18 Jahren sich in sexuali-
+sierter Weise und mit sichtbaren Geschlechtsteilen fotogra-
+fieren, kann dieses Foto als Kinderpornografie ein­gestuft 
+werden. Damit machen sich sowohl die Jugendlichen, 
+welche das Material hergestellt haben, als auch alle 
+anderen, welche die Aufnahmen besitzen (z.B. ein Bild/
+Video auf dem Handy gespeichert haben) oder weiterschi-
+cken, strafbar. Ausnahme: Jugendliche zwischen 16 und  
+18 Jahren, welche einvernehmlich voneinander pornografi-
+sches Material herstellen, dieses besitzen (z. B. ein Bild/
+Video auf dem Handy gespeichert haben) oder konsumieren, 
+bleiben straffrei, solange sie es nicht an weitere Personen 
+weiterschicken.
+Ein weiteres rechtliches Thema, das Einrichtungen oft  
+beschäftigt, ist Cybermobbing. In einer Mobbingsituation 
+besteht ein Kräfteungleichgewicht zwischen Täterschaft 
+und Opfern. In der Regel kennen sich die Beteiligten.  
+Meist sind einige wenige Personen aktiv antreibend.  
+Hinzu kommen Mitläufer*innen, die den Mobbenden  
+das Gefühl geben, auch in ihrem Sinne zu handeln.  
+Andere schauen als Unbeteiligte zu. Dies bestärkt die  
+aktiv Mobbenden in ihrem Handeln.
+Bei Cybermobbing kommen spezifische Problematiken hinzu: 
+Erstens verbreiten sich Infos, Fotos, Beleidigungen blitz-
+schnell. Zweitens wirken die Beleidigungen nachhaltig,  
+weil Daten im Internet gespeichert bleiben und unkontrol-
+liert weiterverbreitet werden können. Drittens bleiben 
+die Täter*innen oft anonym. Opfer von Cybermobbing haben 
+keine sicheren Rückzugsräume mehr, sie können sich der 
+Mobbingsituation nicht mehr entziehen. Cybermobbing 
+entsteht fast immer unter Bekannten, ist also eine Form  
+von Mobbing.
+Es gibt kein explizites Gesetz gegen Cybermobbing, es ­ 
+kommen Gesetze zu einzelnen Handlungen zum Zuge,  
+die zu Cybermobbing gehören (z. B. Datenbeschädigung, 
+Erpressung, Ehrverletzung, Verleumdung, Beschimpfung, 
+Drohung, Nötigung). 
+Schulen Sie die Fachpersonen zu diesen Themen. Definieren 
+Sie Verantwortliche und Abläufe für gravierende Vorfälle. 
+Thematisieren Sie mit den Kindern und Jugendlichen Fragen 
+zu Sexualität und Dazugehören, damit es nicht zu illegalen 
+Handlungen aufgrund von Unwissen kommt, und bieten Sie 
+ihnen Gelegenheiten für reflektierte Selbsterfahrungen. Im 
+Mittelpunkt sollten nicht Verbote oder Risiken stehen. Die 
+Kinder und Jugendlichen sollten eine eigenständige Position 
+entwickeln können. 
+Sicherer Umgang mit digitalen Medien heisst im Berufsalltag:
+In rechtlichen Belangen informiert sein, um eine Begleitung hin zu einem kompetenten Umgang ermöglichen und 
+auf rechtliche Fragen der Kinder und Jugendlichen Antworten geben zu können.
+31
+08_INSTITUTIONS­KULTUR  
+UND KONZEPTENTWICKLUNG  
+ 
+32
+Institutionskultur
+Eine positive Grundhaltung und ein kompetent (vor)gelebter 
+Umgang mit digitalen Medien sind die Voraussetzung für eine 
+gelingende medienpädagogische Arbeit. Institutionsleitungen 
+kommt dabei die Aufgabe zu, Werte und Haltungen in der 
+Institution zu reflektieren, Prozesse anzustossen und Strate-
+gien zu erarbeiten, um die Institutionskultur im Umgang mit 
+digitalen Medien aktiv zu gestalten. Das nachfolgende Sche-
+ma zeigt im Sinne einer Tendenz exemplarisch auf, wie 
+unterschiedlich Institutionen mit digitalen Medien umgehen 
+können. Der Typus III lässt zwar digitale Geräte zu, es findet 
+aber kein Lernprozess statt, wenn der Umgang mit der The-
+matik rein auf einer reglementarischen Basis abläuft. Die 
+Typen I und II spiegeln bewahrpädagogische Grundhaltungen, 
+die Kindern und Jugendlichen das Partizipieren am gesell-
+schaftlichen Leben erschweren können. Die Typen IV und V 
+spiegeln Grundhal­tungen, die auf die Befähigung und daher 
+auf die Inklusion abzielen. In der Praxis kommen auch Misch-
+formen der verschiedenen Stufen vor. Mit dem Fortschritt 
+im Bereich Robotik könnten humanoide Roboter in der Sozi-
+alpädagogik, vor allem auch in der Pflege, ein grösseres 
+Thema werden. Ob und wo deren Einsatz Sinn macht, muss 
+im Gesamtkontext des Betreuungskonzepts erörtert werden. 
+Die Institutionskultur im Umgang mit digitalen Medien wird 
+auch im Bereich Administration und Kommunikation sichtbar – 
+durch eine «digitale Strategie». Sie zeigt sich beispielweise 
+in der Organisation der admi­nistrativen, digitalen Struktur  
+(z. B. Dokumentation, Archiv oder Berichte), dem Web­
+auftritt der Institution, der Gestaltung der internen und 
+externen Kommunikationsabläufe sowie der Nutzung ver-
+schiedener Kommunikationskanäle für unterschiedliche 
+Anspruchsgruppen (Kinder und Jugendliche, Eltern, Schule 
+oder Ämter).
+I	
+«Wir müssen Kinder und Jugendliche vor den Gefahren digitaler Medien bewahren.»
+II	 «Für uns ändert sich nichts. Digitale Medien spielen für uns keine Rolle.»
+III	 «Den Besitz von Smartphones kann man nicht verhindern, wir reglementieren aber deren Nutzung streng.»
+IV	 «Wir müssen Kindern und Jugendlichen medienpädagogische Inhalte vermitteln, damit sie die digitalen Medien kompetent nutzen, mit Chancen 
+und Risiken bewusst umgehen und sich auch abgrenzen können.»
+VI	 «Humanoide Roboter werden in unserer Institution eingesetzt. Sie entlasten Mitarbeitende bei der Pflege von Kindern und Jugendlichen mit 
+körperlichen Beeinträchtigungen.»
+V	 «Digitale Medien sind Teil des sozial-, heil- und sonderpädagogischen Alltags –wir nutzen sie kreativ und integrieren sie in unsere pädagogische 
+Arbeit. Digitale Medien und smarte digitale Assistenten (z. B. Tablets als Sprachhilfe) helfen Kindern und Jugendlichen mit Beeinträchtigungen, 
+ihren Alltag kompetent zu bewältigen.»
+Digitale Medien
+verbieten
+Digitale Medien
+ignorieren
+Digitale Medien
+akzeptieren und
+reglementieren
+Digitale Medien 
+als Unterstützung/Er­- 
+satz für Betreungspersonen
+Digitale Medien
+kreativ integrieren und 
+z. B. als Assistenz nutzen
+Zum Umgang mit 
+digitalen Medien 
+befähigen
+Haltungstypen
+Digitale Medien
+I
+II
+III
+IV
+V
+VI
+Das Modell basiert auf der Leitmedienreaktionsskala von Beat Döbeli und wurde von Marc Pilloud und Monika Luginbühl auf die 
+Sozial­päda­gogik übertragen.
+33
+Schritt 4: Handlungs- und Themenbereiche
+Es gibt zahlreiche Aspekte und Inhalte, die medienpädago-
+gisch relevant sind. Bei der Konzepterstellung wird zunächst 
+auf einer übergeordneten Ebene festgelegt, welche Berei-
+che in der Einrichtung rund um das Thema Medien relevant 
+sind. Das können z. B. sein: «Medienpädagogische Angebo-
+te» oder «Zusammenarbeit mit Eltern».
+Schritt 5: Angebote, Umsetzungen und Zuständigkeiten
+Bei diesem Teil werden konkrete Angebote und Durchfüh-
+rungszeiträume für die vorab definierten Themenbereiche 
+formuliert und Zuständigkeiten festgelegt.
+Ein medienpädagogisches Angebot kann z. B. sein: «Sicher-
+heit der Privatsphäre im Internet: Profile und Passwörter». 
+Es empfiehlt sich auch zu erwähnen, wie die Angebote bzw. 
+deren Resultate nachhaltig im Alltag verankert werden und 
+damit auch langfristig Wirkung erzielen.
+Schritt 6: Evaluationsplanung
+Damit das medienpädagogische Konzept zu den Bedarfen in 
+der Einrichtung passt, ist nach einer Umsetzungsphase eine 
+Überprüfung notwendig. Die Schritte und Verantwortlichkei-
+ten dafür werden in der Evaluationsplanung festgehalten.
+Durch eine regelmässige Evaluation bleibt das medienpäda-
+gogische Konzept aktuell und kann an Veränderungen 
+angepasst werden.
+Eine Vorbemerkung zu den Beteiligten beim Erarbeiten des 
+Konzepts:
+«Konzeptionsarbeit ist Team­arbeit. 
+Darum sollte sie möglichst öffentlich und 
+unter grosser ­Beteiligung erfolgen.» 
+
+(Spiegel 2013: 492)
+Medienpädagogische Konzepte 
+Ein zeitgemässes sozial-, heil- und sonderpädagogisches 
+Institutionskonzept beinhaltet ein medienpädagogisches 
+Teilkonzept. Dieses lässt sich auf der Basis einer positiven, 
+offenen Grundhaltung schrittweise entwickeln. Die Leit­- 
+bilder der Institutionen sind in diesem Prozess in der Regel in 
+hohem Masse anschlussfähig, da übergeordnet Themen wie 
+Partizipation, Inklusion und Selbstbestimmung zentrale Werte 
+sind. Umgekehrt sind diese Werte unter Ausklammerung der 
+digitalen Medien jedoch nur noch beschränkt umsetzbar. 
+Auf der Website des Projekts MEKiS findet sich ein Leit­- 
+faden in sechs Schritten zur Entwicklung eines medien­
+pädagogischen Konzepts. Im Folgenden werden die einzel­- 
+nen Schritte kurz vorgestellt. Ausführlichere Informationen 
+finden Sie auf www.mekis.ch 
+Das Konzept soll eine Grundlage für die Umsetzung medien­- 
+pädagogischer Angebote und den pädagogischen Umgang 
+mit Medien im Alltag von Kindern und Jugendlichen in 
+den Einrichtungen sein. Da das Themenfeld «Digitale Medi-
+en» einem kontinuierlichen Wandel unterliegt, wird auch ein 
+medienpädagogisches Konzept bei Bedarf immer wieder 
+weiterentwickelt. Bei grossen Einrichtungen ist ein über­
+greifendes medienpädagogisches Konzept für die gesamte 
+Einrichtung sinnvoll, das den einzelnen Gruppen Freiräume 
+lässt für eine angemessene Arbeit unter den jeweiligen 
+Bedingungen. Folgende schriftliche Teile empfehlen wir  
+für den Aufbau eines medienpädagogischen Konzepts. 
+Schritt 3: Medienpädagogische Leitidee
+Als Leitidee wird eine verbindliche Grundhaltung zu medien- 
+pädagogischen Fragen formuliert. Das können nur wenige 
+Sätze sein. Sie bringen zum Ausdruck, wie eine Einrichtung zu 
+digitalen Medien und damit verbundenen Veränderungen im 
+Alltag von Kindern und Jugendlichen steht.
+Schritt
+Vorbereitung
+und Planung
+Schritt
+Bestandesauf­- 
+nahme und 
+Bedarfs­- 
+ermittlung
+Schritt
+Medien­
+pädagogische 
+Leitidee
+Schritt
+Medien­
+pädagogische 
+Handlungs- und 
+Themen­bereiche
+Schritt
+Medienpädago­
+gische Angebote, 
+Umsetzungen und 
+Zuständigkeiten
+1
+2
+3
+4
+5
+Schritt
+Evaluations- 
+­planung
+6
+34
+Beteiligte beim Erarbeiten eines medien­
+pädagogischen Konzepts
+Ein medienpädagogisches Konzept ist nicht nur für Heran-
+wachsende, Mitarbeitende und die Leitung in stationären 
+Einrichtungen relevant, sondern auch für Eltern. Es ist 
+sinnvoll, alle diese Personengruppen beim Erstellen eines 
+Konzeptes einzubeziehen, damit sie sich mit dem Konzept 
+identifizieren und ihre Anliegen darin wiederfinden.
+Medien und Institutionskultur heisst im Berufsalltag: 
+Setzen Sie sich, insbesondere als Leitungsperson, bewusst und differenziert mit den Grundhaltungen zu digitalen 
+Medien auseinander und gestalten Sie die Institutionskultur in diesem Bereich aktiv und kontinuierlich.
+35
+Fragen zu Institutions­kultur und Konzeptentwicklung 
+Im Sinne einer Standortbestimmung werden bei den Teammitgliedern die Institutionskultur und die Grundhaltung in 
+Bezug auf digitale Medien erhoben. Der Fragebogen kann individuell ausgefüllt und im Team besprochen oder direkt als Team 
+bearbeitet werden. Kreuzen Sie jeweils die Antwort an, welche am besten zutrifft, und übertragen Sie die Summe in die 
+Tabelle am Schluss der Seite. Für die Gesamtauswertung tragen Sie die Werte anschliessend in die Übersicht auf S. 37 ein.
+N Haltungstypen
+Digitale Medien sollten in der Institution möglichst verboten werden.
+1 ja
+2 grösstenteils ja
+3 eher ja
+4 eher nein
+5 grösstenteils nein
+6 nein
+Digitale Medien werden in unserem Institutionsalltag kaum genutzt und spielen somit auch keine wichtige Rolle.
+1 ja
+2 grösstenteils ja
+3 eher ja
+4 eher nein
+5 grösstenteils nein
+6 nein
+Es genügt, beim Umgang mit digitalen Medien strenge Regeln zu setzen.
+1 ja
+2 grösstenteils ja
+3 eher ja
+4 eher nein
+5 grösstenteils nein
+6 nein
+Die Kinder und Jugendlichen müssen zum Umgang mit digitalen Medien befähigt werden.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Der positive Umgang mit digitalen Medien muss von jedem einzelnen Teammitglied vorgelebt werden.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Digitale Medien können die Kinder und Jugendlichen bei der Bewältigung ihres Alltages unterstützen und sollen daher unbedingt eingesetzt werden.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+O Kommunikation 
+Wir verfügen über ein Konzept für die interne und externe Kommunikation (Mailverkehr mit Behörden, Sozialdiensten, Angehörigen, Tagesjournal,  
+SMS-Kommunikation im Team oder mit Klientinnen und Klienten), welche die Nutzung digitaler Kanäle integrierend regelt.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Unsere Webseite ist ansprechend und benutzerfreundlich (z. B. responsive web design, kompatibel mit Smartphones und Tablets).
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+P Administration 
+Wir verfügen über ein klares, digitales Fallführungssystem, welches im Alltag von allen Beteiligten selbstverständlich und sicher genutzt wird. Nutzungsregeln 
+sind definiert und implementiert.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Unsere technische Ausstattung ist auf einem Stand, welcher eine effiziente Abwicklung der administrativen Aufgaben ermöglicht. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Unsere Daten sind gesetzeskonform geschützt.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Q Kreative Medienpädagogik
+In der Freizeitgestaltung setzen wir kreative Medienprojekte um.
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Die digitale Mediennutzung führt immer wieder zu Situationen, in welchen alle Spass haben. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Ich verfüge über Kompetenzen zur kreativen Mediennutzung. Ich bin in der Lage, die Kinder und Jugendlichen diesbezüglich zu fördern. 
+6 ja
+5 grösstenteils ja
+4 eher ja
+3 eher nein
+2 grösstenteils nein
+1 nein
+Total Punkte
+N
+O
+P
+Q
+36
+09_ÜBERSICHT: STANDORTBESTIM-
+MUNG UND HANDLUNGSBEDARF 
+  
+37
+Mit dieser Broschüre haben Sie die Möglichkeit, als Einzel-
+person, Team oder Institution eine Standortbestimmung 
+vorzunehmen, indem Sie die Fragebogen in der Broschüre 
+ausfüllen. 
+Als Team und/oder Institution sollten Sie sich als Ziel vor-
+nehmen, im orange-grünen Bereich unterwegs zu sein. Mar-
+kieren Sie auf der linken Spalte Ihre Resultate mit einem
+X. Orientieren Sie sich dabei jeweils an den Referenzwerten
+der rechen Spalte.
+Die in den einzelnen Fragebogen erhobenen Fakten und
+Feststellungen werden nun zusammengefasst und machen
+auf einen Blick sichtbar, wo und mit welcher Dringlichkeit
+Handlungsbedarf besteht. 
+Interessant kann sein, wenn Sie im Team die Bogen ver­- 
+gleichen und so interne Ressourcen und Potenziale bezeich-
+nen. Auf der so gewonnenen Übersicht lassen sich nächste 
+Handlungsschritte ableiten (vgl. Kap. 8). 
+Zudem soll die Übersicht auch als kontinuierliche Qualitäts- 
+und Erfolgskontrolle der eigenen Arbeit verstanden werden, 
+indem die Fragebogen in regelmässigen Abständen 
+ausgefüllt und interpretiert werden.
+ 
+A Technische Kompetenz
+B Nutzungskompetenz
+C Reflexionskompetenz
+D Sozialkompetenz
+14–18
+23–30
+18–24
+14–18
+08–13
+13–22
+11–17
+08–13
+03–07
+05–12
+04–10
+03–07
+E Restriktive Begleitung
+F Aktive Begleitung
+G Monitoring
+H Zusammenarbeit mit Eltern
+14–18
+18–24
+09–12
+14–18
+08–13
+11–17
+05–08
+08–13
+03–07
+04–10
+02–04
+03–07
+I Austausch
+K Wohnalltag
+L Technische Infrastruktur
+M Vertiefung 
+23–30
+14–18
+14 –18
+14–18
+13–22
+08–13
+08–13
+08–13
+05–12
+03–07
+03–07
+03–07
+N Haltungstypen
+O Kommunikation
+P Administration
+Q Kreative Medienpädagogik
+27–36
+09–12
+14 –18
+14–18
+16–26
+05–08
+08–13
+08–13
+06–15
+02–04
+03–07
+03–07
+Handlungs- / Entwicklungsbedarf
+Bei diesen Themen haben wir Handlungsbedarf.
+Bemerkungen / Notizen
+Rot markierte Felder zeigen Themen auf, welche dringend
+angegangen werden sollten.
+Diese Themen müssen wir im Auge behalten.
+Orange sind Felder mit Entwicklungspotenzial.
+Bezüglich dieser Themen läuft es im Moment gut.
+Grün markiert sind Felder, in welchen Sie gut unterwegs sind und 
+in denen Ihre Ressourcen und Stärken liegen.
+38
+10_WEITERFÜHRENDE  
+INFORMATIONEN 
+  
+39
+Allgemeine Informationen
+Nationale Plattform Jugend und Medien
+	
+è www.jugendundmedien.ch 
+Pro Juventute Schweiz
+Verschiedene Unterlagen und Angebote  
+zum Thema digitale Medien.
+	
+è www.projuventute.ch
+BFF Kompetenz Bildung Bern
+	
+è www.bffbern.ch
+Insieme
+Dachorganisation der Elternvereine für  
+Menschen mit einer geistigen Behinderung.
+	
+è www.insieme.ch
+YOUVITA
+Der Branchenverband der Dienstleister  
+für Kinder und Jugendliche.
+	
+è www.youvita.ch
+Educa
+Fachagentur, die technologische Entwicklungen mit der 
+Qualitätsentwicklung im Bildungsraum Schweiz verbindet. 
+	
+è www.educa.ch
+Digital dabei
+Begleitung von Menschen mit einer geistigen Behinderung 
+im Umgang mit digitalen Medien.
+	
+è www.digital-dabei.ch
+Weiterbildungsangebote im Bereich Sozial-,  
+Heil- und Sonderpädagogik
+BFF Kompetenz Bildung Bern
+FHNW Hochschule für soziale Arbeit
+	
+è www.mekis.ch
+Literatur 
+• Bosse, Ingo; Schluchter, Jan-René; Zorn, Isabel (2019) 
+(Hrsg.). Handbuch Inklusion und Medienbildung. 
+Weinheim/Basel: Beltz Juventa
+• Bostelmann, Antje (2019). Medienpädagogik in Kinder­
+garten und Grundschule. 23 Ideen für die Bildungsarbeit 
+mit 4- bis 8-jährigen Kindern. O. O. Bananenblau
+• Brüggemann, Marion; Eder, Sabine; Tillmann, Angela 
+(2019) (Hrsg.). Medienbildung für alle. Digitalisierung. 
+Teilhabe. Vielfalt. München: kopaed
+• Fleischer, Sandra; Hajok, Daniel (2019) (Hrsg.). Medien­
+erziehung in der digitalen Welt. Grundlagen und Konzepte 
+für die Familie, Kita, Schule und Soziale Arbeit. Stuttgart: 
+Kohlhammer
+• GMK M-Team (o. J.). Methodenfächer. Praxisanregungen  
+für die medienpädagogische Arbeit mit Kindern und 
+Jugendlichen. Kann unter https://gmk-m-team.chayns.net/ 
+praxisbausteine heruntergeladen werden.
+• Gross von, Friederike; Rölleke, Renate (2017) (Hrsg). 
+Medienpädagogik der Vielfalt – Integration und Inklusion. 
+Medienpädagogische Konzepte und Perspektiven. 
+München: kopaed
+• Gross von, Friederike; Rölleke, Renate (2020) (Hrsg). 
+Familienkultur smart und digital. Ergebnisse, Konzepte  
+und Strategien der Medienpädagogik. München: kopaed
+• Kutscher, Nadia; Ley, Thomas; Seelmeyer, Udo; Siller, 
+Friederike; Tillmann, Angela; Zorn, Isabel (2020) (Hrsg.). 
+Handbuch Soziale Arbeit und Digitalisierung. Weinheim/ 
+Basel: Beltz Juventa
+40

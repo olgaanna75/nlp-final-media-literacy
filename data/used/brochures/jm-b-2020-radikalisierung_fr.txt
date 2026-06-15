@@ -1,0 +1,2518 @@
+DISCOURS DE PRÉVENTION DE LA 
+RADICALISATION SUR INTERNET
+Exemples de projet, recommandations et application pratique
+Pour les équipes 
+de projet, les 
+professionnels et 
+les autorités
+Impressum
+Editeur 
+Jeunes et médias
+Programme national de promotion des compétences médiatiques
+Office fédéral des assurances sociales (OFAS)
+jugendschutz@bsv.admin.ch
+www.jeunesetmedias.ch
+Auteures
+Bettina Bichsel 
+En collaboration avec Liliane Galley et Maria Ritter (OFAS)
+Avec l’accompagnement de  
+Dirk Baier (ZHAW), 
+Chantal Billaud (Prévention suisse de la criminalité), 
+Sébastien Gendre (FASe Genève), 
+Vincent Joris (spécialiste des idéologies et mouvements extrémistes), 
+Stéphane Koch (spécialiste des médias sociaux), 
+Rifa’at Lenzin (Zürcher Institut für interreligiösen Dialog), 
+Daniele Lenzo (Interventionsstelle gegen Radikalisierung und gewalttätigen 
+Extremismus der Kantonspolizei Zürich) 
+et des responsables des projets pilotes
+Commande (gratuit)
+OFCL, Vente des publications fédérales, CH-3003 Berne
+www.publicationsfederales.admin.ch
+(Numéro de commande 318.860.F)
+01.20  1500  860455496
+Brochure à télécharger: www.jeunesetmedias.ch
+Disponible en français, en allemand et en italien
+Mise en page: Merkur Druck AG, Langenthal
+Photos: Pia Neuenschwander
+1re édition, janvier 2020
+© Jeunes et médias, Programme national de promotion des compétences médiatiques, 
+Office fédéral des assurances sociales
+3
+CHÈRE LECTRICE, 
+CHER LECTEUR, 
+ 
+Une vidéo sur YouTube qui fait des combattants djihadistes des héros, sur fond sonore évocateur ; un évènement local 
+annoncé sur Facebook, dont seules des recherches approfondies révèlent qu’elle est organisée par un groupement 
+d’extrême droite ; l’échange de noms et d’adresses sur des forums d’extrême gauche, assorti d’une incitation explicite à la 
+violence : Internet est devenu l’instrument préféré des extrémistes de tout bord pour propager leurs idéologies et faire 
+des adeptes. À l’aide de stratégies de propagande professionnelles, ils visent tout particulièrement les adolescents et les 
+jeunes adultes ; ils savent l’importance que revêt Internet dans leur quotidien et à quel point on est réceptif aux messages 
+extrémistes dans cette phase où l’identité se construit. 
+La radicalisation est un phénomène complexe aux multiples facettes. Il n’y a pas une seule cause expliquant pourquoi 
+quelqu’un se sent attiré par des idéologies extrémistes. C’est pourquoi il est nécessaire d’offrir une large palette de 
+mesures de prévention. Parmi celles-ci figurent les contre-discours et les discours alternatifs, c’est-à-dire des vidéos, 
+des textes ou d’autres contenus multimédias qui démasquent les messages extrémistes de caractère politique ou 
+religieux et propagent en lieu et place des valeurs telles que la tolérance, la diversité et la liberté d’opinion. Il s’agit 
+notamment de montrer aux adolescents et aux jeunes adultes à quel point il est important de jeter un regard critique sur 
+les contenus médiatiques.
+L’approche des contre-discours n’en est qu’à ses débuts en Suisse. C'est pourquoi l’Office fédéral des assurances sociales 
+a soutenu – contribuant ainsi à l’application du plan d’action national de lutte contre la radicalisation et l’extrémisme 
+violent – quatre projets pilotes qui ont produit ce genre de discours. Il a également mandaté une évaluation scientifique 
+des projets, qui a permis d’identifier les difficultés liées à cette approche et les facteurs de réussite. C’est forts de ces 
+premières conclusions que nous souhaitons fournir aux professionnels des instruments aussi pratiques que possible et les 
+motiver à lancer leurs propres projets. Par ailleurs, nous présentons également dans cette brochure des idées sur la façon 
+d’utiliser les discours des projets pilotes en milieu scolaire, dans l’animation jeunesse et dans d’autres contextes se 
+prêtant à la prévention.
+Je vous souhaite une agréable lecture.
+Ludwig Gärtner 
+Chef du domaine Familles, générations et société
+Office fédéral des assurances sociales
+4
+______Condensé 	
+5
+01_ ___Extrémisme et radicalisation sur le Net 	
+6
+L’extrémisme a de nombreux visages 	
+6
+La radicalisation, voie vers l’extrémisme 	
+7
+Comment se manifeste l’extrémisme sur Internet ? 	
+7
+Qu’est-ce qui rend les jeunes particulièrement réceptifs aux messages extrémistes ? 	
+9
+02_ ___La prévention par les contre-discours et les discours alternatifs 	
+10
+Que sont les contre-discours et les discours alternatifs et à quoi servent-ils ? 	
+10
+Que sait-on de l’effet de ces discours ? 	
+10
+03_ ___De nouvelles pistes : les quatre projets pilotes 	
+12
+Contexte et idée générale 	
+12
+Compétences spécialisées et suivi scientifique 	
+12
+Transfert de connaissances et échanges d’expériences 	
+12
+Le projet Winfluence 	
+14
+Le projet KnowIslam 	
+15
+Le projet SwissMuslimStories 	
+17
+Le projet PositivIslam 	
+18
+04_ ___Expériences et enseignements tirés des projets pilotes 	
+20
+Une approche exigeante, mais prometteuse 	
+20
+Quelles sont les principales difficultés de réalisation ? 	
+21
+Facteurs ayant contribué à la réussite des projets	
+25
+05_ ___Critères de qualité et recommandations 	
+29
+Autorités et financeurs 	
+30
+Responsables de projet 	
+32
+Groupe d’experts 	
+36
+Equipe d’évaluation 	
+36
+Tableau synoptique des rôles et des tâches 	
+38
+06_ ___Pistes pour l’utilisation des discours dans la pratique 	
+40
+Extrémisme et radicalisation : de multiples angles d’approche 	
+41
+Utilisation des discours produits dans le cadre des projets pilotes 	
+43
+07_ ___Documents et informations complémentaires 	
+49
+______Bibliographie 	
+50
+______Glossaire 	
+51
+SOMMAIRE
+ 
+À l’ère numérique, Internet joue un rôle clé dans la 
+propagation de contenus extrémistes. La Toile regorge en 
+effet de réseaux sociaux, de forums et de blogs qui sont 
+autant de caisses de résonance dans lesquelles des 
+groupements d’obédience politique ou religieuse font 
+circuler des photos, des vidéos et des textes pour diffuser 
+leurs idéologies, distiller leur propagande et faire des 
+adeptes. Or, il n’est pas rare qu’ils visent expressément les 
+adolescents et les jeunes adultes, très présents dans le 
+monde virtuel et qui, pour diverses raisons, peuvent être 
+particulièrement réceptifs aux messages extrémistes. 
+Il est difficile de savoir ce qui pousse les jeunes à se 
+radicaliser, car ce phénomène s’explique par le concours 
+de divers facteurs, liés tant au monde physique qu’au 
+monde virtuel. Face à ce défi, la prévention fait usage de 
+diverses mesures, de la sensibilisation à la transmission 
+de connaissances, en passant par les approches visant 
+expressément à identifier les adolescents et les jeunes 
+adultes vulnérables et à les détourner du chemin de la 
+radicalisation.
+Ainsi, une manière de faire de la prévention dans le monde 
+numérique consiste à élaborer ce que l’on appelle des 
+contre-discours et des discours alternatifs. Il s’agit de 
+déconstruire expressément – dans le premier cas – les 
+idéologies extrémistes et les stratégies de propagande ou 
+de lancer des messages positifs – dans le second – pour 
+briser les préjugés et favoriser tant la capacité de penser 
+de manière nuancée que le vivre ensemble, afin d’inciter 
+les adolescents et les jeunes adultes à considérer d’un œil 
+critique ce qu’ils rencontrent sur Internet. 
+Dans le cadre de son point fort « Extrémisme et radicalisa­
+tion », la plateforme nationale Jeunes et médias de 
+l’Office fédéral des assurances sociales (OFAS) a soutenu 
+et suivi quatre projets pilotes qui ont produit des discours 
+de ce genre. Des adolescents et de jeunes adultes ont été 
+associés à l’élaboration de chacune de ces initiatives et un 
+groupe d’experts a encadré l’ensemble de la démarche. 
+CONDENSÉ
+ 
+La présente brochure doit maintenant servir à familiariser 
+les acteurs de la société civile, les professionnels et les 
+autorités, mais aussi toute autre personne intéressée, avec 
+les contre-discours et les discours alternatifs et à les 
+soutenir dans le lancement de leurs propres projets. Sur la 
+base de l’évaluation des projets pilotes et du rapport 
+de recherche qui en est issu, rédigé par la Haute école 
+zurichoise de sciences appliquées (ZHAW) et par la Haute 
+école de travail social de Fribourg (HETS-FR), cette 
+brochure fournit des informations de fond, illustre les 
+principales difficultés et propose des éléments utiles pour 
+le lancement et la réalisation de projets dans ce domaine.
+5
+Une manière de faire 
+de la prévention dans 
+le monde numérique.
+6
+01_EXTRÉMISME ET 
+RADICALISATION SUR LE NET
+ 
+L’extrémisme a de nombreux visages
+L’extrémisme va à l’encontre des valeurs fondamentales 
+d’une société démocratique fondée sur l’État de droit : 
+l’égalité, la tolérance, les droits fondamentaux et la 
+protection des minorités. Adopter une attitude extrémiste, 
+c’est exprimer une opinion ou diffuser une idéologie en la 
+considérant comme la seule valable et en estimant qu’elle 
+doit être imposée sans compromis, par la force si néces­
+saire. La vision du monde extrémiste se fonde sur une 
+logique binaire simplificatrice qui divise le monde entre amis 
+et ennemis et a tendance à réduire les tenants et aboutis­
+sants d’une problématique à des théories complotistes.  
+La propagande des groupements extrémistes vise à 
+influencer de manière systématique la manière de penser et 
+les sentiments des individus, jusqu’à les amener à être 
+disposés, pour parvenir à changer la société et les institu­
+tions, à recourir à la violence (qui va des discours de haine 
+aux actes terroristes). 
+Parmi les formes d’extrémisme politique ou religieux qui 
+peuvent mener à la violence, on compte notamment : 
+L’extrémisme de droite
+L’extrémisme de droite comprend les idéologies fascistes, 
+néofascistes, nationalistes, racistes et antisémites ainsi que 
+celles hostiles aux personnes musulmanes. Dans ces 
+courants, les principales figures de l’ennemi se forment 
+autour de l’origine, de la couleur de la peau, de la religion ou 
+de l’orientation sexuelle. L’appartenance ethnique y 
+constitue le principal élément qui vient légitimer la 
+marginalisation et le dénigrement de l’Autre ; l’égalité 
+sociale et juridique y est par conséquent remise en question 
+et décriée. Les tenants de l’extrémisme de droite appellent 
+de leurs vœux un État autoritaire ; ils glorifient le fascisme 
+et le national-socialisme et minimisent ou nient 
+l’Holocauste. 
+L’extrémisme de gauche
+La notion d’extrémisme de gauche recouvre plusieurs 
+courants communistes, marxistes-léninistes et anarchistes 
+qui ont en commun la lutte contre le système capitaliste 
+mondialisé ainsi qu’une vision de l’égalité sociale absolue 
+érigée en idéologie. Ses partisans appellent à la résistance 
+contre des structures et institutions étatiques qu’ils 
+considèrent comme des agents d’exploitation et de 
+répression, telles que la police ou la démocratie parlemen­
+taire. Les extrémistes de gauche violents s’en prennent 
+souvent aux banques et à d’autres symboles du capitalisme, 
+mais aussi aux représentants du monde politique et de 
+l’administration. 
+L’extrémisme islamiste ou djihadisme
+L’extrémisme islamiste est un courant fondamentaliste de 
+l’islam dont les adeptes visent à instaurer et imposer un 
+régime islamique. L’islam y fait figure de contre-modèle à la 
+vision du monde des démocraties occidentales (considérées 
+comme dépravées) ainsi qu’aux fondements de leur société 
+et de leur État. L’appel au djihad figurant dans le Coran est 
+interprété de manière à légitimer le recours à la violence 
+contre tous les non-croyants. L’extrémisme islamiste se 
+caractérise également par une attitude homophobe. Les 
+organisations djihadistes telles qu’Al-Qaïda ou l’État 
+islamique (Daech) cherchent constamment à recruter des 
+jeunes dans les pays occidentaux.
+Outre leur opposition à la démocratie, la séparation du monde 
+entre ennemis et amis et la prétention d’être les uniques 
+détentrices de la vérité, ces trois formes d’extrémisme 
+partagent un rejet des médias de masse, une vision dichoto­
+mique de la vie et un fort sentiment d’appartenance et de 
+camaraderie entre leurs adeptes. Par ailleurs, tout membre qui 
+s’oppose au groupe ou s’en éloigne est diffamé et menacé, voire 
+même agressé.
+7
+La radicalisation, voie vers l’extrémisme
+Les scientifiques et les spécialistes s’accordent sur le fait 
+qu’il n’existe pas de facteurs ou de causes de radicalisation 
+qui s’appliqueraient à tous les cas. Ils voient plutôt dans la 
+radicalisation un processus qui évolue différemment selon 
+chaque individu. La personne qui se radicalise adopte une 
+manière de penser et d’agir qui légitime la violence envers 
+les représentants de « l’ennemi », et les experts estiment 
+que si les mécanismes en jeu sont similaires d’une idéologie 
+à l’autre, il n’est pas pour autant possible d’en déduire un 
+profil type d’individus particulièrement susceptibles de se 
+radicaliser. Les parcours et cas de figure varient beaucoup 
+d’une personne et d’un contexte à l’autre ; des facteurs 
+interagissent, qui jouent un rôle différent dans le vécu de 
+chaque individu.
+Il n’y a pas de consensus scientifique sur les interactions 
+entre ces facteurs, l’importance à accorder à chacun d’eux 
+et les dynamiques qui en découlent. La plupart des modèles 
+théoriques reprennent toutefois trois éléments qui influen­
+cent le processus de radicalisation et peuvent mener à 
+l’extrémisme, violent ou non :
+1.	 le sentiment d’insatisfaction, le fait d’être marginalisé 
+ou discriminé, les conflits (conflit identitaire notamment) 
+et un climat de tension politique 
+2.	 le fait de s’identifier à une idéologie extrémiste et de 
+l’avoir intériorisée 
+3.	 le fait de vivre dans un contexte caractérisé par la 
+loyauté envers le groupe et la pression du groupe sur 
+l’individu 
+Le choix des mesures de prévention se fait en fonction du degré 
+de radicalisation. On distingue notamment la prévention 
+universelle de la prévention sélective : la première vise de 
+larges pans de la population, tandis que la deuxième cible les 
+groupes d’individus qui, en raison de leur parcours, présentent 
+des facteurs de risques. Pour les personnes en cours de 
+radicalisation et celles déjà radicalisées, d’autres mesures sont 
+nécessaires, qui visent à les détourner de la voie empruntée. 
+Comment se manifeste l’extrémisme sur 
+Internet ?
+L’extrémisme politique ou religieux sur Internet se présente 
+sous bien des formes. Les réseaux sociaux ou les sites de 
+partage de vidéos, mais aussi les blogs, les forums et les 
+colonnes de commentaire offrent des possibilités presque 
+illimitées de diffuser des opinions, des idéologies et des 
+messages de propagande. Le problème réside dans le fait 
+que les contenus radicaux ou extrémistes sont souvent bien 
+camouflés et présentés comme des informations politiques, 
+des initiatives citoyennes ou du divertissement. Il n’est pas 
+toujours possible de se rendre compte immédiatement de 
+quoi il en retourne et qui se cache derrière un post, une 
+photo ou une vidéo.
+Les groupements extrémistes copient volontiers le style 
+jeune, utilisent un langage visuel branché et produisent à 
+grands frais des vidéos de musique et des films de propa­
+gande. En outre, Internet étant libre de tout ancrage 
+géographique, les points de vue extrêmes s’y propagent 
+plus rapidement et y atteignent davantage de personnes 
+que dans le monde physique. Enfin, l’anonymat dont les 
+internautes pensent bénéficier fait baisser leur seuil 
+d’inhibition, favorisant les propos radicaux ou le fait de liker 
+et de partager des contenus extrémistes : derrière un écran, 
+l’individu n’est pas obligé de se montrer et peut même se 
+dissimuler sous une fausse identité. 
+Autre facteur favorisant les contenus extrémistes : les 
+algorithmes de personnalisation à l’œuvre dans les médias 
+numériques, qui déterminent ce qui est montré à 
+l’internaute. Ces algorithmes sélectionnent et proposent 
+des thèmes en fonction des pages visitées précédemment. 
+Ils sont à la source d’un filtrage qui, en créant des bulles de 
+filtres ou « cocons d’informations », peut contribuer à 
+polariser les opinions et les attitudes. 
+La radicalisation 
+est plutôt vue 
+comme un processus.
+9
+Qu’est-ce qui rend les jeunes particulièrement 
+réceptifs aux messages extrémistes ?
+Les adolescents et les jeunes adultes se trouvent dans une 
+phase de développement qui se caractérise par la recherche 
+de leur identité, et Internet constitue justement un champ 
+de jeu et d’expérimentation qui leur permet de tester 
+diverses idées. À cela s’ajoute le fait que ce groupe d’âge a 
+tendance à être plus intéressé et plus ouvert à l’inconnu et 
+à la nouveauté, en particulier lorsque les contenus sont 
+présentés sous une forme qui parle aux jeunes. De plus, 
+c’est à cette phase de développement que surgit l’intérêt 
+pour les questions politiques et sociales et que l’individu se 
+forge son propre système de valeurs, ce qui le rend d’autant 
+plus ouvert à des opinions et points de vue différents. 
+Tous les groupements extrémistes profitent du comporte­
+ment médiatique des jeunes utilisateurs et utilisatrices, 
+pour qui l’accès permanent à Internet est devenu une 
+évidence et qui recourent aux réseaux sociaux et aux sites 
+de vidéo tels que YouTube non seulement pour se divertir, 
+mais aussi pour s’informer. Une enquête sur les fake news 
+menée auprès des 12 à 19 ans (JAMESfocus 2019) a 
+identifié deux groupes de personnes particulièrement 
+susceptibles de croire aux fausses informations : d’une part 
+les jeunes qui ne manifestent de toute façon pas ou peu 
+d’intérêt pour les actualités mondiales et n’ont par consé­
+quent que peu de compétences dans le domaine de la 
+littératie informationnelle ; d’autre part, ceux qui 
+s’informent surtout en discutant avec leurs amis et leur 
+famille ou en ligne (sur des sites vidéos et sur les réseaux 
+sociaux) et sont enclins à reprendre telles quelles les 
+opinions exprimées, sans réfléchir par eux-mêmes. 
+Pour tous les utilisateurs, quels qu’ils soient, la difficulté 
+consiste à identifier les contenus extrémistes et à 
+reconnaître l’intention (et notamment la propagande) qui 
+s’y dissimule. Leur expérience et leurs connaissances ne 
+sont pas seules en cause, car la réalisation technique et la 
+présentation de ces contenus sont généralement 
+d’excellente facture. De plus, les idéologies et messages 
+radicaux se cachent souvent derrière des éléments de 
+divertissement de prime abord anodins tels que chansons, 
+sonneries de téléphone ou photographies. 
+Par ailleurs, les échanges virtuels répondent au besoin des 
+jeunes de se sentir en relation avec d’autres, et le 
+sentiment d’appartenance à un groupe peut même naître 
+encore plus rapidement en ligne que lors de contacts 
+personnels dans le monde physique. Les jeunes et jeunes 
+adultes qui ont peu de relations sociales stables sont donc 
+particulièrement réceptifs à certains messages qui 
+mettent justement en avant le sens de la communauté. 
+Les contenus extrémistes 
+sont souvent présentés 
+comme du divertissement.
+10
+Que sont les contre-discours et les discours 
+alternatifs et à quoi servent-ils ? 
+Compte tenu de la complexité des processus de radicalisati­
+on, la prévention doit intervenir sur plusieurs plans. C’est 
+vrai tant hors ligne qu’en ligne, puisque les autres mesures, 
+comme les mesures répressives qui suppriment les 
+contenus problématiques détectés grâce à des logiciels de 
+surveillance (technologie disruptive), n’ont qu’une efficacité 
+limitée tant il est facile pour les extrémistes de continuer à 
+diffuser leur propagande sur de nouveaux comptes et de 
+nouveaux sites. 
+Il est par conséquent nécessaire de compléter ces mesures 
+en ciblant précisément les publics que les groupements 
+extrémistes visent. C’est là qu’interviennent les contre-
+discours et les discours alternatifs : en reprenant les mêmes 
+formes médiatiques que les contenus extrémistes, ils 
+déconstruisent leurs messages et mettent au jour la 
+propagande qui s’y cache. Ces deux types d’approches 
+misent sur la sensibilisation et l’information et aident à se 
+forger un avis de manière critique, mais se distinguent 
+toutefois par leur démarche. 
+Contre-discours
+Les contre-discours visent à discréditer les contenus extrémis­
+tes en montrant qu’ils relèvent de la propagande, à réfuter les 
+informations erronées et à démystifier les propos glorifiants. 
+Un discours islamiste faisant l’apologie de la guerre, par 
+exemple, peut être contré en lui opposant un récit abordant les 
+conséquences négatives d’un conflit armé. Les moyens utilisés 
+vont de l’argumentation logique et objective à la satire, en 
+passant par l’humour. 
+Discours alternatifs
+Les discours alternatifs mettent l’accent sur la transmission 
+de messages positifs. Tandis que les discours extrémistes 
+se fondent systématiquement sur une logique dichotomique 
+« amis-ennemis », les discours alternatifs cherchent à 
+générer des opinions et perceptions nuancées ; ils mettent 
+l’accent sur l’intégration sociale, la tolérance et les pistes 
+pour un vivre ensemble pacifique dans un État de droit 
+libéral. 
+Que sait-on de l’effet de ces discours ? 
+La recherche empirique sur l’effet des contre-discours et 
+des discours alternatifs n’en est qu’à ses débuts. On ne 
+dispose pour l’heure que de rares études menées à 
+l’étranger, et leurs conclusions ne sont pas concordantes. 
+Le comportement des internautes constitue l’une des 
+principales difficultés de la lutte contre la radicalisation. Les 
+études montrent en effet que les individus consomment 
+généralement des contenus qui correspondent à leur vision 
+du monde et que les personnes ayant déjà un point de vue 
+sur un sujet ne se laissent que difficilement convaincre du 
+contraire. Les contenus médiatiques ont plutôt comme effet 
+de conforter les individus dans leurs opinions ; ils viennent 
+encore confirmer ou renforcer la vision du monde des 
+personnes aux convictions déjà extrêmes ou radicales. Ce 
+sont donc généralement les personnes dont l’attitude n’est 
+pas encore arrêtée, ou pas ferme, qui peuvent être 
+réceptives aux contre-discours et aux discours alternatifs. 
+En ce qui concerne l’efficacité des contre-discours et des 
+discours alternatifs, les recherches menées jusqu’à l’heure 
+actuelle ont permis d’identifier les principes suivants : 
+1.	 Une connaissance approfondie du groupe cible est 
+indispensable. 
+Quel est le profil psycho-social des personnes à at-
+teindre ? Où peut-on les trouver (tant en ligne que hors 
+ligne) ? À travers quels canaux peut-on les atteindre ? 
+Quels types de messages les attirent ? 
+2. 	 Le contenu narratif du contre-message doit être 
+meilleur que celui de la propagande extrémiste. 
+Pour remplir cette condition, il faut connaître les 
+02_LA PRÉVENTION PAR LES 
+CONTRE-DISCOURS ET 
+LES DISCOURS ALTERNATIFS
+ 
+11
+thèmes que les groupements extrémistes abordent 
+dans leurs discours. C’est la seule façon de relever de 
+manière ciblée des arguments et de les déconstruire, 
+ou de mettre en avant un autre point de vue. On 
+estime en outre qu’un contre-argument est d’autant 
+plus efficace qu’il provient du même contexte culturel 
+que le discours extrémiste. 
+3. 	 Dans leur forme, les contre-discours et discours 
+alternatifs doivent être tendance et se renouveler 
+continuellement. 
+Les contenus extrémistes sont généralement produits 
+de manière professionnelle, pour une brève durée de vie 
+(ils sont sans cesse remplacés par de nouveaux). Il doit 
+en aller de même des contre-discours et des discours 
+alternatifs. 
+4. 	 Pour ce qui est des caractéristiques des discours, 
+nous disposons pour l’heure de peu d’éléments 
+confirmés empiriquement. 
+Pour savoir comment lutter efficacement contre les 
+messages extrémistes et les battre en brèche, il faut 
+mener davantage de recherches scientifiques afin de 
+mesurer l’effet des contre-stratégies. Selon les 
+conclusions tirées jusqu’à maintenant, quatre facteurs 
+sont essentiels : 
+	
+–	 Pour ce qui est des discours alternatifs, il est 
+conseillé de les transmettre sous forme de récit, 
+en mettant l’accent sur des histoires personnelles. 
+Le récit doit être attirant et divertissant aux yeux 
+du public cible. 
+	
+–	 Pour les contre-discours, il est recommandé d’établir 
+un lien direct avec le message extrémiste afin de 
+présenter les contre-arguments de manière concrète 
+et ciblée.
+	
+–	 Les discours visant la prévention devraient en 
+principe susciter la réflexion. 
+	
+–	 Autre aspect fondamental, ils devraient aussi 
+permettre à leur public cible d’améliorer ses 
+compétences médiatiques et notamment de 
+développer un regard critique sur les contenus 
+médiatiques.
+5.	 L’entité qui crée le discours alternatif doit 
+bénéficier de la confiance de son public cible, 
+qui doit la considérer comme crédible. 
+La légitimité dont bénéficient aux yeux du public cible 
+les personnes ou organismes qui génèrent les discours 
+joue un rôle essentiel dans la manière dont les contenus 
+sont perçus et les effets qu’ils produisent. 
+6.	 Les bonnes pratiques identifiées dans d’autres 
+domaines peuvent être utiles. 
+Des parallèles peuvent être tirés avec la prévention de 
+la violence et la promotion du courage civique, des 
+domaines dans lesquels les exigences en matière de 
+qualité, de dramaturgie et de maîtrise du style sont 
+semblables. 
+Les discours devraient 
+en principe susciter la 
+réflexion.
+12
+Contexte et idée générale
+L’initiative lancée en 2017 faisait œuvre de pionnier en 
+Suisse, où aucune expérience n’avait encore été faite dans 
+l’élaboration et la diffusion de contre-discours et de 
+discours alternatifs. Menée par l’OFAS, dans le cadre du 
+point fort « Extrémisme et radicalisation » de la plate-
+forme Jeunes et médias, elle mettait en œuvre l’une des 
+mesures du Plan d’action national de lutte contre la 
+radicalisation et l’extrémisme violent. 
+Quatre projets pilotes provenant de l’ensemble de la Suisse 
+ont bénéficié d’un soutien et d’un suivi de l’automne 2017 à 
+fin 2018. Les critères suivants ont été fixés pour l’appel 
+d’offres et la sélection des projets :
+Participation : les adolescents et jeunes adultes de 12 à 
+25 ans ne constituent pas seulement le groupe cible des 
+projets, mais sont aussi associés à leur conception et à leur 
+réalisation. 
+Effets à long terme : les projets doivent être conçus de 
+manière à ce que leurs effets et le transfert de connaissan­
+ces soient durables.
+Savoir-faire : l’équipe de projet doit disposer de connais­
+sances établies et d’une expérience en matière d’extrémisme 
+et de radicalisation ainsi que de communication en ligne.
+Collaboration interdisciplinaire : le projet doit bénéficier 
+d’un large soutien et miser sur la collaboration avec des 
+partenaires importants (dans les domaines animation 
+jeunesse, intégration, prévention et religion) pour la 
+réalisation des contenus et leur diffusion. 
+Insertion parmi d’autres mesures : le projet doit 
+pouvoir s’inscrire dans un ensemble de mesures de 
+sensibilisation destinées à prévenir la radicalisation.
+Les idées de projet qui ont été soumises ont amené les 
+équipes de projet à mettre l’accent sur les discours 
+alternatifs visant l’extrémisme islamiste, mais la méthodo­
+logie est explicitement applicable à d’autres formes 
+d’extrémisme, et en particulier à l’extrémisme de droite et 
+à celui de gauche.
+Compétences spécialisées et suivi 
+scientifique 
+La problématique étant interdisciplinaire, un groupe d’experts 
+de plusieurs domaines (prévention, extrémisme, dialogue 
+interreligieux, échanges socio-culturels et médias nu­
+mériques) a suivi l’ensemble du processus, de la sélection 
+des projets à leur évaluation. Cette collaboration a permis 
+d’assurer le respect de normes de qualité tant pour le 
+contenu que pour la forme des projets. Elle a aussi garanti 
+que les discours transmettaient les messages voulus de 
+manière adaptée aux groupes cibles, ne donnaient lieu à 
+aucun malentendu ni possibilité d’interprétation indésirable 
+ou contre-productive et n’adoptaient pas, par exemple, un 
+point de vue de victime biaisé. De plus, les notions utilisées 
+devaient clairement se démarquer des formes d’expression 
+typiques des groupements extrémistes.
+La Haute école zurichoise de sciences appliquées (ZHAW) et 
+la Haute école de travail social Fribourg (HETS-FR) ont 
+procédé à une évaluation formative et sommative afin de 
+garantir la qualité et d’assurer la production de connaissan­
+ces. Le rapport de recherche présente dans le détail le 
+concept, la démarche et les aspects abordés dans cette 
+évaluation (Baier et al. 2019). Les enseignements tirés de la 
+phase pilote doivent servir à développer et optimiser les 
+projets existants, mais aussi, et surtout, à en concevoir d’autres.
+Transfert de connaissances et échanges 
+d’expériences
+Afin d’établir un lien entre les quatre projets, 
+d’encourager l’échange d’expériences et de garantir le 
+03_DE NOUVELLES PISTES : 
+LES QUATRE PROJETS PILOTES
+ 
+13
+transfert des connaissances acquises, l’OFAS a réuni à 
+trois reprises les responsables de projet, les membres du 
+groupe d’experts, l’équipe d’évaluation ainsi que des 
+représentants de la Confédération. 
+Lors de ces trois rencontres, il a avant tout été question 
+de la radicalisation en général des adolescents et des 
+jeunes adultes, et des moyens de la prévenir, mais aussi 
+des stratégies de communication numérique pour diffuser 
+le discours produit, de la gestion des commentaires 
+(notamment des commentaires haineux) ainsi que des 
+méthodes de redirection qu’utilise Google par exemple 
+pour contrer la radicalisation en ligne. Des représentants 
+de projets similaires menés à l’étranger y ont également 
+été invités pour présenter leurs expériences et leurs 
+connaissances. 
+Du point de vue de la réalisation des projets, les concepts 
+et le déroulement ont également fait l’objet de discussions 
+et d’échanges. L’objectif étant d’obtenir des effets 
+durables, des réflexions ont été menées sur la poursuite 
+des projets une fois la phase pilote terminée ainsi que sur 
+la diffusion et l’utilisation ultérieure des discours dans le 
+travail de prévention (à ce sujet, voir chap. 6).
+14
+Le projet Winfluence
+Idée et objectifs
+Winfluence est un projet que le service Jugendinfo Winterthur 
+a mené en collaboration avec la déléguée à l’enfance et à la 
+jeunesse, le Service de prévention de l’extrémisme et de la 
+violence de Winterthour ainsi que l’association Just a simple 
+Scarf (JASS). L’accent a été mis sur des discours qui 
+s’opposent à la propagande extrémiste, à la haine et à 
+l’incitation à la haine sur Internet. 
+Ce projet avait comme objectif de produire et de diffuser 
+des clips vidéo afin de lutter contre les préjugés et de 
+promouvoir la tolérance et la compréhension envers les 
+personnes ayant une autre vision du monde. Il a été conçu 
+de manière à ce que les jeunes, en participant au projet, 
+acquièrent des connaissances spécifiques et deviennent des 
+ambassadeurs du respect et de la tolérance. Il a bénéficié 
+des compétences d’une pédagogue du théâtre et d’une 
+dessinatrice pour la conception des sujets et la réalisation 
+technique.
+Participation des adolescents et des jeunes adultes
+Winfluence a adopté une stratégie résolument participative. 
+L’équipe de projet a publié des annonces dans des journaux 
+et sur Internet pour trouver des jeunes intéressés à 
+participer au projet. Lors d’un casting, elle a sélectionné les 
+14 winfluencers qui allaient choisir les thèmes et contenus 
+de chacune des vidéos et les élaborer. Elle a créé un 
+deuxième groupe, de jeunes adultes cette fois, chargé de la 
+diffusion en ligne via les réseaux sociaux (Facebook, 
+Instagram) et YouTube.
+Groupes cibles prévus
+–	 Les deux groupes de winfluenceurs – le groupe de 
+jeunes de moins de 18 ans chargés d’élaborer les 
+contenus et le groupe de jeunes adultes responsables 
+de la diffusion des vidéos sur les réseaux sociaux.
+–	 Des personnes de 13 à 25 ans et de 31 à 50 ans ayant 
+une attitude critique, voire de rejet, envers les réfugiés, 
+le Proche-Orient en général et l’islam.
+–	 Des musulmans, des réfugiés et des personnes du 
+Proche-Orient de 14 à 30 ans ou de 31 à 40 ans ayant 
+été victimes ou étant victimes de rejet.
+Produit
+Cinq clips vidéo ont été réalisés. Afin de protéger les jeunes 
+participants, l’équipe de projet a opté pour le dessin animé 
+(comic motion) et des personnages représentés sous les 
+traits d’animaux. Ces vidéos abordent les sujets suivants : 
+–	 #1 Gender (Genre) : la violence dans les relations de couple
+–	 #2 Hass im Alltag (La haine au quotidien) : le racisme au 
+sein de la famille
+–	 #3 Grillideologie (Idéologie du grill) : les végétariens 
+fanatiques
+–	 #4 Gewalt und Aggression (Violence et agression) : la 
+violence dans l’espace public
+–	 #5 Die Amis sind an ALLEM schuld (TOUT est de la 
+faute des Ricains) : les théories du complot
+D’un clip à l’autre, les animaux (un rhinocéros, un chien, un 
+oiseau, un perroquet et un lama) gardaient la même person­
+nalité, mais ne jouaient pas toujours le même rôle dans le 
+conflit, afin de montrer qu’une même personne peut, selon la 
+situation, être l’agresseur (radicalisé), la victime ou le témoin.
+Équipe de projet
+Jugendinfo Winterthur, Association JASS, déléguée à l’enfance et à la jeunesse et Service de l’extrémisme et de la 
+prévention de la violence de la ville de Winterthour
+Site Internet du projet
+https://jugendinfo.win/winfluence/
+15
+Le projet KnowIslam
+Idée et objectifs
+Ce projet, réalisé sous l’égide de l’Institut pour la coopérati­
+on et le dialogue interculturels de Zurich, visait à aider des 
+jeunes et des jeunes adultes musulmans à mener une 
+réflexion constructive et critique sur leur religion et à se 
+forger leur propre opinion. 
+À cette fin, l’équipe de projet a choisi, pour aborder divers 
+thèmes généraux (l’être humain, la religion, la foi ou la 
+violence), des extraits du Coran, qu’elle a ensuite illustrés 
+par des vidéos explicatives et des textes-images présentant 
+un discours alternatif. L’objectif était de mettre en avant une 
+autre lecture du Coran et un islam pacifique et humaniste. 
+Participation des adolescents et des jeunes adultes 
+Les adolescents et les jeunes adultes ont été associés à ce 
+projet comme groupe consultatif. Deux ateliers ont été 
+organisés pour pouvoir prendre en compte leurs avis, leurs 
+réflexions et leurs préférences quant au choix des sujets. 
+Les participants aux ateliers ont été recrutés directement 
+par les responsables du projet. 
+Groupe cible prévu 
+Adolescents (de 14 à 18 ans) et jeunes adultes (19 à 25 ans) 
+de confession musulmane, qui souhaitent s’informer des 
+sujets religieux sur Internet. 
+Produit
+Au total, 53 textes-images et dix vidéos ont été réalisés sur 
+divers passages du Coran, tous sur le même modèle. Un 
+format court a été choisi pour les textes-image ainsi que 
+pour les sourates et les explications y relatives. Les vidéos 
+ont apporté un éclairage plus en profondeur, en incluant 
+plusieurs points de vue. Chaque vidéo aborde un sujet 
+différent : 
+–	 Vidéo nº 1 : Der Mensch im Islam (La vision de l’être 
+humain dans l’islam)
+–	 Vidéo nº 2 : Was sagt der Islam zu Gewalt ? (Que dit 
+l’islam de la violence ?)
+–	 Vidéo nº 3 : Glaube – Iman (Foi et iman) 
+–	 Vidéo nº 4 : Gott im Islam – Glaube an Allah (Dieu dans 
+l’islam – la Foi en Allah)
+–	 Vidéo nº 5 : Was ist der Islam ? (Qu’est-ce que l’islam ?)
+–	 Vidéo nº 6 : Der Koran – Die Lesung (Le Coran – la 
+lecture)
+–	 Vidéo nº 7 : Hadith – Was bedeutet das ? (Les hadîths : 
+qu’est-ce que c’est ?)
+–	 Vidéo nº 8 : Jenseits im Islam (Akhira) – Das Leben nach 
+dem Tod (Akhira, l’au-delà dans l’islam – La vie après la 
+mort)
+–	 Vidéo nº 9 : Propheten und Gesandte (Les prophètes et 
+les messagers)
+–	 Vidéo nº 10 : Grundrechte im Islam (Les droits fonda­
+mentaux dans l’islam)
+Équipe de projet
+Institut pour la coopération et le dialogue interculturels de Zurich, médiamaticiens et informaticiens, spécialistes de 
+l’islam et de la radicalisation
+Site Internet et compte Instagram
+https://knowislam.ch/
+https://www.instagram.com/knowislam_ch/
+17
+Le projet SwissMuslimStories
+Idée et objectifs
+Ce projet, mené sous l’égide de l’Association Ummah (Jeunes­
+se musulmane de Suisse), a bénéficié du soutien de diverses 
+organisations, fondations et services nationaux et régionaux. 
+De brefs portraits vidéo ont présenté des musulmans de 
+Suisse. Ces récits personnels devaient montrer que les 
+musulmans de Suisse mènent des vies très diverses, qu’il y 
+a plusieurs manières de vivre sa religion au quotidien et qu’il 
+est possible de s’identifier à plusieurs modèles à la fois. Ces 
+portraits devaient servir de figures d’identification positives 
+aux jeunes musulmans.
+Participation des adolescents et des jeunes adultes
+Les protagonistes des portraits vidéo ont été recrutés à 
+travers les réseaux de l’équipe et des organisations musulma­
+nes du projet. Lors d’un atelier, une trentaine de jeunes et de 
+jeunes adultes ont eu la possibilité de se prononcer sur les 
+protagonistes potentiels, les messages et les formats avec 
+l’équipe de projet. Dans un deuxième atelier, les jeunes et 
+jeunes adultes ont analysé et évalué les résultats du projet.
+Groupes cibles prévus
+–	 Les musulmans de Suisse (surtout adolescents et jeunes 
+adultes) 
+–	 Le public suisse, dans le but de promouvoir la tolérance.
+Produit
+Dix courts-métrages ont été produits et diffusés, chacun 
+en version courte (une minute environ) et en version 
+longue (trois minutes environ). Toutes ces vidéos présen­
+tent des musulmans nés en Suisse ou qui y ont immigré. 
+Sur la droite de chaque vidéo se trouve une icône qui 
+permet d’accéder à une brève explication et à une 
+représentation graphique du parcours de la personne en 
+question ; on y voit tant les crises ou phases difficiles que 
+les réussites. Ces vidéos ont traité les sujets suivants :
+–	 Épisode nº 1 Friedensstifter (Artisan de paix) : Samir, 
+29 ans, peintre, illustrateur et graffeur indépendant, né 
+en Suisse.
+–	 Épisode nº 2 Schweizermacherin (La faiseuse de 
+Suisses) : Dania, 23 ans, interprète interculturelle, a fui 
+la Syrie à 18 ans.
+–	 Épisode nº 3 Landesverteidiger (Défenseur du pays) : 
+Saâd, 26 ans, futur économiste, officier dans l’armée, né 
+en Suisse.
+–	 Épisode nº 4 Teamplayerin (La sociable) : Selma, 28 ans, 
+pédagogue sociale, née en Suisse. 
+–	 Épisode nº 5 Weltbürgerin (Citoyenne du monde) : Hannan, 
+33 ans, spécialiste de l’islam, active dans l’aide aux 
+réfugiés, née à Munich, arrivée en Suisse à l’âge de 31 ans. 
+–	 Épisode nº 6 Gemeinschaftsmensch  (Le communau­
+taire) : Bujar, 29 ans, politicien, arrivé en Suisse enfant, 
+en provenance de Macédoine. 
+–	 Épisode nº 7 Wegweiserin (La guide) : Nuran, 38 ans, 
+professeure d’auto-école, arrivée en Suisse enfant, en 
+provenance de Macédoine. 
+–	 Épisode nº 8 Lebensretterin (La sauveuse) : Serpil, 
+25 ans, future médecin, née en Suisse.
+–	 Épisode nº 9 Trendsetter (L’influenceur) : Sohail, 24 ans, 
+informaticien, créateur de sa propre marque de 
+vêtements, né en Suisse.
+–	 Épisode nº 10 Volksmusiker (Le joueur de musique 
+populaire) : Atilla, 29 ans, informaticien, musicien 
+professionnel, né en Suisse.
+Équipe de projet
+L’équipe du projet était composée de six personnes provenant de différentes disciplines (ethnologie, sciences de l’éducation, 
+travail social, sciences de l’islam et technologie alimentaire).
+Site Internet du projet
+https://www.swissmuslimstories.ch
+18
+Le projet PositivIslam
+Idée et objectifs
+Ce projet, lancé par le Centre Suisse Islam et Société de 
+l’Université de Fribourg, a été mené en collaboration avec 
+l’association musulmane Frislam dans le but de créer un site 
+internet consacré aux contributions de jeunes blogueurs sur 
+la radicalisation et l’extrémisme. 
+Les textes et illustrations devaient proposer une autre 
+lecture que celle des discours propagandistes des extrémis­
+tes, stimuler la réflexion et inciter au débat. Les blogueurs, 
+âgés de 18 à 25 ans et de confession musulmane pour la 
+plupart, y ont raconté leurs expériences, en jetant un regard 
+nuancé sur l’islam et les sujets en lien avec cette religion. 
+19
+Équipe de projet
+L’équipe à la tête de ce projet était composée de deux membres du Centre Suisse Islam et Société, d’une personne 
+de l’association musulmane Frislam et d’une influenceuse.
+Site Internet du projet
+https://www.positivislam.ch/
+Participation des adolescents et des jeunes adultes
+Le projet visait une approche résolument participative. Les 
+membres du projet ont recruté via leurs réseaux de jeunes 
+blogueurs – en majorité des étudiants – qui se sont 
+préparés en suivant des journées d’entraînement et des 
+ateliers. Il s’agissait en particulier de leur permettre de 
+mener une réflexion critique sur des messages extrémistes 
+et de se forger leur propre opinion. 
+Groupes cibles prévus
+–	 En premier lieu les jeunes adultes, c’est-à-dire les 
+blogueurs eux-mêmes ainsi que les destinataires des 
+contributions, chez qui il s’agissait de susciter la 
+réflexion et l’échange. 
+–	 En deuxième priorité, le grand public.
+Produit
+En tout, 18 contributions, créées par dix jeunes, ont été 
+publiées sur le site, la plupart sous forme de textes. Les 
+blogueurs ont signé leurs créations par des pseudonymes. 
+Aperçu des contributions : 
+–	 Partons tous au Jihâd : la véritable signification du 
+Jihâd
+–	 Commençons par le commencement : distinction entre 
+islam et terrorisme
+–	 Allah Akbar – une expérience immédiate : signification 
+de l’expression Allah Akbar 
+–	 Quels jeunes voulons-nous être ?: texte d’introduction 
+sur le rôle que la jeune génération aimerait se choisir
+–	 La « Poetessa » : l’esempio di Hissa Hilal (La « Poétes­
+se » : l’exemple de Hissa Hilal): article sur la poétesse 
+d’Arabie Saoudite qui lutte contre le fanatisme religieux
+–	 Je ne suis pas raciste, mais… : distinction entre le 
+racisme frontal et le racisme subtil 
+–	 Des musulmans et un islam ? : l’islam, une base 
+religieuse commune à divers musulmans 
+–	 Comment s’est déroulée ma conversion à l’islam ? : 
+récit d’une conversion 
+–	 22 mars 2016, 9 h 11, un grand boum : distinction entre 
+islam et terrorisme islamiste 
+–	 Il radicalismo islamico come indice di una problematica 
+generazionale? (Le radicalisme islamique, indice d’une 
+problématique générationnelle ?) : présentation de la 
+thèse selon laquelle l’extrémisme musulman n’est 
+qu’une des formes de violence générée par le nihilisme 
+des jeunes 
+–	 Les doutes et le sens : regard critique d’une femme 
+musulmane sur les pratiques de l’islam 
+–	 Batailles et moralité humaine : règles en temps de 
+guerre 
+–	 De l’éthique de guerre à l’éthique de paix : réflexion sur 
+la guerre et la paix dans l’islam 
+–	 Quando l’islam è al centro del discorso I (Quand l’islam 
+est au centre des débats I) : l’islam et la rhétorique de 
+l’extrême droite (partie 1) 
+–	 La violenza di un pezzo di carta (La violence d’un bout 
+de papier) : l’image négative des musulmans dans les 
+médias 
+–	 E se fossimo tutti musulmani? (Et si nous étions tous 
+musulmans ?) : définition de la notion de « musulman » 
+–	 Quando l’islam è al centro del discorso II (Quand 
+l’islam est au centre des débats II) : l’islam et la 
+rhétorique de l’extrême droite (partie 2) 
+–	 Le voile oppressé : considérations sur le voile (dessin)
+20
+Une approche exigeante, mais prometteuse
+L’approche des contre-discours et des discours alternatifs 
+est-elle à même de produire l’effet préventif souhaité ? Les 
+membres du groupe cible se sentent-ils interpellés par les 
+contenus et comprennent-ils les messages véhiculés ? Quels 
+facteurs contribuent à la réussite et quelles sont les prin-
+cipales difficultés à surmonter ? C’est dans le but de répondre 
+à ces questions que les évaluateurs ont suivi la réalisation 
+des projets et se sont entretenus tant avec leurs responsa-
+bles qu’avec les adolescents et jeunes adultes impliqués. 
+Ils ont ainsi pu porter un jugement sur les processus 
+d’élaboration et sur les produits finaux. La question de 
+l’impact des discours a mérité une analyse multisectorielle : 
+discussions dans des classes d’écoles et des centres de 
+loisirs, entretiens avec différents experts et enquête 
+standardisée en ligne auprès des jeunes afin d’obtenir une 
+appréciation personnelle approfondie.
+Si l’on ne peut pas encore tirer de conclusions définitives 
+sur l’impact des discours, l’évaluation a déjà permis 
+d’apporter de premières réponses aux questions énoncées 
+ci-dessus. Les enseignements qui en sont tirés fournissent 
+des pistes utiles à la conception et à la réalisation de 
+projets basés sur des discours.
+Avant d’aborder en détail, dans les pages qui suivent, les 
+principales difficultés et les principaux facteurs de réussite, 
+signalons que, dans l’ensemble, les destinataires ont 
+généralement compris les discours produits sous forme de 
+clips vidéo ou de textes et les ont évalués positivement. Les 
+projets ont atteint leurs principaux groupes cibles, c’est-
+à-dire les adolescents et les jeunes adultes en général et, en 
+particulier, ceux d’origine musulmane, même si, au moment 
+de l’évaluation, la diffusion constatée était plutôt marginale. 
+Sans trop s’avancer, on peut par ailleurs conclure que les 
+contre-discours et les discours alternatifs peuvent tout à fait 
+avoir un effet préventif, mais qu’il ne faut les considérer que 
+comme une mesure parmi d’autres et jamais comme la seule 
+à adopter pour l’ensemble du processus de radicalisation. 
+04_EXPÉRIENCES ET ENSEIGNE­
+MENTS TIRÉS DES PROJETS 
+PILOTES
+ 
+Si elle a parfois occasionné un surcroît de travail aux 
+responsables de projet, l’obligation de soumettre les discours 
+produits au groupe d’experts ad hoc avant leur publication, 
+applicable à tous les projets, s’est avérée payante en fin de 
+compte. Il fallait en effet à tout prix limiter le risque que les 
+discours produisent un effet contraire à celui recherché ou 
+donnent même un élan soudain à la radicalisation.
+Il n’est pas possible de dégager de l’évaluation un modèle 
+de bonnes pratiques universel. En effet, chaque projet 
+présente des particularités en fonction du contexte dans 
+lequel il a été conçu et réalisé. En outre, il existe différentes 
+façons de parvenir au même but, comme le montrent les 
+conclusions suivantes :
+–	 Des personnes en chair et en os, qui racontent leurs 
+histoires, rendent les discours compréhensibles et 
+crédibles, mais d’autres genres d’illustrations, comme 
+les dessins animés, peuvent aussi être efficaces.  
+–	 C’est l’image qui a le plus d’impact. La musique et les 
+sons semblent secondaires, mais peuvent être un 
+élément perturbateur, voire contradictoire, lorsque, 
+plutôt que de souligner le message transmis par les 
+images, ils apportent une note discordante. 
+–	 Le message peut gagner en crédibilité lorsque l’origine 
+d’un contre-discours ou d’un discours alternatif est 
+clairement indiquée, en affichant l’auteur sur un clip vidéo, 
+par exemple. 
+–	 Les hashtags, les slogans ou les questions auxquels les 
+discours font référence ou qui y sont affichés peuvent 
+accentuer l’effet recherché. 
+Pour les projets futurs, cette diversité signifie que l’on peut 
+et que l’on doit continuer à expérimenter. Internet et les 
+réseaux sociaux demeureront en effet un instrument 
+primordial de socialisation des jeunes et tout laisse 
+supposer aussi que les groupements extrémistes continu-
+eront à en profiter. Il faudra donc aussi produire des 
+contre-discours et des discours alternatifs afin de disposer 
+d’un outil en ligne de prévention de la radicalisation.
+21
+Quelles sont les principales difficultés de 
+réalisation ?
+Le domaine des contre-discours et des discours positifs 
+n’ayant guère été exploré, l’OFAS ne disposait pas, au 
+moment de lancer son appel d’offres, de données empi­
+riques à fournir aux responsables des projets. Il s’agit là de 
+la première difficulté, que les équipes de projet ont 
+surmontée de différentes manières, de sorte que les quatre 
+projets pilotes étaient bien différents les uns des autres à 
+plusieurs égards, et en particulier en ce qui concerne leurs 
+processus et structures, les discours produits et la collabo­
+ration avec les adolescents et les jeunes adultes. Par 
+ailleurs, tout n’était pas prévisible au départ et certaines 
+particularités ne sont apparues qu’en cours de réalisation. 
+Enfin, rien ne garantissait que les discours diffusés 
+atteindraient les groupes cibles de la façon voulue et 
+seraient compris conformément aux attentes, jugés 
+crédibles et considérés comme pertinents.
+Complexité du modèle des contre-discours et des 
+discours alternatifs
+Lors de l’élaboration des contre-discours et des discours 
+alternatifs, la complexité réside avant tout dans la nécessité 
+de disposer de connaissances approfondies concernant le 
+message à faire passer, le groupe cible, la technique ainsi 
+que la conception et l’organisation. S’ajoutent à cette 
+difficulté le dynamisme et la vitesse à laquelle évoluent les 
+médias numériques et les réseaux sociaux dans lesquels 
+sont diffusés les discours. C’est dire si les projets réalisés 
+dans ce domaine doivent sans cesse faire face à de 
+nouvelles exigences. Ils doivent donc s’inscrire dans une 
+démarche continue qui leur permette de rester à la page et 
+de répondre aux messages extrémistes par des contre-
+discours toujours renouvelés.
+La complexité de l’approche a amené tous les responsables 
+à modifier le projet qu’ils avaient présenté en réponse à 
+l’appel d’offres : Winfluence a élargi son champ thématique, 
+KnowIslam a renoncé au plurilinguisme par manque 
+d’effectifs, SwissMuslimStories a engagé une agence 
+spécialisée dans les campagnes et revu les tâches des 
+jeunes, et PositivIslam s’est recentré sur un seul canal et a 
+confié le graphisme du site Internet à un professionnel. 
+En outre, aucun des projets n’a pu atteindre l’intégralité de 
+ses objectifs, principalement parce que ceux-ci étaient 
+trop ambitieux.  
+Participation des adolescents et des jeunes adultes
+S’il ressort clairement des expériences faites dans les 
+projets que la participation des adolescents et des jeunes 
+adultes s’est révélée essentielle à leur aboutissement (voir 
+les facteurs de réussite au chapitre suivant), cet aspect 
+représente toutefois aussi une difficulté pour plus d’une 
+raison, la première étant de trouver ces jeunes. Les 
+responsables de projet ont déployé à cette fin diverses 
+stratégies, allant d’annonces dans les médias à des 
+contacts directs au sein de réseaux existants. La deux-
+ième difficulté consiste à définir le rôle des adolescents et 
+des jeunes adultes : doivent-ils servir de groupe consulta­
+tif pour donner leur avis sur des contenus déjà élaborés ou 
+plutôt être associés à la production et à la diffusion de 
+ceux-ci ? Cette seconde option présuppose un fort 
+engagement et une motivation durable, ce qui n’est pas 
+gagné d’avance. En troisième et dernier lieu se pose une 
+question essentielle : dans quelle mesure les adolescents 
+et les jeunes adultes s’exposent-ils en prenant part au 
+Les principales difficultés
+–	 Complexité du modèle des contre-discours et des 
+discours alternatifs 
+–	 Participation des adolescents et des jeunes 
+adultes 
+–	 Assurance-qualité des contenus 
+–	 Diffusion des contenus et atteinte des groupes 
+cibles
+–	 Estimation et la mesure de l’effet des discours sur 
+les groupes cibles
+22
+projet ? Ainsi, certaines personnes potentiellement 
+intéressées par les projets ont fini par y renoncer afin de 
+ne pas apparaître sur les réseaux, craignant des préjudi­
+ces, pour leur carrière professionnelle, par exemple. En 
+outre, il s’est avéré que de nombreux participants 
+considèrent la religion et la foi comme des affaires privées 
+et que certains n’ont pas souhaité échanger ouvertement 
+sur ces sujets ou, du moins, se sont montrés réticents à le 
+faire. 
+Dans le cas du projet Winfluence, par exemple, la forte 
+participation des jeunes dès le début du projet (c’est-à-dire 
+dès la recherche d’idées) a eu pour conséquence un 
+élargissement du champ thématique. Le projet s’est ainsi 
+enrichi de thèmes (comme le fanatisme végétarien du 
+troisième sujet « Grillideologie ») manifestement plus 
+proches du quotidien des jeunes que la radicalisation 
+extrémiste.
+Assurance-qualité des contenus
+La première condition à remplir pour qu’un discours serve 
+d’instrument de prévention contre la radicalisation extré­
+miste est de s’assurer que ses messages ne produisent pas 
+d’effets négatifs ou indésirables. 
+Compte tenu de l’aide financière accordée par 
+l’administration fédérale, des précautions particulières ont 
+été prises, dans les projets pilotes, pour éviter toute 
+diffusion de contenus pouvant avoir un effet contraire au 
+but visé ou être inadéquats de quelque façon que ce soit. 
+L’OFAS et le groupe d’experts ad hoc ont appliqué notam­
+ment les critères de validation suivants :
+–	 pas de termes/gestes injurieux ou sexistes ni 
+d’incitations à la haine ou à la violence 
+–	 pas de vision étriquée ou unilatérale des problèmes 
+et/ou des solutions 
+–	 transmission d’une vision du monde ouverte et inclusive
+–	 adaptation au groupe cible et au contexte suisse
+Lors de la validation des discours, l’OFAS et le groupe 
+d’experts ont attaché une attention particulière par 
+exemple aux notions présentant une analogie avec le 
+langage des groupes extrémistes, aux conflits présentés 
+sans résolution claire ou encore aux contenus qui 
+pourraient contribuer à conforter les préjugés plutôt qu’à 
+les faire tomber. Il est aussi apparu que la limite est 
+parfois ténue avec les discours de victimisation, qui 
+présentent la situation de façon unilatérale et sans 
+nuances, dans la perspective de la victime.
+Diffusion des contenus et atteinte des groupes cibles
+Sur Internet, et encore plus sur les réseaux sociaux, le 
+rythme est trépidant. Quels que soient le sujet et le format, 
+les contenus doivent toujours rivaliser entre eux pour capter 
+l’attention des internautes. Ici aussi, les quatre projets 
+pilotes ont opté pour des stratégies différentes : certains 
+discours étaient visuels, d’autres textuels, et les canaux de 
+diffusion ont été des plus variés, du site Internet appar­
+tenant à l’organisation responsable du projet à YouTube, en 
+passant par Facebook, Twitter et Instagram. Même si 
+l’utilisation de différents canaux comporte des avantages, il 
+ne faut pas oublier le temps qu’il faut y consacrer : les 
+comptes des réseaux sociaux doivent en effet être gérés en 
+permanence de façon adéquate.
+Il ne suffit pas de mettre les discours en ligne pour assurer 
+leur diffusion. Dans les quatre projets pilotes, les statis­
+tiques d’accès ont été plus élevées lorsque l’on a eu recours 
+à des publicités payantes. Signalons toutefois que ces 
+statistiques ne fournissent aucune indication sur la mesure 
+dans laquelle les internautes se sont réellement intéressés 
+au sujet. Les discours ont été peu commentés et n’ont guère 
+suscité de débats ; quand ils l’ont fait, il s’agissait de sujets 
+polémiques (comme le soldat dans l’épisode 3 « Landesver­
+teidiger » [Défenseur de la patrie] de SwissMuslimStories). 
+Toutefois, les réactions des adolescents et des jeunes 
+adultes durant l’évaluation ont clairement montré qu’il ne 
+faut pas avoir d’attentes démesurées à cet égard. Les 
+23
+jeunes, qui attachent en effet beaucoup d’importance à 
+l’image qu’ils donnent d’eux-mêmes sur la Toile, seront 
+plutôt réticents à évaluer, commenter ou transmettre des 
+contenus sur certains sujets. En outre, les habitudes de 
+navigation évoluent au gré de tendances générales et de la 
+classe d’âge. Ainsi, si Facebook n’a plus du tout la cote 
+auprès des moins de 18 ans, il reste très prisé des jeunes 
+adultes.
+S’agissant des groupes cibles, les statistiques de diffusion 
+généralement faibles laissent penser que les discours n’ont 
+guère atteint un public plus large. Pour garantir une 
+diffusion supplémentaire (après la conclusion de la phase 
+pilote), les responsables de projet envisagent aussi d’avoir 
+recours à des mesures hors ligne, comme la projection des 
+vidéos dans des cinémas ou lors d’une manifestation suivie 
+d’une table ronde, la réalisation d’ateliers dans des centres 
+de loisirs ou l’utilisation des discours dans un cadre scolaire 
+(voir également le chapitre 6).
+Estimation et mesure de l’effet des discours 
+sur les groupes cibles
+Que les messages véhiculés soient réellement compris et 
+qu’ils produisent l’effet voulu dépend de facteurs tels que la 
+forme, le contenu ou la longueur des discours.
+Les récits personnels, mettant en scène de vrais visages et 
+des émotions visibles (SwissMuslimStories), ont mieux 
+passé la rampe que les vidéos didactiques (KnowIslam) et 
+les clips en dessins animés (motion comics, Winfluence). Les 
+dessins animés ont dû composer avec une contradiction 
+interne : si, en raison de leur forme, ils s’adressaient plutôt à 
+des enfants, la compréhension de leur contenu exigeait en 
+revanche une certaine maturité cognitive.
+Les internautes n’ont souvent pas regardé jusqu’à la fin les 
+vidéos d’une certaine longueur. En outre, si le plaisir procuré 
+par un discours joue un rôle dans sa diffusion, les contenus 
+amusants doivent toutefois être utilisés avec prudence, car 
+le sens de l’humour varie énormément d’un individu à 
+l’autre. Il faut ainsi être vigilants pour éviter tout mal-
+entendu, voire des réactions de rejet, qui peuvent être 
+contraires au but visé.
+Le projet KnowIslam a par ailleurs montré toute la difficulté 
+qu’il y a à transmettre des notions religieuses de façon 
+adaptée aux jeunes : ses simplifications opérées par souci 
+d’intelligibilité ne résistent pas toutes à une analyse 
+théologique. Par ailleurs, les discours produits dans le cadre 
+de ce projet ont été davantage appréciés par les jeunes 
+musulmans, en particulier en raison de l’image positive 
+qu’ils donnent de l’islam.
+Pour l’ensemble des projets, la question est de savoir si les 
+contre-discours et les discours alternatifs peuvent être 
+compris correctement et produire leurs effets sans faire 
+partie d’un paquet de mesures plus vaste (voir à cet égard 
+les éléments pratiques au chap. 6). S’il est trop tôt pour se 
+prononcer définitivement sur l’effet préventif des discours 
+contre les dérives extrémistes et en faveur de la tolérance, 
+les résultats de l’évaluation laissent néanmoins penser 
+qu’ils pourraient faire de bonnes mesures de prévention.
+L’effet dépend de 
+facteurs tels que la forme, 
+le contenu ou la 
+longueur des discours.
+24
+25
+Facteurs ayant contribué à la réussite 
+des projets
+Comment les quatre projets pilotes ont-ils surmonté ces 
+difficultés ? Quelles stratégies se sont révélées efficaces ?
+En dépit de l’hétérogénéité des démarches choisies par les 
+responsables de projet, il est possible d’identifier cinq 
+facteurs grâce auxquels le bilan de l’ensemble du program­
+me s’est avéré somme toute positif. 
+Avant de préciser ces facteurs dans les pages qui suivent, 
+signalons qu’en fin de compte aucun projet n’aurait abouti 
+sans le dévouement des personnes engagées qui, dans la 
+plupart des cas, y ont consacré bien plus de temps que 
+prévu. Les personnes impliquées ont par ailleurs dû faire 
+preuve d’ouverture et de capacité à expérimenter, mais 
+aussi de souplesse face aux imprévus.
+Clarté dans la conception
+En dépit de l’absence presque totale d’expériences dans le 
+domaine des contre-discours et des discours alternatifs en 
+Suisse, les responsables des projets avaient des idées très 
+précises de ce qu’ils voulaient réaliser. Ils se sont notam­
+ment inspirés de projets de contre-discours menés dans 
+d’autres pays. 
+Un facteur s’est révélé essentiel : le projet doit être conçu 
+de manière à définir clairement son organisation, ses 
+objectifs, sa démarche et son financement et à tenir compte 
+des difficultés. Il est ainsi recommandé de délimiter 
+clairement les rôles de toutes les parties prenantes, tant 
+internes qu’externes. Il s’agit aussi de partager la même 
+idée du projet, de clarifier les attentes et de formuler les 
+tâches de façon contraignante. S’agissant des objectifs, il 
+convient de faire preuve de réalisme et de se concentrer sur 
+quelques buts concrets. La désignation d’un interlocuteur 
+principal et l’adoption d’un plan de communication facilitent 
+l’échange d’informations et la coordination des positions. 
+Sans oublier les relations publiques : des objectifs clairs, 
+des règles et des accords sont ici aussi indispensables. 
+Existence d’un réseau bien établi
+La réalisation des projets pilotes a été particulièrement 
+aboutie lorsque le projet disposait à l’origine d’un vaste 
+réseau d’organisations de soutien et de personnes enga­
+gées. Un réseau de ce genre s’avère important dans 
+plusieurs phases du projet, mais en particulier, selon 
+l’évaluation, lors du recrutement des adolescents et des 
+jeunes adultes et lors de la diffusion des discours. Les 
+responsables du projet SwissMuslimStories ont ainsi fait 
+jouer leurs réseaux personnels et leur rattachement à des 
+associations et fédérations musulmanes pour trouver des 
+protagonistes appropriés. Ils ont aussi demandé aux 
+institutions de faire office de multiplicateurs et de partager 
+les vidéos, ce qui a permis de créer une communauté sur 
+Facebook. Dans le cas de Winfluence, les responsables ont 
+tiré parti de leur collaboration avec l’association JASS pour 
+soutenir les activités en ligne. Les expériences faites par les 
+projets KnowIslam et PositivIslam ont par ailleurs montré 
+l’importance d’un engagement fort et durable des parte­
+naires et des membres du réseau : il convient donc de définir 
+le plus tôt possible le modèle de collaboration et les 
+attentes qui y sont liées.
+Compétences en gestion de projets
+Eu égard à la complexité de la situation, il était clair que les 
+chefs de projets devaient disposer de vastes compétences 
+en matière de gestion de projet, et cela dès les phases de 
+lancement et de planification et jusqu’à l’évaluation – pour 
+en tirer des enseignements – en passant par la réalisation, 
+le pilotage et le contrôle.
+Les facteurs de succès
+–	 Clarté dans la conception 
+–	 Existence d’un réseau bien établi 
+–	 Compétences en gestion de projets 
+–	 Participation des adolescents et des jeunes adultes
+–	 Compétences externes
+26
+Quand il s’agit de déterminer les objectifs et les produits à 
+réaliser, quantité et qualité ne vont pas de pair. Mieux vaut 
+opter pour un nombre plutôt réduit de discours d’excellente 
+facture et n’utiliser pour leur diffusion que quelques canaux 
+bien choisis. Lorsque le projet répond à un appel d’offres 
+lancé par une autorité ou une institution privée, la formulati­
+on d’objectifs réalistes permet d’éviter de le « surcharger ». 
+Organisation, structure et culture du projet doivent 
+satisfaire aux exigences du contexte et, le cas échéant, de 
+l’appel d’offres. Un suivi interne périodique permet de 
+garantir que le projet tient le bon cap et de procéder en 
+temps voulu aux ajustements nécessaires. Enfin, il faut 
+s’assurer de disposer des infrastructures nécessaires à la 
+réalisation du projet et de ressources en suffisance. 
+Participation des adolescents et des jeunes adultes
+La participation des adolescents et des jeunes adultes 
+constitue à la fois l’une des difficultés des projets, comme 
+nous l’avons expliqué ci-dessus, et l’un de leurs principaux 
+facteurs de succès. Les projets qui ont réussi à les motiver à 
+participer ont suscité des réactions tout à fait positives : 
+–	 Les adolescents et les jeunes adultes ont beaucoup app­
+récié d’être associés au déroulement des projets et de 
+pouvoir participer à la production des contenus, que ce 
+soit comme acteurs, blogueurs ou participants à un 
+atelier.
+–	 Les participants ont acquis des connaissances et ont été 
+sensibilisés aux thèmes traités, surtout lorsqu’ils ont 
+joué un rôle actif. 
+–	 Les discours ont gagné en authenticité grâce à 
+l’implication des adolescents et des jeunes adultes.
+Sur la base des expériences faites – signalons que les 
+adolescents et les jeunes adultes ont accompli des tâches 
+différentes selon les projets –, différentes réflexions 
+s’imposent dès la phase de lancement d’un projet en ce qui 
+concerne leur participation :
+–	 L’organisation et la structure doivent être particulière­
+ment bien définies lorsque les adolescents et les jeunes 
+adultes jouent un rôle clé dans le projet, mais il n’est 
+pas nécessaire de les associer à chaque phase du 
+projet ; il peut aussi être utile, en fonction des caracté­
+ristiques de chaque projet, de leur attribuer une fonction 
+consultative (pour l’ensemble du projet ou pour 
+certaines phases). 
+–	 Plus les attentes envers les adolescents et les jeunes 
+adultes sont élevées, plus il est important de leur fournir 
+les connaissances nécessaires. Les cours et ateliers 
+organisés à l’intention des blogueurs du projet Positiv-
+Islam se sont ainsi avérés utiles et importants, car ils 
+ont permis aux participants, selon leurs dires, de mieux 
+comprendre le processus de radicalisation, le fonction­
+nement de la propagande djihadiste et la façon d’y 
+réagir. Par ailleurs, grâce aux échanges, ils ont pu 
+améliorer encore leurs méthodes de travail et la qualité 
+de leurs articles. Dans le cas de Winfluence, des 
+interventions d’experts ont préparé les jeunes adultes à 
+la diffusion des discours sur Internet, ce qui leur a 
+permis, dans ce cas aussi, d’acquérir des connaissances 
+spécifiques.
+–	 La participation des adolescents et des jeunes adultes 
+peut devenir un dilemme lorsque le projet est ainsi 
+conçu que les jeunes sont amenés à s’exposer. Chaque 
+27
+projet pilote a résolu cette difficulté à sa manière. Les 
+responsables de SwissMuslimStories ont retenu de 
+jeunes adultes disposés à présenter leur récit à visage 
+découvert et sans pseudonyme. En revanche, les 
+blogueurs de PositivIslam ont utilisé un nom de plume 
+pour publier leurs articles. Enfin, dans le cas de 
+Winfluence, la décision d’utiliser des figures d’animaux 
+dans les dessins animés pour préserver l’anonymat a 
+déçu quelques jeunes qui avaient supposé qu’ils 
+seraient reconnaissables malgré le décalage avec la 
+réalité. 
+–	 Demander à des adolescents et à de jeunes adultes de 
+consacrer une partie de leur temps libre à l’élaboration 
+de discours n’est pas gagné d’avance. Leurs motivations 
+étaient très variées : certains avaient vécu eux-mêmes 
+des expériences négatives (exclusion ou discours 
+haineux), d’autres étaient convaincus de l’importance 
+des sujets abordés pour notre société et tenaient à faire 
+preuve de courage civique. Pour motiver et encourager 
+les jeunes à participer, il peut être utile d’avoir recours à 
+des incitations de nature soit immatérielle (les jeunes 
+sont associés au projet dès les premières phases et y 
+jouent un rôle central), soit matérielle (sous la forme 
+d’une indemnité financière).
+Compétences externes 
+Dans tous les projets pilotes, le recours à des experts 
+externes pour la réalisation des principales phases s’est 
+révélé décisif, ce qui n’est guère étonnant si l’on pense à la 
+diversité des domaines qui entrent en jeu dans des projets 
+de contre-discours et de discours alternatifs. Il faut en effet 
+disposer de connaissances spécifiques notamment en 
+matière d’extrémisme et de radicalisation, d’animation 
+jeunesse, de médias numériques, de communication et de 
+marketing, voire, selon les projets, dans d’autres domaines 
+encore : des équipes de projet ont notamment fait appel à 
+un réalisateur (SwissMuslimStories), à une dessinatrice et à 
+une pédagogue du théâtre (Winfluence). L’examen avant 
+diffusion, par des experts indépendants, des discours 
+produits a lui aussi été décisif. 
+Il convient de souligner que pour pouvoir faire appel à des 
+experts externes, il faut déjà avoir budgétisé suffisamment 
+de ressources lors de la phase de conception du projet. 
+La participation des 
+jeunes constitue 
+l’un des principaux 
+facteurs de succès.
+28
+29
+05_CRITÈRES DE QUALITÉ ET 
+RECOMMANDATIONS
+ 
+L’évaluation des projets pilotes a dégagé aussi bien les 
+difficultés rencontrées lors de leur réalisation que les 
+facteurs qui ont contribué à leur réussite. Elle permet ainsi 
+de définir, sinon un modèle de bonnes pratiques valable 
+pour toutes les situations, du moins des critères de qualité 
+et des recommandations servant de guide et de soutien 
+pour les organisations de la société civile, les profession­
+nels du domaine et les autorités qui entendent lancer leurs 
+propres projets. 
+Les tableaux 1 à 4 présentent ces critères de qualité, 
+assortis de recommandations et de questions susceptibles 
+de servir de repères. Divisés en trois phases – préparation 
+(lancement et conception), mise en œuvre et résultats –, ils 
+s’adressent aux destinataires suivants : 
+–	 Tableau 1 : autorités et financeurs 
+–	 Tableau 2 : responsables de projet 
+–	 Tableau 3 : groupe d’experts 
+–	 Tableau 4 : équipe d’évaluation 
+Quant au tableau synoptique des pages 38/39, il récapitule 
+les responsabilités et les tâches des différentes parties 
+prenantes lors de chaque phase du projet. À l’instar des 
+projets pilotes, qui différaient considérablement par leur 
+nature et leur structure, les futurs projets auront aussi leurs 
+propres spécificités, qui exigeront d’adapter la démarche.
+Nous tenons à signaler que les recommandations se 
+rapportent à toutes les formes de radicalisation. Les projets 
+pilotes s’inscrivaient certes dans le cadre de l’extrémisme 
+islamiste, mais cela ne signifie pas pour autant que 
+l’approche des contre-discours et des discours alternatifs ne 
+soit pas applicable à d’autres phénomènes extrémistes. Il 
+est souhaitable que des projets qui luttent contre la 
+radicalisation extrémiste de droite ou de gauche voient 
+aussi le jour, ne serait-ce que pour tirer davantage 
+d’enseignements sur l’effet préventif de ce genre de 
+discours en Suisse.
+30
+Tableau 1 : autorités et financeurs
+Critère de qualité
+Recommandations
+Préparation (lancement)
+Encouragement 
+étatique, autonomie 
+dans la réalisation
+Les organismes publics (Confédération, cantons et communes) peuvent et devraient encourager 
+les projets qui défendent la démocratie, la diversité et la tolérance, mais la réalisation de ces 
+projets devrait être confiée à des organisations indépendantes. À cet égard, il faut déterminer 
+non seulement dans quelle mesure les mandants s’impliquent dans le projet, mais aussi leur 
+degré de visibilité et les moyens mis en œuvre pour l’assurer, car cela peut exercer une 
+influence sur la perception et l’impact des discours.
+Définir des consignes 
+claires
+Les exigences consignées dans un appel d’offres font office de lignes directrices pour la 
+formulation des objectifs et la conception des projets. Dans un souci de réalisme, il est 
+important de définir des consignes claires et succinctes. Ces indications doivent permettre aux 
+responsables des projets de cerner les responsabilités et les tâches concrètes qui leur 
+incomberont et les ressources (temps, personnel, contenus et finances) qui seront requises.
+Définir le processus et 
+les critères de 
+validation
+Si tout projet mérite d’être validé par des experts externes afin d’en garantir la qualité et d’éviter 
+des effets indésirables, il semble d’autant plus important de le faire en cas de projets financés par 
+les pouvoirs publics. 
+Ce processus doit être planifié, c’est-à-dire qu’il faut en déterminer la méthodologie, les respon-
+sables et les critères. Une possibilité consiste à soumettre les premiers discours à un examen 
+et à un débat approfondi, puis, sur cette base, à arrêter des normes pour les discours suivants. 
+Cette procédure peut aussi s’avérer utile lorsqu’il s’agit de renouveler les contenus à un rythme 
+relativement rapide.
+Planifier une évaluation 
+ou la demander aux 
+responsables de projet
+Il sera aussi nécessaire d’évaluer les futurs projets afin de collecter des données supplémentaires 
+sur l’effet préventif des discours. Le concept et le mandat d’évaluation peuvent être préparés soit 
+par le bailleur de fonds, soit par les responsables de projet. L’évaluation peut être formative, 
+sommative ou présenter une combinaison de ces deux types.
+Mettre les ressources à 
+disposition
+La réalisation de projets de discours demande des ressources suffisantes. En particulier, il est 
+illusoire de supposer que l’équipe de projet réunisse toutes les compétences nécessaires.
+Réalisation
+Accompagner les 
+responsables de projet 
+en leur fournissant le 
+soutien nécessaire
+Le soutien apporté aux responsables de projet peut prendre plusieurs formes : conseils et 
+feedbacks , organisation de rencontres d’échange entre professionnels et mise en réseau avec 
+des acteurs utiles à la mise en œuvre des projets. 
+Valider les discours
+Les services étatiques devraient être responsables de la validation des discours, en collaboration 
+avec les experts. L’analyse se fait sur la base de critères fixés au préalable.
+Accompagner 
+l’évaluation
+Surtout pour l’évaluation formative, l’équipe d’évaluation doit, dès le début du projet, avoir accès 
+à toutes les informations et personnes pertinentes. D’éventuelles adaptations doivent se faire 
+d’entente avec les responsables de l'évaluation et du projet et les autorités. 
+Résultats
+Diffuser les résultats, 
+les enseignements 
+tirés et les recomman­
+dations et assurer la 
+transmission de 
+connaissances
+Il faut assurer aux discours ainsi qu’aux résultats de l’évaluation et aux recommandations la 
+diffusion la plus large possible. Il est utile à cette fin d’utiliser le réseau de l’institution publique 
+et les canaux de communication en ligne et hors ligne. La même recommandation vaut pour la 
+transmission des connaissances aux professionnels actifs sur le terrain : elle peut se faire par 
+exemple en mettant à la disposition des écoles et des services d’animation jeunesse des 
+recommandations pédagogiques sur la façon d’utiliser les discours.
+31
+Questions
+–	 Quelle influence voulons-nous exercer en notre qualité de mandant et de bailleur de fonds ?
+–	 Comment apparaissent les porteurs de projets et les organismes de soutien/financement (sur le site Internet, sur chaque 
+vidéo, etc.) ? Quelles en sont les conséquences sur l’accueil réservé aux discours ?
+–	 Avant l’adjudication du mandat : dans quelle mesure l’organisation est-elle indépendante et neutre sur le plan idéolo-
+gique ? Est-elle adéquate en ce sens pour réaliser un projet ?
+–	 Quelles exigences faut-il absolument formuler s’agissant des conditions formelles, des objectifs, de la structure du projet, 
+des connaissances, du contenu et de la réalisation ? 
+–	 Dans quels domaines pouvons-nous et voulons-nous accorder une latitude décisionnelle aux responsables de projet ? 
+–	 Le calendrier de réalisation est-il réaliste et suffisamment souple pour tenir compte des imprévus ?
+–	 Les responsables du projet ont-ils conscience de toutes les tâches qu’ils devront accomplir et du travail que cela implique ?
+–	 Quelles compétences sont importantes pour la validation, par ex. thématiques (extrémisme et radicalisation) ou formelles 
+(communication, marketing, réseaux sociaux)?
+–	 Qui pourrait intervenir comme expert ? Comment les experts sont-ils associés à la démarche ?
+–	 Quelle est la procédure de validation ? Sur quels critères se base la validation ?
+–	 Quels en sont les effets sur le projet (pour les responsables du projet et pour le processus dans son ensemble) ?
+–	 Planifions-nous l’évaluation nous-mêmes, en notre qualité de mandant ou de financeur, ou la confions-nous aux responsables 
+de projet ?
+–	 L’évaluation est-elle interne au projet ou externe ?
+–	 Quel est le but de l’évaluation ? Quelle approche convient le mieux au but visé ?
+–	 À quelles questions concrètes l’évaluation doit-elle répondre ?
+–	 Quelles ressources financières et en personnel faut-il prévoir ?
+–	 Quelles ressources pouvons-nous mettre à la disposition des projets ? 
+–	 Les moyens financiers octroyés sont-ils suffisants pour faire appel à des spécialistes externes ? 
+–	 Comment pouvons-nous apporter le meilleur soutien possible aux responsables de projet durant la réalisation ? 
+–	 Quelles prestations pouvons-nous assurer, que les responsables de projet ne peuvent fournir ? 
+–	 Quels contacts avons-nous, à l’échelle locale, nationale et internationale, pour mettre sur pied un échange entre profession-
+nels ?
+–	 Que faire pour que le processus de validation soit efficient ? 
+–	 Comment nous mettons-nous d’accord avec les experts ? 
+–	 Quelles informations sont nécessaires à l’évaluation ? 
+–	 Quelles personnes peuvent fournir ces informations ? 
+–	 Comment les propositions d’amélioration sont-elles transmises et mises en œuvre ? 
+–	 Quelles mesures prendre pour faire connaître les résultats des projets et de leur évaluation ?
+–	 Dans notre réseau, quelles organisations et institutions peuvent contribuer à la diffusion des discours ?
+–	 Comment assurer que les connaissances acquises parviennent aux professionnels sur le terrain ? 
+–	 De quoi ont besoin les professionnels des écoles et de l’animation jeunesse pour utiliser les discours ?
+32
+Tableau 2 : responsables de projet
+Critère de qualité
+Recommandations
+Préparation (conception)
+Définir des objectifs 
+réalistes
+Pour des raisons de faisabilité, il est préférable de se limiter à quelques objectifs et aux 
+groupes cibles principaux.
+Définir l’organisation
+Il est essentiel de définir clairement les tâches et les rôles de toutes les parties prenantes. À 
+cet égard, il est recommandé de cerner suffisamment tôt les attentes, de déterminer les 
+diverses modalités d’engagement (engagement fixe, bénévolat ou rétribution par des 
+honoraires) et de consigner les responsabilités dans un document. S’il y a des mandants 
+externes, il faut aussi définir leur rôle. 
+La personne responsable du projet devrait avoir de solides compétences de gestion.
+La stratégie de communication doit d’une part être définie en interne en déterminant les 
+modalités et la fréquence des échanges, et en désignant un interlocuteur principal lorsqu’il y 
+a plusieurs responsables ; d’autre part, il faut clarifier l’usage combiné de différents modes 
+de communication externe, par exemple le travail avec les médias traditionnels et le 
+marketing sur les réseaux sociaux.
+Faire appel à des 
+compétences externes
+Le recours à des experts externes est souhaitable ou indispensable, en fonction de l’idée à la 
+base du projet et de la composition de l’équipe. À cet égard, il faut définir, outre les disciplines 
+requises, les rôles et les responsabilités des experts et tenir compte de l’effet de leur inter-
+vention sur l’ensemble de la démarche. L’une des possibilités est de faire appel à des experts de 
+façon ponctuelle, pour la réalisation technique des discours, des activités de marketing, la 
+collaboration avec les adolescents et les jeunes adultes ou l’évaluation de l’effet préventif des 
+discours. L’autre est de s’adjoindre des experts qui accompagnent l’équipe du projet tout au 
+long du processus ou jouent le rôle d’organe consultatif externe.
+S’assurer de disposer 
+de ressources 
+suffisantes (fonds, 
+personnel et temps)
+Lors de la planification des projets de discours, il faut veiller à disposer de moyens financiers en 
+suffisance, un aspect important notamment pour pouvoir faire appel à des experts et investir dans 
+le marketing (pour la publicité sur les réseaux sociaux, par ex.).
+Faire jouer les réseaux 
+en ligne et hors ligne
+Les réseaux sont une ressource importante, qui peut être déterminante pour la réussite 
+des projets. Les contacts avec des organisations et des particuliers, ainsi que les alliances 
+en place, peuvent être utiles pour recruter les adolescents et les jeunes adultes, pour 
+trouver des multiplicateurs et pour se procurer des compétences spécialisées, de sorte 
+qu’il vaut la peine d’associer rapidement son réseau au projet. 
+Participation des 
+adolescents et des 
+jeunes adultes : définir 
+les rôles, les tâches et 
+les attentes
+Dès l’étude de l’idée du projet et sa conception, il y a lieu de définir la façon dont les 
+adolescents et les jeunes adultes seront associés à la démarche et de décider s’ils joueront 
+un rôle de premier plan dans la production et la diffusion des discours ou s’ils accompliront 
+plutôt une fonction consultative. Dans un cas comme dans l’autre, il faut définir et présenter 
+clairement les attentes liées au rôle qui leur est dévolu.
+Définir les modalités de 
+recrutement des 
+adolescents et des 
+jeunes adultes
+Pour recruter des adolescents et de jeunes adultes motivés, il est utile de pouvoir faire appel à un 
+réseau existant. À défaut, il faut concevoir d’autres stratégies ou tirer parti des intérêts connus 
+des jeunes (orientation professionnelle, théâtre, manifestations, etc.). Surtout s’ils sont amenés à 
+jouer un rôle de premier plan, il faut que les jeunes aient déjà été recrutés au début du projet 
+(phase de conception).
+33
+Questions
+–	 Quelle est la finalité de notre projet ? Quels en sont les objectifs ?
+–	 Quel impact voulons-nous obtenir ?
+–	 Quel est notre groupe cible primaire ? Quel est le profil exact de ce groupe-cible ? Quels individus le composent ? Quelles 
+sont ses attentes vis-à-vis de la thématique ? Y a-t-il des groupes cibles secondaires ?
+–	 Quelles sont les principales étapes du projet ?
+–	 Qui amène les compétences de gestion de projets nécessaires pour diriger le projet ?
+–	 Qui fait partie de l’équipe du projet ?
+–	 Quelle est la répartition des tâches ?
+–	 Quels sont les avantages et inconvénients des différents types de rapports de travail ? Quelle sera la modalité retenue ?
+–	 Quelles sont les attentes des personnes et organisations impliquées ainsi que des mandants et des financeurs ?
+–	 Quelle sera la stratégie de communication, notamment pour l’échange interne, la gestion de l’information et le marketing 
+du projet ? Quelles sont les connexions dont il faut tenir compte ? 
+–	 À quels intervalles et à quels moments faut-il communiquer ?
+–	 De quelles compétences avons-nous besoin pour la mise en œuvre ?
+–	 Quelles compétences devrons-nous chercher en dehors de l’équipe ?
+–	 Le recours à ces compétences sera-t-il ponctuel ou permanent ?
+–	 De quels moyens financiers disposons-nous ? 
+–	 Le budget est-il réaliste ? 
+–	 Prévoit-il une réserve pour les imprévus ? 
+–	 De quels contacts utiles avec des institutions, des organisations et des particuliers disposons-nous ? 
+–	 Pour quelles activités pourrions-nous mettre notre réseau à contribution ? 
+–	 Quelle utilité nos interlocuteurs peuvent-ils retirer d’une coopération ? Quel intérêt peuvent-ils y avoir ? 
+–	 Quand établirons-nous le contact avec notre réseau ? De quelle façon ? 
+–	 Quel rôle les adolescents et les jeunes adultes joueront-ils dans le projet ? 
+–	 Quelles tâches implique ce rôle et quel est l’engagement attendu des jeunes, notamment en temps ? 
+–	 Les exigences sont-elles raisonnables compte tenu du degré de maturité des adolescents et des jeunes adultes (concernant 
+les thèmes religieux, par ex.) ? 
+–	 Comment s’assurer que les adolescents et les jeunes adultes savent ce qui les attend et ce que l’on attend d’eux ?
+–	 Quelles attentes les adolescents et les jeunes adultes nourrissent-ils ? 
+–	 Comment trouver des adolescents et de jeunes adultes qui satisfont à nos exigences ? 
+–	 Quels réseaux et quels autres canaux pouvons-nous utiliser à cette fin ? 
+–	 Comment associons-nous les jeunes au projet ? À partir de quel stade ? 
+–	 Quel avantage les adolescents et les jeunes adultes retirent-ils de leur participation ? 
+34
+Tableau 2 : responsables de projet
+Critère de qualité
+Recommandations
+Réalisation
+S’assurer de 
+l’engagement des 
+adolescents et des 
+jeunes adultes
+Les adolescents et les jeunes adultes peuvent se sentir déjà très motivés par le simple fait de 
+jouer un rôle de premier plan. Toutefois, selon les tâches et le temps requis, il faudrait envisa­
+ger d’autres contreparties (par ex. prévoir des incitations financières, reconnaître comme stage 
+les tâches réalisées, délivrer un certificat de travail ou une attestation de participation, etc.). 
+Des incitations financières peuvent néanmoins fausser la collaboration.
+Garantir aux adole­
+scents et aux jeunes 
+adultes une préparation 
+et un suivi de qualité 
+Les adolescents et les jeunes adultes doivent bénéficier d’un soutien et d’un accompagnement 
+adéquats pour assumer leur rôle. Du fait de la complexité de la thématique liée à l’extrémisme et à 
+la radicalisation et de l’approche, il semble important de s’entendre sur les notions de base et de 
+garantir une base commune de connaissances.  Il s’agit de fournir aux participants des informa­
+tions de fond (d’ordre général et propres au contexte), de leur donner la possibilité de poser des 
+questions et de garantir un climat propice aux échanges, ce qui peut demander beaucoup de 
+temps. Il convient aussi de prendre en compte le fait que bien des personnes sont mal à l’aise 
+lorsqu’il s’agit d’aborder des sujets liés à la religion et à l’extrémisme. 
+Protéger la personnali­
+té des adolescents et 
+des jeunes adultes 
+En fonction du degré d’engagement des jeunes et de leur rôle, il faut se demander dans quelle 
+mesure ils s’exposent et s’ils sont d’accord de le faire. Il faut réfléchir déjà en amont du projet à 
+cette relation entre la participation et la visibilité qui en découle, en particulier pour les 
+personnes de moins de 18 ans. Si nécessaire, il faut prendre des dispositions pour protéger les 
+adolescents et les jeunes adultes des éventuelles conséquences négatives. 
+Tenir compte des 
+facteurs augmentant 
+l’efficacité
+Pour que les discours retiennent l’attention, soient compris et déploient l’effet préventif espéré, 
+il faut surtout que le contenu, la forme et le ton employés soient adaptés au groupe cible. 
+Les éléments suivants ont fait leurs preuves :
+–	 personnes et récits authentiques 
+–	 visuel en phase avec le fond sonore 
+–	 incitation à la réflexion à l’aide de questions, de slogans ou de hashtags
+–	 thèmes controversés ou mise en scène provocatrice
+Garantir le pilotage et 
+le contrôle du projet 
+Comme pour tout projet, il est recommandé de disposer d’un système de pilotage et de contrôle afin 
+d’identifier à temps les problèmes qui se présentent et d’adopter les mesures de correction qui 
+s’imposent. 
+Intégrer les recomman­
+dations de l’évaluation 
+formative
+Dans tout projet qui fait l’objet d’une évaluation formative, les responsables doivent faire 
+preuve de l’ouverture et de la transparence ainsi que de la souplesse voulues pour le modifier 
+en cours d’exécution si nécessaire. En fonction des objectifs du projet, les propositions 
+d’amélioration peuvent concerner tous les domaines, de la planification au contenu des 
+discours, en passant par l’organisation, les ressources et les mesures.
+Résultats
+Se concentrer sur un 
+nombre réduit de 
+canaux de diffusion
+Pour la diffusion des messages, il faut non seulement créer un site internet, mais aussi utiliser 
+d’autres canaux en ligne, que l’on choisira en fonction des habitudes de navigation du groupe 
+cible. Il faut aussi tenir compte du temps requis pour gérer les comptes, y compris après la fin du 
+projet. Il ne semble avisé d’avoir plus de deux comptes sur des réseaux en ligne que si des 
+ressources suffisantes sont à disposition.
+Il s’est avéré utile de consacrer des fonds à la diffusion des discours, par exemple en louant des 
+bannières publicitaires sur Facebook.
+Rester flexibles
+S’il faut choisir les principaux réseaux sociaux en fonction des groupes cibles définis, il ne faut pas 
+oublier que les tendances et les habitudes de navigation évoluent. Les projets doivent donc rester 
+toujours suffisamment souples pour réagir aux nouveautés et pouvoir changer de canaux. 
+Compléter le marketing 
+en ligne par des 
+activités hors ligne
+Les activités en ligne ne suffisant pas à garantir la diffusion des discours, il faut les compléter par 
+des activités hors ligne. Dans ce cas également, il faut réfléchir suffisamment tôt à la meilleure façon 
+d’atteindre le groupe cible et aux espaces qui s’y prêtent le mieux. Il est ainsi possible de coopérer 
+avec d’autres organisations ou de proposer des ateliers, des débats ou du matériel pédagogique pour 
+les écoles et les centres d’animation. 
+35
+Questions
+–	 Comment garantir que les adolescents et les jeunes adultes feront preuve d’un engagement suffisant, aussi sur la durée ? 
+–	 Si leur motivation baisse, quelles incitations sont nécessaires pour la maintenir ? 
+–	 De quelle façon les incitations peuvent-elles influer sur l’implication des jeunes ? 
+–	 Comment préparons-nous les adolescents et les jeunes adultes à leur rôle ? 
+–	 Que doivent-ils savoir pour pouvoir accomplir leurs tâches (sur le sujet, sur les aspects formels, etc.) ? Comment leur 
+transmettons-nous ces connaissances ? 
+–	 Comment assurer aux jeunes un accompagnement optimal durant le projet ? 
+–	 Qui est leur interlocuteur ? 
+–	 Dans quelle mesure les adolescents et les jeunes adultes s’exposent-ils en participant au projet ? 
+–	 Quelles sont les conséquences de cette visibilité ? En sont-ils conscients ? Sont-ils d’accord de s’exposer ainsi ? 
+–	 Comment pouvons-nous les protéger des conséquences négatives ? 
+–	 Quels facteurs d’efficience sont adaptés à notre projet ? 
+–	 La conception de notre projet est-elle réellement optimale compte tenu de ces facteurs ? 
+–	 Comment peut-on renforcer l’impact sur le ou les groupes cibles ? 
+–	 Sommes-nous sur la bonne voie ?
+–	 Franchissons-nous les étapes et atteignons-nous les objectifs comme prévu ?
+–	 Quelles sont les difficultés et comment les surmontons-nous ?
+–	 Comment faire pour que des ajustements du projet soient possibles en cours de réalisation ?
+–	 Quels sont les réseaux en ligne les plus utilisés par notre groupe cible ? 
+–	 De quelles ressources disposons-nous pour gérer les comptes ? 
+–	 Quels moyens financiers pouvons-nous consacrer à la publicité ? Quels espaces sont les plus rentables ?
+–	 Que se passera-t-il après le projet ? Les comptes et le site Internet continueront-ils à être gérés ?
+–	 Quelles sont les habitudes de navigation du ou des groupes cibles ? Comment évolueront-elles ?
+–	 Comment nous assurons-nous de rester à la page ?
+–	 Quels canaux hors ligne utilisons-nous pour diffuser les discours ? 
+–	 Quelle est la meilleure façon d’atteindre notre ou nos groupes cibles ? 
+–	 Comment pouvons-nous tirer parti de notre réseau ? 
+–	 Quelles autres coopérations sont possibles ? 
+–	 De quels moyens financiers disposons-nous ? 
+36
+Tableau 3 : groupe d’experts
+Critère de qualité
+Recommandation
+Préparation
+Conseiller les autorités 
+lors de l’appel d’offres, 
+la planification et 
+la sélection
+Il est souhaitable de faire appel à des experts indépendants déjà lors des stades préliminaires 
+afin de formuler des consignes claires en matière de conception du projet et d'assurance-
+qualité. Grâce à leurs connaissances provenant de diverses disciplines, ces experts peuvent 
+apporter un soutien aux autorités dans les phases de mise au concours, de planification 
+(évaluation comprise) et de sélection des projets.
+Réalisation
+Faire bénéficier les 
+projets et leur 
+évaluation du suivi des 
+experts
+Il est souhaitable, surtout si l’évaluation est de type plutôt sommatif, que les experts conseil­
+lent l’équipe de projet aussi durant la réalisation. Si l’évaluation est de type formatif, 
+l’appréciation des experts sur les processus du projet sera d’un grand secours pour l’équipe 
+d’évaluation. 
+Valider les discours
+Les experts sont responsables de la validation des discours, en collaboration avec les autorités. 
+L’analyse se fait sur la base de critères fixés au préalable. 
+Résultats
+Diffuser les discours et 
+favoriser la transmissi­
+on de connaissances 
+Les experts peuvent diffuser les discours sur leurs réseaux (en ligne et hors ligne) et contribuer à 
+transmettre les connaissances acquises au sein de leurs domaines de spécialisation. 
+Tableau 4 : équipe d’évaluation
+Critère de qualité
+Recommandation
+Préparation
+Élaborer le concept 
+d’évaluation
+Il est souhaitable que les futurs projets soient eux aussi suivis au moyen d’une méthodologie 
+appropriée. Pour cerner encore mieux leur efficacité, la priorité doit aller à des évaluations 
+sommatives et, en particulier, à des analyses d’impact. 
+Réalisation
+Évaluer
+L’évaluation de la phase de réalisation se fait conformément au concept d’évaluation, en y 
+associant les autorités, les responsables du projet et les experts.
+Si l’évaluation sommative fait un bilan des résultats obtenus au terme du projet en les 
+comparant aux questions initiales, l’approche formative a en revanche pour but de promouvoir 
+des processus d’apprentissage et d’optimisation.
+Résultats
+Publier et diffuser 
+les résultats de 
+l’évaluation et 
+promouvoir la 
+transmission de 
+connaissances
+L’organisation chargée de l’évaluation peut elle aussi utiliser ses réseaux (en ligne et hors ligne) 
+pour assurer une large diffusion des conclusions et transmettre les connaissances obtenues à 
+d’autres instituts de recherche.
+37
+Questions
+–	 Quels facteurs faut-il prendre en considération lors du lancement du projet ?
+–	 À quels aspects faut-il prêter attention lors de l’appel d’offres ? 
+–	 Quels sont les critères prioritaires lors de la sélection des projets ?
+–	 Sur quels aspects faut-il mettre l’accent lors de l’évaluation ?
+–	 La réalisation est-elle optimale dans l’optique des experts ?
+–	 En quoi peut-elle être améliorée ?
+–	 Les discours sont-ils en adéquation avec le groupe cible ?
+–	 Sont-ils compréhensibles ? 
+–	 Leur contenu est-il approprié ? 
+–	 Dans notre réseau, quelles organisations et institutions peuvent apporter leur concours à la diffusion des discours ?
+–	 Quelles mesures sont utiles pour faire connaître les résultats de l’évaluation ?
+–	 Comment assurer que les connaissances acquises parviennent aux professionnels sur le terrain ?
+Questions
+–	 Quelles consignes ont été données pour l’évaluation ?
+–	 Quelle méthodologie mettre en place pour atteindre les buts de l’évaluation ?
+–	 À quelles questions faut-il répondre ?
+–	 De quelles informations faut-il disposer pour y répondre ?
+–	 Comment réaliser l’évaluation formative afin qu’elle soit le plus utile possible à la réalisation du projet ?
+–	 Dans quelle mesure l’idée et la conception du projet permettent-elles d’atteindre les objectifs formulés ?
+–	 Dans quelle mesure l’approche, la méthodologie, les processus et les messages sont-ils aptes à atteindre le ou les 
+groupes cibles ?
+–	 Quel est le degré de réalisation des objectifs ?
+–	 Le projet a-t-il abouti à des résultats inattendus ou indésirables ?
+–	 Qu’est-ce qui s’est avéré favorable à sa réalisation ? Qu’est-ce qui s’est avéré défavorable ?
+–	 Quels ajustements ou améliorations faudra-t-il apporter si le projet se poursuit ?
+–	 Quelles conclusions en sont tirées, pour le projet et au-delà du projet également ?
+–	 Quelles mesures sont utiles pour faire connaître les résultats de l’évaluation ? 
+–	 Comment assurer la transmission des connaissances à d’autres institutions et organisations ? 
+38
+Tableau synoptique des rôles et des tâches
+Préparation : Lancement / Appel d’offres / Conception
+Réalisation : Production des discours / Évaluation des projets
+Résultats : Diffusion et utilisation des discours / Évaluation des projets / Diffusion des résultats
+Autorités/financeurs (avec les experts) 
+–	 Définir les objectifs
+–	 Suivre ce qui se fait à l’échelle internationale 
+–	 Définir les exigences et les conditions  
+–	 Susciter la réalisation de projets 
+–	 Mettre des ressources à disposition 
+–	 Planifier une évaluation ou demander aux responsab­
+les de projet de le faire
+Autorités/financeurs (avec les experts)
+–	 Accompagner le projet en donnant des feedbacks  
+–	 Mettre son réseau à disposition 
+–	 Accompagner l’évaluation 
+Autorités/financeurs (avec les experts)
+–	 Publier et diffuser les résultats des projets et de 
+l’évaluation
+–	 Promouvoir la transmission de connaissances (conféren­
+ces, publications, etc.) 
+Responsables de projet
+–	 Concevoir le projet : 
+	
+• Objectifs 
+	
+• Groupe cible 
+	
+• Organisation (y c. participation des 
+	
+    adolescents et jeunes adultes)
+	
+• Mesures
+	
+• Financement
+	
+• Calendrier 
+–	 Préparer ou prévoir l’évaluation
+Responsables de projet
+–	 Mettre en œuvre et piloter les activités conformé­
+ment à la conception du projet
+–	 Garantir le pilotage et le contrôle du projet 
+–	 Faire jouer ses réseaux (en ligne et hors ligne) 
+–	 Observer les tendances et les habitudes de 
+navigation du groupe cible 
+–	 Mettre à disposition de l’équipe d’évaluation 
+toutes les informations concernant le projet
+Responsables de projet
+–	 Mettre à disposition de l’équipe d’évaluation 
+toutes les informations concernant le projet 
+–	 Présenter, diffuser et utiliser les résultats des 
+projets et de l’évaluation 
+–	 Garantir la durabilité des projets 
+–	 Contribuer à l’utilisation pratique des 
+discours (activités dans le cadre scolaire, 
+dans l’animation jeunesse, par ex.) 
+39
+Experts 
+(avec autorités/financeurs)
+Accompagner l’appel d’offres, la planification de 
+l’évaluation et la sélection des projets
+Experts 
+(avec autorités/financeurs)
+–	 Valider le contenu des discours 
+–	 Mettre son réseau à disposition 
+–	 Accompagner l’évaluation, les projets ou les deux 
+Experts 
+(avec autorités/financeurs)
+–	 Fournir des renseignements pour l’évaluation 
+–	 Utiliser et diffuser dans son réseau  les résultats des 
+projets et de l’évaluation 
+Adolescents et jeunes adultes 
+(avec les responsables de projet)
+–	 Participer à la formulation des idées
+–	 Transmettre des connaissances concernant 
+le groupe cible
+Adolescents et jeunes adultes 
+(avec les responsables de projet)
+Participer au projet selon le rôle prévu dans le concept :  
+–	 rôle actif (protagonistes, auteurs ou influenceurs) 
+–	 rôle consultatif 
+Adolescents et jeunes adultes 
+(avec les responsables de projet)
+–	 Fournir des renseignements pour l’évaluation 
+–	 Contribuer à l’utilisation pratique des discours 
+(activités dans le cadre scolaire, dans l’animation 
+jeunesse, par ex.)
+40
+Les vidéos et autres contenus de propagande extrémiste 
+étant très présents sur Internet, il ne faut pas sous-estimer 
+le risque, pour un internaute, de tomber sur l’un d’eux sans 
+le vouloir. Il apparaît donc d’autant plus important de 
+sensibiliser les adolescents et les jeunes adultes à ce 
+danger, de leur permettre d’exercer leur sens critique et de 
+se faire une opinion nuancée. C’est ainsi qu’ils pourront se 
+forger leur propre avis, développer une posture et 
+s’impliquer concrètement. Ces compétences ne leur 
+serviront pas seulement à prendre leurs distances avec les 
+contenus extrémistes et radicalisants, mais aussi, de façon 
+plus générale, à savoir gérer les médias numériques et les 
+interactions sur les réseaux sociaux.
+Avoir des compétences médiatiques signifie savoir utiliser 
+des médias de manière consciente et surtout responsable. 
+Le pédagogue des médias Heinz Moser distingue quatre 
+types de compétences médiatiques :
+Les compétences techniques
+Qu’il s’agisse d’appareils ou de logiciels (ordinateurs, 
+smartphones, applis, programmes, etc.), il est indispensable 
+d’avoir certaines notions de base non seulement pour les 
+utiliser, mais aussi pour en comprendre la terminologie. 
+Les compétences culturelles
+Les médias numériques étant présents dans notre culture 
+quotidienne, il s’agit d’une part d’acquérir des connaissan­
+ces sur les différentes formes et moyens d’expression, afin 
+de pouvoir utiliser de manière créative les possibilités à 
+disposition, et d’autre part de s’y retrouver dans la jungle de 
+contenus et d’informations. 
+Les compétences sociales
+La communication et les relations personnelles sont des 
+aspects essentiels dans l’utilisation des médias numériques, 
+surtout pour les adolescents et les jeunes adultes. Ces 
+derniers doivent apprendre à se mouvoir et à agir dans un 
+monde dans lequel les espaces relationnels physiques et 
+virtuels s’imbriquent toujours plus. Il s’agit notamment pour 
+06_PISTES POUR L’UTILISATION DES 
+DISCOURS DANS LA PRATIQUE
+ 
+eux d’adopter des règles de comportement garantissant le 
+respect de l’Autre et d’être capables de se rendre compte 
+lorsque les limites sont dépassées.
+Les compétences réflexives
+Les compétences réflexives comprennent tant la capacité à 
+faire preuve d’autocritique envers sa propre utilisation des 
+médias que l’examen critique des contenus médiatiques. Les 
+adolescents et les jeunes adultes doivent apprendre à juger 
+de l’objectivité et de la pertinence des informations et à 
+mettre les choses en perspective. Ils doivent aussi com­
+prendre le rôle des médias numériques et la manière dont ils 
+sont utilisés pour servir des intérêts politiques, écono­
+miques et sociétaux. 
+Les discours produits peuvent, avec l’encadrement pédago­
+gique nécessaire, offrir l’occasion de mener une réflexion 
+sur l’extrémisme et la radicalisation, dans le cadre scolaire 
+ou dans celui de l’animation jeunesse. Dans leur évaluation, 
+les experts et les responsables de projet ont encouragé à 
+continuer à utiliser les vidéos et les textes pour autant que 
+l’on puisse exclure un effet contre-productif et que les 
+contenus soient inattaquables du point de vue théologique 
+notamment. Quant aux adolescents et aux jeunes adultes, 
+ils ont vu d’un bon œil le fait de débattre de ces discours en 
+classe par exemple. Ces projets étant limités dans le temps, 
+il est par ailleurs aussi souhaitable, pour leur conférer un 
+caractère durable, de prévoir de futures utilisations dans 
+des cadres appropriés.
+Pour pouvoir utiliser ces discours de manière adéquate, des 
+compléments sont nécessaires, comme l’élaboration de 
+matériel pédagogique, d’unités didactiques ou d’aides 
+conçus pour d’autres activités destinées aux adolescents ou 
+aux jeunes adultes. S’il n’est pas possible de présenter ici 
+ces supports, voici tout de même quelques pistes pour 
+utiliser ces discours dans la pratique.
+41
+Dans le cadre du projet CONTRA de l’Union européenne (Countering Propaganda by Narration Towards Anti-Radical 
+Awareness), des modules de formation ont été élaborés pour l’enseignement scolaire afin de sensibiliser à 
+la propagande extrémiste sur Internet. Un processus d’apprentissage en trois phases est prévu dans le but de 
+favoriser les compétences médiatiques critiques des jeunes (#weARE).
+–   Awareness (prise de conscience) : attirer l’attention sur la problématique et y sensibiliser les jeunes 
+–   Reflexion (réflexion) : exercer l’esprit critique et analytique 
+–   Empowerment (responsabilisation) : aider à étayer son opinion et à la défendre 
+Une telle démarche a ses écueils : la discussion peut prendre une tournure indésirable, par exemple lorsque deux 
+thématiques – religion et extrémisme – s’entremêlent, quand des opinions stéréotypées sont exprimées ou quand le 
+débat devient fortement émotionnel ou politique. Nous estimons que ces démarches doivent se faire avec du 
+personnel qualifié dès qu’y participent des personnes réceptives aux messages radicaux ou déjà en cours de radicali-
+sation. (www.project-contra.org, en allemand)
+Extrémisme et radicalisation : de multiples 
+angles d’approche 
+Il est possible d’aborder la problématique de l’extrémisme et 
+de la radicalisation avec les jeunes sous plusieurs angles : 
+Définition des notions d’« extrémisme » et de 
+« radicalisation »  
+Qu’est-ce que l’extrémisme ? Quels en sont les différents 
+courants ? Qu’est-ce qui caractérise une vision du monde 
+extrémiste ? Quels buts poursuivent les groupements 
+extrémistes ? Pourquoi sont-ils dangereux ? Qu’est-ce que la 
+radicalisation ? Qu’est-ce qui amène des personnes à se 
+radicaliser ?
+La propagande et autres stratégies sur la Toile
+Pour pouvoir faire preuve d’esprit critique envers les 
+contenus extrémistes, les jeunes doivent savoir par quels 
+moyens les groupements extrémistes propagent leurs 
+messages et être conscients qu’ils peuvent s’y trouver 
+confrontés même sans le vouloir. La propagande, les 
+fausses nouvelles et les discours de haine comptent parmi 
+les formes de communication particulièrement appréciées 
+des groupements extrémistes pour influencer les inter-
+nautes. Dans ce domaine, les questions à poser peuvent 
+être notamment les suivantes : comment reconnaître 
+ces contenus ? À quels styles rhétoriques et visuels ont-ils 
+recours ? Quel effet doivent-ils produire ? Qu’est-ce qu’ils 
+génèrent en moi ? 
+Algorithmes et bulles de filtres
+Nos recherches sur Internet, ce que nous likons ou commen­
+tons a un effet sur les contenus que vont nous proposer des 
+plateformes comme YouTube, Facebook ou Google. Ces 
+algorithmes, qui agissent en arrière-fond et passent 
+totalement inaperçus, peuvent nous confiner à notre insu 
+dans un cocon d’informations. Ce phénomène peut jouer un 
+rôle dans les processus de radicalisation, puisque 
+l’internaute reçoit de plus en plus de contenus probléma­
+tiques. Il est par conséquent nécessaire d’en être conscient 
+et de disposer de stratégies pour contrer l’effet des 
+algorithmes. Dans ce domaine, les questions suivantes se 
+posent : que sont les algorithmes et comment fonctionnent-
+ils ? En quoi peuvent-ils être problématiques ? Qu’est-ce 
+42
+qu’une bulle de filtre ou un cocon d’informations? À quoi 
+est-ce que je vois que je me trouve dans une bulle de filtre ? 
+Que faire pour en sortir ?
+L’État de droit, la démocratie et leurs valeurs
+La pensée et l’action politiques ainsi que la capacité 
+d’appréhender l’actualité pour se forger son opinion ne sont 
+possibles qu’avec une certaine connaissance de cette forme 
+de vie, de société et de monopole de la force qu’est la 
+démocratie. Ici, les questions suivantes peuvent se poser : 
+que sont l’État de droit et la démocratie ? Qu’est-ce qui 
+constitue le système démocratique en Suisse ? Qu’est-ce 
+que je dois à la démocratie dans ma vie ? Sur quelles 
+valeurs se fonde l’État de droit ? Quels sont mes droits et 
+mes devoirs et que puis-je faire pour les préserver ? 
+Comment vit-on dans un pays qui ne connaît pas l’État de 
+droit ? 
+Participation
+Internet offre de nombreuses possibilités d’interaction et de 
+participation. La recherche sur les usages des jeunes 
+distingue trois niveaux d’action : a) je me positionne, par 
+exemple en likant quelque chose, en devenant membre d’un 
+groupe ou en postant une photo révélant son positionne­
+ment; b) je m’engage en passant à l’action, en écrivant des 
+posts dans des discussions ou en mettant en ligne une vidéo 
+que j’ai faite ; c) j’incite les autres à l’action par une 
+invitation explicite à participer à un projet, par exemple en 
+lançant un appel à prendre part à une action ou en les 
+informant d’un événement. Dans ce domaine, les questions 
+à soulever seront notamment : qu’est-ce que je dis de moi 
+en likant une vidéo ou en partageant un contenu ? Quels 
+effets un de mes commentaires peut-il produire ? Pourquoi 
+est-il important de prendre position ? Sur quoi se fonde mon 
+opinion ? Quels autres points de vue seraient aussi possibles ?
+Courage civique
+Le courage civique est intimement lié à la démocratie et à la 
+participation à la vie de la société. S’interposer quand 
+quelqu’un subit une injustice demande du courage. 
+S’interposer au lieu de détourner le regard est aussi le 
+fondement d’une société qui repose sur la tolérance, la 
+diversité et l’égalité. Ici, les questions suivantes se posent : 
+qu’est-ce que le courage civique ? Pourquoi le courage 
+civique est-il important ? Qu’est-ce que je ferais si... ? 
+Comment me protéger contre un possible danger ?
+43
+Utilisation des discours produits dans le 
+cadre des projets pilotes
+Les discours produits s’adressent plutôt aux adolescents à 
+partir de 14/15 ans et aux jeunes adultes. L’évaluation a en 
+effet montré que les adolescents plus jeunes avaient parfois 
+de la peine à bien comprendre les sujets et à mener une 
+réflexion nuancée. Pour les dessins animés surtout, la forme 
+pourrait induire en erreur et faire penser qu’ils s’adressent à 
+de jeunes adolescents ou même à des enfants, ce qui n’est 
+pas le cas. 
+L’objectif des contre-discours et des discours alternatifs 
+étant de contrecarrer les messages extrémistes en leur 
+opposant un autre récit, il est aussi possible d’appliquer ce 
+principe de manière active, par exemple en réagissant à une 
+vidéo extrémiste ou à un post discriminatoire par la 
+diffusion d’un contre-discours ou d’un discours alternatif qui 
+y réponde. Il convient de veiller à éviter tout contenu illégal 
+ou pas adapté aux jeunes (actes de violence, propagande, 
+etc.) 
+Dans la pratique, il est conseillé d’adapter le contexte aux 
+habitudes et à l’univers des adolescents et des jeunes 
+adultes et de le rendre aussi proche de la réalité que 
+possible ; il est en outre recommandé d’amener les jeunes à 
+réfléchir aussi à leur comportement en général et en matière 
+de médias en particulier. Il s’agit de savoir où et comment 
+les adolescents et les jeunes adultes tombent sur des 
+contenus problématiques et quels sujets sont importants à 
+leurs yeux. 
+Dans l’animation jeunesse, il faut veiller à utiliser les 
+contre-discours et les discours alternatifs dans un cadre 
+adapté et en fonction des besoins des jeunes. Les maisons 
+de quartier et centres de loisirs sont là avant tout pour qu’ils 
+puissent y retrouver des amis, échanger et jouer. Il est 
+indiqué de n’aborder la problématique (dans une discussion 
+par exemple) que lorsque les jeunes soulèvent un sujet 
+auquel ils sont confrontés et qui suscite le débat. 
+L’extrémisme, la radicalisation, l’identité et la religion sont 
+des thèmes émotionnels. Afin d’éviter les dynamiques 
+négatives, il faudrait toujours mettre les choses en 
+perspective : par exemple, si le discours concerne 
+l’extrémisme islamiste, il faudrait aussi parler de 
+l’extrémisme de droite et de celui de gauche. 
+L’extrémisme, 
+la radicalisation, l’identité 
+et la religion sont 
+des thèmes émotionnels.
+ 
+44
+#1 Gender (Genre, 37 sec.)
+https://www.youtube.com/watch?v=SOwTZEnTkok 
+Violence envers les femmes :
+–	 Comment réagis-tu ? 
+–	 Quels rôles de genre sont mis en scène ? 
+–	 Qu’est-ce qui est ok, qu’est-ce qui ne l’est pas ? 
+–	 Que ferais-tu dans cette situation ?
+#2 Hass im Alltag (La haine au quotidien, 32 sec.)
+https://www.youtube.com/watch?v=3gDKRQU8_7Q
+Opinions radicales au sein de la famille : 
+–	 Que fais-tu pour les contrer ?
+–	 En quoi le comportement mis en scène est-il raciste ?  
+–	 Comment réagirais-tu dans cette situation ? 
+#3 Grillideologie (Idéologie du grill, 30 sec.)
+https://www.youtube.com/watch?v=0ejtQz4O_C8
+–	 Comment réagis-tu aux opinions extrêmes ? 
+–	 Quelles sont les limites ? 
+–	 Comment réagis-tu quand quelqu’un exprime une 
+opinion que tu ne partages pas ?
+#4 Gewalt und Aggression (Violence et agression, 31 sec.)
+https://www.youtube.com/watch?v=6co99OsJh3E
+–	 As-tu le courage de t’interposer ? 
+–	 Comment peux-tu te comporter dans une telle situation ? 
+#5 Die Amis sind an ALLEM schuld (TOUT est de la faute des 
+Américains, 31 sec.) 
+https://www.youtube.com/watch?v=3o9x9GMVoT4
+–	 Connais-tu des théories du complot ? 
+–	 Où les as-tu vues ou entendues ? 
+–	 Qu’est-ce qu’une théorie du complot ?
+Winfluence 
+Type de discours
+Dessins animés mettant en scène des animaux 
+(En suisse allemand)
+Possibilités d’utilisation
+Les sujets traités dans les vidéos ont été choisis par des 
+jeunes. Il s’agit de thèmes tirés de leur univers, qui sont 
+importants à leurs yeux. Les conflits mis en scène peuvent 
+être utilisés dans le cadre scolaire ou dans l’animation 
+jeunesse comme matière à débat (sur le courage civique, la 
+démocratie et la liberté d’expression, les discours de haine, 
+la propagande par ex.). 
+45
+Textes-images : 
+https://www.instagram.com/knowislam_ch/
+–	 Comment faut-il comprendre le message ?  
+–	 Qu’est-ce que je peux en tirer comme enseignement ? 
+Vidéo nº 1 : Der Mensch im Islam (La vision de l’être 
+humain dans l’islam, 3:42 min.)
+https://www.youtube.com/watch?v=Mmm5KBpunZ8
+–	 Comment Allah décrit-il l’être humain dans l’islam ? 
+–	 Quel type d’être es-tu ? 
+–	 Comment Allah vous voit-il, toi et tes semblables ?
+Vidéo nº 2 : Was sagt der Islam zu Gewalt ? 
+(Que dit l’islam de la violence ? 3:45 min.)
+https://www.youtube.com/watch?v=ufTEUOczCFQ
+–	 Comment la violence est-elle vue dans l’islam ? 
+–	 Quels sont les divers types de violence ? 
+–	 A-t-on le droit de recourir à la violence ? 
+Vidéo nº 3 : Glaube – Iman (Foi – iman, 3:57 min.)
+https://www.youtube.com/watch?v=gpGP9fwP9w8
+–	 Que signifie « croire » ? 
+–	 Qu’est-ce que c’est, « être croyant » ? Que dit le Coran 
+à ce sujet ?
+Vidéo nº 4 : Gott im Islam – Glaube an Allah (Dieu dans 
+l’islam – La foi en Allah, 4:51 min.)
+https://www.youtube.com/watch?v=x4B9w0pqkLc
+–	 Qui est Allah ? Comment est-il et quelle est sa relation 
+avec les êtres humains ? 
+–	 Quels sont les parallèles entre la vision de Dieu dans 
+l'islam et celle du christianisme et du judaïsme ?
+Vidéo nº 5 : Was ist der Islam ? (Qu’est-ce que l’islam ? 
+3:44 min.)
+https://www.youtube.com/watch?v=uB3HtCZiXac
+–	 Quand l’islam est-il né ? Qu’est-ce que cette religion 
+implique ? 
+–	 Tous les musulmans de Suisse sont-ils pareils ? 
+Quelles sont les différences ?
+Vidéo nº 6 : Der Koran – Die Lesung (Le Coran – la lecture, 
+3:29 min.)
+https://www.youtube.com/watch?v=2JmkwlpTosQ
+–	 Qu’est-ce que le Coran ? Comment a-t-il été écrit ? 
+–	 Quels thèmes y sont abordés ? 
+–	 Y a-t-il des parallèles avec la Bible ?
+Vidéo nº 7 : Hadith – Was bedeutet das ? (Les hadîths : 
+qu’est-ce que c’est ? 2:26 min.) 
+https://www.youtube.com/watch?v=-J8fQTQf3U8
+–	 Que sont les hadîths ? Pourquoi sont-ils si importants ? 
+–	 Que pouvons-nous y apprendre ?
+Vidéo nº 8 : Jenseits im Islam (Akhira) – Das Leben nach 
+dem Tod (Akhira, l’au-delà dans l’islam – La vie après la 
+mort, 2:55 min.) 
+https://www.youtube.com/watch?v=r4thEGqTOGw
+–	 Comment la vie après la mort est-elle décrite dans 
+l’islam ? 
+–	 Qu’y a-t-il après la mort ? En quoi la croyance en un 
+au-delà influence-t-elle notre vie ? 
+–	 Quels sont les parallèles et les différences avec 
+d’autres religions ?
+Vidéo nº 9 : Propheten und Gesandte (Les prophètes et les 
+messagers, 3:29 min.) 
+https://www.youtube.com/watch?v=MmigOMG4Df4
+–	 Qu’est-ce qu’un prophète dans l’islam ? 
+–	 Quels prophètes sont importants pour l’islam ? 
+–	 Pourquoi Dieu a-t-il envoyé des prophètes ?
+Vidéo nº 10 : Grundrechte im Islam (Les droits fondamen­
+taux dans l’islam, 2:40 min.) 
+https://www.youtube.com/watch?v=LR4APIq3Ecs
+–	 Quels droits fondamentaux sont mentionnés dans 
+l’islam ? 
+–	 Pourquoi sont-ils importants ?
+KnowIslam
+Type de discours
+Textes-images et vidéos d’explication sur des passages 
+du Coran 
+(En allemand)
+Possibilités d’utilisation
+Les discours abordent des sujets de l’islam en proposant un 
+cadre référentiel destiné avant tout aux adolescents et 
+jeunes adultes musulmans. 
+Peut être utilisé comme matériel d’enseignement ou 
+information dans le cadre scolaire (« Éthique et culture 
+religieuse » dans le Plan d’études romand, « Enseignement 
+religieux » au secondaire II), dans l’enseignement religieux 
+confessionnel extrascolaire ou dans l’animation jeunesse.
+46
+Vidéo nº 1 : Samir (57 sec.)
+https://www.youtube.com/watch?v=2G5r44khILM
+Par leur style et l’impression de grande authenticité qui 
+s’en dégage, ces vidéos sont adaptées à l’enseignement 
+comme à l’animation jeunesse. 
+Sujets de discussion possibles :
+–  La fuite, la migration
+–  L’intégration 
+–  La démocratie 
+–  La participation 
+–  La victimisation 
+–  L’identité plurielle
+Les versions longues des vidéos sont disponibles sur le 
+site Internet du projet : www.swissmuslimstories.ch
+Vidéo nº 2 : Dania (42 sec.)
+https://www.youtube.com/watch?v=slXLn_sEyTE
+Vidéo nº 3 : Saâd (54 sec.)
+https://www.youtube.com/watch?v=I4Lzu-7-iM8
+Vidéo nº 4 : Selma (44 sec.)
+https://www.youtube.com/watch?v=w2yKvtN5Ql4
+Vidéo nº 5 : Hannan (1:04 min.) 
+https://www.youtube.com/watch?v=x6vLWxd49UU
+Vidéo nº 6 : Bujar (54 sec.)
+https://www.youtube.com/watch?v=Y5hIz2sLCCQ
+Vidéo nº 7 : Nuran (44 sec.)
+https://www.youtube.com/watch?v=c90hu8KQ3Pg
+Vidéo nº 8 : Sohail (1:01 min.)
+https://www.youtube.com/watch?v=xD44tRFqJ_o
+Vidéo nº 9 : Serpil (1:13 min.)
+https://www.youtube.com/watch?v=2YJc41kWRQQ
+Vidéo nº 10 : Attila (1:00 min.)
+https://youtu.be/0sYAbEcO2Ug
+SwissMuslimStories
+Type de discours
+Portraits vidéo de musulmans 
+(En allemand et suisse-allemand)
+Possibilités d’utilisation
+Des vidéos dressent le portrait de musulmans aux parcours 
+très différents les uns des autres. 
+Ces clips peuvent être utilisés comme discours alternatifs 
+(comme message sur le vivre ensemble en société et contre-
+exemple aux discours victimisants, mais aussi pour lutter 
+contre la tendance à réduire une personne à son apparte­
+nance religieuse).
+47
+–	 Commençons par le commencement
+–	 Allah Akbar – une expérience immédiate
+–	 22 mars 2016, 9 h 11, un grand boum
+Distinction entre islam et terrorisme 
+–	 Je ne suis pas raciste, mais… 
+–	 La violenza di un pezzo di carta (La violence d’un bout de 
+papier)
+–	 Quando l’islam è al centro del discorso, parte I et II 
+(Quand l’islam est au centre des débats, parties I et II)
+Racisme et extrémisme de droite 
+–	 Les doutes et le sens 
+–	 Le voile oppressé 
+Les femmes et l’islam 
+–	 La « Poetessa » : l’esempio di Hissa Hilal (La « Poé-
+tesse » : l’exemple de Hissa Hilal)
+–	 Des musulmans et un islam ?
+–	 E se fossimo tutti musulmani? (Et si nous étions tous 
+musulmans ?)
+–	 Comment s’est déroulée ma conversion à l’islam ? 
+Les musulmans en Suisse 
+–	 Partons tous au Jihâd
+–	 Batailles et moralité humaine
+–	 De l’éthique de guerre à l’éthique de paix 
+Déconstruction du djihad et de ses thèses bellicistes 
+–	 Quels jeunes voulons-nous être ? 
+–	 Il radicalismo islamico come indice di una problemati­
+ca generazionale? (Le radicalisme islamique, indice 
+d’une problématique générationnelle ?) 
+Implication des jeunes dans la société 
+PositivIslam
+Type de discours
+Contributions sur un blog, sous forme de textes 
+essentiellement
+(En français et en italien)
+Tous les textes sont disponibles sur le site Internet 
+du projet : www.positivislam.ch
+Possibilités d’utilisation
+Les blogueurs ont traité de sujets qui les concernent, avec 
+lesquels ils sont confrontés personnellement, ce qui 
+confère un caractère très authentique aux contenus et 
+permet aux adolescents et aux jeunes adultes de s’y 
+identifier. 
+Les contenus peuvent être utilisés pour lancer des débats 
+sur des thèmes précis, mais aussi de manière générale 
+pour réfléchir aux possibilités de participation à la vie de 
+la société.
+48
+49
+Aides au lancement et à la réalisation de projets de 
+discours 
+	 https://www.jugendundmedien.ch/de/experten-
+fachwissen/schwerpunkte/extremismus-radikalisie­
+rung-2017-2018.html 
+Matériel pédagogique et outils pour les écoles et 
+l’animation jeunesse 
+Vidéos de prévention sur le thème de l’extrémisme (liste de 
+lecture de Jeunes et médias) 
+	 https://www.youtube.com/playlist?list=PL68Pwav5ttm
+pelU9ASeuS4lOCXAx-eZu4 
+Guide de sensibilisation au terrorisme et à l’extrémisme 
+violent 
+	 http://www.rcmp-grc.gc.ca/fr/guide-sensibilisation-
+au-terrorisme-et-a-lextremisme-violent 
+Guide du personnel enseignant pour la prévention de 
+l’extrémisme violent 
+	 https://unesdoc.unesco.org/ark:/48223/
+pf0000244676_fre 
+Projet Contra : prévenir les effets de la propagande 
+d’extrême droite et des milieux islamistes – contexte et 
+aides pratiques, y c. modules d’enseignement 
+	 www.project-contra.org (en allemand)
+	 https://www.project-contra.org/Contra/EN/Home/
+home_node.html (en anglais)
+Informations et publications du RAN (Radicalisation 
+Awareness Network) 
+	 https://ec.europa.eu/home-affairs/what-we-do/
+networks/radicalisation_awareness_network/
+ran-papers_en 
+07_DOCUMENTS ET INFORMATIONS 
+COMPLÉMENTAIRES 
+ 
+Informations et matériel didactique sur la politique et la 
+démocratie 
+	 https://www.education21.ch/fr/edd/approches/
+education-a-la-citoyennete
+	 https://campusdemokratie.ch/fr/abc/
+	 http://www.politiklernen.ch (en allemand)
+Cas tirés de la pratique de la Commission fédérale contre le 
+racisme
+	 http://www.network-racism.ch/fr/exemples-de-la-
+pratique/exemples-de-cas-de-la-pratique.html
+Éducation aux droits de l’homme pour les adolescents et les 
+jeunes adultes, en milieu scolaire et extrascolaire
+	 https://www.coe.int/fr/web/compass/home 
+Organes de contact 
+Liste des organes de contact et informations complémen­
+taires fournies par le Réseau national de sécurité
+	 https://www.svs.admin.ch/fr/themes/prevention-de-la-
+radicalisation.html
+50
+Baier, D., Kamenowski, M., Curty, G., Eser, M. Haymoz, S., 
+Manzoni, P., Rether, A., Wegel, M. (2019). Evaluation der 
+Pilotprojekte Gegennarrative und Alternative Narrative zur 
+Prävention von Radikalisierung im Netz, die zu gewalttäti­
+gem Extremismus führt (Évaluation des projets pilotes de 
+contre-discours et de discours alternatifs positifs pour 
+prévenir la radicalisation sur Internet qui mène à 
+l’extrémisme violent; en allemand, avec résumé en français). 
+Haute école zurichoise de sciences appliquées ZHAW et 
+Haute École de Travail Social Fribourg : rapport de recherche 
+réalisé sur mandat de l’Office fédéral des assurances 
+sociales. 
+Bundeskriminalamt – Forschungsstelle für Terrorismus/
+Extremismus (Éd., 2018). Extremismus im Internet. Drei 
+Lernarrangements zur Förderung von Medienkritikfähigkeit 
+im Umgang mit Internetpropaganda in der Schule. Sur la 
+base de Ernst, J., Schmitt, J. B., Rieger, D., Roth, H.-J.: 
+Schlussbericht des Projekts CONTRA. In Zusammenarbeit 
+mit der Forschungsstelle Terrorismus/Extremismus im BKA 
+sowie ufuq.de. 
+Eser Davolio, M., Lenzo, D. (2017a). Méta-recherche : les 
+contre-discours à la propagande extrémiste. Berne : Office 
+fédéral des assurances sociales OFAS, Jeunes et médias. 
+À télécharger : https://www.jeunesetmedias.ch/fileadmin/
+user_upload/2_Chancen_und_Gefahren/Radikalisierung_
+Extremismus/Rapport_contre-discours_Eser_Lenzo_2017.
+pdf. 
+Eser Davolio, M., Lenzo, D. (2017b). Radikalisierung & 
+Extremismus. Saint-Gall : Themenheft im Rahmen der 
+Initiative «sicher!gsund!» der Departemente Bildung, 
+Gesundheit, Inneres sowie Sicherheit und Justiz. 
+Frischlich, L., Rieger, D., Morten, A., Bente, G. (Éd., 2017) in 
+Kooperation mit der Forschungsstelle Terrorismus/Extremis­
+mus des Bundeskriminalamts. Videos gegen Extremismus? 
+CounterNarrative auf dem Prüfstand. Wiesbaden: Bundes­
+BIBLIOGRAPHIE 
+ 
+kriminalamt. 
+Manzoni, P., Baier, D., Haymoz, S., Isenhardt, A., Kamenowski, 
+M., Jacot, C. (2018). Verbreitung extremistischer Einstellun­
+gen und Verhaltensweisen unter Jugendlichen in der 
+Schweiz. Zürcher Hochschule für Angewandte Wissen­
+schaften: Forschungsbericht. 
+Qasem, S. (2016). «Herausforderung 2.0: Ansätze und 
+Erfahrungen der politischen Bildung in Sozialen Netzwerken». 
+In Molthagen, D., Schöne, T. (Éd.). Lernen in der Einwande­
+rungsgesellschaft. Ein Handbuch für die Bildungsarbeit in 
+Schule, Jugendarbeit und Erwachsenenbildung in einer 
+vielfältigen Gesellschaft. Dietz Verlag. 
+Qasem, S., Nordbruch, G. (Red., 2016). Was postest du? 
+Politische Bildung mit jungen Muslim_innen online. 
+Hintergründe, Erfahrungen und Empfehlungen für die Praxis 
+in sozialen Netzwerken und Klassenräumen. ufuq.de – 
+Jugendkulturen, Islam & politische Bildung. 
+Wagner, U., Brüggen, N., Gebels, C. (2009). Web 2.0 als 
+Rahmen für Selbstdarstellung und Vernetzung Jugendli­
+cher. Analyse jugendnaher Plattformen und ausgewählter 
+Selbstdarstellungen von 14- bis 20-Jährigen. Institut für 
+Medienpädagogik in Forschung und Praxis. 
+51
+GLOSSAIRE 
+ 
+Bulles de filtre
+La sélection des contenus proposés aux internautes se fait au 
+moyen d’algorithmes qui se fondent sur leurs préférences, 
+supposées ou réelles : ce sont notamment les sites internet 
+visités, les activités sur les réseaux sociaux, les recherches 
+faites ou la localisation du dispositif qui déterminent ce choix. 
+Ce processus peut conduire à la formation de bulles de filtres 
+ou cocons d’informations – le système ne propose plus que 
+des contenus de même teneur – et par conséquent à une 
+distorsion et à une polarisation des opinions. 
+Contre-discours
+Les contre-discours visent directement des contenus 
+extrémistes en montrant qu’ils relèvent de la propagande, 
+en réfutant les informations erronées et en démystifiant les 
+propos glorifiants ; ils ont recours pour le faire à 
+l’argumentation logique et objective, à l’humour ou à la 
+satire. 
+Discours alternatifs
+Les discours alternatifs transmettent des récits du vivre 
+ensemble pacifique dans une société démocratique et un 
+État de droit libéral. Ils mettent l’accent sur l’intégration 
+sociale, la tolérance et l’ouverture. 
+Discours de haine
+Les discours de haine sont des formes d’expression qui 
+visent des individus en particulier ou des groupes de person
+nes et les offensent, les marginalisent ou génèrent même 
+de la violence envers eux, généralement par des commen
+taires sur les réseaux sociaux, les blogs ou les sites 
+internet. 
+-
+­
+Disruptions numériques (technologies disruptives)
+Les disruptions numériques sont des techniques (comprenant 
+entre autres des méthodes de redirection) qui servent 
+notamment à détecter les contenus extrémistes sur Internet 
+grâce à leur signature numérique et à supprimer ces photo-
+graphies, vidéos ou audios lorsqu’ils apparaissent ailleurs 
+sous forme de copie. 
+Évaluation formative
+Une évaluation formative sert à mettre en évidence le 
+potentiel d’amélioration d’un projet afin de l’optimiser. Dans 
+cette démarche qui se fait en cours de projet, il s’agit de 
+superviser le processus et les mesures prises ainsi que 
+d’évaluer les résultats. 
+Évaluation sommative
+L’évaluation sommative fait le bilan des résultats et 
+processus de l’objet qui lui est soumis, afin de répondre à la 
+question de son efficacité et de son caractère adapté. Ses 
+conclusions doivent notamment pouvoir servir de base de 
+décision pour la continuation du projet en question ou le 
+lancement d’autres programmes. 
+Fausses nouvelles (ou fake news)
+Les fausses nouvelles sont des nouvelles diffusées en 
+sachant pertinemment qu’elles sont fausses, dans le but de 
+manipuler l’opinion publique et de générer des émotions, de 
+la peur et un sentiment d’insécurité. Les fausses nouvelles 
+donnent la plupart du temps une impression de sérieux ; 
+étonnantes et captivantes, elles se diffusent particulière-
+ment bien sur les réseaux sociaux. 
+Littératie informationnelle
+La littératie désigne les compétences en lecture et en 
+écriture. Par littératie informationnelle, on entend donc la 
+capacité à faire preuve d’esprit critique envers les informa-
+tions reçues, à les comprendre et à distinguer le vrai du 
+faux. 
+52

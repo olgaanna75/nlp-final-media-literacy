@@ -1,0 +1,2454 @@
+NARRATIVE PER LA PREVENZIONE 
+DELLA RADICALIZZAZIONE 
+IN INTERNET
+Esempi di progetti, raccomandazioni e applicazione pratica
+Per 
+responsabili di 
+progetto, specialisti 
+e autorità
+Colophon
+A cura di
+Giovani e media
+Piattaforma nazionale per la promozione delle competenze mediali
+Ufficio federale delle assicurazioni sociali UFAS
+jugendschutz@bsv.admin.ch
+www.giovaniemedia.ch
+Testi redatti da
+Bettina Bichsel 
+in collaborazione con Liliane Galley e Maria Ritter (UFAS)
+Con l'assistenza specialistica di
+Dirk Baier (ZHAW),
+Chantal Billaud (Prevenzione svizzera della criminalità),
+Sébastien Gendre (FASe Ginevra),
+Vincent Joris (esperto in materia di ideologie e movimenti estremisti),
+Stéphane Koch (esperto in media sociali),
+Rifa’at Lenzin (Zürcher Institut für interreligiösen Dialog),
+Daniele Lenzo (Servizio d’intervento contro la radicalizzazione e 
+l’estremismo violento della polizia cantonale di Zurigo) 
+e dei responsabili dei progetti pilota
+Ordinazione (gratuita)
+UFCL, Vendita di pubblicazioni federali, CH-3003 Berna
+www.pubblicazionifederali.admin.ch > Attualità > Giovani e media
+(numero di ordinazione 318.860.I)
+01.20  500  860455496
+L’opuscolo può essere scaricato anche dal sito Internet 
+www.giovaniemedia.ch
+Disponibile in italiano, francese e tedesco
+Layout: Merkur Druck AG, Langenthal
+Foto: Pia Neuenschwander
+1ª edizione, gennaio 2020
+© Giovani e media – Piattaforma nazionale per la promozione delle competenze mediali, 
+Ufficio federale delle assicurazioni sociali
+3
+CARE LETTRICI, 
+CARI LETTORI
+ 
+un video su YouTube in cui si acclamano come eroi i combattenti jihadisti, con un sottofondo orecchiabile; un evento locale 
+postato su Facebook, che solo con una ricerca mirata si capisce essere organizzato da un gruppo di estrema destra; 
+lo scambio di nomi e indirizzi su forum online di estrema sinistra, associato a un’inequivocabile istigazione alla violenza: 
+attivisti estremisti di ogni genere utilizzano Internet per diffondere le proprie ideologie e reclutare nuovi adepti, in 
+particolare adolescenti e giovani adulti che vengono avvicinati con strategie propagandistiche professionali. Gli attivisti 
+estremisti sono consapevoli dell’importanza che Internet assume nella quotidianità dei giovani e della particolare 
+recettività di questi ultimi ai messaggi radicali in una fase della vita in cui cercano la propria identità. 
+La radicalizzazione è un tema complesso e dalle molteplici sfaccettature. Non c’è un’unica causa per la quale una 
+persona è attirata da ideologie estremiste. Proprio per questo motivo occorre un’ampia gamma di misure di prevenzione. 
+Uno dei possibili approcci è costituito dalle contro-narrative e dalle narrative alternative, ovvero video, testi o altri 
+contenuti mediali con i quali si smascherano messaggi propagandistici estremisti di carattere politico o religioso e, 
+al posto di questi, si diffondono valori quali la tolleranza, la diversità e la libertà di opinione. Non da ultimo, si tratta 
+di mostrare agli adolescenti e ai giovani adulti l’importanza di un atteggiamento critico nei confronti dei contenuti 
+mediali.
+In Svizzera questo approccio delle narrative è ancora poco esplorato. Per questo motivo, l’Ufficio federale delle assicura­
+zioni sociali ha sostenuto quattro progetti pilota in cui sono state prodotte tali narrative, contribuendo così all’attuazione 
+del Piano d’azione nazionale per prevenire e combattere la radicalizzazione e l’estremismo violento. I risultati della 
+valutazione scientifica di questi progetti mostrano le sfide poste da questo approccio e i fattori che contribuiscono al 
+suo successo. Su queste basi, la presente guida intende motivare gli specialisti ad avviare progetti propri e fornire loro 
+strumenti dal carattere più pratico possibile. Inoltre, dà alcune idee su come poter attuare le narrative dei progetti pilota 
+nelle scuole, nelle attività giovanili extrascolastiche e in altri contesti di prevenzione. 
+Vi auguro una buona lettura!
+Ludwig Gärtner 
+Capo dell’Ambito Famiglia, generazioni e società
+Ufficio federale delle assicurazioni sociali
+4
+______Panoramica	
+5
+01_ ___Estremismo e radicalizzazione in rete 	
+6
+L’estremismo ha tanti volti	
+6
+Radicalizzazione: la via verso l’estremismo	
+7
+Come si manifesta l’estremismo in rete?	
+7
+Perché i giovani sono particolarmente recettivi ai messaggi estremisti?	
+9
+02_ ___La prevenzione attraverso le contro-narrative e narrative alternative	
+10
+Cosa sono le contro-narrative e le narrative alternative e a cosa servono?	
+10
+Cosa si sa sull’efficacia di queste narrative?	
+10
+03_ ___Nuove vie: i quattro progetti pilota	
+12
+Contesto e idea generale	
+12
+Competenze specialistiche e accompagnamento scientifico	
+12
+Trasferimento di conoscenze e scambio di esperienze	
+12
+Progetto Winfluence	
+14
+Progetto KnowIslam	
+15
+Progetto SwissMuslimStories	
+17
+Progetto PositivIslam	
+18
+04_ ___Esperienze e conoscenze acquisite con i progetti pilota	
+20
+Approccio impegnativo, ma promettente	
+20
+Quali sono le sfide principali sul fronte della realizzazione?	
+21
+Quali fattori hanno contribuito al successo dei progetti?	
+25
+05_ ___Criteri qualitativi e raccomandazioni	
+29
+Autorità e finanziatori	
+30
+Responsabili di progetto	
+32
+Gruppo di esperti	
+36
+Gruppo di valutazione	
+36
+Panoramica dei ruoli e dei compiti	
+38
+06_ ___Spunti per l’uso delle narrative nell’attività pratica	
+40
+Estremismo e radicalizzazione: un tema dalle molte sfaccettature	
+41
+Utilizzo delle narrative prodotte nel quadro dei progetti pilota	
+43
+07_ ___Materiale e ulteriori informazioni	
+49
+______Bibliografia	
+50
+______Glossario	
+51
+INDICE
+ 
+Nell’era digitale, Internet svolge un ruolo chiave per la 
+diffusione di contenuti estremisti: che sia su media sociali, 
+forum o blog oppure sotto forma di foto, video o testi, 
+la rete offre ai gruppi di stampo politico o religioso una 
+piattaforma per diffondere le loro ideologie, fare propagan­
+da e reclutare nuovi membri. A tal fine, non di rado si 
+rivolgono in modo specifico agli adolescenti e ai giovani 
+adulti, i quali sono molto attivi online e per motivi diversi 
+possono essere particolarmente recettivi ai messaggi 
+radicali. 
+È difficile sapere cosa spinga i giovani a radicalizzarsi: 
+entrano infatti in gioco diversi fattori, sia nel mondo virtuale 
+che in quello reale. La prevenzione affronta questa sfida 
+con diverse misure, che vanno dalla sensibilizzazione e 
+trasmissione delle conoscenze fino agli approcci destinati 
+in modo mirato agli adolescenti e ai giovani adulti a rischio, 
+al fine di individuarli e allontanarli dalla via della radica-
+lizzazione.
+Una delle possibilità di prevenzione nello spazio digitale è 
+costituita dalle cosiddette contro-narrative o narrative 
+alternative. Il loro obiettivo è di smontare esplicitamente 
+ideologie e strategie propagandistiche estremiste 
+(contro-narrative), rispettivamente di abbattere i pregiudizi 
+con messaggi positivi per promuovere un approccio di 
+pensiero differenziato, la convivenza e l’integrazione socia­
+le (narrative alternative), per stimolare gli adolescenti 
+e i giovani adulti a valutare con occhio critico i contenuti 
+mediali. 
+Nell’ambito del tema centrale «Estremismo e radicalizzazione», 
+la piattaforma nazionale Giovani e media dell’Ufficio 
+federale delle assicurazioni sociali (UFAS) ha sostenuto e 
+seguito quattro progetti pilota in cui sono state sviluppate 
+tali narrative con la partecipazione di adolescenti e giovani 
+PANORAMICA
+ 
+adulti. L’intero processo è stato inoltre accompagnato da un 
+gruppo di esperti. 
+Con la presente guida si vuole ora permettere agli attori 
+della società civile, agli specialisti e alle autorità, nonché a 
+tutte le persone interessate, di familiarizzarsi con le 
+contro-narrative e le narrative alternative e sostenerli 
+nell’avvio di progetti propri. Sulla scorta della valutazione 
+dei progetti pilota e del rapporto di ricerca redatto in merito 
+dall’Università di scienze applicate di Zurigo (ZHAW) e 
+dalla Scuola superiore di lavoro sociale di Friburgo (HETS-FR), 
+vengono fornite informazioni di base, illustrate le sfide 
+principali e presentati aiuti per l’avvio e l’attuazione di 
+progetti in materia.
+5
+Una possibilità di 
+prevenzione nello 
+spazio digitale.
+6
+01_ESTREMISMO E 
+RADICALIZZAZIONE IN RETE
+ 
+L’estremismo ha tanti volti
+L’estremismo si oppone ai principi fondamentali di una società 
+democratica e dello Stato di diritto: diritti fondamentali, 
+uguaglianza, tolleranza e tutela delle minoranze. Le posizioni 
+estremiste si manifestano nell’espressione di opinioni 
+e nella diffusione di ideologie considerate come le uniche 
+valide e da applicare senza compromessi, eventualmente 
+anche per mezzo della violenza. La visione del mondo proposta 
+è caratterizzata da una logica di semplicistico dualismo 
+«amici-nemici», mentre le correlazioni vengono spesso 
+ridotte a teorie del complotto. 
+La propaganda dei gruppi estremisti mira a influenzare 
+sistematicamente il modo di pensare e i sentimenti delle 
+persone, per arrivare a renderli disposti a impegnarsi 
+per gli auspicati cambiamenti sociali e istituzionali ricorrendo 
+alla violenza (dai discorsi d’odio al terrorismo). 
+Tra le forme di estremismo a sfondo politico o religioso che 
+possono portare alla violenza rientrano in particolare quelle 
+esposte di seguito.
+Estremismo di destra
+L’estremismo di destra comprende ideologie (neo)fasciste, 
+nazionalistiche, razziste, islamofobiche e antisemite. 
+I principali concetti di «nemico» sono costruiti in base 
+all’origine, al colore della pelle, alla religione o all’orienta­
+mento sessuale. L’appartenenza etnica è considerata la 
+legittimazione prioritaria per escludere e denigrare gli altri; 
+parallelamente, si mette quindi in discussione l’uguaglianza 
+sociale e giuridica. Gli estremisti di destra auspicano 
+uno Stato autoritario, esaltano il fascismo e il nazional-
+socialismo e sminuiscono o negano l’Olocausto.
+Estremismo di sinistra
+L’estremismo di sinistra include diverse correnti comuniste, 
+marxiste-leniniste e anarchiche, accomunate dalla lotta 
+contro il sistema capitalista globalizzato e da un’ideologia 
+della parità sociale assoluta. Questa forma di estremismo 
+incita a opporre resistenza a strutture statali e istituzioni 
+che ritengono essere fonte di sfruttamento e repressione, 
+quali la democrazia parlamentare e la polizia. Gli estremisti 
+di sinistra violenti attaccano spesso banche o altri simboli 
+del capitalismo, ma anche rappresentanti della politica e 
+dell’amministrazione.
+Estremismo islamico / jihadismo
+L’estremismo islamico è una forma fondamentalista 
+dell’Islam, che persegue la fondazione e/o l’espansione di 
+un ordinamento islamico. L’Islam funge da modello da 
+opporre alla visione del mondo della democrazia occidentale 
+(considerata come depravata) e alle sue basi statali e 
+sociali. L’appello alla jihad nel Corano è interpretato come 
+legittimazione alla violenza contro tutti i miscredenti. 
+Inoltre, l’estremismo islamico è caratterizzato da un 
+atteggiamento omofobo. Le organizzazioni jihadiste quali 
+al-Qaida e lo Stato islamico (IS) cercano continuamente 
+di reclutare giovani dai Paesi occidentali.
+Queste tre forme di estremismo hanno in comune, oltre 
+all’opposizione alla democrazia, un’ideologia dualista 
+«amici-nemici» e la pretesa di essere le uniche detentrici 
+della verità, anche un atteggiamento di rifiuto nei confronti 
+dei mass media, una visione spiccatamente dicotomica 
+«bianco-nero» e un senso di appartenenza e di camerateria 
+tra i propri membri. Chiunque si opponga ai gruppi in 
+questione o si allontani da essi è quindi oggetto di diffama­
+zione, minacce e attacchi.
+7
+Radicalizzazione: la via verso l’estremismo
+Ricercatori ed esperti concordano sul fatto che non esistono 
+fattori o cause di radicalizzazione di validità universale: 
+in generale, la radicalizzazione è considerata sì come un 
+processo, ma il suo sviluppo varia in funzione del singolo 
+individuo. Chi si radicalizza si appropria di modi di pensare e 
+di agire estremi, che legittimano il ricorso alla violenza 
+contro i rappresentanti di quello che è individuato come 
+«il nemico». Pur partendo dal presupposto che i meccanismi 
+che agiscono in questo contesto non differiscano in misura 
+sostanziale da un orientamento ideologico all’altro, non si 
+può comunque delineare un profilo tipico delle persone 
+particolarmente suscettibili di radicalizzarsi. I percorsi e le 
+situazioni sono molto diversi a seconda della persona e 
+del contesto, con una combinazione di fattori che assumono 
+un ruolo specifico in ciascun caso. 
+A livello scientifico non vi è unanimità circa la correlazione 
+di questi fattori, l’importanza dei singoli aspetti e le 
+dinamiche precise che ne derivano. Nella maggior parte 
+delle teorie vengono però individuati tre elementi rilevanti 
+nel processo che va dalla radicalizzazione all’estremismo 
+(violento):
+1.	 un senso personale di insoddisfazione, un’esperienza 
+di emarginazione o discriminazione, conflitti 
+(p. es. conflitto d’identità) oppure tensioni politiche;
+2.	 l’interiorizzazione di un’ideologia estremista con 
+la quale ci si identifica;
+3.	 il coinvolgimento in un contesto caratterizzato da 
+lealtà verso gli altri membri del gruppo e pressione del 
+gruppo sull’individuo.
+A seconda del grado di radicalizzazione, sono necessarie 
+diverse misure di prevenzione. In questo contesto 
+si distingue in particolare tra prevenzione universale e 
+prevenzione selettiva: la prima è destinata ad ampie fasce 
+della popolazione, mentre la seconda si rivolge in modo 
+mirato ai gruppi che presentano fattori di rischio legati al 
+loro percorso personale. Per le persone che si stanno radica­
+lizzando o che sono già radicalizzate occorrono altre misure, 
+volte ad allontanarle da questa via. 
+Come si manifesta l’estremismo in rete?
+Le forme in cui l’estremismo a sfondo politico o religioso si 
+manifesta in rete sono molteplici. Le reti sociali, i portali 
+video nonché i blog, i forum e le aree commenti offrono 
+possibilità quasi illimitate di diffondere opinioni, ideologie e 
+messaggi propagandistici. Il problema è che i contenuti 
+radicali ed estremisti sono spesso ben dissimulati, essendo 
+presentati come informazione politica, iniziative civiche 
+o intrattenimento. Non sempre si può capire a prima vista 
+di cosa si tratta effettivamente e chi si nasconde dietro 
+un post, una foto o un video.
+I gruppi estremisti copiano volentieri lo stile di vita dei 
+giovani, usano un linguaggio visivo moderno e producono 
+video musicali o film propagandistici dai costi elevati. 
+Inoltre, in Internet i punti di vista estremi si diffondo più 
+rapidamente e possono raggiungere un numero di persone 
+maggiore che nel mondo reale, anche già solo per il fatto 
+che la rete non ha vincoli geografici. Va poi considerato che 
+in Internet il presunto anonimato riduce gli scrupoli a 
+esprimere opinioni radicali o mettere «like» a contenuti 
+estremisti oppure a condividerli: non ci si deve esporre 
+direttamente e ci si può nascondere dietro una falsa 
+identità. 
+Non da ultimo, gli algoritmi di personalizzazione dei media 
+digitali incidono su cosa viene mostrato agli utenti 
+scegliendo e proponendo temi analoghi ai contenuti di 
+pagine consultate in precedenza. Questo filtraggio 
+può contribuire a una polarizzazione delle opinioni e degli 
+atteggiamenti (con la creazione di cosiddette «bolle di 
+filtraggio»).
+La radicalizzazione 
+è vista piuttosto 
+come un processo.
+9
+Perché i giovani sono particolarmente 
+recettivi ai messaggi estremisti?
+La fase di sviluppo degli adolescenti e dei giovani adulti è 
+caratterizzata dalla ricerca della propria identità. In questo 
+processo Internet offre un campo di gioco dove testare idee 
+diverse. Inoltre, i giovani sono tendenzialmente più aperti 
+e sensibili nei confronti di tutto ciò che è nuovo e sconosciuto, 
+in particolare se i contenuti sono presentati in una forma 
+che corrisponde loro. Va anche considerato che in questa 
+fase della vita si sviluppa l’interesse per le questioni 
+politiche e sociali, alla ricerca del proprio sistema di valori, 
+il che comporta l’apertura a posizioni diverse.
+In generale, i gruppi estremisti sfruttano a loro vantaggio 
+l’utilizzo dei media dei giovani utenti, per i quali l’accesso 
+a Internet 24 ore su 24 è ormai un fatto scontato e che usano 
+le reti sociali e i servizi dedicati ai video come YouTube 
+non solo a scopo d’intrattenimento ma anche quale fonte 
+d’informazione. Nel quadro di un’indagine svolta presso 
+gli adolescenti di 12–19 anni sul tema «fake news» (JAMES- 
+focus 2019), sono stati individuati due gruppi potenzialmente 
+suscettibili di credere alle notizie false: da un lato, i giovani 
+poco o per niente interessati all’attualità del mondo e con 
+scarse competenze in materia di informazione (news 
+literacy) e, dall’altro, quelli che si informano soprattutto 
+tramite conversazioni personali con amici e familiari oppure 
+online, ad esempio su portali video e media sociali, 
+da cui rischiano di riprendere opinioni senza riflettere.
+Per tutti gli utenti, comunque, la difficoltà consiste nell’indi­
+viduare i contenuti estremisti e riconoscere l’intenzione 
+(propagandistica) che vi si cela. Questo non è legato soltanto 
+all’esperienza di vita e alle conoscenze di cui si dispone, 
+ma anche alla realizzazione tecnica e alla presentazione di 
+tali contenuti, che sono generalmente molto professionali. 
+Inoltre, spesso i messaggi e le ideologie radicali si nascon­
+dono dietro elementi d’intrattenimento presumibilmente 
+innocui, quali canzoni, suonerie o immagini. 
+Non da ultimo, va considerato che i contatti virtuali rispondo­
+no al bisogno di sentirsi in relazione con altri. In rete, 
+questo senso di appartenenza a un gruppo si crea ancora 
+più rapidamente che tramite i contatti personali nel 
+mondo fisico. Gli adolescenti e i giovani adulti senza relazioni 
+sociali solide possono dunque essere particolarmente 
+sensibili a determinati messaggi che sottolineano proprio 
+questo senso comunitario.
+I messaggi radicali si 
+nascondono spesso 
+dietro elementi di 
+intrattenimento.
+10
+Cosa sono le contro-narrative e le narrative 
+alternative e a cosa servono?
+Considerata la complessità dei processi di radicalizzazione, 
+anche nell’ambito della prevenzione occorrono sforzi 
+a diversi livelli. Questo vale sia offline che online, dove ad 
+esempio le misure repressive tese a sorvegliare le attività 
+in rete tramite cosiddetti «software distruttivi» e a 
+cancellare contenuti problematici risultano efficaci solo in 
+misura limitata: continuare a diffondere propaganda 
+mediante nuovi account e siti Internet è fin troppo facile. 
+Sono dunque necessarie misure complementari che si 
+rivolgano proprio ai gruppi target cui puntano anche i gruppi 
+estremisti. È in questo contesto che intervengono le 
+contro-narrative e le narrative alternative: contrastano i 
+contenuti estremisti tramite gli stessi mezzi mediali utilizzati 
+per diffonderli, smontano i messaggi trasmessi e svelano 
+gli obiettivi propagandistici. Questi due approcci hanno in 
+comune l’obiettivo di contribuire alla sensibilizzazione e 
+alla formazione delle opinioni con un occhio critico. Il modo 
+di procedere è però diverso.
+Contro-narrative
+Le contro-narrative intendono smascherare i contenuti 
+estremisti quale propaganda e screditarli, confutare 
+le informazioni false e demistificare le rappresentazioni che 
+esaltano la violenza. Si può ad esempio contrastare 
+una narrativa islamista che inneggia alla guerra con una 
+contro-narrativa che mostri le conseguenze negative 
+di una guerra. I mezzi impiegati per le contro-narrative 
+spaziano dall’argomentazione logico-deduttiva a quella 
+umoristico-satirica.
+Narrative alternative
+Le narrative alternative pongono l’accento sulla trasmissione 
+di messaggi positivi. Mentre le narrative estremiste 
+adottano sempre una prospettiva «amici-nemici», le narrative 
+alternative promuovono percezioni differenziate, 
+illustrando possibili modi per una convivenza pacifica in 
+uno Stato di diritto liberale e temi quali l’integrazione 
+sociale e la tolleranza.
+Cosa si sa sull’efficacia di queste narrative?
+La ricerca (empirica) concernente le contro-narrative e le 
+narrative alternative e la loro efficacia è ancora agli 
+albori. Ad oggi esistono solo pochi studi esteri, che tra 
+l’altro presentano un quadro eterogeneo.
+Una delle difficoltà principali deriva dal comportamento 
+online degli individui. Si parte dall’idea che in generale 
+si consumino contenuti corrispondenti alle proprie posizioni 
+e che chi è convinto delle proprie idee si lasci difficilmente 
+convincere del contrario. I contenuti mediali vanno piuttosto 
+a rafforzare queste idee, vale a dire che chi ha già una 
+posizione estrema o radicale vi troverà una conferma o un 
+consolidamento. Tendenzialmente, dunque, le contro-
+narrative e le narrative alternative possono raggiungere 
+soprattutto le persone che non hanno ancora un’opinione o 
+non ancora abbastanza solida.
+Nell’ottica di sviluppare contro-narrative e narrative alterna­
+tive efficaci, le conoscenze scientifiche acquisite finora 
+permettono di evidenziare i principi seguenti.
+1.	 Il requisito di base è una conoscenza approfondita 
+del gruppo target.
+Qual è il profilo psicosociale delle persone da raggiun­
+gere? Dove sono presenti (sia online che offline)? 
+Attraverso quali canali ci si può rivolgere loro? Da quali 
+messaggi si sentono attirati?
+2. 	 Il contenuto narrativo del contro-messaggio deve 
+essere migliore della propaganda estremis
+A tal fine, occorre conoscere i temi trattati nelle 
+narrative dei gruppi estremisti. Solo così è possibile 
+riprendere e smontare argomenti in modo mirato o 
+mostrare prospettive alternative. Si ritiene inoltre che 
+02_LA PREVENZIONE ATTRAVERSO 
+LE CONTRO-NARRATIVE 
+E NARRATIVE ALTERNATIVE
+ 
+11
+un contro-argomento sia più efficace se proviene dallo 
+stesso contesto culturale della narrativa estremista.
+3. 	 Le contro-narrative e le narrative alternative 
+devono essere realizzate in modo moderno, 
+essere al passo con i tempi e rinnovarsi 
+continuamente.
+Le narrative estremiste sono perlopiù prodotte a livello 
+professionale e di breve durata, vale a dire che nascono 
+continuamente nuovi contenuti. Lo stesso deve valere 
+per le contro-narrative e per le narrative alternative. 
+4. 	 Per quanto concerne l’impostazione delle 
+narrative, sono ancora pochi i punti di riferimento 
+empirici.
+Per acquisire conoscenze approfondite su come 
+affrontare e confutare i messaggi estremisti occorrono 
+ulteriori analisi scientifiche che rendano misurabile 
+l’efficacia comunicativa delle contro-strategie. In base 
+ai risultati attualmente disponibili si possono rilevare 
+quattro fattori essenziali per la costituzione di narrative.
+	
+–	
+Nel caso delle narrative alternative, si consiglia 
+un’impostazione sotto forma di racconto, 
+che ponga l’accento su storie personali. Il racconto 
+deve essere adeguato e coinvolgente per il 
+pubblico target.
+	
+–	
+Nel caso delle contro-narrative, si raccomanda un 
+legame diretto con il messaggio estremista, 
+per esporre le contro-argomentazioni in modo con­
+creto e mirato.
+	
+–	
+In generale, le narrative con un approccio 
+preventivo dovrebbero indurre a riflettere.
+	
+–	
+Un altro aspetto fondamentale dovrebbe essere l
+a promozione delle competenze mediali del 
+pubblico target, ovvero lo sviluppo di un atteggia­
+mento critico nei confronti dei contenuti mediali.
+5.	 Gli autori devono godere della fiducia del gruppo 
+target ed essere credibili ai suoi occhi.
+La legittimità attribuita alle persone o alle organizzazioni 
+che si celano dietro i messaggi diffusi svolge un ruolo 
+essenziale per il modo in cui i contenuti vengono accolti e 
+per la loro efficacia. 
+6.	 Modelli di buone pratiche di altri settori possono 
+fornire spunti preziosi. 
+Esistono ad esempio parallelismi con la prevenzione 
+della violenza e la promozione del coraggio civile. 
+Anche in questo caso vi sono esigenze analoghe in 
+termini di qualità, drammaturgia e sicurezza stilistica 
+nella realizzazione. 
+In generale, le narrative 
+dovrebbero stimolare 
+la riflessione.
+12
+Contesto e idea generale
+L’idea lanciata nel 2017 è stata una novità assoluta in 
+Svizzera, dove, fino ad allora, non si erano ancora fatte 
+esperienze con progetti volti a elaborare e diffondere 
+contro-narrative o narrative alternative. Con l’impulso inizia­
+le dato dall’UFAS nel quadro del tema centrale «Estre-
+mismo e radicalizzazione» della piattaforma Giovani e media 
+si attuava al contempo una misura del Piano d’azione 
+nazionale per prevenire e combattere la radicalizzazione 
+e l’estremismo violento.
+Dall’autunno del 2017 alla fine del 2018 sono quindi stati 
+sostenuti e accompagnati quattro progetti pilota prove-
+nienti da tutta la Svizzera. Per il bando di concorso e la 
+selezione dei progetti si era posto l’accento sui requisiti 
+esposti di seguito.
+Partecipazione: gli adolescenti e i giovani adulti tra i 12 
+e i 25 anni non costituiscono solo il gruppo target, ma 
+vengono anche coinvolti nello sviluppo concettuale e nella 
+realizzazione del progetto. 
+Durevolezza: il progetto è impostato in modo che abbia 
+effetti a lungo termine a livello di efficacia e di trasferimento 
+delle conoscenze.
+Conoscenze specifiche: il piano concettuale e la 
+struttura del progetto garantiscono conoscenze comprovate 
+ed esperienze negli ambiti dell’estremismo e della radicaliz­
+zazione nonché della comunicazione online.
+Collaborazione interdisciplinare: il progetto gode di 
+ampio sostegno e, per la realizzazione e la diffusione, 
+punta sulla collaborazione con partner importanti (attori 
+operanti negli ambiti di attività giovanili, integrazione, 
+prevenzione, religione).
+Integrazione con altre misure: il progetto può essere 
+collegato con altre misure di sensibilizzazione per la 
+prevenzione della radicalizzazione.
+Sulla base delle idee di progetto presentate, l’accento è 
+stato posto sulle narrative alternative nell’ambito 
+dell’estremismo islamico. Il metodo è però esplicitamente 
+applicabile anche ad altre forme di estremismo, in 
+particolare all’estremismo di destra e a quello di sinistra.
+Competenze specialistiche e accompagna­
+mento scientifico 
+Considerata la complessità del tema, un gruppo di esperti 
+attivi in vari ambiti (prevenzione, estremismo, dialogo 
+interreligioso, dialogo socioculturale, media digitali) ha 
+seguito l’intero processo, dalla selezione dei progetti 
+fino alla valutazione. Oltre ad assicurare il rispetto di 
+standard qualitativi per la forma e il contenuto, si è potuto 
+così garantire che le narrative pubblicate trasmettessero 
+i messaggi auspicati in modo adeguato al gruppo target, 
+che non sorgessero malintesi o possibilità d’interpretazione 
+indesiderate o controproducenti e che, ad esempio, 
+non si adottasse una prospettiva distorta di vittima. Inoltre, 
+era fondamentale che i concetti impiegati non si potes-
+sero confondere con le forme di espressione tipiche dei 
+gruppi estremisti.
+Al fine di garantire la qualità e generare conoscenze, 
+l’Università di scienze applicate di Zurigo (ZHAW) 
+e la Scuola superiore di lavoro sociale di Friburgo (HETS-FR) 
+hanno svolto una valutazione formativa e sommativa. 
+Per informazioni dettagliate riguardanti l’impostazione 
+concettuale, la procedura e i quesiti della valutazione 
+si rimanda al rapporto di ricerca (Baier et al. 2019). Le 
+esperienze acquisite nella fase pilota dovranno ora 
+fungere da punto di riferimento per lo sviluppo e l’ottimiz­
+zazione dei progetti già esistenti, ma anche per avviare 
+nuove iniziative del genere.
+Trasferimento di conoscenze e scambio di 
+esperienze 
+Per creare un collegamento tra i quattro progetti, promuove­
+re lo scambio di esperienze e trasmettere le conoscenze 
+03_NUOVE VIE: I QUATTRO 
+PROGETTI PILOTA
+ 
+13
+acquisite in vista dell’attuazione, l’UFAS ha organizzato 
+tre incontri per i responsabili di progetto, cui hanno 
+partecipato, oltre a rappresentanti della Confederazione, 
+anche il gruppo di esperti e il gruppo di valutazione. 
+In queste occasioni, sono state trattate innanzitutto le 
+questioni della radicalizzazione degli adolescenti e dei 
+giovani in generale nonché delle misure di prevenzione, 
+per poi concentrarsi sulle strategie di comunicazione digitale 
+per diffondere le narrative, sulla gestione dei commenti 
+(in particolare quelli che istigano all’odio) e sui metodi di 
+reindirizzamento, utilizzati ad esempio da Google per 
+contrastare la radicalizzazione online. Inoltre, sono stati 
+invitati relatori in rappresentanza di progetti di narrativa 
+svolti all’estero, affinché parlassero delle loro esperienze e 
+conoscenze. 
+Nell’ottica dell’attuazione, sono stati discussi anche i piani 
+concettuali dei progetti e lo svolgimento del processo. Non 
+da ultimo, considerato l’obiettivo della maggiore continuità 
+possibile, sono state esaminate possibili modalità per portare 
+avanti i progetti una volta conclusa la fase pilota nonché per 
+diffondere anche in futuro le narrative elaborate e utilizzarle 
+nelle attività di prevenzione (al riguardo v. cap. 6). 
+14
+Il progetto Winfluence
+Idea di fondo e obiettivi
+Winfluence è un progetto realizzato dal servizio Jugendinfo 
+Winterthur in collaborazione con la delegata per l’infanzia 
+e la gioventù, il Servizio specializzato per la prevenzione 
+dell’estremismo e della violenza della Città di Winterthur e 
+l’associazione JASS (Just a simple Scarf). L’accento è 
+stato posto sulle narrative rivolte contro la propaganda 
+estremista, l’odio e l’istigazione all’odio in rete in generale. 
+Gli obiettivi erano promuovere la tolleranza, abbattere i 
+pregiudizi e favorire l’apertura nei confronti di altri punti di 
+vista, mediante la produzione e la diffusione di videoclip. 
+S’intendeva inoltre motivare i giovani coinvolti ad acquisire 
+conoscenze specialistiche sul tema e a diventare messaggeri 
+di rispetto e tolleranza tramite la partecipazione al progetto. 
+Per l’elaborazione tematica e la realizzazione tecnica sono 
+state coinvolte un’insegnante di teatro e una disegnatrice. 
+Coinvolgimento di adolescenti o giovani adulti
+Il progetto Winfluence ha adottato un approccio fortemente 
+partecipativo. Mediante annunci sui giornali e in Internet 
+sono stati cercati adolescenti interessati a partecipare. In 
+occasione di un casting, sono quindi stati selezionati 
+14 cosiddetti «Winfluencer», che hanno deciso e sviluppato i 
+temi e i contenuti dei singoli videoclip. Un secondo gruppo, 
+costituito da giovani adulti, si è occupato della diffusione 
+online tramite le reti sociali (Facebook, Instagram) e YouTube. 
+Gruppi target 
+–	 I due gruppi di cosiddetti «Winfluencer», il primo 
+formato da adolescenti di età inferiore ai 18 anni che 
+hanno elaborato i contenuti delle narrative, e il 
+secondo da giovani adulti che hanno diffuso i videoclip 
+tramite le reti sociali.
+–	 La parte di popolazione di età compresa tra i 13 e i 
+25 anni e tra i 31 e i 50 anni, scettica od ostile nei 
+confronti dei rifugiati, del Medio Oriente e dell’Islam. 
+–	 Musulmani, rifugiati e persone provenienti dal Medio 
+Oriente di età compresa tra i 14 e i 30 anni o tra i 31 e 
+i 40 anni, che sono (o sono stati) oggetto di ostilità. 
+Prodotti
+Sono stati realizzati cinque videoclip. Per tutelare i giovani 
+coinvolti, è stata scelta la forma dei fumetti animati (motion 
+comics), in cui i protagonisti avevano le sembianze di 
+animali. I videoclip trattano i temi seguenti: 
+–	 #1 Gender (Genere): la violenza nei rapporti di coppia;
+–	 #2 Hass im Alltag (L’odio nella vita quotidiana): 
+il razzismo in ambito familiare;
+–	 #3 Grillideologie (L’ideologia del grill): i vegetariani 
+fanatici;
+–	 #4 Gewalt und Aggression (Violenza e aggressione): 
+la violenza nello spazio pubblico;
+–	 #5 Die Amis sind an ALLEM schuld (TUTTA colpa degli 
+americani): le teorie cospirative.
+Gli animali scelti (rinoceronte, cane, uccello, pappagallo, 
+lama) sono stati rappresentati in tutti i videoclip con la 
+stessa personalità, ma con ruoli diversi a seconda del tema. 
+In questo modo si voleva dimostrare che, a seconda 
+della situazione, la stessa persona può essere aggressore 
+(radicalizzato), vittima o spettatore. 
+Gruppo di progetto 
+Servizio Jugendinfo della Città di Winterthur, associazione JASS, delegata per l’infanzia e la gioventù e 
+Servizio specializzato per la prevenzione dell’estremismo e della violenza della Città di Winterthur.
+Sito Internet del progetto 
+https://jugendinfo.win/winfluence/
+15
+Il progetto KnowIslam
+Idea di fondo e obiettivi
+Il progetto è stato promosso sotto la guida dell’Istituto per 
+la collaborazione e il dialogo interculturali (Institut 
+für Interkulturelle Zusammenarbeit) di Zurigo. Lo scopo 
+principale era di offrire agli adolescenti e ai giovani adulti 
+musulmani informazioni per sviluppare una riflessione 
+critica e costruttiva sulla propria religione e per farsi una 
+propria idea. 
+Per questo sono stati scelti alcuni «temi quadro» (p. es. 
+persona, religione, fede, violenza), da affrontare con 
+l’ausilio di brani scelti del Corano corredati di immagini e 
+video esplicativi di narrative alternative. Si voleva così 
+fornire un’altra chiave di lettura e porre l’accento su un 
+Islam pacifico e umano. 
+Coinvolgimento di adolescenti o giovani adulti
+Adolescenti e giovani adulti sono stati coinvolti nel progetto 
+come gruppo consultivo. Nel quadro di due workshop hanno 
+avuto l’opportunità di esporre le proprie opinioni, riflessioni 
+e preferenze in merito alla selezione dei «temi quadro». 
+I partecipanti sono stati contattati direttamente dai respon­
+sabili del progetto.
+Gruppi target 
+Adolescenti musulmani tra i 14 e i 18 anni e giovani adulti 
+musulmani fino a 25 anni, che cercano in Internet informa­
+zioni su temi religiosi. 
+Prodotti 
+In totale sono stati realizzati 53 testi con immagini e 10 video 
+su passaggi del Corano. I testi con immagini e i video 
+esplicativi sono stati realizzati con veste grafica e impostazio­
+ne identiche. I testi con immagini, le relative spiegazioni 
+e le sure sono brevi, mentre i video affrontano un tema da 
+più punti di vista. Ogni video tratta un tema diverso: 
+–	 Video 1: «Der Mensch im Islam» (La concezione 
+dell’essere umano nell’Islam)
+–	 Video 2: «Was sagt der Islam zu Gewalt?» (Cosa dice 
+l’Islam a proposito della violenza?)
+–	 Video 3: «Glaube – Iman» (Fede – Iman)
+–	 Video 4: «Gott im Islam – Glaube an Allah» 
+(Dio nell’Islam – La fede in Allah)
+–	 Video 5: «Was ist der Islam?» (Cos’è l’Islam?)
+–	 Video 6: «Der Koran – Die Lesung» (Il Corano – 
+La lettura)
+–	 Video 7: «Hadith – Was bedeutet das?» (Hadith: cosa 
+significa?)
+–	 Video 8: «Jenseits im Islam (Ahira) – Das Leben nach 
+dem Tod» (L’aldilà nell’Islam (ahira) – La vita dopo 
+la morte)
+–	 Video 9: «Propheten und Gesandte» (Profeti e inviati)
+–	 Video 10: «Grundrechte im Islam» (I diritti fondamentali 
+nell’Islam)
+Gruppo di progetto 
+Istituto per la collaborazione e il dialogo interculturali di Zurigo, specialisti dei settori di mediamatica e informatica, 
+esperti in materia di Islam e radicalizzazione. 
+Sito Internet del progetto e Instagram 
+https://knowislam.ch/ 
+https://www.instagram.com/knowislam_ch/ 
+17
+Il progetto SwissMuslimStories 
+Idea di fondo e obiettivi 
+Il progetto è stato promosso dall’associazione Ummah 
+(Muslimische Jugend Schweiz) e sostenuto da diversi 
+servizi specializzati, organizzazioni e fondazioni operanti a 
+livello nazionale e regionale. 
+In brevi videoritratti alcuni musulmani svizzeri hanno 
+raccontato la propria storia. Queste storie personali 
+vogliono sottolineare la pluralità degli stili di vita dei 
+musulmani in Svizzera e mostrare che la religione può 
+essere vissuta in modo diverso nella quotidianità e che ci si 
+può identificare in più modelli contemporaneamente. 
+I protagonisti dei videoritratti dovevano così fungere da 
+esempi positivi per i giovani musulmani. 
+Coinvolgimento di adolescenti o giovani adulti 
+I protagonisti dei videoritratti sono stati reclutati tramite le 
+reti del gruppo di progetto e delle organizzazioni musulmane 
+coinvolte. In occasione di un primo workshop, una trentina 
+di adolescenti e giovani adulti ha avuto la possibilità di 
+discutere con il gruppo di lavoro sui potenziali protagonisti 
+da presentare, nonché sui messaggi e sui formati dei 
+contributi. Nel quadro di un secondo workshop, sono stati 
+analizzati e valutati i risultati con gli adolescenti e i 
+giovani adulti. 
+Gruppi target 
+–	 I musulmani in Svizzera (specialmente adolescenti e 
+giovani adulti) 
+–	 L’opinione pubblica svizzera in generale, al fine di 
+promuovere la tolleranza.
+Prodotti
+Sono stati realizzati e pubblicati dieci video, in una 
+versione breve (1 min. ca.) e una lunga (3 min. ca.), in cui 
+vengono mostrati musulmani nati o immigrati in Svizzera. 
+In ogni video, a destra si può cliccare su un’icona per 
+accedere a una rappresentazione grafica e una breve 
+spiegazione del percorso di vita del protagonista, da cui 
+emergono sia le crisi e le fasi difficili che i successi 
+personali. I video trattano i temi seguenti: 
+–	 1 «Friedensstifter» (I pacieri): Samir, 29 anni, pittore, 
+illustratore e graffitista indipendente, nato in Svizzera. 
+–	 2 «Schweizermacherin» (La «fabbricasvizzeri»): Dania, 
+23 anni, interprete interculturale, fuggita dalla Siria. 
+–	 3 «Landesverteidiger» (Il difensore della Patria): Saâd, 
+26 anni, aspirante economista, ufficiale dell’esercito, 
+nato in Svizzera. 
+–	 4 «Teamplayerin» (La giocatrice di squadra): Selma, 
+28 anni, pedagoga sociale, nata in Svizzera. 
+–	 5 «Weltbürgerin» (La cittadina del mondo): Hannan, 33 anni, 
+studiosa dell’Islam, attiva nel settore dell’aiuto ai rifugiati, 
+nata a Monaco di Baviera e immigrata in Svizzera. 
+–	 6 «Gemeinschaftsmensch» (La persona comunitaria): 
+Bujar, 29 anni, politico, immigrato da bambino dalla 
+Macedonia in Svizzera. 
+–	 7 «Wegweiserin» (La guida): Nuran, 38 anni, insegnante 
+di scuola guida, immigrata dalla Macedonia in Svizzera. 
+–	 8 «Lebensretterin» (La soccorritrice): Serpil, 25 anni, 
+aspirante medico, nata in Svizzera.
+–	 9 «Trendsetter» (L’influencer): Sohail, 24 anni, informatico, 
+fondatore di un proprio marchio di vestiti, nato in Svizzera.
+–	 10 «Volksmusiker» (L’artista di musica popolare): Atilla, 
+29 anni, informatico, musicista professionista, nato in 
+Svizzera. 
+Gruppo di progetto 
+Il gruppo di progetto era composto da sei specialisti di diverse discipline (etnologia, scienze dell’educazione, lavoro sociale, 
+islamistica, tecnologia alimentare).
+Sito Internet del progetto 
+https://www.swissmuslimstories.ch 
+18
+Il progetto PositivIslam 
+Idea di fondo e obiettivi 
+Il progetto PositivIslam è stato promosso dal Centro svizzero 
+Islam e società dell’Università di Friburgo e svolto 
+in collaborazione con l’associazione musulmana Frislam. 
+L’obiettivo era creare una piattaforma per giovani blogger 
+con contributi contro la radicalizzazione e l’estremismo. 
+I testi e le illustrazioni dovevano offrire una chiave di lettura 
+alternativa alle narrative di propaganda radicale, al fine 
+di stimolare la riflessione e la discussione. I blogger, di età 
+compresa tra i 18 e i 25 anni e prevalentemente musulmani, 
+vi hanno raccontato esperienze quotidiane, fornendo un 
+punto di vista diverso sull’Islam e sui temi a esso connesso. 
+19
+Gruppo di progetto 
+Il gruppo di progetto era composto da due membri del Centro svizzero Islam e società, da un esponente 
+dell’associazione partner Frislam e da una influencer. 
+Sito Internet del progetto 
+https://www.positivislam.ch/ 
+Coinvolgimento di adolescenti o giovani adulti 
+Il progetto ha adottato un approccio fortemente partecipati­
+vo. I giovani blogger, soprattutto studenti, selezionati 
+tramite la rete del progetto, sono stati preparati alla loro 
+attività mediante incontri di formazione e workshop, in 
+particolare per permettere loro di riflettere in modo critico 
+sui messaggi estremisti e di sviluppare posizioni proprie. 
+Gruppi target 
+–	 In primo luogo i giovani, sia i blogger stessi che i 
+destinatari dei contributi, per stimolarli alla riflessione 
+e al dialogo. 
+–	 In secondo luogo, la popolazione in generale.
+Prodotti
+Sono stati pubblicati 18 contributi di dieci blogger, prevalen­
+temente testi. I blogger hanno firmato i loro contributi sotto 
+pseudonimo. 
+Panoramica dei contributi: 
+–	 Partons tous au Jihâd (Partiamo tutti per la jihad): 
+spiegazione del vero significato della jihad
+–	 Commençons par le commencement (Cominciamo dal 
+principio): distinzione tra Islam e terrorismo
+–	 Allah Uakbar – une expérience immédiate (Allah 
+Uakbar – Un’esperienza diretta): significato dell’espres­
+sione «Allah Uakbar»
+–	 Quels jeunes voulons-nous être? (Che giovani vogliamo 
+essere?): testo introduttivo sul tema del ruolo che la 
+giovane generazione vorrebbe definire per sé
+–	 La «Poetessa»: l’esempio di Hissa Hilal: contributo sulla 
+poetessa dell’Arabia Saudita che lotta contro il 
+fanatismo religioso
+–	 Je ne suis pas raciste, mais… (Non sono razzista, 
+però...): distinzione tra razzismo aperto e razzismo sottile 
+–	 Des musulmans et un islam? (Più musulmani e 
+un solo Islam?): l’Islam come base religiosa comune per 
+diversi musulmani 
+–	 Comment s’est déroulée ma conversion à l’islam ? 
+(Come è avvenuta la mia conversione all’Islam?): 
+racconto di una conversione  
+–	 22 mars 2016, 9h 11, un grand boom (22 marzo 2016, 
+ore 9.11, una forte esplosione): distinzione tra Islam 
+e terrorismo islamista 
+–	 Il radicalismo islamico come indice di una problematica 
+generazionale?: illustrazione della tesi secondo cui 
+l’estremismo islamico è solo una delle forme di violenza 
+scatenata dal nichilismo della gioventù 
+–	 Les doutes et le sens (I dubbi e il senso): lo sguardo 
+critico di una donna musulmana sulle pratiche dell’Islam 
+–	 Batailles et moralité humaine (Battaglie e morale 
+umana): regole in caso di guerra 
+–	 De l’éthique de guerre à l’éthique de paix (Dall’etica 
+della guerra all’etica della pace): analisi del tema della 
+guerra e della pace nell’Islam 
+–	 Quando l’islam è al centro del discorso I: l’Islam e la 
+retorica di estrema destra (parte 1) 
+–	 La violenza di un pezzo di carta: l’immagine negativa dei 
+musulmani nei media 
+–	 E se fossimo tutti musulmani?: definizione del termine 
+«musulmano» 
+–	 Quando l’islam è al centro del discorso II: l’Islam e la 
+retorica di estrema destra (parte 2) 
+–	 Le voile oppressé (Il velo oppresso): considerazioni sul 
+velo (illustrazione) 
+20
+Approccio impegnativo, ma promettente 
+L’approccio delle contro-narrative e narrative alternative 
+permette di raggiungere l’effetto preventivo auspicato? 
+Il gruppo target si sente toccato dai contenuti e comprende i 
+messaggi trasmessi? Quali fattori contribuiscono alla 
+riuscita di questo approccio e quali sono le principali sfide? 
+Per valutare il processo di elaborazione e i prodotti finali, 
+il gruppo di valutazione ha seguito la realizzazione dei progetti 
+e intervistato sia i responsabili di progetto che gli adole­
+scenti e i giovani adulti coinvolti. La questione dell’efficacia 
+delle narrative è stata analizzata a più livelli: discussioni 
+di gruppo in classi scolastiche e centri giovanili, indagine 
+standardizzata online presso i giovani per un parere 
+individuale approfondito e interviste con esperti. 
+Benché sia prematuro trarre conclusioni definitive da questa 
+valutazione, soprattutto sull’effetto delle narrative, 
+essa ha permesso di ottenere delle prime risposte agli 
+interrogativi esposti in precedenza, fornendo punti di 
+riferimento importanti circa gli elementi da considerare per 
+l’impostazione e la realizzazione di progetti di narrativa. 
+Di seguito sono illustrati i fattori di successo e le sfide 
+principali. In generale si può affermare che le narrative 
+elaborate sotto forma di videoclip o di testi sono state 
+comprese e valutate in modo sostanzialmente positivo dai 
+destinatari. Si è riusciti a raggiungere i principali gruppi 
+target, ovvero gli adolescenti e i giovani adulti in generale 
+nonché i giovani musulmani in particolare, anche se al 
+momento della valutazione si è constatata una diffusione 
+piuttosto marginale. Con una cauta stima si può inoltre 
+concludere che le contro-narrative e le narrative alternative 
+consentono certamente di produrre un effetto preventivo, 
+anche se nel processo di radicalizzazione nel suo complesso 
+vanno sempre intese come una delle misure di prevenzione, 
+e mai considerate a sé stanti. 
+La condizione di base posta per tutti i progetti in esame, 
+ovvero la valutazione delle narrative da parte dell’apposito 
+04_ESPERIENZE E CONOSCENZE 
+ACQUISITE CON I PROGETTI PILOTA
+ 
+gruppo di esperti prima della pubblicazione, ha comportato 
+in alcuni casi un onere supplementare per i responsabili 
+di progetto, ma in definitiva si è dimostrata valida. Era infatti 
+assolutamente necessario evitare il rischio che le narrative 
+avessero effetti controproducenti indesiderati o che 
+addirittura incoraggiassero improvvisamente la radicalizza­
+zione.
+La valutazione non ha permesso di dedurre un modello di 
+buone pratiche applicabile a livello generale. Ogni progetto 
+presenta infatti peculiarità specifiche in funzione del 
+contesto di elaborazione e realizzazione. Va inoltre conside­
+rato che esistono diversi modi per raggiungere un obiettivo, 
+come mostrano le constatazioni seguenti.
+–	 Le persone in carne e ossa protagoniste delle storie 
+raccontate rendono le narrative comprensibili e 
+credibili. Vi sono però anche altre forme illustrative che 
+possono essere efficaci, come ad esempio i fumetti.   
+–	 L’impatto visivo è quello che produce gli effetti più forti 
+in assoluto. La musica e il suono sembrano meno 
+importanti, ma possono essere percepiti come un 
+elemento di disturbo o di contraddizione, se non 
+sostengono il contenuto dell’immagine ma creano 
+incoerenza. 
+–	 Indicare chiaramente chi si cela dietro una contro-
+narrativa o una narrativa alternativa, ad esempio 
+visualizzando gli autori in un video, può risultare utile 
+in termini di credibilità.
+–	 Hashtag, slogan o domande legati alle narrative o in esse 
+contenuti possono sostenere l’effetto auspicato. 
+Nell’ottica di progetti futuri, questo significa anche che si può 
+e si deve continuare a sperimentare. Internet e i media 
+sociali manterranno un ruolo fondamentale nel processo di 
+socializzazione dei giovani anche in futuro e si può partire 
+dal presupposto che i gruppi estremisti continueranno ad 
+approfittarne, ragion per cui occorreranno al contempo 
+contro-narrative e narrative alternative da impiegare quali 
+misure online per la prevenzione della radicalizzazione.
+21
+Quali sono le sfide principali sul fronte della 
+realizzazione?
+Considerato in particolare che il terreno delle contro-narrative 
+e delle narrative alternative è praticamente inesplorato, 
+soprattutto in Svizzera, nel momento in cui l’UFAS ha 
+pubblicato il bando di concorso non vi erano ancora dati 
+empirici disponibili e i responsabili di progetto si sono potuti 
+basare solo in misura limitata su quanto già esisteva. 
+Questa è stata la prima difficoltà e i responsabili di progetto 
+l’hanno affrontata in modi diversi, cosicché i quattro 
+progetti pilota sono risultati differenti tra loro sotto vari 
+aspetti, in particolare in termini di strutture e processi, 
+prodotti finali e collaborazione con gli adolescenti e i giovani 
+adulti. Inoltre, non era possibile prevedere tutti gli sviluppi 
+fin dall’inizio: alcune cose sono emerse soltanto in fase di 
+realizzazione. Infine, non si poteva garantire che le narrative 
+diffuse avrebbero raggiunto la cerchia di destinatari 
+come auspicato, che fossero comprese nel senso voluto e 
+considerate credibili e pertinenti.
+Complessità del modello delle contro-narrative e 
+delle narrative alternative
+Nell’elaborazione delle contro-narrative e narrative 
+alternative la complessità sta innanzitutto nel fatto che 
+occorrono vaste conoscenze specialistiche, a livello di 
+contenuto, gruppo target, impostazione, organizzazione e 
+tecnica. Va poi aggiunto il fatto che le narrative si sviluppano 
+nel mondo dei media digitali e delle reti sociali, ossia un 
+mondo dinamico e in rapidissima evoluzione. Di conseguenza, 
+anche i progetti in questo ambito si trovano confrontati 
+a sfide sempre nuove. Essi devono iscriversi in un processo 
+continuo, che permetta loro di restare aggiornati e rispondere 
+a contenuti estremisti con contro-narrative sempre nuove. 
+La complessità dell’approccio ha comportato tra l’altro in 
+tutti i casi la necessità di adeguare l’impostazione 
+inizialmente presentata dai responsabili di progetto: per 
+Winfluence si è trattato di un’apertura tematica; nel caso 
+di KnowIslam si è rinunciato alla realizzazione plurilingue per 
+mancanza di risorse di personale; per SwissMuslimStories 
+è stata assunta un’agenzia pubblicitaria e sono stati 
+adeguati i compiti dei giovani; nel caso di PositivIslam ci si 
+è concentrati su un solo canale dei media sociali e 
+sull’elaborazione del sito Internet da parte di un grafico 
+professionista. Inoltre, in nessun caso è stato possibile 
+raggiungere tutti gli obiettivi, il che è però da ricondurre 
+principalmente alla loro formulazione perlopiù troppo 
+ambiziosa.
+Partecipazione degli adolescenti e dei giovani 
+adulti 
+Le esperienze maturate mostrano chiaramente che il 
+coinvolgimento degli adolescenti e dei giovani adulti 
+è fondamentale per la riuscita dei progetti (v. fattori di 
+successo nel capitolo seguente). Al contempo, questo 
+elemento costituisce una sfida per diversi motivi. In primo 
+luogo, si tratta di trovare i giovani da coinvolgere: a tal 
+fine sono state adottate varie strategie, dagli annunci sui 
+media ai contatti diretti su reti esistenti. In secondo 
+luogo, si pone la questione del ruolo che gli adolescenti e i 
+giovani adulti assumono: devono esprimersi su contenuti 
+già elaborati piuttosto come un sounding board oppure 
+collaborare attivamente alla loro elaborazione e diffusione? 
+Quest’ultima soluzione presuppone un notevole impegno 
+e una motivazione costante, il che non va da sé. In terzo 
+luogo, si tratta di chiarire in che misura gli adolescenti 
+Le principali sfide
+–	 complessità del modello delle contro-narrative e 
+delle narrative alternative;
+–	 partecipazione degli adolescenti e dei giovani 
+adulti;
+–	 garanzia della qualità dei contenuti;
+–	 diffusione dei contenuti e raggiungimento dei 
+gruppi target;
+–	 stima e misurazione dell’effetto delle narrative 
+elaborate sui gruppi target.
+22
+e i giovani si espongono partecipando al progetto. Alcuni 
+potenziali interessati hanno infine deciso di rinunciare 
+a partecipare in quanto non volevano essere visibili per 
+l’opinione pubblica, temendo ad esempio ripercussioni 
+negative a livello professionale. È inoltre emerso che la 
+religione e la fede sono spesso ritenute questioni private 
+e dunque un dialogo aperto al riguardo non era sempre 
+auspicato o quanto meno è stato affrontato con una certa 
+riluttanza. 
+Nel caso di Winfluence, ad esempio, la forte partecipazione 
+dei giovani sin dall’inizio del progetto (ovvero nella fase 
+di ricerca di idee) ha determinato un ampliamento tematico, 
+fino a includere aspetti (p. es. il fanatismo vegetariano 
+del terzo episodio «Grillideologie») evidentemente più rilevanti 
+per i giovani rispetto alla radicalizzazione estremista.
+Garanzia della qualità dei contenuti 
+Affinché le narrative possano essere impiegate come 
+strumento preventivo contro la radicalizzazione estremista 
+occorre garantire che i loro messaggi non producano 
+effetti negativi né tantomeno indesiderati. 
+Considerato il sostegno finanziario statale, nell’ambito dei 
+progetti pilota è stata prestata particolare attenzione a non 
+diffondere contenuti potenzialmente controproducenti o 
+inadeguati in qualsiasi forma. Tra i criteri per la validazione 
+(effettuata dall’UFAS e dall’apposito gruppo di esperti) 
+figuravano:
+–	 assenza di parole/gesti offensivi o sessisti oppure 
+messaggi di incitamento all’odio o alla violenza;
+–	 nessuna visione limitata o parziale dei problemi e / o 
+delle soluzioni;
+–	 trasmissione di una visione del mondo improntata 
+all’apertura e all’integrazione;
+–	 impostazione in funzione del gruppo target e del 
+contesto svizzero.
+Nella fase di verifica delle narrative tra i punti critici sono 
+emersi concetti che presentavano un’analogia con il 
+linguaggio dei gruppi estremisti, conflitti esposti senza 
+risoluzione chiara o contenuti che potrebbero contribuire 
+a consolidare pregiudizi più che a ridurli, come auspicato. 
+Inoltre, è risultato che i confini rispetto alle narrative 
+di vittimizzazione, ovvero la rappresentazione da una 
+prospettiva di vittima, unilaterale e indifferenziata, 
+sono spesso labili.
+Diffusione dei contenuti e raggiungimento dei 
+gruppi target 
+Internet e in particolare i media sociali sono in continuo 
+mutamento. A prescindere dal tema e dal formato, i 
+contenuti si contendono costantemente la limitata attenzio­
+ne degli utenti. Anche sotto questo profilo nei quattro pro­
+getti pilota sono state adottate procedure diverse: narrative 
+basate su immagini oppure su testi, diffusione mediante 
+molteplici piattaforme o canali, dai siti Internet dei singoli 
+progetti a Facebook, Twitter e Instagram, fino a YouTube. 
+Anche se l’uso di diverse piattaforme è vantaggioso, va 
+considerato il tempo necessario a tal fine: sulle reti sociali 
+gli account vanno costantemente e adeguatamente gestiti.
+Non basta pubblicare online narrative per garantirne la 
+diffusione. Nei quattro progetti pilota le statistiche di 
+accesso sono aumentate nel momento in cui si è investito 
+nella pubblicità online. Nemmeno queste statistiche 
+consentono però di capire in definitiva l’entità dell’interesse 
+per il tema in questione. Le narrative hanno generato 
+pochissimi commenti o discussioni e, quando è stato il caso, 
+lo hanno fatto sostanzialmente su temi controversi (p. es. 
+il militare nell’episodio n. 3 di SwissMuslimStories). Dai 
+riscontri degli adolescenti e dei giovani adulti nel quadro 
+della valutazione è tuttavia emerso chiaramente anche che 
+non si devono avere aspettative esagerate. Per i giovani 
+è molto importante la percezione che si ha di loro in rete e 
+quindi, a seconda del tema, possono essere riluttanti a 
+23
+valutare, commentare o inoltrare contenuti. Inoltre, le 
+abitudini di utilizzo cambiano a seconda delle tendenze 
+generali e della fascia d’età. Facebook, ad esempio, non 
+è praticamente più usato dai minorenni, ma resta 
+apprezzato tra i giovani adulti.
+Per quanto concerne i gruppi target, le statistiche di 
+diffusione complessivamente modeste fanno pensare 
+che le narrative hanno raggiunto solo limitatamente un vasto 
+pubblico. Tra le possibilità di ulteriore diffusione (dopo 
+la conclusione della fase pilota) i responsabili dei progetti 
+menzionano esplicitamente anche misure offline, 
+come ad esempio la proiezione di video al cinema o nel 
+quadro di un evento con una discussione finale, lo svolgi­
+mento di workshop in centri giovanili o l’utilizzo delle 
+narrative nell’insegnamento scolastico (al riguardo v. anche 
+il cap. 6).
+Stima e misurazione dell’effetto delle narrative 
+elaborate sui gruppi target 
+Il fatto che i messaggi veicolati siano effettivamente 
+compresi raggiungendo così l’effetto auspicato dipende 
+da fattori quali la forma, il contenuto o la lunghezza delle 
+narrative. 
+Mentre le storie personali con volti reali ed emozioni visibili 
+(SwissMuslimStories) sono state accolte meglio, i riscontri 
+circa i video didattici (KnowIslam) e i fumetti animati 
+(Winfluence) sono risultati più critici. I fumetti hanno dovuto 
+far fronte alla contraddizione di ricorrere a un’impostazione 
+rivolta piuttosto ai bambini, presupponendo però una certa 
+maturità intellettuale per la comprensione dei contenuti. 
+Spesso i video più lunghi non sono stati visti fino alla fine. 
+Per l’ulteriore diffusione anche il fattore dell’intrattenimento 
+percepito è importante, ma nel caso dei contenuti umoristici 
+la prudenza è d’obbligo, in quanto il concetto di umorismo 
+varia notevolmente a seconda della persona. Si rischia 
+quindi di suscitare malintesi o reazioni di rifiuto, il che può 
+contrastare l’effetto desiderato. 
+Dal progetto KnowIslam è inoltre emersa la difficoltà di 
+trasmettere contenuti religiosi in modo adeguato ai giovani: 
+semplificare puntando sulla comprensione non è sempre 
+sostenibile dal punto di vista strettamente teologico. D’altro 
+canto, le narrative sviluppate in questo progetto sono 
+state valutate meglio dai giovani musulmani, che hanno 
+apprezzato in particolare il fatto di dare un’immagine 
+positiva dell’Islam. 
+Nel complesso si pone la questione di sapere se le contro- 
+narrative e le narrative alternative elaborate possano 
+essere comprese esattamente e/o produrre effetti senza 
+essere integrate con altre misure (al riguardo v. gli spunti 
+per l’applicazione pratica al cap. 6). Al momento sarebbe 
+prematuro esprimersi in modo definitivo sull’efficacia 
+preventiva delle narrative contro gli orientamenti estremisti 
+e a favore di un atteggiamento tollerante. I risultati della 
+valutazione fanno però pensare che potrebbe trattarsi di 
+una misura di prevenzione adeguata.
+L’effetto dipende 
+da fattori quali la forma, 
+il contenuto o la lunghezza 
+delle narrative.
+24
+25
+Quali fattori hanno contribuito al successo 
+dei progetti?
+I quattro progetti pilota come hanno affrontato le difficoltà 
+incontrate? Quali elementi si sono dimostrati efficaci? 
+Nonostante la notevole differenza procedurale dei progetti, 
+si possono menzionare cinque aspetti che hanno contribuito 
+in tutti i casi a giungere a una conclusione positiva
+Prima di illustrare singolarmente questi fattori di successo, 
+è importante precisare che tutti i progetti hanno avuto 
+in definitiva un esito positivo grazie all’elevato impegno di 
+tutte le persone coinvolte, che in generale si sono 
+investite più di quanto inizialmente previsto. Esse hanno 
+dovuto dar prova di apertura e disponibilità a sperimentare 
+le novità, nonché di flessibilità per essere in grado di 
+reagire alle circostanze spesso venutesi a creare solo in 
+corso d’opera. 
+Impostazione chiara 
+Benché il modello delle contro-narrative e narrative 
+alternative fosse praticamente sconosciuto in Svizzera, i 
+responsabili di progetto avevano un’idea ben precisa di 
+come volevano attuarlo. In questo contesto si sono basati 
+anche sui progetti di narrativa di altri Paesi. 
+Un fattore dimostratosi essenziale è stata un’impostazione 
+chiara in termini di organizzazione, obiettivi, procedura e 
+finanziamento del progetto, tale da tenere conto delle sfide 
+da affrontare. È quindi raccomandabile una chiara 
+ripartizione dei ruoli tra tutti gli attori coinvolti, sia interni 
+che esterni, che include anche un’intesa sullo sviluppo 
+del progetto, la definizione delle aspettative e la regolamen­
+tazione vincolante dei compiti. Per quanto concerne la 
+fissazione degli obiettivi, si dovrebbe rimanere realisti e 
+concentrarsi su pochi obiettivi concreti. La designazione 
+di un interlocutore principale e la pianificazione al livello 
+della comunicazione agevolano lo scambio di informazioni 
+e il coordinamento. Infine, non vanno dimenticate le 
+attività di pubbliche relazioni, che richiedono a loro volta 
+obiettivi chiari, regole e coordinamento.
+Rete solida 
+La realizzazione dei progetti pilota è riuscita particolar­
+mente bene nei casi in cui sin dall’inizio esisteva 
+una solida rete di organizzazioni sostenitrici e persone 
+impegnate. L’importanza di tali reti emerge in diverse 
+fasi progettuali: secondo la valutazione, è stato il caso 
+soprattutto per il reclutamento degli adolescenti e dei 
+giovani adulti, ma anche per la diffusione delle narrative. 
+Nel quadro del progetto SwissMuslimStories, per trovare 
+i protagonisti adatti sono state sfruttate le reti personali 
+dei membri del gruppo di progetto e le relazioni con 
+associazioni e organizzazioni mantello musulmane. Sono 
+inoltre state coinvolte diverse istituzioni nel ruolo di 
+moltiplicatori, ovvero chiedendo loro di condividere i video, 
+cosicché per questo progetto si è creata una comunità 
+su Facebook. Nel quadro del progetto Winfluence è stata 
+sfruttata la cooperazione con l’associazione JASS quale 
+rete offline per sostenere le attività online. Le esperienze 
+fatte con i progetti KnowIslam e PositivIslam hanno 
+inoltre mostrato l’importanza di un impegno forte e duraturo 
+da parte delle organizzazioni partner e della rete. 
+Occorre quindi definire il prima possibile una collaborazione 
+in tal senso e le aspettative a essa connesse. 
+Capacità di gestione progettuale 
+Vista la complessa situazione di partenza, è apparso chiaro 
+che i responsabili di progetto dovevano disporre di ampie 
+competenze in termini di gestione progettuale, e questo per 
+I fattori di successo
+–	 impostazione chiara;
+–	 rete solida;
+–	 capacità di gestione progettuale;
+–	 partecipazione degli adolescenti e dei giovani 
+adulti;
+–	 competenze esterne.
+26
+tutte le fasi, a cominciare dalla pianificazione e dall’avvio 
+del progetto, passando alla realizzazione, alla gestione 
+e al controllo, fino alla valutazione per trarre gli insegnamenti 
+del caso. 
+Per la definizione degli obiettivi e dei prodotti da elaborare 
+vale spesso il principio «meno è, meglio è». Concentrarsi 
+piuttosto sull’elaborazione di poche narrative di elevata 
+qualità e sfruttare solo determinati canali per la loro 
+diffusione pare essere una strategia promettente. Nel caso 
+di un bando di concorso da parte di autorità od orga-
+nizzazioni, la formulazione di condizioni realistiche può 
+contribuire a evitare che un progetto sia sovraccarico. 
+L’organizzazione, la struttura e la filosofia del progetto 
+devono rispondere ai requisiti specifici posti. Un regolare 
+controllo interno garantisce che il progetto resti sulla 
+buona strada o che si possa procedere per tempo agli 
+adeguamenti eventualmente necessari. Occorre inoltre 
+assicurarsi che vi siano l’infrastruttura necessaria e risorse 
+sufficienti per la realizzazione del progetto.
+Partecipazione degli adolescenti e dei giovani adulti 
+Si è già parlato delle difficoltà legate alla partecipazione 
+degli adolescenti e dei giovani adulti, la quale rappresenta 
+però uno dei fattori di successo più importanti in assoluto. 
+Laddove si è riusciti a coinvolgere e motivare i giovani, si sono 
+registrate reazioni estremamente positive:
+–	 gli adolescenti e giovani adulti hanno apprezzato il fatto 
+di essere coinvolti nel processo e di poter partecipare 
+alla definizione dei contenuti, in qualità di attori, blogger 
+o partecipanti ai workshop;
+–	 i partecipanti hanno accresciuto le loro conoscenze e 
+sono stati sensibilizzati ai temi elaborati, in particolare 
+nei casi in cui hanno assunto un ruolo attivo; 
+–	 le narrative sono diventate più autentiche grazie alla 
+collaborazione degli adolescenti e dei giovani adulti.
+Gli adolescenti e i giovani adulti hanno assunto compiti 
+diversi a seconda dei progetti. In base a queste esperienze, 
+all’avvio di un progetto s’impongono varie riflessioni 
+nell’ottica della partecipazione:
+–	 Soprattutto laddove gli adolescenti e i giovani adulti 
+sono chiamati a collaborare come attori principali, 
+occorrono una buona organizzazione e una struttura 
+chiara. Non è imperativo un coinvolgimento in tutte le 
+fasi progettuali: a seconda del progetto, può avere 
+senso anche una funzione puramente consultiva (per 
+singole fasi o per il progetto nel suo complesso).
+–	 Più ci si aspetta da loro, più è importante che i giovani 
+dispongano delle conoscenze necessarie. Nel progetto 
+PositivIslam, ad esempio, gli incontri di formazione e i 
+workshop sono stati importanti e utili per la prepara­
+zione dei blogger. I partecipanti li hanno apprezzati, 
+perché hanno permesso loro di capire meglio cosa 
+succede in caso di radicalizzazione, come funziona la 
+propaganda jihadista e come si può reagire più 
+adeguatamente a questi fenomeni. Grazie ad essi 
+hanno inoltre avuto l’opportunità di un dialogo che ha 
+consentito loro di migliorare ulteriormente il proprio 
+lavoro e la qualità degli articoli. Nel caso di Winflu-
+ence ai giovani adulti sono stati forniti spunti tecnici per 
+prepararli a diffondere le narrative su Internet, 
+il che ha permesso anche a loro di acquisire conoscenze 
+specialistiche.
+–	 Alla partecipazione dei giovani è connesso anche il 
+dilemma di una loro eventuale esposizione (a seconda 
+dell’impostazione del progetto). Nel quadro dei progetti 
+pilota questa delicata situazione è stata risolta in 
+modi diversi. Nell’ambito di SwissMuslimStories sono 
+stati scelti giovani adulti che si erano dichiarati disposti 
+a raccontare la loro storia con il proprio volto e il vero 
+nome. I blogger di PositivIslam hanno invece pubblicato i 
+loro contributi sotto pseudonimo. Nel caso di Winfluen­
+27
+ce, infine, si è deciso di ricorrere a personaggi animali 
+nei fumetti animati per questioni di anonimato: ciò ha 
+comportato la delusione di alcuni giovani, i quali 
+erano partiti dall’idea che, nonostante lo straniamento 
+delle scene, sarebbero comunque stati riconoscibili. 
+–	 Non è scontato che gli adolescenti e i giovani adulti 
+investano una parte del loro tempo libero per collaborare 
+a un progetto di narrativa. I motivi a monte della loro 
+partecipazione ai progetti pilota sono stati molteplici: 
+esperienze negative vissute in prima persona (emar-
+ginazione, odio) nonché la convinzione della rilevanza dei 
+temi in questione per la società e dell’importanza del 
+coraggio civile. Per rafforzare la motivazione e l’impegno, 
+può essere utile ricorrere a incentivi, sia immateriali 
+(p. es. il coinvolgimento sin dall’inizio del progetto e 
+quindi un ruolo fondamentale in esso) che materiali 
+(p. es. sotto forma di indennità finanziaria).
+Competenze esterne 
+In tutti i progetti pilota è emerso che il ricorso a esperti 
+esterni è stato decisivo per la realizzazione delle fasi 
+progettuali cruciali. Questo non stupisce affatto, se si pensa 
+alla diversità degli ambiti che entrano in gioco nei progetti 
+di narrativa. Occorrono conoscenze specifiche in materia di 
+estremismo e radicalizzazione, attività giovanili, media 
+digitali, comunicazione, marketing e, a seconda dell’impo­
+stazione del singolo progetto, anche altre conoscenze 
+specialistiche, come dimostrano i casi dei progetti Swiss- 
+MuslimStories, per il quale è stato coinvolto anche un 
+regista, e di Winfluence, con il ricorso a una disegnatrice e a 
+un’insegnante di teatro. Anche la verifica delle narrative 
+da parte di esperti indipendenti prima della pubblicazione è 
+stata determinante. 
+Il ricorso a competenze esterne presuppone tuttavia una 
+pianificazione progettuale in cui sono già state preventivate 
+risorse sufficienti.
+La partecipazione dei 
+giovani rappresenta 
+uno dei più importanti 
+fattori di successo.
+28
+29
+05_CRITERI QUALITATIVI E 
+RACCOMANDAZIONI
+ 
+La valutazione dei progetti pilota ha permesso di individuare 
+e mettere in evidenza sia le difficoltà, sia i fattori deter-
+minanti per la riuscita di iniziative di questo genere. Benché 
+non costituisca una base sufficiente per definire un 
+modello di buone pratiche (una sorta di «formula magica» 
+applicabile in ogni situazione), consente comunque di 
+definire criteri qualitativi e raccomandazioni in vista di 
+progetti di narrativa futuri. Questi criteri e raccomandazioni 
+potranno fungere da sostegno e riferimento per le 
+organizzazioni della società civile, gli esperti e le autorità 
+che decidono di avviare progetti propri. 
+Le tabelle da 1 a 4 forniscono una panoramica di questi 
+criteri, che sono corredati di raccomandazioni pratiche e 
+domande quali strumenti orientativi per gli addetti ai 
+lavori. Sono suddivise nelle fasi «preparazione (avvio/
+impostazione)», «attuazione» e «risultati» e sono destinate a:
+–	 autorità e finanziatori (tabella 1);
+–	 responsabili di progetto (tabella 2);
+–	 gruppo di esperti (tabella 3);
+–	 gruppo di valutazione (tabella 4)
+La panoramica dei ruoli e dei compiti (pagg. 38–39) riassume 
+le responsabilità e le mansioni degli attori coinvolti nelle 
+singole fasi progettuali. Alla stregua dei progetti pilota, 
+molto diversi tra loro per caratteristiche e organizzazione, 
+anche i progetti futuri avranno le loro peculiarità che,
+ a seconda dei casi, richiederanno un modo di procedere 
+specifico.
+In questa sede si segnala espressamente che le raccoman­
+dazioni si riferiscono a tutte le forme di radicalizzazione. 
+Il fatto che i progetti pilota riguardassero l’estremismo 
+islamico non significa che l’approccio delle contro-narrative 
+e delle narrative alternative non sia applicabile ad altre 
+forme di estremismo. Sono auspicabili anche progetti volti 
+a contrastare la radicalizzazione di estrema destra o 
+estrema sinistra, non da ultimo per raccogliere ulteriori 
+dati sull’efficacia preventiva di queste narrative in 
+Svizzera.
+30
+Tabella 1: Autorità e finanziatori
+Criterio qualitativo
+Raccomandazioni
+Preparazione (avvio)
+Affidare la promozione 
+allo Stato e l’attuazio­
+ne ad attori indipen­
+denti 
+Gli attori statali (Confederazione, Cantoni, Comuni) possono e devono promuovere progetti che 
+difendono la democrazia, il pluralismo e la tolleranza. L’attuazione dei progetti va invece 
+lasciata a organizzazioni indipendenti. In questo contesto occorre chiedersi non solo in che 
+misura il committente debba essere coinvolto nel progetto, ma anche come e quanto 
+debba essere visibile, dato che ciò può influenzare la percezione e l’efficacia delle narrative. 
+Definire criteri chiari 
+I requisiti formulati in un bando di concorso fungono da filo conduttore per definire gli obiettivi e 
+allestire il piano concettuale di un progetto. Per un’attuazione realistica è quindi fondamentale 
+definire criteri chiari, limitandosi all’essenziale.
+I criteri devono inoltre fornire ai responsabili di progetto indicazioni sui compiti concreti e sulle 
+responsabilità che li attendono nonché sulle risorse necessarie (in termini di tempo, personale, 
+contenuti e mezzi finanziari). 
+Definire il processo e i 
+criteri di validazione 
+Un processo di validazione da parte di esperti indipendenti è indispensabile per garantire la 
+qualità ed evitare effetti indesiderati, soprattutto se il progetto è finanziato con fondi pubblici. 
+Un tale processo va pianificato, vale a dire che occorre definire come, da chi e in base a quali 
+criteri la valutazione deve essere effettuata. Eventualmente si può prevedere la possibilità 
+di verificare e discutere in modo approfondito le prime narrative e, su questa base, fissare gli 
+standard per le narrative successive. Questo modo di procedere può rivelarsi utile nel caso in 
+cui si debbano produrre contenuti a intervalli di tempo relativamente brevi. 
+Pianificare la valutazio­
+ne o delegare questo 
+compito ai responsabili 
+di progetto 
+Per raccogliere ulteriori dati sull’efficacia delle narrative nell’ottica di prevenire la radicalizza­
+zione, anche i progetti futuri dovranno essere oggetto di una valutazione. La concezione della 
+valutazione e l’attribuzione del relativo mandato possono essere affidate all’ente finanziatore 
+o ai responsabili di progetto. La valutazione può essere di tipo formativo, sommativo o 
+combinare i due approcci. 
+Mettere a disposizione 
+le risorse necessarie
+Per attuare progetti di narrativa è essenziale disporre di risorse sufficienti. In particolare, non ci 
+si può attendere che il gruppo di progetto disponga di tutte le competenze necessarie.
+Attuazione
+Accompagnare e 
+sostenere i responsabili 
+di progetto
+I responsabili di progetto possono essere sostenuti a diversi livelli. Il sostegno può consistere 
+per esempio in un lavoro di riflessione e consulenza (sounding board), nell’organizzazione di 
+eventi per lo scambio di informazioni tecniche tra specialisti o nel ricorso alla rete delle autorità 
+in vista dell’attuazione del progetto. 
+Procedere alla 
+validazione 
+La validazione delle narrative deve svolgersi sotto la responsabilità delle autorità in collaborazione 
+con gli esperti. La verifica viene effettuata in base ai criteri definiti. 
+Accompagnare la 
+valutazione 
+Fin dall’inizio del progetto, il gruppo di valutazione deve avere accesso a tutte le informazioni e 
+a tutti gli attori rilevanti (soprattutto se è stata scelta la valutazione formativa). Eventuali 
+adeguamenti sono apportati previa consultazione dei responsabili della valutazione e del 
+progetto nonché delle autorità. 
+Risultati
+Diffondere risultati, 
+conclusioni e racco­
+mandazioni e promuo­
+vere il trasferimento 
+delle conoscenze 
+La diffusione delle narrative e dei risultati/delle raccomandazioni scaturiti dalla valutazione 
+deve essere quanto più ampia possibile. A tal fine è opportuno sfruttare la rete delle autorità e i 
+loro canali di pubbliche relazioni (online e offline). Lo stesso vale per il trasferimento delle 
+conoscenze a chi lavora sul campo. In questo caso può essere utile ad esempio mettere a dispo­
+sizione indicazioni pedagogiche sull’uso delle narrative nelle scuole o nell’ambito di attività 
+giovanili. 
+31
+Domande
+–	 Che influsso vogliamo avere in quanto committenti/finanziatori?
+–	 Come verranno menzionati gli enti responsabili e le strutture di promozione (p. es. sul sito Internet del progetto o nei 
+singoli video)? Che ripercussioni avranno queste scelte sul modo in cui la narrativa verrà recepita? 
+–	 Prima di attribuire il mandato: in che misura l’organizzazione è indipendente e neutrale dal punto di vista ideologico?  
+È adatta a realizzare il progetto in questa ottica?
+–	 Quali requisiti sono imperativi in rapporto alle condizioni formali, agli obiettivi, alla struttura del progetto,  
+alle conoscenze specialistiche, ai contenuti e all’attuazione? 
+–	 Dove vogliamo/possiamo lasciare un margine discrezionale ai responsabili di progetto? 
+–	 Le scadenze per l’attuazione sono realistiche e offrono la flessibilità necessaria per far fronte agli imprevisti?
+–	 Tutti i compiti sono chiaramente definiti, così come l’onere che comportano per l’ente responsabile?
+–	 Quali competenze sono importanti per la validazione, per esempio a livello di temi e contenuti (estremismo/radicalizzazione)  
+o a livello formale (comunicazione, marketing, media sociali)?
+–	 A chi ci si potrebbe rivolgere in qualità di esperti? Come vengono coinvolti gli esperti?
+–	 Come è organizzato il processo di validazione? Quali criteri vengono verificati?
+–	 Quali saranno le ripercussioni per il progetto (responsabili di progetto e processo nel suo complesso)?
+–	 In quanto committenti/finanziatori pianifichiamo noi stessi la valutazione o affidiamo questo compito ai responsabili  
+di progetto?
+–	 La valutazione viene effettuata da attori interni o esterni al progetto?
+–	 Qual è lo scopo della valutazione? Qual è la forma più opportuna?
+–	 A quali domande concrete deve rispondere la valutazione?
+–	 Quali risorse di tempo e di personale occorre prevedere per la procedura di valutazione?
+–	 Quali risorse possiamo mettere a disposizione? 
+–	 Sono garantiti mezzi finanziari sufficienti per fare intervenire esperti esterni?
+–	 Come possiamo sostenere al meglio i responsabili di progetto in sede di attuazione?
+–	 In che misura possiamo supplire alle prestazioni che i responsabili di progetto non possono fornire?
+–	 Quali contatti esistono a livello locale/nazionale/internazionale per uno scambio tra specialisti?
+–	 Come è opportuno procedere affinché la validazione sia efficiente? 
+–	 Come va impostato il coordinamento con gli esperti?
+–	 Quali informazioni occorrono per la valutazione? 
+–	 Chi può mettere a disposizione queste informazioni?
+–	 Come vengono comunicate e attuate le proposte di ottimizzazione?
+–	 Quali misure sono opportune per far conoscere i risultati del progetto e della valutazione?
+–	 Quali organizzazioni e istituzioni della nostra rete possono contribuire alla diffusione delle narrative?
+–	 Qual è il modo migliore per trasferire le conoscenze a chi lavora sul campo? 
+–	 Di quali ausili hanno bisogno gli specialisti delle scuole e delle attività giovanili aperte a tutti per poter utilizzare  
+le narrative?
+32
+Tabella 2: Responsabili di progetto
+Criterio qualitativo
+Raccomandazioni
+Preparazione (impostazione)
+Definire obiettivi 
+realistici 
+Il fatto di concentrarsi su pochi obiettivi e sui gruppi target più importanti migliora le possibilità 
+di realizzare il progetto. 
+Definire l’organizza-
+zione 
+Per l’organizzazione del progetto è fondamentale ripartire chiaramente i compiti e i ruoli tra 
+tutti gli attori coinvolti. In questa fase si consiglia di chiarire tempestivamente le aspettative, 
+definire forme adeguate di partecipazione (impiego a tempo indeterminato, attività retribuita 
+con onorario, attività di volontariato) e stabilire le responsabilità in forma scritta. Se vi sono 
+committenti esterni, occorre definire anche i loro ruoli. 
+Per la funzione di responsabile di progetto sono richieste capacità di gestione. 
+La comunicazione va regolamentata, da una parte, all’interno dell’organizzazione stabilendo la 
+forma e la frequenza degli scambi; se vi sono più responsabili, può essere utile designare 
+un interlocutore principale. D’altra parte, si devono definire i punti di contatto a livello di 
+comunicazione, per esempio tra le pubbliche relazioni e il marketing digitale. 
+Ricorrere a competen­
+ze specialistiche 
+esterne 
+A seconda dell’idea alla base del progetto e della composizione del gruppo di progetto, può essere 
+consigliabile, se non addirittura indispensabile, coinvolgere esperti esterni. Oltre agli ambiti 
+di specializzazione, si devono definire i ruoli e le responsabilità di questi attori e tenere conto 
+delle ripercussioni sul processo nel suo complesso. Il coinvolgimento può essere mirato e 
+riguardare ad esempio la realizzazione tecnica delle narrative, le attività di marketing, la collabora­
+zione con i giovani o la verifica delle narrative in quanto misura di prevenzione. Un’altra 
+opzione potrebbe essere quella di un accompagnamento continuo all’interno del gruppo di 
+progetto o da parte di un gruppo di esperti indipendente. 
+Garantire sufficienti 
+risorse finanziarie, di 
+personale e di tempo 
+Un aspetto da considerare nella pianificazione di progetti di narrativa è la disponibilità di 
+sufficienti risorse finanziarie, un aspetto importante non da ultimo se si devono coinvolgere 
+esperti esterni o avviare misure di marketing (p. es. promozione pubblicitaria nei media sociali). 
+Sfruttare la rete online 
+e offline 
+Le reti sono una risorsa fondamentale per attuare con successo progetti di narrativa. I contatti 
+o i rapporti di collaborazione con organizzazioni e singole persone possono essere sfruttati 
+per reclutare giovani, reperire moltiplicatori e mettere a disposizione conoscenze specialistiche. 
+Si consiglia di includere la rete il più presto possibile. 
+Partecipazione dei 
+giovani: definire ruoli, 
+compiti e aspettative 
+Già durante lo sviluppo dell’idea alla base del progetto e l’allestimento del piano concettuale 
+occorre definire le modalità di coinvolgimento dei giovani, ossia decidere se svolgeranno 
+un ruolo di primo piano nell’elaborazione e nella realizzazione del progetto di narrativa o se 
+assumeranno piuttosto una funzione consultiva. In ogni caso, i compiti e le relative 
+aspettative devono essere chiaramente definiti e comunicati. 
+Chiarire come reclutare 
+i giovani 
+Per trovare giovani motivati può essere utile ricorrere a una rete esistente. Altrimenti occorre 
+riflettere a strategie alternative appropriate o far leva sugli interessi dei giovani (scelta 
+professionale, teatro, eventi o simili). Se viene affidato loro un ruolo di primo piano, i giovani 
+devono essere disponibili fin dall’inizio del progetto (fase dell’impostazione). 
+33
+Domande
+–	 Qual è il nostro scopo generale? Quali sono i singoli obiettivi?
+–	 Quale effetto vogliamo ottenere?
+–	 Qual è il principale gruppo target? Qual è l’esatto profilo di questo gruppo target? Per quali caratteristiche si contraddistin-
+gue? Quali sono le sue aspettative rispetto al tema che vogliamo trattare? Vi sono gruppi target secondari?
+–	 Come si presentano le principali tappe del progetto?
+–	 Chi dispone delle necessarie capacità di gestione per assumere la direzione del progetto?
+–	 Chi fa parte del gruppo di progetto?
+–	 Chi assume quali compiti?
+–	 Quali sono i vantaggi e gli svantaggi delle diverse forme di rapporto di lavoro? Quale forma conviene scegliere?
+–	 Quali sono le aspettative delle persone e organizzazioni coinvolte e quelle dei committenti/finanziatori?
+–	 Qual è la strategia di comunicazione? Gli aspetti da considerare sono: gli scambi interni, la gestione delle informazioni, il 
+marketing di progetto. Di quali punti di contatto si deve tenere conto? 
+–	 Quando e con quale frequenza si rilasciano comunicazioni?
+–	 Di quali competenze necessitiamo per attuare il progetto?
+–	 A quali competenze esterne dobbiamo ricorrere?
+–	 In che forma vogliamo disporre di queste competenze (interventi specifici o gruppo di accompagnamento permanente)?
+–	 Quali sono le risorse finanziarie disponibili?
+–	 La pianificazione dei costi è realistica? 
+–	 Ci sono riserve per gli imprevisti?
+–	 Quali contatti utili abbiamo con istituzioni, organizzazioni e singole persone?
+–	 Per quali scopi si potrebbe sfruttare questa rete? 
+–	 In che modo una collaborazione potrebbe risultare utile/interessante per questi contatti?
+–	 Quando e come deve avvenire la presa di contatto?
+–	 Che ruolo assumeranno i giovani nel progetto?
+–	 Quali compiti e quale impegno (in termini di tempo) implica questo loro coinvolgimento?
+–	 I giovani sono all’altezza dei compiti che prevediamo di affidare loro (p. es. contenuti religiosi)?
+–	 Come ci assicuriamo che i giovani sappiano cosa li attende e cosa ci si attende da loro?
+–	 Quali sono le aspettative dei giovani?
+–	 Come possiamo trovare giovani che soddisfano i nostri requisiti? 
+–	 Di quali reti e altri canali possiamo avvalerci?
+–	 Come coinvolgeremo i giovani e in quale fase del progetto?
+–	 Quali vantaggi comporta per i giovani la partecipazione al progetto?
+34
+Tabella 2: Responsabili di progetto
+Criterio qualitativo
+Raccomandazioni
+Attuazione
+Motivare i giovani a 
+impegnarsi 
+Un ruolo di primo piano può essere già sufficiente per motivare i giovani a impegnarsi seriamente. 
+A seconda dei compiti e dell’impegno richiesto, è però opportuno considerare anche altre 
+possibilità (p. es. incentivi materiali, riconoscimento della collaborazione come stage, rilascio di 
+un certificato di lavoro, certificazione ecc.). Gli incentivi materiali possono tuttavia modificare 
+la collaborazione. 
+Garantire che i giovani 
+siano ben preparati e 
+accompagnati 
+Per prepararsi al ruolo che dovranno svolgere, i giovani devono essere sostenuti e accompagnati 
+in modo adeguato. Considerate la complessità del tema «estremismo e radicalizzazione» e 
+dell’approccio delle narrative, appare importante creare una base comune di conoscenze e di 
+comprensione fornendo informazioni fondamentali (generali e specifiche) e lasciando spazio alle 
+domande e al dialogo. Questo processo può richiedere molto tempo. Occorre inoltre considerare 
+che le discussioni su temi riguardanti la religione o l’estremismo sono per molti fonte di disagio. 
+Garantire la protezione 
+della personalità dei 
+giovani 
+A seconda del ruolo e del grado di coinvolgimento, è opportuno chiedersi in che misura i giovani 
+si espongono personalmente e sono d’accordo a farlo. Il conflitto tra la partecipazione e la 
+visibilità che ne deriva deve essere oggetto di una riflessione approfondita già prima dell’avvio 
+del progetto, soprattutto se i giovani hanno meno di 18 anni. Se del caso, si devono adottare 
+misure per proteggere i giovani dalle ripercussioni negative che il loro impegno potrebbe 
+comportare. 
+Tenere conto dei 
+fattori che incidono 
+sull’efficacia 
+Più i contenuti, le tecniche di realizzazione e il tono sono adeguati al gruppo target, più le 
+narrative suscitano interesse, vengono comprese e producono l’effetto preventivo auspicato. 
+Gli aspetti da considerare sono: 
+– persone/storie autentiche;
+– rappresentazione visiva con un audio adeguato;
+– suggerimenti/aiuti sotto forma di domande, slogan o hashtag;
+– tema controverso o presentazione provocatoria.
+Predisporre un sistema 
+di controllo 
+L’attuazione di un progetto di narrativa va seguita con un sistema di controllo adeguato che 
+permetta di individuare per tempo le difficoltà e di apportare i cambiamenti eventualmente 
+necessari. 
+Integrare le raccoman­
+dazioni della valutazio­
+ne formativa 
+L’approccio della valutazione formativa richiede trasparenza e apertura da parte dei responsabili di 
+progetto, ma anche flessibilità, poiché devono essere disposti ad apportare cambiamenti in 
+corso d’opera. Le proposte di ottimizzazione in vista del raggiungimento degli obiettivi possono 
+riguardare tutti gli ambiti: pianificazione, organizzazione, risorse, misure o contenuti delle 
+narrative. 
+Risultati
+Concentrarsi su pochi 
+canali 
+Per far conoscere il progetto, oltre all’apposito sito Internet si devono sfruttare altri canali 
+online. La scelta va fatta tenendo conto delle abitudini di utilizzo del gruppo target. 
+Un altro aspetto da considerare è il lavoro richiesto dalla gestione degli account (anche dopo la 
+conclusione del progetto): gestire più di due account su piattaforme online è opportuno solo 
+se si dispone di risorse sufficienti.
+L’esperienza insegna che può essere utile impiegare mezzi finanziari per diffondere le narrative 
+(p. es. banner su Facebook). 
+Mantenere una certa 
+flessibilità 
+Le piattaforme più importanti vanno determinate in funzione dei gruppi target definiti. Le 
+tendenze e il comportamento degli utenti, tuttavia, possono cambiare. Nell’ambito del 
+progetto occorre quindi mantenere sempre una certa flessibilità per poter reagire a questi 
+cambiamenti e passare ad altri canali. 
+Completare il marke­
+ting online con attività 
+offline 
+Per sostenere la diffusione delle narrative occorrono attività online, ma anche offline. Anche in 
+questo caso è opportuno riflettere fin dall’inizio su dove e come raggiungere al meglio il 
+gruppo target in questione. Oltre alle collaborazioni con altre organizzazioni, si possono proporre 
+interventi in scuole e centri giovanili (p. es. workshop, discussioni guidate da moderatori o 
+materiali didattici e pedagogici). 
+35
+Domande
+–	 Come possiamo assicurarci che l’impegno sarà sufficiente anche a lungo termine? 
+–	 Quali incentivi possono rendersi necessari per garantire e/o preservare la motivazione?
+–	 Che influsso possono avere gli incentivi sulla partecipazione dei giovani?
+–	 Come preparare i giovani al ruolo che dovranno svolgere?
+–	 Cosa devono sapere (sul tema, a livello formale ecc.) per poter adempiere i loro compiti? Come possiamo trasmettere  
+loro queste conoscenze?
+–	 Come possiamo accompagnare i giovani in modo ottimale durante il progetto?
+–	 Chi è la loro persona di contatto? 
+–	 In che misura si espongono i giovani che partecipano al progetto?
+–	 Quali conseguenze ha questa visibilità? I giovani ne sono consapevoli? Sono d’accordo?
+–	 Come possiamo proteggerli da eventuali ripercussioni negative?
+–	 Quali fattori possono incidere sull’efficacia del progetto?
+–	 Il piano concettuale tiene conto in modo ottimale di questi fattori?
+–	 Come possiamo amplificare l’efficacia del progetto per il gruppo o i gruppi target?
+–	 Siamo sulla buona strada? 
+–	 Stiamo raggiungendo le tappe e gli obiettivi come previsto?
+–	 Quali sono le sfide e come le affrontiamo?
+–	 Come garantiamo la possibilità di apportare cambiamenti anche in corso d’opera?
+–	 Quali sono le piattaforme online più utilizzate dal gruppo target? 
+–	 Di quali risorse disponiamo per gestire gli account? 
+–	 Di quali risorse finanziarie possiamo avvalerci per la pubblicità? Dove è più opportuno farla?
+–	 Cosa succederà a progetto ultimato? Gli account e/o il sito Internet verranno mantenuti?
+–	 Qual è il comportamento degli utenti nel gruppo o nei gruppi target? Come si evolverà?
+–	 Come possiamo assicurarci di rimanere aggiornati?
+–	 Quali canali offline utilizziamo per far conoscere il progetto?
+–	 Qual è il modo migliore per raggiungere il nostro gruppo o i nostri gruppi target? 
+–	 Come possiamo sfruttare la nostra rete?
+–	 Quali altre collaborazioni sono possibili?
+–	 Di quali mezzi finanziari disponiamo?
+36
+Tabella 3: Gruppo di esperti
+Criterio qualitativo
+Raccomandazione
+Preparazione
+Fornire consulenza alle 
+autorità nelle fasi 
+di messa a concorso, 
+pianificazione e 
+selezione 
+È opportuno coinvolgere tempestivamente esperti indipendenti per la definizione di criteri chiari 
+in rapporto all’impostazione del progetto e alla garanzia della qualità. Con le loro conoscenze 
+specialistiche di diversi settori, gli esperti possono offrire sostegno alle autorità nelle fasi di 
+messa a concorso, pianificazione (valutazione inclusa) e selezione dei progetti. 
+Attuazione
+Accompagnare i 
+progetti e la valutazio­
+ne con un ruolo 
+consultivo 
+È auspicabile che gli esperti siano a disposizione del gruppo di progetto, con le loro conoscenze 
+specialistiche, anche nella fase di attuazione (soprattutto se la valutazione è piuttosto 
+di tipo sommativo). Se la valutazione è formativa, per il gruppo di valutazione può essere utile 
+conoscere il punto di vista degli esperti in merito ai processi del progetto.  
+Validare le narrative 
+Gli esperti devono procedere alla validazione delle narrative in collaborazione con le autorità. 
+La verifica viene effettuata in base ai criteri definiti. 
+Risultati
+Diffondere le narrative 
+e promuovere il 
+trasferimento delle 
+conoscenze 
+Gli esperti possono diffondere le narrative attraverso le loro reti (online/offline) e contribuire a 
+far conoscere i risultati ottenuti nei rispettivi settori. 
+Tabella 4: Gruppo di valutazione
+Criterio qualitativo
+Raccomandazione
+Preparazione
+Allestire un piano di 
+valutazione 
+È auspicabile che i progetti di contro-narrativa e narrativa alternativa siano accompagnati 
+anche in futuro con procedure metodologiche adeguate. Gli strumenti più indicati per 
+rispondere in modo ottimale alla domanda sull’efficacia di un progetto sono le valutazioni 
+sommative e in particolare le analisi degli effetti. 
+Attuazione
+Valutare
+La valutazione della fase di attuazione va effettuata in base al relativo piano e deve coinvolgere 
+le autorità, i responsabili di progetto e gli esperti.
+La valutazione sommativa è un’analisi che ha lo scopo di fornire un bilancio, mentre quella 
+formativa mira a promuovere processi di apprendimento e ottimizzazione.
+Risultati
+Pubblicare e diffondere 
+i risultati della 
+valutazione e promuo­
+vere il trasferimento 
+delle conoscenze 
+Anche l’ente valutatore può provvedere a rendere noti i risultati ottenuti e trasferire le 
+conoscenze ad altri organi di ricerca attraverso la propria rete (online/offline). 
+37
+Domande
+–	 Quali aspetti vanno considerati nella fase di avvio del progetto?
+–	 A cosa andrebbe prestata attenzione nella fase di messa a concorso? 
+–	 Quali sono i criteri prioritari per la selezione dei progetti?
+–	 Su quali aspetti deve focalizzarsi la valutazione?
+–	 L’attuazione è ottimale dal punto di vista specialistico? 
+–	 In quali ambiti vi è un potenziale di miglioramento?
+–	 Le narrative sono adatte al gruppo target?
+–	 Sono comprensibili?
+–	 I contenuti sono adeguati?
+–	 Quali organizzazioni e istituzioni della nostra rete possono contribuire alla diffusione delle narrative?
+–	 Quali misure è opportuno adottare per far conoscere i risultati della valutazione?
+–	 Qual è il modo migliore per trasferire le conoscenze a chi lavora sul campo?
+Domande
+–	 Quali criteri si devono osservare per la valutazione?
+–	 Qual è il metodo più indicato per raggiungere gli obiettivi della valutazione?
+–	 A quali domande deve rispondere la valutazione?
+–	 Quali informazioni sono necessarie per rispondervi?
+–	 Come conviene effettuare la valutazione formativa affinché sia il più utile possibile al progetto?
+–	 In che misura l’idea e l’impostazione del progetto sono adatte al conseguimento degli obiettivi prefissati?
+–	 In che misura l’approccio, il metodo, il modo di procedere e i messaggi si prestano a raggiungere il gruppo o i gruppi 
+target?
+–	 In che misura sono stati raggiunti gli obiettivi?
+–	 Vi sono stati risultati inaspettati o indesiderati?
+–	 Cosa si è rivelato essere positivo e cosa negativo?
+–	 Quali adeguamenti/miglioramenti sono necessari nel caso in cui il progetto verrà portato avanti?
+–	 Quali conclusioni si possono trarre, anche al di là del progetto?
+–	 Quali misure è opportuno adottare per far conoscere i risultati della valutazione? 
+–	 Come si riesce a trasferire le conoscenze ad altre istituzioni e organizzazioni? 
+38
+Panoramica dei ruoli e dei compiti
+Preparazione: Avvio / Bando di concorso / Impostazione 
+Attuazione: Elaborazione delle narrative / Valutazione dei progetti
+Risultati: Diffusione e utilizzo delle narrative / Valutazione dei progetti / Diffusione dei risultati
+Autorità/finanziatori (con esperti) 
+–	 Definire gli obiettivi
+–	 Seguire le attività internazionali
+–	 Definire i requisiti e le condizioni quadro 
+–	 Fornire impulsi
+–	 Mettere a disposizione risorse
+–	 Pianificare la valutazione o delegare questo compito ai 
+responsabili di progetto
+Autorità/finanziatori (con esperti) 
+–	 Accompagnare il progetto in qualità di sounding board 
+–	 Mettere a disposizione la propria rete
+–	 Accompagnare la valutazione
+Autorità/finanziatori (con esperti) 
+–	 Pubblicare e diffondere i risultati dei progetti e della 
+valutazione
+–	 Promuovere il trasferimento delle conoscenze (conferen­
+ze, pubblicazioni ecc.)
+Responsabili di progetto
+–	 Allestire il piano concettuale: 
+	
+• obiettivi
+	
+• gruppo target
+	
+• organizzazione (partecipazione dei giovani
+inclusa)
+	
+• misure
+	
+• finanziamento
+	
+• calendario 
+–	 Preparare (o pianificare) la valutazione
+Responsabili di progetto
+–	 Attuare e gestire le attività secondo il piano concettuale
+–	 Predisporre un sistema di controllo
+–	 Sfruttare la rete (online/offline)
+–	 Seguire gli sviluppi e le abitudini di utilizzo del gruppo 
+target
+–	 Mettere a disposizione tutte le informazioni necessarie 
+per la valutazione
+Responsabili di progetto 
+–	 Mettere a disposizione tutte le informazioni 
+necessarie per la valutazione
+–	 Presentare, diffondere e utilizzare i risultati dei 
+progetti e della valutazione
+–	 Assicurare la continuità dei progetti
+–	 Partecipare all’applicazione pratica (p. es. 
+interventi in scuole o attività giovanili)
+39
+Esperti 
+(con autorità/finanziatori)
+Accompagnare la messa a concorso, la pianificazione 
+della valutazione e la selezione dei progetti con un ruolo 
+consultivo
+Esperti 
+(con autorità/finanziatori)
+–	 Validare i contenuti delle narrative
+–	 Mettere a disposizione la propria rete
+–	 Accompagnamento della valutazione e/o 
+dei progetti con un ruolo consultivo
+Esperti 
+(con autorità/finanziatori)
+–	 Fornire informazioni per la valutazione
+–	 Diffondere e utilizzare i risultati dei progetti e della 
+valutazione nella propria rete
+Giovani (con responsabili di progetto)
+–	 Partecipare allo sviluppo di idee 
+–	 Fornire informazioni sul gruppo target
+Giovani (con responsabili di progetto)
+Partecipare in base a quanto previsto dal 
+piano concettuale: 
+–	 ruolo attivo in quanto protagonisti, autori, influencer
+–	 ruolo consultivo in quanto sounding board
+Giovani (con responsabili di progetto)
+–	 Fornire informazioni per la valutazione
+–	 Partecipare all’applicazione pratica (p. es. interventi 
+in scuole/attività giovanili)
+40
+I video e altri contenuti di propaganda estremista hanno una 
+certa diffusione su Internet. Il rischio di imbattersi in 
+questo tipo di materiale, anche senza cercarlo attivamente, 
+è quindi elevato. È dunque particolarmente importante 
+sensibilizzare gli adolescenti e i giovani adulti e insegnare 
+loro ad analizzare le informazioni con spirito critico e in 
+un’ottica differenziata. Solo così potranno farsi un’opinione, 
+sviluppare una posizione propria e assumere un ruolo 
+attivo. Questo vale non solo per i contenuti che incitano 
+all’estremismo e alla radicalizzazione, ma anche per l’uso dei 
+media digitali e l’interazione nelle reti sociali in generale. 
+Possedere competenze mediali significa utilizzare i media 
+consapevolmente e in maniera responsabile. In un’ottica 
+pedagogica, il pedagogo mediale Heinz Moser distingue i 
+quattro tipi di competenze seguenti.
+Competenze mediali tecniche 
+Per usare hardware, software, computer, smartphone, app 
+e programmi sono necessarie conoscenze di base 
+che implicano anche la comprensione di termini tecnici.
+Competenze mediali culturali 
+Dato che i media digitali fanno ormai parte della nostra vita 
+quotidiana, occorre acquisire conoscenze sulle forme e 
+sugli strumenti di espressione che permettono di sfruttare 
+le varie possibilità esistenti in modo creativo. D’altra 
+parte bisogna sapersi orientare nella giungla di contenuti 
+e informazioni proposti.
+Competenze mediali sociali 
+La comunicazione e l’instaurazione di relazioni sono 
+fondamentali per chi utilizza i media digitali, in particolare 
+per gli adolescenti e i giovani adulti, che devono sapersi 
+orientare e muovere in un mondo nel quale i confini 
+tra amicizie e spazi reali e virtuali si confondono sempre di 
+più. A questo scopo sono necessarie regole di comporta­
+mento improntate al rispetto e alla stima reciproca. È inoltre 
+importante capire quando si superano i limiti.
+06_SPUNTI PER L’USO DELLE NAR­
+RATIVE NELL’ATTIVITÀ PRATICA
+ 
+Competenze mediali riflessive 
+In questo ambito rientrano la capacità di riflettere sulle 
+proprie abitudini di utilizzo e l’analisi critica dei contenuti 
+mediali. Gli adolescenti e i giovani adulti devono imparare a 
+inquadrare le informazioni e a valutarne la rilevanza e 
+la veridicità. A questo scopo devono anche capire qual è il 
+ruolo dei diversi media e come vengono utilizzati 
+per far valere interessi politici, economici e sociali. 
+Con il necessario accompagnamento pedagogico, le narrative 
+possono fungere da base per avviare una riflessione sul 
+tema dell’estremismo e della radicalizzazione nelle scuole o 
+nell’ambito delle attività giovanili extrascolastiche. 
+In sede di valutazione, gli esperti e i responsabili di progetto 
+si sono detti favorevoli a un uso ulteriore dei video e dei 
+testi, purché si possano escludere effetti controproducenti 
+e i contenuti siano adeguati dal punto di vista teologico 
+(o di altre discipline). Gli adolescenti e i giovani adulti si 
+sono inoltre espressi positivamente sulla possibilità, 
+per esempio, di discutere le narrative durante le lezioni. 
+Infine l’uso ulteriore, in una forma adeguata, delle narrative 
+è auspicabile anche per dare continuità ai progetti pilota, 
+che per definizione sono limitati nel tempo. 
+Ciò presuppone però anche la predisposizione di altri 
+strumenti, per esempio materiale pedagogico, unità 
+didattiche specifiche o indicazioni pratiche per altri settori 
+in cui si lavora con adolescenti e giovani adulti. Pur non 
+potendo soddisfare questi requisiti, la presente pubblicazione 
+si propone di fornire spunti per l’uso delle narrative 
+nell’attività pratica.
+41
+Nel quadro del progetto CONTRA (Countering Propaganda by Narration Towards Anti-Radical Awareness) dell’Unione 
+europea sono stati sviluppati strumenti didattici da utilizzare in classe per contrastare la propaganda estremista 
+in rete. Per incentivare i giovani ad avere un approccio critico verso i contenuti mediali, il progetto prevede un processo 
+di apprendimento in tre fasi (#weARE):
+–   Awareness: attirare l’attenzione sulla problematica e sensibilizzare i giovani; 
+–   Reflection: esercitare la riflessione e lo spirito critico; 
+–   Empowerment: rafforzare e difendere la propria posizione. 
+Una delle difficoltà consiste nell’eventualità che la riflessione in classe prenda una piega indesiderata: può succedere 
+ad esempio che gli allievi confondano religione ed estremismo o facciano dichiarazioni stereotipate oppure che 
+le discussioni siano politicizzate o abbiano una forte carica emotiva. Gli autori ritengono inoltre che questi approcci 
+debbano essere accompagnati da persone con qualifiche specifiche, se tra i partecipanti si trovano persone 
+recettive ai messaggi radicali o che presentano già segni di radicalizzazione (www.project-contra.org; in tedesco). 
+Estremismo e radicalizzazione: 
+un tema dalle molte sfaccettature
+Quando viene trattato con gli adolescenti e i giovani adulti, 
+il tema «estremismo e radicalizzazione» può essere 
+affrontato da varie angolature. 
+Definizione dei concetti di estremismo e 
+radicalizzazione 
+Cosa significa estremismo? Quali orientamenti estremisti 
+esistono? Cosa contraddistingue le visioni del mondo 
+estremiste? Quali obiettivi perseguono i gruppi estremisti? 
+Perché sono pericolosi? Cosa significa radicalizzazione? 
+Cosa porta una persona a radicalizzarsi?
+Propaganda e altre strategie in rete 
+Alla base di una riflessione critica vi è la conoscenza dei 
+mezzi con i quali i gruppi estremisti diffondono i 
+loro messaggi e la consapevolezza del fatto che ci si può 
+imbattere in questi contenuti anche senza volerlo. 
+Propaganda, fake news e discorsi d’odio sono importanti 
+forme di diffusione con cui i gruppi estremisti cercano 
+di influenzare gli utenti. Come posso riconoscere questi 
+contenuti? Quali stili retorici e visivi vengono utilizzati? 
+Quale effetto si mira a ottenere con questi contenuti? Cosa 
+provo di fronte a questi messaggi? 
+Algoritmi e bolle di filtraggio 
+Le nostre ricerche, i nostri «like» e i nostri commenti hanno 
+un influsso sui contenuti che ci vengono proposti su 
+piattaforme come YouTube, Facebook o Google. Ciò è reso 
+possibile da algoritmi che lavorano in background e 
+portano l’utente a ritrovarsi in una bolla di filtraggio. Questo 
+fenomeno può incidere sulla radicalizzazione, dato che 
+l’utente vede sempre più contenuti problematici. È quindi 
+importante essere consapevoli di questo aspetto e 
+conoscere le strategie per aggirare gli algoritmi. Cosa sono 
+gli algoritmi e come funzionano? Perché possono essere 
+problematici? Cos’è una bolla di filtraggio? Come mi rendo 
+conto di essere finito in una bolla di filtraggio? Cosa posso 
+fare per uscirne? 
+42
+Lo Stato di diritto, la democrazia e i loro valori 
+Il pensiero e l’azione a livello politico, la capacità di valutare 
+e inquadrare gli eventi per farsi un’opinione propria 
+presuppongono una comprensione della democrazia come 
+forma di vita, società e governo. Cosa significano Stato 
+di diritto e democrazia? Quali sono le caratteristiche del 
+sistema democratico in Svizzera? Che vantaggi comporta 
+la democrazia per il singolo individuo? Su quali valori si 
+fonda lo Stato di diritto? Quali sono i miei diritti e i miei 
+doveri e come posso impegnarmi per mantenerli? Come si 
+vive in un Paese senza Stato di diritto? 
+Partecipazione 
+Internet offre numerose possibilità di interazione e 
+partecipazione. La ricerca sui giovani distingue tre livelli di 
+azione: a) mi posiziono, ad esempio mettendo un «like», 
+entrando a far parte di un gruppo o prendendo posizione su 
+un tema con una foto; b) svolgo un ruolo attivo scrivendo 
+in un forum di discussione o mettendo online un video da me 
+realizzato; c) incoraggio altri ad assumere un ruolo attivo 
+chiedendo loro esplicitamente di partecipare (p. es. invitandoli 
+ad aderire a una determinata iniziativa o segnalando 
+un evento). Che immagine do di me quando metto un «like» 
+a un video o quando condivido un contenuto? Che effetti 
+posso ottenere con un commento? Perché è importante 
+prendere posizione su un tema? Su cosa si basa la mia 
+opinione? Quali altri punti di vista potrei considerare?
+Coraggio civile 
+Il coraggio civile è strettamente legato ai concetti di 
+democrazia e partecipazione. Per intervenire in difesa di 
+qualcuno che subisce un’ingiustizia ci vuole coraggio. 
+Il fatto di intervenire invece di distogliere lo sguardo è alla 
+base di una società fondata sulla tolleranza, sulla 
+diversità e sull’uguaglianza. Cosa significa coraggio civile? 
+Perché è importante il coraggio civile? Cosa farei se … ? 
+Come posso tutelarmi da un eventuale pericolo? 
+43
+Utilizzo delle narrative prodotte nel quadro 
+dei progetti pilota
+Le narrative prodotte si rivolgono tendenzialmente ad 
+adolescenti dai 14/15 anni e a giovani adulti. Dalla valuta­
+zione è emerso che a volte gli adolescenti più giovani 
+hanno avuto difficoltà a capire i temi trattati e ad analizzarli 
+in un’ottica differenziata. Va tenuto presente che la 
+tecnica di realizzazione, soprattutto nel caso dei fumetti, 
+potrebbe ingannare e indurre a pensare che il contenuto sia 
+adatto a ragazzini o addirittura a bambini. 
+Le contro-narrative e le narrative alternative servono a 
+contrastare messaggi estremisti e a controbattervi, 
+il che può essere fatto anche attivamente. In risposta a un 
+video estremista o a un post discriminatorio si può per 
+esempio presentare una contro-narrativa o una narrativa 
+alternativa con un contenuto adeguato. Nella scelta 
+occorre assicurarsi che non vi siano contenuti illegali o 
+inadatti ai bambini e ai giovani (violenza, propaganda 
+ecc.). 
+Nell’attività pratica è consigliabile contestualizzare la 
+narrativa tenendo conto delle abitudini e dell’ambiente 
+di vita degli adolescenti e dei giovani adulti, per avvicinarsi 
+il più possibile alla loro realtà e farli riflettere sul 
+proprio comportamento (anche in termini mediali). L’obiettivo 
+è infatti quello di capire dove e come gli adolescenti 
+e i giovani adulti si imbattono in contenuti problematici e 
+quali sono i temi importanti per loro. 
+Nell’ambito delle attività giovanili extrascolastiche occorre 
+assicurarsi di utilizzare le contro-narrative e le narrative 
+alternative in un quadro adeguato e in funzione dei bisogni 
+degli adolescenti e dei giovani adulti. Per questi ultimi i 
+ritrovi e i centri giovanili sono innanzitutto un luogo 
+d’incontro, confronto e gioco. È opportuno affrontare il tema 
+(p. es. in una discussione) quando i giovani, prendendo 
+spunto da un fatto concreto, iniziano loro stessi a parlarne.
+Estremismo, radicalizzazione, identità e religione sono temi 
+di forte carica emotiva. Per evitare dinamiche negative è 
+essenziale un inquadramento adeguato. Questo significa ad 
+esempio trattare anche l’estremismo di destra e quello 
+di sinistra nel caso di narrative riguardanti l’estremismo 
+islamico.
+Estremismo, 
+radicalizzazione, identità e 
+religione sono temi 
+di forte carica emotiva.
+ 
+44
+#1 Gender (Genere, 37 s)
+https://www.youtube.com/watch?v=SOwTZEnTkok
+Violenza contro le donne: 
+–	 Come reagisci? 
+–	 Quali ruoli stereotipati vengono trattati? 
+–	 Cosa è ammissibile e cosa no? 
+–	 Cosa faresti in una situazione simile?
+#2 Hass im Alltag (L’odio nella vita quotidiana, 35 s)
+https://www.youtube.com/watch?v=3gDKRQU8_7Q 
+Opinioni radicali in ambito familiare: 
+–	 Cosa fai per contrastarle? 
+–	 Perché questo comportamento è razzista? 
+–	 Come reagiresti in una situazione simile? 
+#3 Grillideologie (L’ideologia del grill, 30 s) 
+https://www.youtube.com/watch?v=0ejtQz4O_C8
+–	 Come ti fanno sentire le idee estremiste? 
+–	 Chi può fare cosa? 
+–	 Come reagisci di fronte a opinioni diverse dalla tua?
+#4 Gewalt und Aggression (Violenza e aggressione, 31 s) 
+https://www.youtube.com/watch?v=6co99OsJh3E 
+–	 Avresti il coraggio di intervenire? 
+–	 Cosa puoi fare in una situazione come questa?
+#5 Die Amis sind an ALLEM schuld (TUTTA colpa degli 
+americani, 31 s)
+https://www.youtube.com/watch?v=3o9x9GMVoT4 
+–	 Hai già sentito parlare di teorie cospirative? 
+–	 Dove le hai viste o sentite? 
+–	 Come si riconosce una teoria cospirativa?
+Winfluence 
+Tipo di narrativa
+Fumetti animati con animali 
+(in svizzero-tedesco) 
+Possibilità di utilizzo 
+I temi trattati nei video sono stati scelti da giovani. Si tratta 
+di contenuti che fanno parte del loro mondo e che sono 
+importanti ai loro occhi. I conflitti presentati possono servire 
+da spunto per lanciare una discussione a scuola o nel 
+quadro delle attività giovanili extrascolastiche (p. es. su 
+temi quali il coraggio civile, la democrazia e la libertà di 
+opinione, i discorsi d’odio, la propaganda).
+45
+Testi con immagini: 
+https://www.instagram.com/knowislam_ch/ 
+–	 Come va inteso il messaggio? 
+–	 Che insegnamenti posso trarne?
+Video 1: Der Mensch im Islam (La concezione dell’essere 
+umano nell’Islam, 3:42 m)
+https://www.youtube.com/watch?v=Mmm5KBpunZ8
+–	 Come descrive Allah l’essere umano nell’Islam? 
+–	 Che persona sei? Come ti vede Allah? 
+–	 Come vede gli altri?
+Video 2: Was sagt der Islam zu Gewalt? (Cosa dice l’Islam 
+a proposito della violenza?, 3:54 m)
+https://www.youtube.com/watch?v=ufTEUOczCFQ
+–	 Come viene affrontato il tema della violenza nell’Islam?
+–	 Quali forme di violenza esistono? 
+–	 Si può ricorrere alla violenza?
+Video 3: Glaube – Iman (Fede – Iman, 3:57 m)
+https://www.youtube.com/watch?v=gpGP9fwP9w8
+–	 Cosa significa «credere»? 
+–	 Cosa significa «essere credente»? Cosa dice il Corano 
+a questo proposito?
+Video 4: Gott im Islam – Glaube an Allah (Dio nell’Islam 
+– La fede in Allah, 4:51 m)
+https://www.youtube.com/watch?v=x4B9w0pqkLc 
+–	 Chi è Allah? Com’è e in che rapporto è con gli esseri 
+umani? 
+–	 Quali parallelismi ci sono tra la visione di Dio nell’Islam 
+e quella nel cristianesimo e nell’ebraismo?
+Video 5: Was ist der Islam? (Cos’è l’Islam?, 3:44 m) 
+https://www.youtube.com/watch?v=uB3HtCZiXac
+–	 Quando è nato l’Islam? Cosa comporta? 
+–	 In Svizzera i musulmani sono tutti uguali? 
+Che differenze ci sono?
+Video 6: Der Koran – Die Lesung (Il Corano – La lettura, 
+3:29 m)
+https://www.youtube.com/watch?v=2JmkwlpTosQ
+–	 Cos’è il Corano? Com’è nato? 
+–	 Che temi tratta? 
+–	 Ci sono parallelismi con la Bibbia?
+Video 7: Hadith. Was bedeutet das? (Hadith: cosa significa?, 
+2:26 m)
+https://www.youtube.com/watch?v=-J8fQTQf3U8 
+–	 Cosa sono gli hadith? Perché sono importanti? 
+–	 Che cosa possiamo imparare dagli hadith?
+Video 8: Jenseits im Islam (Ahira) – Das Leben nach dem 
+Tod (L’aldilà nell’Islam (ahira) – La vita dopo la morte, 2:55 m)
+https://www.youtube.com/watch?v=r4thEGqTOGw
+–	 Come viene descritta nell’Islam la vita dopo la morte?
+–	 Cosa succede quando una persona muore? 
+–	 Quali ripercussioni ha sulla nostra esistenza il fatto di 
+credere in un aldilà? 
+–	 Quali parallelismi/differenze ci sono rispetto ad altre 
+religioni?
+Video 9: Propheten und Gesandte (Profeti e inviati, 3:29 m)
+https://www.youtube.com/watch?v=MmigOMG4Df4
+–	 Cos’è un profeta nell’Islam? 
+–	 Quali profeti sono importanti nell’Islam? 
+–	 Perché Dio ha mandato dei profeti?
+Video 10: Grundrechte im Islam (I diritti fondamentali 
+nell’Islam, 2:40 m)
+https://www.youtube.com/watch?v=LR4APIq3Ecs
+–	 Quali diritti fondamentali sono menzionati nell'Islam?
+–	 Perché sono importanti?
+KnowIslam
+Tipo di narrativa
+Testi con immagini e video esplicativi su passaggi del 
+Corano
+(in tedesco)
+Possibilità di utilizzo 
+Le narrative affrontano temi legati all’Islam creando un 
+quadro di riferimento soprattutto per gli adolescenti e i 
+giovani adulti musulmani. 
+Si prestano a essere usate come materiale didattico o di 
+approfondimento nelle scuole («Storia delle religioni» 
+o «Insegnamento religioso» in base al Piano di studio; 
+religione confessionale o opzione complementare 
+«Religione» al liceo), in corsi di religione confessionale 
+extrascolastici o nell’ambito di attività giovanili.
+46
+Video 1: Samir (57 s)
+https://www.youtube.com/watch?v=2G5r44khILM
+Per la tecnica di realizzazione e per la loro autenticità, 
+questi video si prestano a essere utilizzati a scuola e 
+nell’ambito delle attività giovanili aperte a tutti …
+Tra i possibili temi di discussione figurano: 
+–  fuga, migrazione;
+–  integrazione;
+–  democrazia;
+–  partecipazione;
+–  prospettiva di vittima;
+–  conciliazione di diverse identità.
+Le versioni lunghe dei video sono disponibili sul sito 
+Internet del progetto: www.swissmuslimstories.ch
+Video 2: Dania (42 s)
+https://www.youtube.com/watch?v=slXLn_sEyTE 
+Video 3: Saâd (54 s)
+https://www.youtube.com/watch?v=I4Lzu-7-iM8 
+Video 4: Selma (44 s) 
+https://www.youtube.com/watch?v=w2yKvtN5Ql4 
+Video 5: Hannan (1:04 m) 
+https://www.youtube.com/watch?v=x6vLWxd49UU 
+Video 6: Bujar (54 s)
+https://www.youtube.com/watch?v=Y5hIz2sLCCQ 
+Video 7: Nuran (44 s) 
+https://www.youtube.com/watch?v=c90hu8KQ3Pg 
+Video 8: Sohail (1:01 m)
+https://www.youtube.com/watch?v=xD44tRFqJ_o
+Video 9: Serpil (1:13 m) 
+https://www.youtube.com/watch?v=2YJc41kWRQQ 
+Video 10: Attila (1:00 m)
+https://youtu.be/0sYAbEcO2Ug
+SwissMuslimStories
+Tipo di narrativa
+Videoritratti di musulmani 
+(in tedesco)
+Possibilità di utilizzo
+I videoclip presentano ritratti di musulmani con storie 
+molto diverse tra loro. 
+Possono essere considerati e utilizzati come narrative 
+alternative (messaggio di convivenza sociale e contro-
+esempio alle narrative di vittimizzazione, ma anche al fatto 
+di ridurre una persona alla sua sola appartenenza 
+religiosa).
+47
+–	 Commençons par le commencement (Cominciamo dal 
+principio) 
+–	 Allah Akbar – une expérience immédiate 
+(Allah Uakbar – Un’esperienza diretta)
+–	 22 mars 2016, 9h 11, un grand boom (22 marzo 2016, 
+ore 9.11, una forte esplosione)
+Distinzione tra Islam e terrorismo
+–	 Je ne suis pas raciste, mais… (Non sono razzista, però …)
+–	 La violenza di un pezzo di carta 
+–	 Quando l’islam è al centro del discorso – parte 1 e 2
+Razzismo ed estremismo di destra
+–	 Les doutes et le sens (I dubbi e il senso)
+–	 Le voile oppressé (Il velo oppresso)
+Donne e Islam 
+–	 La «Poetessa»: l’esempio di Hissa Hilal 
+–	 Des musulmans et un islam? (Più musulmani e un solo 
+Islam?)
+–	 E se fossimo tutti musulmani? 
+–	 Comment s’est déroulée ma conversion à l’islam? 
+(Come è avvenuta la mia conversione all’Islam?)
+I musulmani in Svizzera
+–	 Partons tous au Jihâd (Partiamo tutti per la jihad)
+–	 Batailles et moralité humaine (Battaglie e morale umana)
+–	 De l’éthique de guerre à l’éthique de paix (Dall’etica della 
+guerra all’etica della pace)
+Decostruzione della jihad e della sue tesi bellicistiche
+–	 Quels jeunes voulons-noues être? (Che giovani 
+vogliamo essere?)
+–	 Il radicalismo islamico come indice di una problematica 
+generazionale? 
+Gioventù e partecipazione 
+PositivIslam
+Tipo di narrativa
+Post su un blog, soprattutto testi 
+(in francese e italiano)
+Tutti i testi sono disponibili sul sito Internet 
+del progetto: www.positivislam.ch
+Possibilità di utilizzo
+I blogger hanno trattato temi che li concernono e con i quali 
+sono confrontati nella vita quotidiana. I loro testi risultano 
+quindi autentici e anche altri adolescenti e giovani adulti 
+possono identificarsi con i contenuti. 
+I post possono servire da spunto per una discussione su 
+temi specifici, ma anche per una riflessione sulle possibilità 
+di partecipazione in generale. 
+48
+49
+Materiale per l’avvio e la realizzazione di progetti 
+di narrativa
+	 https://www.giovaniemedia.ch/it/esperti-conoscenze/
+temi-centrali/estremismo-radicalizzazione-2017-2018.
+html 
+Materiale didattico e strumenti per le scuole e le 
+attività giovanili aperte a tutti
+Video di prevenzione sul tema «Estremismo e radicalizzazio­
+ne» (playlist creata da Giovani e media)
+	 https://www.youtube.com/playlist?list=PL68Pwav5ttm­
+pelU9ASeuS4lOCXAx-eZu4
+Guida per la sensibilizzazione in materia di terrorismo ed 
+estremismo violento (in francese; disponibile anche in 
+inglese)
+	 http://www.rcmp-grc.gc.ca/fr/guide-sensibilisa­
+tion-au-terrorisme-et-a-lextremisme-violent
+Guida per insegnanti sulla prevenzione dell’estremismo 
+violento
+	 https://unesdoc.unesco.org/ark:/48223/pf0000370511
+Progetto CONTRA: promozione delle competenze mediali 
+per la prevenzione degli effetti della propaganda islamistica 
+e di estrema destra – Contesto e strumenti didattici
+	 www.project-contra.org (in tedesco)
+	 https://www.project-contra.org/Contra/EN/Home/
+home_node.html (in inglese)
+Informazioni e pubblicazioni della Rete di sensibilizzazione al 
+problema della radicalizzazione (Radicalisation Awareness 
+Network, RAN) (in inglese)
+	 https://ec.europa.eu/home-affairs/what-we-do/
+networks/radicalisation_awareness_network/
+ran-papers_en
+07_MATERIALE E ULTERIORI 
+INFORMAZIONI
+ 
+Informazioni e materiale didattico sulla politica e sulla 
+democrazia
+	 https://www.education21.ch/it/educazione-alla-cittadi­
+nanza-e-ai-diritti-umani
+	 https://campusdemokratie.ch/it/abc/
+	 http://www.politiklernen.ch (in tedesco)
+Casi esemplificativi tratti dall’attività pratica della Commis­
+sione federale contro il razzismo
+	 http://www.network-racism.ch/it/caso/index.html
+Educazione ai diritti umani per le attività scolastiche ed 
+extrascolastiche con gli adolescenti e i giovani adulti (in 
+francese) 
+	 https://www.coe.int/fr/web/compass/home
+Servizi di consulenza 
+Elenco degli organi di contatto cantonali e ulteriori informa­
+zioni della Rete integrata Svizzera per la sicurezza.
+	 https://www.svs.admin.ch/it/temi/praevention-radikali­
+sierung.html
+50
+Baier D. et al. (2019), Evaluation der Pilotprojekte Gegen
+narrative und Alternative Narrative zur Prävention von 
+Radikalisierung im Netz, die zu gewalttätigem Extremismus 
+führt, (in tedesco, con riassunto in italiano); rapporto  
+di ricerca commissionato dall’Ufficio federale delle assicura
+zioni sociali e realizzato dall’Università di scienze applicate 
+di Zurigo e dalla Scuola superiore di lavoro sociale di 
+Friburgo.
+- 
+-
+Ufficio federale tedesco contro la criminalità – Centro di 
+ricerca su terrorismo ed estremismo (ed., 2018), Extremis- 
+mus im Internet. Drei Lernarrangements zur Förderung von 
+Medienkritikfähigkeit im Umgang mit Internetpropaganda 
+in der Schule, sulla base di Ernst J. et al., Schluss- bericht 
+des Projekts CONTRA, in collaborazione con il Centro di 
+ricerca su terrorismo ed estremismo dell’Ufficio federale 
+tedesco contro la criminalità e con ufuq.de. 
+Eser Davolio M., Lenzo D. (2017a), Contro-narrative e 
+narrative alternative: una ricerca di approfondimento, 
+Berna: Ufficio federale delle assicurazioni sociali UFAS – 
+Giovani e media; 
+https://www.giovaniemedia.ch/fileadmin/user_upload/2_
+Chancen_und_Gefahren/Radikalisierung_Extremismus/
+Rapporto_contro-narrative_Eser_Lenzo_2017.pdf
+Eser Davolio M., Lenzo D. (2017b), Radikalisierung & 
+Extremismus, San Gallo; fascicolo nel quadro dell’iniziativa 
+«sicher!gsund!» dei dipartimenti di istruzione, salute,  
+interno nonché sicurezza e giustizia.
+Frischlich L. et al. (ed., 2017), in collaborazione con il Centro 
+di ricerca su terrorismo ed estremismo dell’Ufficio federale 
+tedesco contro la criminalità, Videos gegen Extremismus? 
+CounterNarrative auf dem Prüfstand, Wiesbaden: Ufficio 
+federale tedesco contro la criminalità.
+BIBLIOGRAFIA
+ 
+Manzoni P. et al. (2018), Verbreitung extremistischer 
+Einstellungen und Verhaltensweisen unter Jugendlichen in 
+der Schweiz, rapporto di ricerca dell’Università di scienze 
+applicate di Zurigo.
+Qasem S. (2016), «Herausforderung 2.0: Ansätze und 
+Erfahrungen der politischen Bildung in Sozialen Netzwer
+ken», in Molthagen D., Schöne T. (ed.), Lernen in der 
+Einwanderungsgesellschaft. Ein Handbuch für die Bildung
+sarbeit in Schule, Jugendarbeit und Erwachsenenbildung  
+in einer vielfältigen Gesellschaft, Dietz Verlag.
+-
+-
+Qasem S., Nordbruch G. (a c., 2016), Was postest du? 
+Politische Bildung mit jungen Muslim_innen online. 
+Hintergründe, Erfahrungen und Empfehlungen für die Praxis 
+in sozialen Netzwerken und Klassenräumen, ufuq.de –  
+Jugendkulturen, Islam & politische Bildung.
+Wagner U. et al. (2009), Web 2.0 als Rahmen für Selbst
+darstellung und Vernetzung Jugendlicher. Analyse jugend
+naher Plattformen und ausgewählter Selbstdarstellungen 
+von 14- bis 20-Jährigen, Istituto di pedagogia mediale 
+nella ricerca e nella prassi.
+- 
+-
+51
+GLOSSARIO
+ 
+Bolle di filtraggio (filter bubble) 
+Mediante algoritmi vengono proposti all’utente contenuti 
+prefiltrati (presumibilmente) compatibili con i suoi interessi. 
+I contenuti sono selezionati ad esempio in base ai siti 
+Internet visitati, alle attività svolte sulle reti sociali, alle 
+ricerche effettuate o alla posizione del dispositivo utilizzato. 
+Le bolle di filtraggio possono portare a distorsioni e a una 
+polarizzazione delle opinioni.
+Contro-narrative
+Le contro-narrative contrastano direttamente i contenuti 
+estremisti smascherandone i fini propagandistici, confutan
+do le informazioni false e screditando le rappresentazioni 
+che esaltano la violenza. A tal fine possono essere impiegati 
+vari mezzi, dall’argomentazione logico-deduttiva a quella 
+umoristico-satirica.
+-
+Digital disruption
+Tecniche (p. es. metodi di reindirizzamento) che aiutano a 
+rintracciare contenuti estremisti su Internet. Grazie alla 
+firma digitale, questi contenuti (foto, video o file audio) 
+possono essere cancellati quando appaiono altrove sotto 
+forma di copia. 
+Discorsi d’odio
+Forme espressive tese a offendere o escludere le persone o 
+i gruppi contro cui sono dirette, se non addirittura a 
+fomentare la violenza nei loro confronti. Compaiono 
+prevalentemente sotto forma di commenti postati sui media 
+sociali, blog o siti Internet. 
+Fake news
+Notizie false diffuse deliberatamente allo scopo di manipo
+lare l’opinione pubblica e di suscitare emozioni, paure e 
+insicurezze. Generalmente serie e attendibili all’apparenza, 
+si diffondono a una velocità incontrollabile soprattutto  
+sui media sociali, perché sono sbalorditive e avvincenti.
+-
+Narrative alternative
+Storie di convivenza pacifica in una società democratica  
+o in uno Stato di diritto liberale, che pongono l’accento 
+sull’integrazione sociale, sulla tolleranza e sull’apertura.
+News literacy
+Literacy sta per competenze di lettura e scrittura. Per news 
+literacy si intende la capacità di capire e analizzare 
+criticamente le informazioni e distinguere il vero dal falso. 
+Valutazione formativa
+La valutazione formativa ha lo scopo di identificare il 
+potenziale di miglioramento e ottimizzare l’organizzazione di 
+un progetto. Accompagna l’intero progetto, verifica  
+il processo e le misure adottate e ne valuta i risultati. 
+Valutazione sommativa
+La valutazione sommativa fa un bilancio dei risultati e dei 
+processi di un progetto e fornisce risposte sulla sua validità 
+e adeguatezza. Le conclusioni devono servire da base  
+per decidere in particolare se portare avanti il progetto o se 
+darvi seguito con eventuali altre iniziative.
+52

@@ -1,0 +1,2540 @@
+COMPETENZE MEDIALI  
+NELLA REALTÀ SCOLASTICA
+Per docenti  
+e direzioni  
+scolastiche
+Colophon
+A cura di:
+Giovani e media
+Piattaforma nazionale per la promozione delle competenze mediali 
+Ufficio federale delle assicurazioni sociali (UFAS)
+jugendschutz@bsv.admin.ch
+Testi redatti da:
+Alta scuola pedagogica della Scuola universitaria professionale della Svizzera 
+nordoccidentale (FHNW),  Consultorio per i media digitali a scuola 
+e nell’insegnamento – imedias 
+Judith Mathez, Claudia Fischer, Roger Mäder, Ronny Standtke, Stanley Schwab 
+Centro di competenza fritic
+Timon Rimensberger
+Repubblica e Cantone Ticino, 
+Centro di risorse didattiche e digitali (CERDD)
+Daniele Parenti, Barbara Bonetti
+Università di scienze applicate di Zurigo (ZHAW), 
+Dipartimento di psicologia applicata,
+Campo di ricerca Psicologia dei media 
+Sarah Genner, Daniel Süss, Lilian Suter
+Ordinazione (gratuita):
+ 
+UFCL, Shop pubblicazioni federali per clienti privati, CH-3003 Berna
+www.pubblicazionifederali.admin.ch > Attualità > Giovani e media
+(Numero di ordinazione 318.852.I) 
+02.21 2000 860482131
+Disponibile in italiano, francese e tedesco
+Foto: Pia Neuenschwander, photopia.ch: foto di copertina, p. 4, p. 17, p. 28; 
+Consultorio per i media digitali a scuola e nell’insegnamento – imedias: p. 9, p. 24, p. 27.  
+3ª edizione, febbraio 2021
+© 2014 Giovani e media – Piattaforma nazionale per la promozione  
+delle competenze mediali, Ufficio federale delle assicurazioni sociali
+Repubblica e Cantone Ticino
+Centro di risorse didattiche e digitali
+3
+CARE LETTRICI,
+CARI LETTORI,
+ 
+nella nostra società digitalizzata, le competenze mediali rappresentano una delle tecniche culturali, importante tanto 
+quanto saper leggere, scrivere e far di conto. L’utilizzo responsabile dei media digitali è pertanto parte integrante dei piani 
+didattici e un tema fondamentale per tutti i livelli scolastici.
+Le direzioni degli istituti scolastici, gli insegnanti e gli altri professionisti del settore sono ben consapevoli di questa realtà, 
+ma devono ancora far fronte alle sfide che l’adempimento del compito educativo in relazione alla trasmissione di queste 
+competenze comporta. Si pongono infatti diversi interrogativi: come impiegare proficuamente i media digitali nell’inse-
+gnamento? Qual è l’atteggiamento adeguato per quanto concerne l’uso di smartphone e tablet, dentro e fuori le aule? 
+Come garantire la protezione dei dati? Cosa occorre per proteggere i bambini e i giovani dai rischi esistenti e come evitare 
+un utilizzo abusivo dei media?
+La presente pubblicazione, elaborata nel quadro della piattaforma nazionale Giovani e media, intende aiutare i professioni-
+sti attivi nell’ambito scolastico a trovare risposte a questi interrogativi che siano adeguate al loro contesto. Vengono inoltre 
+proposti numerosi spunti per approfondire il tema dei media digitali come pure indicazioni concrete su come promuovere le 
+competenze mediali a scuola.
+I bambini e i giovani che dispongono di competenze mediali sono preparati ad affrontare il futuro e anche meglio equipaggiati 
+per proteggersi dalle esperienze negative con i media. 
+Ringraziandovi per l’importante contributo a favore dell’alfabetizzazione mediatica che fornite nella vostra quotidianità 
+professionale, vi auguriamo una buona lettura!
+Claudia Fischer 
+Co-responsabile del centro di 
+­consulenza per i media digitali a ­ 
+scuola e nell’insegnamento (imedias) 
+dell’Alta scuola pedagogica della  
+Scuola universitaria professionale della 
+Svizzera nordoccidentale (FHNW)
+Ludwig Gärtner 
+Capo dell’Ambito Famiglia, generazioni 
+e società (FGS) dell’Ufficio federale 
+delle assicurazioni sociali
+5
+INDICE
+ 
+I media digitali cambiano la quotidianità scolastica	
+6
+Parte A: Giovani, media, educazione	
+9
+01_____ Utilizzo dei media da parte dei bambini e dei giovani	
+10
+02_ ___ Le competenze digitali nel sistema scolastico svizzero	
+14
+Parte B: Insegnamento, opportunità, possibilità di sviluppo	
+17
+03_ ___ Educazione ai media nell’insegnamento	
+18
+04_ ___ Potenziale dei media digitali per lo sviluppo dell’insegnamento	
+23
+05_ ___ Potenziale dei media digitali per lo sviluppo della scuola	
+25
+Parte C: Prevenire, reagire correttamente, proteggere i dati	
+28
+06_ ___ Protezione dai rischi	
+29
+07_ ___ Come reagire in caso di utilizzo abusivo dei media?	
+35
+08_ ___ Utilizzo sicuro dei dati scolastici	
+41
+6
+I media digitali: come influenzano  
+la quotidianità scolastica e quali sono  
+le conseguenze per la scuola? 
+Per gli insegnanti, le direzioni degli istituti scolastici e gli 
+altri professionisti del settore, i media digitali fanno ormai 
+parte della quotidianità professionale. Da un lato, sono uno 
+strumento di lavoro per l’insegnamento, la comunicazione, 
+le procedure amministrative e l’organizzazione scolastica. 
+Dall’altro, questi media in rapidissima evoluzione fanno 
+parte del mondo sociale degli allievi, in cui rientra anche la 
+scuola. La presenza dei media digitali nelle scuole solleva 
+però tutta una serie di questioni, di possibilità e di difficoltà, 
+in classe, durante la ricreazione o nel contatto con i genitori. 
+Di seguito tre esempi di situazioni che possono accadere a 
+scuola.
+•	A ginnastica, una classe di quinta elementare sta 
+provando una danza popolare. Mentre la docente mostra 
+la sequenza successiva, un’allieva corre a prendere il suo 
+smartphone dalla cartella, si avvicina all’insegnante e  
+la prega di ripetere la sequenza: vorrebbe filmarla per 
+potersi esercitare a casa. Di primo acchito la docente 
+giudica buona l’idea, ma poi si sente a disagio: in fondo, 
+non ha alcun controllo su come verrà usato quel video. In 
+questo caso, l’insegnante deve permettere all’allieva di 
+filmare la sequenza?
+•	Nell’aula magna si svolge la serata conclusiva della 
+settimana di progetto. In presenza di numerosi genitori, la 
+direttrice della scuola tiene un discorso. Nel corso della 
+settimana tutti gli allievi di quarta e quinta elementare 
+hanno analizzato il proprio utilizzo dei media: non solo 
+hanno imparato regole importanti sul comportamento 
+adeguato da adottare in Internet e sull’uso di telefoni 
+cellulari, tablet e computer, ma hanno anche riflettuto e 
+discusso molto sulle proprie esperienze con i media. Sono 
+particolarmente fieri della varietà di prodotti che hanno 
+creato nel corso della settimana. Alcuni hanno realizzato 
+filmati pedagogici con immagini e testi propri, altri hanno 
+creato artistici autoritratti tramite app e altri ancora 
+hanno dato vita a fotostorie o semplici animazioni digitali. 
+I MEDIA DIGITALI CAMBIANO LA 
+QUOTIDIANITÀ SCOLASTICA
+ 
+Gli allievi presentano i risultati del loro lavoro in occasio-
+ne di un vernissage.
+•	Un allievo di seconda media manca a lezione. Durante  
+la pausa, la madre telefona alla docente di classe e  
+le comunica che il giorno prima il figlio è stato filmato  
+con un cellulare da alcuni compagni di scuola mentre si 
+cambiava nello spogliatoio della palestra. Non sa se il 
+video sia già stato inviato ad altre persone o addirittura 
+caricato su Internet. L’insegnante è incerta sul da farsi e 
+non sa se sia meglio discutere dell’episodio direttamente 
+con la classe o se parlarne prima con il direttore.
+Questi esempi mostrano chiaramente che l’utilizzo dei 
+media non può essere confinato al di fuori della quotidianità 
+sco­lastica, poiché è parte integrante del mondo degli allievi. 
+Queste due realtà non possono essere separate l’una dal­- 
+l’altra, né temporalmente né spazialmente, e s’influenzano 
+reciprocamente. Che cosa comporta tutto ciò per la scuola? 
+Quali nuove possibilità si prospettano per l’insegnamento? 
+Gli insegnanti e gli allievi come possono impiegare smar-
+tphone e tablet in modo proficuo per l’insegnamento e 
+l’apprendimento? Con quali problemi potrebbe trovarsi 
+confrontata la scuola e come potrebbe evitarli o contenerli? 
+Oggi tutti gli istituti scolastici devono poter rispondere a 
+queste domande. Solo una scuola che prende in considera-
+zione le opportunità e i rischi dei media digitali può offrire 
+un insegnamento adeguato con i media e sui media. E solo 
+in questo modo la scuola può aiutare i bambini e i giovani  
+a utilizzare i media in modo proficuo, consapevole, critico, 
+creativo, piacevole e sicuro, preparandoli così alla società  
+di domani.
+7
+Cosa s’intende per «competenze mediali»?
+Le competenze mediali costituiscono capacità centrali nella 
+società dell’informazione. Di regola, oltre alle conoscenze 
+tecniche, ossia essere in grado di usare i media digitali, 
+questo concetto include anche la capacità di utilizzarli in 
+modo critico e consapevole nonché la comprensione di come 
+funzionano le tecno­logie dell’informazione. A tal fine, 
+bisogna saper leggere e scrivere, poiché anche i contenuti 
+multi­mediali, come le fotografie e i video, vanno «letti» e 
+capiti.
+A seconda della definizione, nelle competenze mediali 
+rientrano anche la capacità di creare dei contenuti e di 
+utilizzarli, nonché le competenze sociali e comunicative. 
+Tenendo conto dei tempi in cui viviamo, tra le competenze 
+mediali devono rientrare anche un utilizzo scru­poloso dei 
+dati personali quando si è online, il rispetto di determinate 
+regole di comportamento, la resistenza contro le distrazio-
+ni digitali e la capacità di filtrare i contenuti interessanti e 
+di qualità nella marea d’informazioni che si trovano sulla 
+rete.
+È indispensabile che l’acquisizione delle competenze mediali 
+vada di pari passo con lo sviluppo delle competenze di vita: 
+chi sa affrontare le sfide del mondo reale se la cava meglio 
+anche in quello virtuale.
+Gli allievi possono dunque acquisire competenze mediali se 
+hanno la libertà di provare, di agire autonomamente e di 
+fare le loro esperienze, anche in un contesto protetto come 
+quello scolastico.
+Come acquisiscono le competenze mediali  
+i bambini e i giovani?
+I bambini più piccoli imparano a utilizzare i media innanzi-
+tutto dai modelli che hanno accanto a loro, ovvero osser- 
+vando e imitando il comportamento dei genitori e delle 
+persone di riferimento, mentre nell’adolescenza diventano 
+sempre più importanti i coetanei. Nel quadro di uno studio 
+(JAMESfocus 2015), i giovani hanno infatti affermato che, 
+in caso di problemi relativi a Internet, chiedono aiuto ad 
+amici che se ne intendono o si informano direttamente in 
+rete. Tuttavia, continuano ad auspicare anche il sostegno 
+dei genitori e della scuola. Non va dunque sottovalutato il 
+ruolo di modello degli insegnanti.
+Cosa s’intende per «alfabetizzazione 
+­mediatica a scuola»?
+«Non si può non fare pedagogia mediale», afferma Christian 
+Doelker, esperto svizzero di pedagogia mediale. I media 
+sono onnipresenti nella vita dei bambini e dei giovani e sono 
+parte integrante di ogni aula scolastica. Anche chi opta  
+per la lavagna piuttosto che per una presentazione digitale 
+utilizza uno strumento mediale.
+Alfabetizzazione mediatica a scuola significa dunque 
+riflettere sui vantaggi e sugli svantaggi dei vari media e 
+incoraggiare i bambini e i giovani a provarne di diversi  
+tipi. Questo implica pure un confronto costruttivo riguardo 
+alle preferenze individuali (di allievi e insegnanti) in materia 
+di media, che permetta anche di imparare gli uni dagli altri.  
+I media digitali sono un arricchimento se non sostituiscono 
+ i media analogici e gli incontri senza media, ma li completa-
+no con nuovi temi, metodi e oggetti di apprendimento.
+Gli allievi possono sviluppare 
+le loro competenze mediali  
+se hanno la libertà di fare 
+esperienze. 
+Prospettive dell'educazione digitale, fonte: https://gi.de
+Prospettiva tecnologica
+Come funziona?
+Mondo
+digitale
+Fenomeni, oggetti e situazioni
+Prospettiva socio-culturale
+Qual è l’eﬀetto?
+Prospettiva d'applicazione
+Come si utilizza?
+8
+Di cosa tratta la presente guida?
+La presente guida è destinata agli insegnanti, alle dire­zioni 
+delle scuole dell’obbligo e ad altri professionisti del settore, 
+come i docenti di sostegno pedagogico, i terapisti, il per­- 
+sonale preposto all'accompagnamento o all'amministrazio-
+ne, le autorità scolastiche ecc. Essa si prefigge d’illustrare 
+come queste figure professionali possono aiutare i bambini 
+e i giovani ad acquisire competenze mediali.
+Ovviamente anche i libri, i manuali e le fotografie sono 
+media che mantengono saldamente il loro posto nella 
+scuola. La presente guida si occupa però fondamentalmen-
+te dei media digitali. Il computer (che potremmo definire  
+un medium ibrido), Internet, nonché i tablet e gli smart­
+phone (in pratica dei «computer tascabili») assumono una 
+posizione di primo piano nella scuola e, di conseguenza,  
+vi è un gran bisogno d’informazioni al riguardo.
+La parte A della guida fornisce alcuni elementi orientativi 
+sull’importanza dei media digitali nella vita degli allievi. 
+Inoltre, tratta le tendenze attuali in ambito di educazione 
+ai media e di politica scolastica.
+La parte B è dedicata alle opportunità e illustra come gli 
+insegnanti possono approfittare del valore aggiunto dei 
+media per l’insegnamento. Spiega le condizioni necessarie 
+nelle singole classi o nell’istituto in generale per migliora-
+re le competenze mediali e le conseguenti possibilità di 
+sviluppo.
+La parte C, infine, affronta il tema dei rischi legati 
+all’utilizzo dei media e delle tecnologie e presenta  
+alcune strategie volte a prevenire esperienze negative  
+e a garantire la sicurezza dei dati scolastici.
+In Svizzera la questione dell’utilizzo dei media digitali 
+nell’insegnamento è oggetto di numerose normative 
+cantonali e regionali. La presente guida non può fornire  
+un elenco dettagliato dei contenuti, valido per tutta la 
+Svizzera e differenziato per livelli e materie d’insegnamen-
+to; questo rientra nei piani di studio e compete ai diparti-
+menti cantonali dell’educazione. La guida indica piuttosto 
+l’atteggiamento di fondo e le condizioni quadro che 
+favoriscono l’alfabetizzazione mediatica. L’obiettivo è  
+di favorire la riflessione e, a tale scopo, alla fine di ogni 
+capitolo sono indicate alcune fonti di approfondimento  
+e le coordinate di servizi e centri di consulenza sul 
+territorio.
+All’inizio di ogni capitolo trovate dei simboli che 
+indicano a che gruppo specifico è destinato.
+	
+Direttori di istituti scolastici
+	
+Docenti
+ 
+	
+Professionisti attivi nel mondo  
+	
+della scuola
+Letteratura di approfondimento
+•	 Barrilà, Domenico (2018), I superconnessi. Come la tecnologia influenza 
+le menti dei nostri ragazzi e il nostro rapporto con loro, Feltrinelli.
+•	 Bonaiuti, Giovanni; Calvani, Antonio; Menichetti, Laura; Vivanet,  
+Giuliano (2017), Le tecnologie educative, Carrocci editore.
+•	 Cattaneo, Gianni; Lodi, Ilario; Trivilini, Alessandro (2014), Genitori nella 
+rete – Manuale d’uso in prospettiva tecnologica, pedagogica e 
+giuridica, Armando Dadò editore.
+•	 Döbeli Honegger, Beat (2017), Mehr als 0 und 1. Schule in einer 
+digitalisierten Welt, hep Verlag.
+•	 Drot-Delange, Béatrice ; Bruillard, Eric (2012), Éducation aux TIC, 
+cultures informatiques et du numérique: quelques repères historiques.
+•	 Moser, Heinz (2019), Einführung in die Medienpädagogik: Aufwachsen 
+im digitalen Zeitalter, Springer VS.
+•	 Ranieri, Maria; Manca, Stefania (2013), I social network nell’educazione. 
+Basi teoriche, modelli applicativi e linee guida, Erickson ed. 
+9
+PARTE A – GIOVANI, MEDIA, 
+EDUCAZIONE
+ 
+10
+Quanti allievi hanno uno smartphone? Leggono ancora libri? 
+È vero che i ragazzi s’interessano ai videogiochi molto di più 
+delle ragazze?
+Generalmente gli insegnanti, le direzioni degli istituti 
+scolastici e gli altri professionisti del settore non sono 
+cresciuti con i media digitali di cui disponiamo oggi. Hanno 
+quindi bisogno di avvicinarsi a questo mondo e di conoscere 
+come e perché i bambini e i giovani usino questi media. Solo 
+così potranno accompagnarli in modo consapevole nello 
+sviluppo e nell’approfondimento delle competenze mediali, 
+considerare e valorizzare il loro vissuto e i loro interessi e 
+infine integrarne le conoscenze e competenze nell’insegna-
+mento ( ➔ cap. 3).
+I bambini e i giovani come usano i media 
+digitali?
+Lo smartphone è lo strumento mediale più importante per 
+molti bambini e giovani. Secondo lo studio JAMES 2020, a 
+partire da 12 anni, il 99 per cento ne possiede uno. In base 
+alle indicazioni degli stessi interpellati, in settimana il 
+cellulare è usato in media poco meno di 4 ore al giorno, 
+mentre nel fine settimana ben 5 ore.
+Le attività principali sono le interazioni nelle chat su Whats- 
+App (individuali e di gruppo), a cui si aggiungono ascoltare 
+musica, usare le reti sociali, navigare in Internet e guardare 
+video. Per la maggioranza il cellulare funge anche da orologio 
+e sveglia. Le app più apprezzate sono Instagram, WhatsApp, 
+Snapchat e YouTube. Circa tre quarti dei giovani usano 
+Instagram e Snapchat ogni giorno, più della metà anche più 
+volte al giorno. I giovani che hanno un account TikTok sono 
+circa tre quarti. Invece Facebook ha perso decisamente 
+importanza: il 70 per cento degli interpellati non lo usa mai o 
+dichiara di non conoscere la piattaforma. La maggior parte 
+dei giovani ha un atteggiamento riservato negli ambiti visibili 
+pubblicamente delle reti sociali e fa parte piuttosto degli 
+utenti passivi.
+01_UTILIZZO DEI MEDIA DA  
+PARTE DEI BAMBINI E DEI GIOVANI
+ 
+Oltre a usare lo smartphone, i giovani svolgono anche altre 
+attività mediali: il 64 per cento guarda regolarmente (ovvero 
+ogni giorno o più volte alla settimana) la televisione, il 
+43 per cento ascolta regolarmente la radio e il 34 per  
+cento gioca regolarmente ai videogiochi. Anche i servizi  
+di streaming sono molto apprezzati: tre quarti delle famiglie 
+in cui vivono giovani hanno un abbonamento per guardare 
+film e serie (come p. es. Netflix), e più della metà ha un 
+abbonamento per ascoltare musica in streaming (come 
+p. es. Spotify).
+Il cellulare e il tablet affascinano molti bambini in età di 
+scuola elementare, ma l’utilizzo di un cellulare in particolare 
+dipende notevolmente dall’età del bambino. Secondo lo 
+studio MIKE 2019, a possedere un proprio apparecchio  
+sono un quarto dei bambini tra i 6 e i 9 anni, quasi due terzi 
+di quelli di 10–11 anni e quasi l’80 per cento di quelli di 
+12–13 anni. Inoltre, i bambini dalla prima alla terza elemen-
+tare impiegano il tablet con la stessa frequenza del cel­- 
+lulare. Le app più apprezzate sono YouTube, WhatspApp, 
+Snapchat, Instagram e TikTok. Sia tablet che cellulare sono 
+spesso usati anche per i videogiochi.
+Contrariamente a quanto avviene nel caso dei giovani, la 
+quotidianità dei bambini non è così impregnata di smart­
+phone e Internet. La maggioranza di loro guarda almeno  
+una volta alla settimana la televisione, ascolta musica, 
+legge libri, gioca ai videogiochi o guarda video su YouTube.
+Per numerosi bambini i videogiochi sono dunque molto 
+importanti, con una frequenza maggiore tra i maschi che  
+tra le femmine, una differenza di genere che si rafforza 
+nell’adolescenza. Due terzi dei bambini giocano almeno una 
+volta alla settimana ai videogiochi, con il cellulare, il tablet, 
+il computer (portatile) o una console. Tra i giovani, i video­- 
+giochi acquisiscono sempre più importanza con l’età. Quelli 
+più popolari tra i bambini sono Fortnite, Minecraft e FIFA, 
+mentre tra i giovani Call of Duty, Fortnite, Minecraft, FIFA e 
+Grand Theft Auto (GTA).
+ 
+ 
+11
+Contrariamente a quanto 
+avviene nel caso dei giovani,  
+la quotidianità dei bambini  
+non è così impregnata di smart­
+phone e Internet.
+Sebbene dalla fine degli anni 1990 l’utilizzo dei media sia 
+cambiato radicalmente con l’avvento di Internet e dei 
+cellulari, e l’offerta dei media digitali sia cresciuta enor­
+memente, le attività del tempo libero senza media hanno 
+sostanzialmente difeso la loro posizione: incontrare amici e 
+fare sport ed escursioni con la famiglia rimangono infatti 
+occupazioni fondamentali nella quotidianità dei giovani tra i 
+12 e i 19 anni. Nel tempo libero i bambini in età di scuola 
+elementare apprezzano particolarmente fare sport, giocare 
+e incontrare amici. Tra questi passatempi si situa anche la 
+loro attività mediale preferita in assoluto, ovvero giocare ai 
+videogiochi.
+I bambini e i giovani come usano i media  
+per la scuola?
+La misura in cui i bambini e i giovani utilizzano i media  
+a scuola dipende sostanzialmente dal livello di digitalizzazio-
+ne dell’istituto e dalla sua posizione in materia. Spesso però 
+i media sono usati per studiare e fare i compiti, in particola-
+re lo smartphone, mentre computer e laptop sono impiegati 
+soltanto per ricerche impegnative su Internet, per compiti  
+su determinati siti o piatta­forme nonché per usare Word e 
+PowerPoint. A lezione, per contro, gli smartphone sono 
+utilizzati raramente, pur offrendo un grande potenziale 
+( ➔ cap. 3). Gli allievi usano il computer e Internet anche per 
+studiare: già prima della pandemia di coronavirus, 4 docenti 
+di scuola media su 10 davano compiti a casa che richiedeva-
+no l'uso dei media digitali. I principali strumenti per 
+informarsi su Internet sono motori di ricerca quali Google, 
+ma più di tre quarti dei giovani ricorrono anche a reti sociali 
+e piattaforme video come YouTube più volte alla settimana. 
+Circa un terzo si informa consultando Wikipedia ogni giorno 
+o più volte alla settimana. Molto importanti sono anche le 
+chat di gruppo su WhatsApp, nelle quali si discute di studio 
+per la scuola, organizzazione per la quotidianità scolastica e 
+compiti. Lo scambio dei compiti già fatti è soltanto 
+marginale.
+Dato che in generale i bambini utilizzano Internet molto  
+più raramente dei giovani, esso ha un ruolo accessorio 
+anche per i compiti e lo studio. Anche nel loro caso la 
+principale fonte d’informazione è Google, ma consultano 
+pure YouTube. Un’altra possibilità per cercare informazioni  
+è costituita dalle piattaforme dedicate ai bambini, le  
+quali sono però relativamente poco sfruttate.
+Per i bambini e i giovani che vivono in Svizzera, momenti  
+e attività senza media restano comunque importanti, sia  
+a scuola sia negli altri contesti.
+Studi sull’utilizzo dei media da parte dei bambini e dei giovani
+•	 Balleys Claire (2019), La place des écrans connectés dans les familles 
+de Suisse romande, Ginevra, HETS.
+•	 Bernath, Jael; Suter, Lilian; Waller, Gregor; Külling, Céline; Willemse, 
+Isabel; Süss, Daniel (2020): JAMES – Giovani, attività, media – Rileva-
+mento Svizzera, Zurigo, Università di scienze applicate di Zurigo.
+•	 Commissione federale per l’infanzia e la gioventù (2019), Always on. 
+Come vivono i giovani la connessione permanente?
+•	 Heeg, Rahel; Genner, Sarah; Steiner, Olivier; Schmid, Magdalene; 
+Suter, Lilian; Süss, Daniel (2018), Generation Smartphone. Ein 
+partizipatives Forschungsprojekt mit Jugendlichen, FHNW e ZHAW.
+•	 Hermida, Martin (2019), EU Kids Online: Svizzera. 
+Bambini e giovani svizzeri in Internet: rischi e opportunità, Alta scuola 
+pedagogica di Svitto (rapporto in tedesco, estratto dei risultati 
+disponibile in italiano).
+•	 Suter, Lilian, Külling, Céline, Bernath, Jael, Waller, Gregor, Willemse, 
+Isabel; Süss, Daniel (2019): JAMESfocus - I media digitali nella lezione, 
+Zurigo, Università di scienze applicate di Zurigo.
+•	 Waller, Gregor; Suter, Lilian; Bernath, Jael; Külling, Céline; Willemse, 
+Isabel; Martel, Nicolas (2019), MIKE – Medien, Interaktion, Kinder, 
+Eltern: Ergebnisbericht zur MIKE-Studie 2019, Zurigo, Università di 
+scienze applicate (ZHAW).
+•	 Zgraggen, Lara; Mainardi, Michele (2012), Minori in Internet: secondo 
+studio SUPSI sull’uso delle Tecnologie dell’informazione e della 
+comunicazione e sui comportamenti nella rete di allievi e giovani 
+studenti della Svizzera Italiana (SUPSI-DSAS).
+12
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Incontrare amici
+Fare sport
+Riposarsi, non fare niente
+Fare escursioni con 
+la famiglia
+Attività del tempo libero 
+senza media in %
+GENERAZIONE INTERNET
+Come sono cambiate le attività del tempo libero
+dei giovani dal 1998.
+Fonte: Klingler (2008) / Medienpädagogischer Forschungsverbund Südwest (mpfs) (2009), studi JIM 1998–2015
+13
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Guardare la TV
+Utilizzare Internet
+Leggere quotidiani
+Utilizzare il cellulare/
+lo smartphone
+Ascoltare musica 
+in streaming
+Ascoltare la radio
+Ascoltare musica 
+(CD, Cassette)
+Ascoltare musica
+Leggere libri
+Giocare ai videogiochi
+Attività del tempo libero 
+con i media in %
+14
+La società si sta sempre più organizzando attorno alla 
+diffusione delle tecnologie, diventate elemento cardine di 
+qualunque attività. La possibilità per le persone di beneficia-
+re appieno dei propri diritti di cittadinanza è strettamente 
+legata al proprio livello di competenza e di consapevolezza 
+nell’uso delle tecnologie.
+Per gli allievi, inoltre, la padronanza e la sicurezza nell’utiliz-
+zo dei media digitali sono una base indispensabile per af- 
+frontare una formazione professionale e/o scolastica di 
+secondo grado. D’altronde, un utilizzo adeguato dei media 
+digitali contribuisce in modo significativo allo sviluppo  
+di competenze personali quali l’autostima, le capacità di 
+comunicazione e di risoluzione dei problemi, competenze 
+indispensabili per affrontare in modo adeguato le sfide e  
+le situazioni di stress intrinseche alla vita sociale quotidia-
+na.La definizione delle competenze che devono far parte  
+del bagaglio degli allievi costruito negli anni della scuola 
+dell’obbligo è dunque un obiettivo di politica scolastica di 
+primaria importanza. 
+Il sistema scolastico svizzero ha in parte risposto a queste 
+richieste, elaborando diversi scenari. 
+Nel Lehrplan 21, in corso di implementazione nei cantoni  
+di lingua tedesca, è stato introdotto un modulo specifico 
+«Medien und Informatik» e sono indicati i punti in comune 
+con gli ambiti di applicazione per queste competenze digitali 
+(lingua, matematica, scienze ambientali e sociali, arti e 
+musica). La regione italofona dei Grigioni fa riferimento, 
+come il resto del Cantone, al Lehrplan 21. 
+Nella Svizzera romanda è invece in vigore il PER (Plan 
+d’études romand) che, in modo simile al Piano di studio della 
+scuola dell’obbligo ticinese, situa le competenze mediali tra 
+i contesti della formazione generale, in un ambito quindi 
+trasversale alle varie discipline.
+Per il Cantone Ticino i media e le tecnologie rappresen- 
+tano un contesto della formazione generale e il loro utilizzo 
+è connesso con abilità e strategie che rientrano nelle com- 
+petenze trasversali.
+Quali sono le implicazioni per la scuola?
+L’aumento della centralità del ruolo dei media e delle tec- 
+nologie e la loro presenza capillare nella vita quotidiana 
+hanno fatto scaturire nuovi compiti educativi per la scuola 
+(ripresi nei diversi piani di studio regionali).
+•	Comprendere e considerare l’odierno contesto di vita dei 
+bambini e dei giovani, nel quale i media e le tecnologie 
+contribuiscono in modo sostanziale al bagaglio informati-
+vo e culturale e allo sviluppo della persona. È quindi 
+importante considerare e integrare le loro esperienze  
+e competenze nei processi formativi.
+•	Stimolare negli allievi un approccio critico e riflessivo  
+nei confronti delle tecnologie e delle relative implicazioni 
+sociali, accompagnandoli nel costruirsi un sistema di 
+riferimento (strategie, valori e consapevolezza). Questo 
+significa contribuire a favorire lo sviluppo delle competen-
+ze necessarie a far fronte al flusso di informazioni e alla 
+continua evoluzione delle tecnologie.
+•	Garantire che alla fine della scuola dell’obbligo gli allievi 
+sappiano utilizzare in modo opportuno ed efficiente gli 
+strumenti digitali per affrontare il loro percorso formativo 
+post-obbligatorio.
+•	Rafforzare le competenze trasversali e adeguare i vari 
+settori disciplinari per preparare gli allievi a far fronte  
+alle nuove modalità di lavoro (soluzione dei problemi, 
+lavoro collaborativo e utilizzo di strumenti digitali).
+Per concludere, ma non da ultimo, le tecnologie e i media 
+vanno integrati nei processi di insegnamento e apprendi-
+mento, sfruttando nuove prospettive didattiche che costi­- 
+tuiscono un importante valore aggiunto.
+Quali sono le competenze digitali da  
+promuovere a scuola?
+La competenza nel contesto di Formazione generale «Tecnolo-
+gie e media» consiste nel sapere usare, con consapevolezza, 
+le tecnologie dell’informazione e della comunicazione (TIC) 
+02_LE COMPETENZE DIGITALI NEL 
+SISTEMA SCOLASTICO SVIZZERO
+ 
+15
+per il lavoro, lo studio, il tempo libero e la comunicazione. 
+Secondo il Piano di studio, il ruolo dei media e delle tec- 
+nologie nel quadro educativo scolastico è plurimo e si 
+articola attorno a tre ambiti principali, che presentano  
+punti in comune significativi:
+•	l’alfabetizzazione informatica,  
+che contempla la produzione di contenuti digitali nei 
+formati standard, la modifica di contenuti prodotti da altri, 
+come pure il riconoscimento del diritto d’autore, la gestione 
+dei propri dati su piattaforme digitali e media sociali 
+nonché l’utilizzo di applicazioni di base (videoscrittura,  
+fogli di calcolo, banche dati, presentazioni, oggetti 3D);
+•	il pensiero computazionale,  
+che fa riferimento all’elaborazione di procedure che un 
+agente (persona o macchina) può eseguire in modo 
+autonomo per risolvere problemi specifici;
+•	l’educazione a un uso consapevole di tecnologie e media 
+che mira a stimolare e accompagnare gli allievi nello 
+sviluppo di una consapevolezza di utilizzo dei media e  
+delle tecnologie, per la comunicazione, l’informazione e lo 
+svago, nonché a sviluppare un approccio critico mirato a 
+una gestione consapevole dei contenuti della rete e alla 
+protezione dei dati personali. 
+Si aggiunge a questo il fatto che le TIC costituiscono allo 
+stesso tempo uno strumento a sostegno della didattica e 
+dei processi di apprendimento.
+Quali le sfide per l’implementazione?
+L’implementazione del contesto di Formazione generale 
+«Tecnologie e media» pone diverse sfide. In particolare ci  
+si chiede se sia possibile integrare tutte le dimensioni nelle 
+varie discipline, se sia indispensabile prevedere momenti 
+specifici dedicati al tema, oppure se non sia necessario 
+inserire una nuova disciplina nella griglia oraria.
+Le diverse regioni linguistiche svizzere e i vari cantoni si 
+sono confrontati con tali quesiti. Adottando la prospettiva 
+dell’approccio interdisciplinare, trasversale alle discipline,  
+la responsabilità di affrontare il tema viene suddivisa tra i 
+docenti ed è imperativo prevedere delle formazioni continue 
+e di base, affinché possano farlo in modo competente e con 
+le dovute risorse. La scelta di affrontare il tema dei media e 
+delle tecnologie in modo specialistico, prevedendo momenti 
+specifici nella griglia oraria, invece, pone il problema della 
+contestualizzazione e del riferimento agli ambiti disciplinari. 
+Le competenze digitali possono essere sviluppate, infatti, 
+solo in relazione a contenuti concreti. Per questo occorre  
+far ricorso alle competenze disciplinari e diventa imperativo 
+collaborare con i docenti delle singole discipline. 
+Di fronte a queste sfide, le scelte cantonali sono differenti  
+e le modalità di implementazione dipendono dalle diverse 
+organizzazioni del sistema scolastico. Si riconosce una 
+tendenza generale all’approccio trasversale, per il Ticino  
+e la Svizzera romanda nei contesti di formazione generale,  
+per cui i diversi docenti sono responsabili di integrare i 
+media e le tecnologie, così come le competenze digitali  
+nelle varie discipline.
+A partire dal 3° ciclo HarmoS, in alcuni cantoni sono intro- 
+dotti corsi specifici dedicati soprattutto alle competenze 
+legate agli strumenti informatici e multimediali. L’ambito 
+«media e tecnologie» viene così articolato tra questi corsi 
+specifici, da un lato, e l’applicazione nonché l’educazione ai 
+media integrate nelle diverse discipline dall’altro.
+In Ticino un gruppo di lavoro coordinato dal Centro di risorse 
+didattiche e digitali (CERDD) sta lavorando all’approfondi-
+mento e all’implementazione del contesto «Tecnologie e 
+media», esplorando diversi aspetti specifici. L’impostazione 
+di base si conferma quella di lavorare in modo trasversale 
+alle discipline, prevedendo momenti e spazi specifici dedi- 
+cati al tema con un approccio interdisciplinare.
+In un’ottica simile, in Svizzera romanda un gruppo di lavoro 
+«PER EdNum» sta lavorando, su mandato della Conferenza 
+intercantonale dell’istruzione pubblica della Svizzera roman- 
+da e del Ticino (CIIP), per ridefinire gli obiettivi delle 
+competenze mediali del PER attuale in modo da integrare le 
+tre dimensioni dell’educazione digitale secondo Dagstuhl: 
+16
+scienza informatica, uso degli strumenti digitali e educazio-
+ne ai media.
+Per integrare gli apprendimenti e lo sviluppo di competenze 
+digitali nelle diverse discipline, alcuni Cantoni hanno elabo- 
+rato proposte di materiali e/o di attività (v. esempi di risorse 
+a p. 22), come pure raccomandazioni in merito agli acquisti 
+degli strumenti.
+Prospettive
+Per l’implementazione dei piani di studio delle varie regioni 
+linguistiche, vi sono ancora molti cantieri aperti. Alcuni  
+sono legati al contesto dei media e delle tecnologie, anche 
+in relazione al carattere in costante evoluzione del tema: 
+strategia d’implementazione, formazione dei docenti, prepa- 
+razione di materiali didattici, integrazione delle tecnologie 
+nella didattica.
+In Ticino il Centro di risorse didattiche e digitali (CERDD)  
+ha la visione d’insieme e garantisce il coordinamento della 
+digitalizzazione nella scuola, in collaborazione con i vari 
+settori scolastici e i loro attori. Al CERDD è stato affidato  
+il compito di approfondire e sviluppare i temi correlati 
+all’integrazione delle TIC nella scuola, considerandoli nelle 
+loro sfaccettature (pedagogiche, tecniche, giuridiche e, in 
+generale, educative). Questo ha portato all’elaborazione  
+di proposte formative per i docenti e di documenti di 
+approfondimento e di riferimento, che vanno consolidati in 
+vista di un loro inserimento strutturale nella realtà scolasti-
+ca.La prossima sfida più importante è legata alla ridefinizio-
+ne della figura di responsabile per l’informatica di sede 
+(RIS), attualmente prevista nella scuola media, che richiede  
+di adattarne il ruolo e i compiti al contesto attuale delle 
+tecnologie digitali, per rispondere alle necessità educative  
+e didattiche (v. cap. precedenti).
+Laboratorio di artigianato digitale
+Nel 2018 il CERDD ha aperto un Laboratorio di artigianato 
+digitale (https://lad.edu.ti.ch) destinato alle scuole del 
+Cantone. In Europa i Fablab stanno crescendo anche negli 
+ambienti scolastici. Il Ticino s’inserisce in questo contesto 
+con un progetto innovativo che permetterà di integrare 
+appieno sia le esigenze della scuola sia gli orientamenti 
+prospettati nel regolamento cantonale del CERDD.
+Dotato di strumenti per la fabbricazione digitale, questo 
+laboratorio rappresenta l’ideale di utilizzo della tecnologia 
+promosso a livello cantonale, dove essa non sostituisce  
+gli strumenti tradizionali ma vi si integra divenendo a sua 
+volta un potente strumento di esplorazione, apprendimento 
+e creatività. Promotore di un «digitale migliore» nonché 
+dell’approccio «learning by doing», il Laboratorio di artigia-
+nato digitale è quindi da intendere come un luogo dove 
+inventare, creare e imparare.
+Questa offerta si inserisce nel processo globale di digitaliz-
+zazione della scuola e vuole contribuire a rispondere alle 
+esigenze di rinnovo e di promozione delle competenze 
+digitali, riportando al centro del processo l’apprendimento 
+attivo, la pedagogia per progetto e l’utilizzo deliberato dei 
+materiali, con modalità innovative e attraverso lo scambio  
+e la condivisione di idee ed esperienze.
+Raccomandazioni e norme cantonali
+•	 Indicazioni per l’introduzione del wi-fi nelle scuole
+•	 Raccomandazioni in merito all’uso dei media sociali da parte dei 
+docenti e per le scuole
+•	 Masterplan per la digitalizzazione delle sedi scolastiche cantonali
+•	 Norme in merito all’utilizzo dei dispositivi a scuola (da integrare nei 
+singoli regolamenti d’istituto della scuola media)
+Accompagnamento e formazione
+•	 Educare all’uso consapevole dei media e delle tecnologie (corsi e 
+incontri di formazione continua)
+•	 Fornire accompagnamento e supporto nella gestione di situazioni 
+problematiche (protocollo e consulenza)
+•	 Integrare le tecnologie nella didattica (supporto a sperimentazioni e 
+formazione continua) 
+Maggiori informazioni
+Le raccomandazioni e norme cantonali per le scuole sono consultabili sul 
+sito del CERDD (www.ti.ch/cerdd), mentre le informazioni sui corsi di 
+formazione continua e sulle esperienze relative all’uso delle TIC nella 
+scuola possono essere ottenute scrivendo a cerdd.richieste@ti.ch.
+•	 Piano di studio ticinese: www.pianodistudio.ch
+•	 Plan d’études romand: www.plandetudes.ch 
+•	 Lehrplan 21: www.lehrplan.ch 
+Le competenze mediali 
+implicano anche la capacità di  
+riflettere criticamente sui  
+contenuti mediali.
+17
+PARTE B: INSEGNAMENTO, OPPOR­
+TUNITÀ, POSSIBILITÀ DI SVILUPPO
+ 
+18
+Uno dei compiti della scuola consiste nell’aiutare i bambini e 
+i giovani a sviluppare consapevolezza nell’utilizzo dei media 
+( ➔ cap. 2). Pur condividendo questa opinione, gli insegnanti 
+e le direzioni degli istituti scolastici si chiedono quando, 
+dove e come impiegare e trattare ragionevolmente i media 
+digitali nell’insegnamento.
+Va inoltre considerata la rapida evoluzione dell’universo 
+mediatico, con cui gli insegnanti devono stare al passo e 
+che rende difficile definire temi concreti a lungo termine. 
+In molti casi gli insegnanti devono fare uno sforzo supple-
+mentare – come succede per tutte le novità – per acquisire 
+nuove conoscenze, nuove competenze e nuovi metodi. 
+Tuttavia, il gioco vale la candela: i media digitali danno un 
+valore aggiunto all’insegnamento e integrandoli adeguata-
+mente la scuola adempie il proprio mandato formativo.
+Come contribuire allo sviluppo delle 
+­competenze mediali senza dover rinunciare 
+ad altri contenuti?
+L’insegnamento con i media digitali apre sempre anche 
+nuove possibilità di parlare, di temi concernenti i media.  
+Per esempio, il grande bagaglio di esperienze che i bambini 
+e i giovani hanno con le varie reti sociali (➔ cap. 1), può 
+costituire la base per nuove forme di dialogo e di coopera-
+zione durante le lezioni. Di seguito un paio di esempi.
+•	Durante la lezione si raccolgono idee per la prossima gita 
+scolastica. Con una lavagna digitale, si pongono al centro 
+le varie proposte, completate con immagini e informazioni 
+supplementari, per poi commentarle e valutarle. Questo 
+offre anche spunti di discussione sull’efficacia dei diversi 
+tipi di comunicazione o sull’approccio reciproco, in rete e 
+in classe. 
+•	Anche nei lavori di ricerca possono sorgere questioni 
+relative ai media: nell’area delle scienze umane, sociali e 
+naturali gli allievi trattano in gruppo vari temi relativi alla 
+protezione del clima (p. es. fonti di energia rinnovabili e 
+fossili, cambiamento climatico o effetto serra) e fanno 
+ricerche online. In questo contesto valutano se i risultati 
+possano corrispondere alla realtà e li confrontano in 
+termini di comprensibilità, affidabilità, attualità, pubblicità 
+occulta e altri messaggi. Sorgono quindi diversi interroga-
+tivi: che motore di ricerca usiamo? Come reagiamo  
+se il motore ci fornisce un numero enorme di risultati? 
+Quali scegliamo? Possiamo copiare e utilizzare le 
+immagini senza farci scrupoli?
+•	I media digitali permettono anche di ampliare le forme 
+tradizionali di documentazione scritta. Integrare la 
+produzione di file audio e video apre un vasto campo  
+di forme creative di rappresentazione. Producendo 
+«filmati pedagogici», ad esempio, gli allievi elaborano  
+le informazioni tratte dai lavori di ricerca summenzionati, 
+tenendo conto del loro pubblico: quanto detto o scritto 
+deve essere ben comprensibile e le immagini devono 
+aiutare in tal senso. Gli allievi realizzano filmati con i pro- 
+pri smartphone e con un paio di accorgimenti li rielabora-
+no mediante un’app video. L’accento è posto sul contenu-
+to, mentre la qualità tecnica e gli effetti speciali sono 
+meno importanti.
+•	Con portfolio elettronici, infine, è possibile documentare  
+i processi di apprendimento in svariati modi, integrando 
+testi, audio, immagini o video. Il lavoro in gruppo senza 
+vincoli spazio-temporali dà vita a nuove forme di 
+comunicazione tra gli adolescenti, con gli insegnanti e/o 
+altre persone di riferimento.
+Inoltre, vi è un’offerta variegata di programmi didattici  
+sotto forma di servizi web o applicazioni che permettono,  
+in particolare, di modulare gli esercizi in modo molto 
+efficace. Non è dunque più necessario passare notti intere  
+a correggere dettati ed esercizi di matematica; il software 
+svolge questi compiti meccanici in maniera anche più pre- 
+cisa. I buoni programmi danno subito un feedback agli  
+utenti e permettono di adattare gli esercizi. Ecco che cosa 
+03_EDUCAZIONE AI MEDIA  
+NELL’INSEGNAMENTO
+ 
+19
+ne pensa un allievo che ha partecipato a un progetto pilota: 
+«Abbiamo usato un programma di apprendimento per geo- 
+metria e algebra che alla fine dava un feedback sui risultati 
+ottenuti e sui progressi fatti. È molto diverso rispetto a 
+quando l’insegnante sta davanti alla classe e spiega qual- 
+cosa. In quel caso è generalmente difficile ottenere un 
+feedback personale».
+Il materiale didattico prevede spesso complementi digitali 
+oppure comprende perlomeno delle parti che ben si adat- 
+tano a essere utilizzate con i media digitali nonché spiega- 
+zioni su come impiegarle nell’insegnamento.
+Alla fine del presente capitolo trovate un elenco di link a 
+risorse digitali per l’insegnamento e l’apprendimento, ossia 
+piattaforme con siti web e applicazioni adeguati per 
+l’insegnamento.
+Quali apparecchi sono adatti ai vari livelli 
+scolastici? 
+Le opinioni in merito alle competenze mediali adeguate da 
+acquisire in base al livello scolastico e sull’età minima per 
+accedere al mondo digitale variano da un approccio molto 
+liberale a uno più tradizionalista. Una cosa è certa: al giorno 
+d’oggi molti bambini entrano in contatto con i media digitali 
+ancor prima d’iniziare la scuola dell’infanzia.
+Per questi bambini lo smartphone o il tablet dei genitori  
+fa parte integrante dell’infanzia tanto quanto il Lego e le 
+bambole. L’importante è che i bambini vengano accompa-
+gnati fin dall’inizio nell’utilizzo di questi dispositivi. In altre 
+parole: le tecnologie e i media digitali sono all’ordine del 
+giorno sin dalla scuola dell’infanzia. A scuola, però, questi 
+dispositivi non sono usati a fini d’intrattenimento, bensì per 
+imparare e creare prodotti mediali propri.
+Grazie al loro schermo tattile dall’uso molto intuitivo,  
+al peso esiguo e alla videocamera integrata, i tablet e i 
+portatili convertibili permettono di accedere facilmente  
+al mondo dei media digitali. Con questi strumenti così  
+facili da usare, i bambini imparano velocemente a lavorare 
+in modo autonomo e a essere creativi.
+La lunga autonomia della batteria, la mobilità e le dimensio-
+ni dello schermo, che permettono di lavorare in piccoli 
+gruppi, fanno dei tablet uno strumento ideale per un 
+insegnamento attivo, incentrato sugli allievi, anche dopo i 
+primi anni di scuola.
+Inoltre, grazie all’obiettivo fotografico e al microfono 
+integrati, i tablet sostituiscono la macchina fotografica 
+digitale, la videocamera e il registratore audio. 
+Alla tastiera conviene passare solo quando i bambini  
+hanno imparato a scrivere. All’inizio si può benissimo  
+usare quella del tablet. Tuttavia, dalla quinta elementare, 
+ma al più tardi all’inizio della scuola media, gli allievi 
+dovrebbero avere la possibilità di fare esperienze con 
+diversi supporti digitali. Per redigere testi più lunghi si 
+dovrebbe lavorare con tastiera e mouse o touchpad.
+La maggior parte dei giovani possiede uno smartphone. 
+L’ideale sarebbe quindi integrarlo di tanto in tanto anche 
+nelle lezioni. Se l’insegnante prevede di far lavorare gli 
+allievi in piccoli gruppi, essi potranno utilizzare gli appa­
+recchi disponibili in classe.
+Un docente descrive così il potenziale dei media digitali:  
+«Il mio atteggiamento di diffidenza nei confronti dell’utilizzo 
+dei cellulari a lezione è cambiato. Mi sono aperto e gli allievi 
+hanno iniziato a usarli come macchina fotografica e regi­- 
+stratore audio per diversi progetti. Adesso ho un atteggia-
+mento diverso nei confronti di alcuni apparecchi che prima 
+non tolleravo per motivi di sicurezza. Oggi dico ai ragazzi: 
+«Usate i cellulari per imparare, non solo per divertirvi». 
+L’importante è far passare il messaggio che se un allievo 
+non ha un cellulare non lo si può obbligare ad acquistarne 
+uno».
+Questo approccio permette inoltre di riflettere insieme  
+sulle esperienze negative e positive che si possono fare  
+20
+con lo smartphone. Affinché questo scambio di opinioni 
+possa funzionare, occorre tenere conto delle conoscenze  
+già acquisite e delle esperienze dei giovani. Tali conoscenze 
+ed esperienze possono offrire numerosi spunti di discus­
+sione ( ➔ cap. 6).
+Quali contesti d’insegnamento e di 
+­apprendimento si prestano particolar­
+mente bene al lavoro con i media  
+e con gli apparecchi digitali?
+Per integrare in modo ottimale i media e gli apparecchi 
+digitali nell’insegnamento occorrono non solo infrastrutture 
+appropriate e docenti competenti, ma anche un adat­tamen­
+to delle modalità d’insegnamento. Si prestano particolar-
+mente bene approcci di lavoro basati su una pianificazione 
+settimanale degli obiettivi e sulla pedagogia per progetti, 
+che permettono agli allievi di lavorare e di elaborare con- 
+te­nuti in modo autonomo. In diversi cantoni si sperimenta 
+­l’utilizzo di apparecchi digitali in classe, nell’ambito di pro- 
+getti pilota. Alcuni esempi sono documentati nel progetto 
+https://www.my-pad.ch/. In Ticino alcune sperimentazioni 
+in tal senso sono promosse e accompagnate dal CERDD, in 
+settori scolastici diversi. Come per altri dispositivi digitali, 
+l’impiego dei tablet nell’insegnamento si giustifica per 
+determinate materie e attività, laddove apporti un reale 
+valore aggiunto (previa copertura wi-fi della scuola). 
+Ecco l’esempio tratto da una seconda elementare: i bambini 
+stanno facendo le prove per uno spettacolo teatrale. Con il 
+tablet riprendono le scene, che poi guardano e discutono in 
+gruppo per decidere quali modifiche apportare. I bambini  
+si rivelano spettatori molto critici: analizzano e valutano 
+ogni mossa e ogni frase nei minimi dettagli. Le proposte  
+di modifica, che risultano comprensibili anche grazie alle 
+riprese, vengono poi comunicate direttamente agli attori.
+L’apprendimento cooperativo
+I dispositivi digitali mobili si prestano particolarmente bene 
+alle fasi di preparazione e di presentazione, il che li rende 
+ideali per l’apprendimento cooperativo, in classe e non.  
+Gli allievi si suddividono il lavoro di ricerca su un argomento 
+assegnato dall’insegnante o scelto da loro.
+Raccolgono informazioni in gruppo e decidono quali sono i 
+risultati importanti. Insieme realizzano un prodotto mediale, 
+come un filmato pedagogico, una nuvola di parole (word 
+cloud) sul tema o una presentazione con diapositive. Infine 
+presentano quanto appreso al resto della classe o lo pub- 
+blicano su Internet. 
+In tal modo acquisiscono competenze sempre più richieste 
+dalla nostra società. Come dice questo allievo: «Alla fine 
+occorre avere qualcosa in mano da presentare agli altri,  
+e questo è stimolante. In questo modo alla fine si è in 
+possesso di maggiori conoscenze, sia sul tema che sugli 
+strumenti digitali».
+Non da ultimo, la necessità di condividere i dispositivi digi- 
+tali favorisce l’apprendimento cooperativo. Questo è parti- 
+Gli smartphone dei  
+giovani possono essere  
+integrati nelle lezioni. 
+21
+colarmente adeguato nella scuola dell’infanzia e nella 
+scuola elementare (circa fino alla quarta), quando l’appren-
+dimento da e con gli altri è fondamentale, in forma sia ­ 
+analogica che digitale. Diverse scuole iniziano dalla 
+quinta elementare a predisporre apparecchi digitali per 
+tutti gli allievi. Invece di svolgere il loro compito seduti 
+insieme davanti allo stesso schermo, gli allievi collabore-
+ranno maggiormente senza vincoli spazio-temporali.
+L’apprendimento autogestito
+Nell’apprendimento autogestito gli allievi devono cercare 
+autonomamente informazioni su un tema assegnato dal- 
+l’insegnante o scelto da loro. In questo modo imparano a 
+fare ricerche, a valutare e a selezionare le informazioni. 
+Un’allieva racconta come questo modo di lavorare cambi  
+il processo di apprendimento: «C’è una grossa differenza  
+tra l’insegnante che presenta le nozioni già belle e pronte 
+su un piatto d’argento e l’insegnante che dice: «Ecco, 
+questo è il tema. Ora, a gruppi, fate una ricerca e presen-
+tate i risultati». Così, a gruppi di quattro, ci mettiamo a 
+cercare le informazioni su Internet, verifichiamo quali  
+sono pertinenti  e poi prepariamo una presentazione. 
+Bisogna darsi da fare. Non si può starsene seduti, passivi, 
+e pensare: «Quello che dice non mi interessa». L’aggettivo 
+«autogestito» si riferisce non solo al tema, ma anche al 
+metodo scelto, cioè digitale o analogico: sono gli allievi  
+a dover scegliere quali siano i mezzi più adeguati per 
+elaborare i contenuti e per presentarli al pubblico in modo 
+appropriato. 
+Come creare un’atmosfera favorevole  
+all’apprendimento?
+La versatilità che caratterizza i dispositivi digitali li rende 
+dei sussidi didattici particolarmente interessanti. Il rovescio 
+della medaglia è che distraggono facilmente i bambini e i 
+giovani dal lavoro scolastico. Per evitare che ciò accada è 
+necessario assegnare loro compiti avvincenti e differenziati. 
+Se gli allievi possono lavorare autonomamente in un 
+contesto di apprendimento che tenga conto delle loro 
+esigenze e del loro livello cognitivo, e se usano regolarmen-
+te i dispositivi digitali, l’impiego di questi ultimi a scuola 
+diventa del tutto naturale. Inoltre, così come in altri settori, 
+occorrono regole chiare su quali utilizzi dei media e degli 
+apparecchi digitali siano autorizzati nella quotidianità 
+scolastica ( ➔ cap. 6).
+Per l’insegnante ciò comporta tra l’altro una maggiore 
+differenziazione: gli allievi devono poter risolvere compiti 
+adeguati alle loro competenze, capacità e conoscenze 
+nonché al loro livello cognitivo. Questo può essere garantito 
+con i contesti d’insegnamento e di apprendimento già 
+menzionati nonché con strumenti adeguati che permettono 
+di lavorare liberamente e con una certa varietà.
+Così, inoltre, l’insegnante si crea il margine per accompa-
+gnare gli allievi e sostenerli individualmente. Un’insegnante 
+di prima media racconta una sua esperienza a lezione: «Per 
+una lezione di educazione visiva ho proposto un laboratorio 
+di origami. Ho cercato su YouTube istruzioni su come piegare 
+la carta per realizzare degli uccelli e le ho messe in ordine di 
+difficoltà. A gruppi di due, gli allievi hanno dapprima creato 
+uccelli più facili, sfruttando la possibilità di interrompere il 
+video e rivedere le sequenze più complesse. I gruppi hanno 
+lavorato a ritmi diversi. Per i bambini che avevano più 
+difficoltà ho potuto prendere più tempo, mentre a quelli più 
+rapidi ho potuto indicare ulteriori video d’istruzioni».
+In che misura limitare l’utilizzo degli 
+­apparecchi elettronici e dei media digitali? 
+Molte scuole vietano completamente l’uso degli smartphone 
+a lezione e spesso anche l’impiego dei computer è ammesso 
+solo a condizioni molto severe. Tuttavia, quando gli allievi 
+hanno la possibilità di scegliere i mezzi da utilizzare, a volte 
+trovano soluzioni che neanche gli insegnanti avevano imma- 
+ginato. Un’insegnante di terza media ha vissuto una situazio-
+ne del genere: «Inizialmente ero indignata quando gli allievi,  
+ai quali avevo dato il compito di tradurre una canzone in 
+22
+inglese, si sono messi a cercare le traduzioni già fatte su 
+Internet. Mi sono però resa conto che si tratta di cambiamen-
+ti che devo accettare e che mi costringono ad adeguare 
+alcune delle consegne che do agli allievi. In fondo è positivo 
+che prendano l’iniziativa di cercare un aiuto».
+Questa docente considera l’impiego dei media come un’op- 
+portunità e ha riconosciuto che occorre adeguare il metodo 
+d’insegnamento (  ➔ cap. 4). Una cosa è certa: introducendo 
+gli apparecchi elettronici e i media digitali nella quotidianità 
+scolastica, si avvicina un po’ la scuola al mondo dei bambini 
+e dei giovani. Di conseguenza, in questo contesto un atteg- 
+giamento troppo restrittivo da parte della direzione degli 
+istituti scolastici e degli insegnanti potrebbe rivelarsi con- 
+troproducente. Se la scuola vuole educare gli allievi a un  
+uso consapevole dei media e delle tecnologie, gli allievi 
+devono avere la possibilità di utilizzare i media digitali; 
+soltanto in questo modo potranno infatti fare esperienze 
+che li rend­eranno più forti. 
+Gli allievi hanno bisogno di una palestra in cui poter sperimen-
+tare e sbagliare. Anche le esperienze negative possono es- 
+sere utili, perché rendono i giovani più competenti nell’uso  
+dei media digitali ( ➔ cap. 6). Considerati gli aspetti giuridici, 
+tecnici e pedagogico-didattici, in coerenza con le riflessioni 
+presentate in merito all’apporto dei media digitali nella 
+scuola, nel Cantone Ticino, il Dipartimento dell’educazione, 
+della cultura e dello sport (DECS) ha adeguato il quadro 
+normativo. Per le scuole medie cantonali sono state definite 
+delle norme di utilizzo dei dispositivi di comunicazione 
+personali a scuola, da integrare nei rispettivi regolamenti. 
+https://www4.ti.ch/fileadmin/DECS/DS/documenti/
+CERDD_Norme_dispositivi_mobili_nelle_scuole_medie.pdf
+Supporti per l’insegnamento
+Materiale didattico per l’educazione ai media
+•	 Zurigo: «Medienkompass»
+•	 San Gallo: «inform@»
+•	 «Connected», disponibile in francese (Éditions Loisirs et Pédagogie)  
+o in tedesco (Lehr­mittelverlag Zürich)
+•	 Moduli didattici del programma di prevenzione per il tema dei media 
+digitali: https://be-freelance.net/it/
+•	 netla.ch: campagna nazionale di prevenzione per la protezione dei dati 
+personali su Internet con attività per bambini e informazioni per 
+genitori e insegnanti
+•	 Materiale didattico sulla protezione dei dati dell'IFPDT:  
+www.edoeb.admin.ch/lezioni
+•	 Raccolta di materiale didattico diviso per temi: 
+https://www.giovaniemedia.ch/competenze-mediali/leducazio-
+ne-ai-media-una-sfida-per-la-scuola
+•	 Klett Verlag: collana editoriale «webcoach» con fascicoli su temi come 
+ricerche su Internet, ciberbullismo, reti sociali ecc.
+•	 Svizzera tedesca: www.mia4u.ch
+Piattaforme con risorse didattiche e di apprendimento 
+elettroniche
+•	 Sito didattico della scuola ticinese: https://scuolalab.edu.ti.ch 
+•	 Progetto my-pad.ch con raccomandazioni sulle app:  
+http://www.my-pad.ch 
+•	 Applicazioni e strumenti digitali per la classe (imedias):  
+https://imedias-appadvisor.ch/
+•	 Banca dati di educa: https://biblio.educa.ch/
+•	 Sito Internet per l'educazione ai media della CIIP 
+ (Svizzera romanda e Ticino): www.e-media.ch
+•	 Carte online della Svizzera: http://map.geo.admin.ch
+Centro di risorse didattiche e digitali
+•	 www.ti.ch/cerdd
+23
+I media digitali e gli apparecchi elettronici stanno cambian-
+do sempre più la realtà scolastica, offrendo possibilità 
+d’insegnamento ancora impensabili fino a pochi anni fa.  
+Per questo motivo gli insegnanti hanno bisogno di sostegno 
+e di accompagnamento per integrare i nuovi strumenti in 
+modo che apportino un valore aggiunto al loro lavoro.
+Devono inoltre tener presente, nella loro attività, che gli 
+allievi appartengono a un’altra generazione e che l’utilizzo 
+che fanno dei media digitali e degli apparecchi elettronici 
+diverge da quello degli adulti. Per integrare le tecnologie 
+digitali nell’insegnamento, compito che a prima vista  
+può sembrare arduo, gli insegnanti possono sfruttare le 
+competenze e abilità dei bambini e dei giovani, tenendone 
+conto nelle lezioni.
+In altre parole: è necessario che la scuola adegui il proprio 
+approccio didattico. 
+Che cosa cambia per gli insegnanti?
+Rispondendo a questa domanda, un docente sintetizza la 
+questione centrale di questi cambiamenti: «Ritengo che ci 
+sia stata una democratizzazione del sapere. In alcuni ambiti 
+ci sono allievi che ne sanno più di me. Se so che uno dei 
+miei allievi è particolarmente ferrato in una determinata 
+tecnologia che io non ho intenzione di approfondire, lascio 
+che sia lui a mostrarla agli altri e io mi occupo solo di 
+moderare la lezione.» 
+Il ruolo e i compiti degli insegnanti sono in evoluzione e  
+non si limitano più alla trasmissione delle conoscenze, ma 
+comprendono anche e soprattutto la gestione del processo 
+di apprendimento. L’insegnante diventa il coach responsabi-
+le d’impostare il setting didattico, di favorire l’apprendimen-
+to degli allievi e di accompagnarli nella vita scolastica di 
+tutti i giorni.
+Questo tipo di approccio pedagogico-didattico non implica 
+necessariamente il ricorso ai media digitali, ma dato che 
+l’impiego di questi ultimi favorisce la ridefinizione dei 
+compiti di apprendimento, questa forma di accompagna-
+mento pedagogico si presta particolarmente per l’insegna-
+mento con e sui media.
+Il compito degli insegnanti-coach non è solo quello di 
+aiutare gli allievi ad acquisire nuove conoscenze (in modo 
+autonomo o con il loro aiuto); devono anche interrogarsi 
+costantemente sul loro operato. Tra le modalità didattiche 
+efficaci figurano l’apprendimento cooperativo e autogestito 
+nonché l’impostazione differenziata di uno stesso compito 
+( ➔ cap. 3).
+Questo nuovo atteggiamento di fondo richiede coraggio da 
+parte dei docenti, che devono essere disposti a modificare  
+il modo in cui concepiscono il proprio ruolo e a coinvolgere 
+nelle lezioni gli adolescenti in qualità di esperti.
+Quali requisiti devono soddisfare gli 
+­insegnanti?
+Per essere in grado di trasmettere agli allievi le competenze 
+necessarie per l’utilizzo dei media digitali, i docenti devono 
+disporre di:
+•	informazioni sul contesto mediatico in cui si muovono gli 
+allievi ( ➔ cap. 1);
+•	conoscenze dei contenuti del tema di formazione generale 
+«Tecnologie e media» presente nel Piano di studio della 
+scuola dell’obbligo ticinese ( ➔ cap. 3);
+•	competenze pedagogiche, metodologiche e didattiche, 
+competenze in ambito di educazione all’uso consapevole 
+dei media ( ➔ cap. 3);
+•	disponibilità a combinare le competenze nei diversi settori 
+e ad adeguarsi costantemente ai cambiamenti del 
+contesto mediatico;
+•	conoscenze sull’uso adeguato dei media ( ➔ cap. 7). 
+È compito delle scuole e delle direzioni degli istituti 
+scolastici garantire che gli insegnanti abbiano le competen-
+ze necessarie e predisporre le risorse del caso ( ➔ cap. 5). 
+04_POTENZIALE DEI MEDIA ­ 
+DIGITALI PER LO SVILUPPO DEL­
+L’INSEGNAMENTO
+ 
+24
+È ancora possibile fare lezione senza  
+i media digitali? 
+I media digitali offrono molte opportunità, ma sarebbe sba­- 
+gliato sopravvalutarne i benefici. Possono essere usati a lezi­- 
+one semplicemente come strumenti, ma in setting didattici 
+sensati e favorevoli all’apprendimento è emerso che i media 
+rendono possibile un’impostazione completamente nuova dei 
+compiti.
+L’insegnante rimane tuttavia fondamentale: secondo recenti 
+studi sull’efficacia dell’insegnamento, il fatto che una lezione 
+risulti arricchente per gli allievi dipende sempre e comunque 
+dall’insegnante e nessun apparecchio o media, per quanto 
+sofisticato, potrà mai sostituirlo.
+Maggiori informazioni
+•	 Offerte cantonali di perfezionamento professionale: alte scuole 
+pedagogiche cantonali 
+Letteratura di approfondimento
+•	 Averame, Maria C. (2018), Riconoscere le fake news in classe.  
+Percorsi per una comunicazione consapevole in rete. Milano: Pearson.
+•	 Bonaiuti, Giovanni; Calvani, Antonio; Menichetti, Laura; Vivanet, 
+­Giuliano (2017), Le tecnologie educative, Carocci editore.
+•	 Döbeli Honegger, Beat (2017), Mehr als 0 und 1. Schule in einer 
+digitalisierten Welt, Berna: hep.
+•	 Ottolini, Gianmaria; Rivoltella, Pier Cesare (a c. di) (2014), Il tunnel e il 
+kayak – Teoria e metodo della Peer & Media Education, Franco Angeli
+•	 Parola, Alberto; Rosa, Alessia; Giannatelli, Roberto (2013), Media, 
+linguaggi, creatività. Un curricolo di media education per la scuola 
+secondaria di primo grado, Erickson ed. 
+•	 Wampfler, Philippe (2013), Facebook, Blogs und Wikis in der Schule.  
+Ein Social-Media-Leitfaden, Göttingen: Vandenhoeck & Ruprecht. 
+•	 Wampfler, Philippe (2014), Generation «Social Media». Wie digitale 
+Kommunikation Leben, Beziehungen und Lernen Jugendlicher 
+verändert, Göttingen: Vandenhoeck & Ruprecht.
+25
+La scuola, come istituzione, reagisce sempre con un certo 
+ritardo agli sviluppi tecnologici, il che non è male. La scuola 
+pone l’accento sulla persona e quindi la tecnologia viene 
+sempre giudicata nel contesto pedagogico, non dando 
+priorità né a fattori dell’economia di mercato quali l’incre-
+mento della produttività né alla necessità dell’innovazione 
+tecnica per un vantaggio concorrenziale. Nell’ambito della 
+digitalizzazione, tuttavia, le scuole sono confrontate con un 
+fenomeno sociale che incide ampiamente anche sull’organiz-
+zazione pedagogica.
+•	La disponibilità costante degli apparecchi digitali e 
+l’accesso illimitato a Internet come cambiano il comporta-
+mento e i ruoli dei bambini e dei giovani, degli insegnanti 
+e dei genitori?
+•	Come si può garantire la sicurezza dei dati scolastici a 
+fronte dell’utilizzo sempre più frequente di dispositivi nel 
+contesto scolastico?
+•	Quali soluzioni tecniche deve predisporre la scuola per 
+soddisfare la sempre maggiore «fame di banda larga» dei 
+servizi e delle applicazioni online?
+•	Come si può coordinare le piattaforme di comunicazione, 
+cooperazione e scambio per uso scolastico con quelle 
+amministrative?
+Queste sono solo alcune delle domande evocate dalle  
+parole chiave «digitalizzazione» e «trasformazione digitale». 
+Le mode tecnologiche cambiano a una velocità tale da non 
+lasciare nemmeno tracce a scuola. Ciò che però s’impone a 
+lungo termine come evoluzione tecnologica (la digitalizzazio-
+ne) e acquisisce quindi rilevanza sociale (la trasformazione 
+digitale) si ripercuote in ultima analisi anche sulla scuola 
+dell’obbligo, diventando un tema significativo per lo sviluppo 
+della scuola.
+Come affrontare la digitalizzazione?
+Il concetto di digitalizzazione comprende una tendenza 
+mondiale alla trasformazione digitale e all’onnipresenza 
+delle tecnologie e dei media digitali in tutti gli ambiti  
+della nostra vita (economia, Stato, società, individuo).  
+Come devono reagire le direzioni degli istituti scolastici  
+e gli insegnanti a questa tendenza?
+La scuola dovrebbe considerare positivamente il suo lento 
+tempo di reazione agli sviluppi tecnologici e sfruttarlo come 
+un vantaggio strategico. Invece di investire nelle mode 
+tecnologiche del momento, conviene osservare a lungo 
+termine gli sviluppi del settore e le conseguenze che ne 
+derivano a livello sociale, prima di decidere gli investimenti 
+che conviene effettuare in termini di personale, pedagogia  
+e finanze. Una strategia piuttosto «difensiva» in materia di 
+tecnologie segue un approccio sostenibile a lungo termine  
+e permette di affrontare il tema della digitalizzazione nella 
+prospettiva della scuola.
+La sfida consiste nel riconoscere la digitalizzazione come un 
+processo irreversibile e affrontare il tema della trasforma-
+zione digitale e delle sue implicazioni nella realtà pedagogi-
+ca di tutti i giorni. Ciò permette di stimare il potenziale, le 
+opportunità e i rischi della digitalizzazione e della trasforma-
+zione digitale nel contesto scolastico e procedere ai 
+cambiamenti necessari. A tal fine occorre sempre tenere 
+presente il seguente principio fondamentale: la pedagogia è 
+e resta l’attività principale della scuola. Va quindi assoluta-
+mente evitato che la strategia in materia di digitalizzazione 
+della scuola assorba troppe risorse finanziarie e di personale 
+per i processi amministrativi e l’infrastruttura, lasciando 
+così mezzi insufficienti per l’insegnamento e gli sviluppi 
+pedagogici.
+05_POTENZIALE DEI MEDIA DIGITALI 
+PER LO SVILUPPO DELLA SCUOLA
+ 
+26
+Come affrontare con successo le sfide della 
+digitalizzazione?
+Coinvolgere persone responsabili per la 
+­digitalizzazione e la trasformazione digitale
+Nell’ottica di uno sviluppo partecipativo della scuola, con- 
+viene attribuire anche alle direzioni degli istituti scolastici  
+e agli insegnanti una responsabilità in materia di temi. Ciò 
+può essere adeguatamente realizzato mediante funzioni 
+specializzate già consolidate come quelle degli addetti 
+interni al supporto pedagogico TIC o degli addetti al sup- 
+porto tecnico TIC. In qualità di esperti del tema, i colleghi 
+specializzati sviluppano piani concettuali, strumenti e solu- 
+zioni per aiutare la scuola a impostare in modo ottimale il 
+suo futuro digitale.
+A livello pedagogico, sostengono i colleghi nell’elaborazione 
+e nell’attuazione didattiche dei contesti di apprendimento 
+basati sui media, nonché nell’analisi di temi di pedagogia 
+mediale, e hanno la visione d’insieme sulle applicazioni 
+online da impiegare per le lezioni. Inoltre, conoscono l’im- 
+portanza del tema della digitalizzazione e della trasforma-
+zione digitale per la quotidianità di insegnanti, allievi, 
+genitori e autorità.
+A livello organizzativo, sono responsabili per l’integrazione 
+della trasformazione digitale nella cultura scolastica vissuta. 
+Le piattaforme digitali di lavoro, cooperazione e comunica-
+zione permettono agli insegnanti di sfruttare nuove forme di 
+comunicazione e scambio di conoscenze. Soluzioni efficienti 
+per l’amministrazione creano le basi per processi perfezio-
+nati e trasparenti, ad esempio circa la valutazione degli 
+allievi, le prescrizioni cantonali sulle prestazioni da fornire  
+e il rispetto dei requisiti in materia di protezione dei dati.
+Approntare l’infrastruttura e assicurare la larghezza 
+di banda
+Un’infrastruttura affidabile è un presupposto indispensabi-
+le per la riuscita del processo di trasformazione digitale. 
+Affinché l’attività nelle scuole proceda senza intoppi, 
+occorre garantire un supporto tecnico costante, da parte 
+di insegnanti specializzati o di tecnici di prossimità. Per il 
+Cantone Ticino il CERDD costituisce il centro di competen-
+za e di riferimento per la parte tecnica, come pure per 
+quella pedagogica e didattica. Un masterplan cantonale  
+ha permesso di coordinare e standardizzare la dotazione 
+tecnica delle scuole cantonali.
+A fronte della digitalizzazione, si può presumere che  
+in futuro aumenteranno le applicazioni e i servizi che 
+funzionano tramite Internet. Una connessione Internet 
+efficiente con una banda sufficientemente larga, una  
+rete locale stabile, una WLAN professionale e un piano  
+di sicurezza informatica al passo coi tempi sono irrinuncia-
+bili per le scuole. Le direzioni degli istituti scolastici devo- 
+no sensibilizzare in particolare le autorità finanziarie su 
+questo tema e sui conseguenti costi per la professionaliz-
+zazione. La guida TIC del Cantone di Zurigo costituisce  
+un aiuto per lo sviluppo di un piano concettuale globale 
+per l’impiego dei media digitali nelle scuole.
+Trattare il tema della digitalizzazione e della 
+­trasformazione digitale
+A prescindere da quanto una scuola intenda integrare i 
+media nelle sue attività, ciò che conta veramente è affron- 
+tare il tema della digitalizzazione e della trasformazione 
+digitale e adottare consapevolmente una linea pedagogica 
+in materia.
+In questo processo, all’interno del collegio dei docenti ci 
+potranno essere accesi confronti di opinioni, poiché le 
+conseguenze della digitalizzazione e della trasformazione 
+digitale riguardano tutti gli attori coinvolti in un contesto 
+scolastico, ovvero direttori degli istituti scolastici, insegnan-
+ti, allievi, genitori, personale amministrativo e autorità.
+Cercare il massimo comune denominatore tra questi gruppi 
+così eterogenei è un processo intenso e al contempo un’op- 
+portunità per lo sviluppo della scuola. È proprio questo che 
+significa «trasformazione digitale»: non si tratta di un 
+Ogni scuola deve adottare 
+consapevolmente una linea 
+didattica e pedagogica per 
+il tema dei media. 
+27
+progetto con un inizio e una fine, bensì di uno sviluppo in 
+itinere. La questione della digitalizzazione mette in primo 
+piano anche aspetti tecnici relativi all’infrastruttura infor- 
+matica. Questa discussione deve però essere sempre paral- 
+lela a quella degli aspetti pedagogici e non va considerata  
+in modo isolato.
+Questo processo di sviluppo della scuola può sfociare ad 
+esempio in una strategia di digitalizzazione dell’istituto,  
+in una road map per la trasformazione digitale o in linee 
+direttive interne sui media, nelle quali definire l’atteggia-
+mento di base di tutti gli attori e il ruolo che i media digitali 
+dovranno rivestire a scuola. Su questa base sarà poi pos­- 
+sibile definire i campi di azione concreti e creare le condizio-
+ni quadro necessarie. Per poter dare il via a questo processo 
+è indispensabile un impegno esplicito della direzione a defi- 
+nire la digitalizzazione e la trasformazione digitale come 
+tema per lo sviluppo della scuola.
+Quali benefici può apportare tale processo?
+Una strategia scolastica in materia di digitalizzazione aiuta a 
+impostare in modo più efficiente i processi amministrativi e 
+organizzativi, contribuendo così all’ottimizzazione delle risorse 
+di personale.
+Tuttavia, quale tema per lo sviluppo della scuola è di gran 
+lunga più importante il processo di trasformazione digitale 
+risultante dalla digitalizzazione. Con una strategia scolastica 
+in materia, si può instaurare una nuova cultura didattica di 
+cooperazione, comunicazione e trasferimento delle conoscen-
+ze, e questo tra tutti gli attori coinvolti, ovvero tra gli 
+insegnanti e tra gli allievi, nonché tra insegnanti e allievi.
+Maggiori informazioni 
+Centro di risorse didattiche e digitali 
+Viale Stefano Franscini 32, 6500 Bellinzona, www.ti.ch/cerdd
+•	 https://scuolalab.edu.ti.ch
+•	 https://moodle.edu.ti.ch
+•	 Guida TIC del Cantone di Zurigo: www.ict-guide.zh.ch
+PARTE C: PREVENIRE, REAGIRE COR­
+RETTAMENTE, PROTEGGERE I DATI
+ 
+29
+Quali sono i pericoli del mondo digitale? 
+Gli adolescenti usano le reti sociali, i servizi di messaggisti-
+ca istantanea e le chat per comunicare con i coetanei,  
+per curare i contatti con i familiari che abitano lontano,  
+per flirtare o per rappresentarsi.
+Tutte queste attività, importanti anche nella vita offline, 
+fanno parte del processo di crescita e favoriscono lo 
+sviluppo della propria identità.
+Tuttavia, non tutti i bambini e i giovani sono consapevoli  
+dei rischi insiti nei media digitali. 
+Gli insegnanti, le direzioni degli istituti scolastici, gli altri 
+professionisti del settore e i genitori hanno a che fare tutti i 
+giorni con bambini e giovani che, pur avendo acquisito 
+spesso alcune competenze nell’uso dei media e avendo 
+molta voglia di sperimentare, non riflettono sul proprio 
+comportamento mediale. Spetta quindi agli adulti protegge-
+re nel migliore dei modi i bambini e i giovani dai pericoli  
+a cui si espongono. Molti adulti, però, non sanno bene quali 
+regole siano ragionevoli, quali siano i limiti e da quali  
+rischi occorra proteggere i più giovani.
+Contenuti violenti
+Su Internet i bambini e i giovani hanno più facilmente 
+accesso a contenuti non adatti a loro di quanto accada  
+nel mondo analogico. Si pensi, per esempio, alle immagini 
+violente accessibili tramite servizi di messaggistica  
+istantanea, nei film e nei videogiochi. Succede pure che 
+siano i giovani stessi a creare contenuti mediali violenti  
+e a pubblicarli poi su piattaforme di condivisione video.  
+A differenza di quanto avviene con i contenuti a carattere 
+sessuale, i contenuti violenti sono prevalentemente tollerati 
+sui portali video online e risultano quindi più facilmente 
+accessibili ai bambini e ai giovani. 
+06_PROTEZIONE DAI RISCHI
+ 
+Contenuti indesiderati a carattere sessuale  
+o pornografico
+Con Internet, anche i bambini e i giovani possono accedere 
+con relativa facilità a contenuti pornografici. Alcuni di loro 
+consultano di proposito questi contenuti per curiosità, altri 
+invece incappano involontariamente in immagini e filmati 
+dal contenuto sessuale o pornografico, per esempio tramite 
+finestre pop-up su Internet. 
+Ciberbullismo e sexting
+Con i media digitali trasferire testi, immagini e filmati è 
+diventato un gioco da ragazzi. Che lo si voglia o meno, i 
+contenuti possono venir diffusi molto rapidamente. Nel  
+caso del ciberbullismo ciò significa che in pochissimo tempo 
+le vittime possono venir coperte di ridicolo di fronte a una 
+comunità molto ampia e che i contenuti possono riapparire 
+ripetutamente in qualsiasi luogo. Ciò vale anche per le 
+immagini o i filmati erotici (sexting) inizialmente inviati, per 
+esempio, come prova d’amore e poi inoltrati abusivamente.
+In questi casi, abusare della fiducia della persona che ha 
+inviato il materiale fotografico o video può avere conse-
+guenze gravi per quest’ultima.  
+Molestie e abusi a sfondo sessuale, cybergrooming, 
+pedocriminalità
+Ciò che rende le chat così popolari è la possibilità di chiac- 
+chierare online in tempo reale.
+Purtroppo, le chat anonime e i forum sono spesso teatro  
+di molestie sessuali. Circa la metà degli autori di queste 
+molestie ha meno di 18 anni.
+Si parla di adescamento (cybergrooming) quando delle 
+persone con interessi pedosessuali approcciano in modo 
+mirato dei minorenni e instaurano un rapporto di fiducia  
+con loro a scopi sessuali sfruttando non solo chat e forum, 
+ma anche app di incontri, giochi online e reti sociali.
+30
+Discorsi d’odio, discriminazione, contenuti 
+­problematici e informazioni distorte
+Il relativo anonimato di Internet permette di offendere e 
+discriminare persone sulla base di fattori quali il colore  
+della pelle, l’appartenenza etnica, il sesso, l’orientamento 
+sessuale o la religione (discordi d’odio, o hate speech, 
+istigazione all’odio). I giovani possono essere interessati  
+da questo fenomeno non solo in quanto vittime, ma anche 
+come autori. Spesso, inoltre, online circolano informazioni 
+su temi che incuriosiscono (droghe, disturbi alimentari ecc.), 
+ma che i bambini e i giovani faticano a contestualizzare  
+e valutare. Alcuni siti d’informazione e comunità online 
+possono addirittura aggravare i problemi dei giovani, 
+mettendo gli utenti in posizioni molto polarizzate. Inoltre,  
+gli utenti possono istigarsi a vicenda ad assumere compor-
+tamenti autolesionistici o criminali.
+Rischi per la protezione dei dati e della personalità
+Molti bambini e giovani non si rendono conto di quanto le 
+regole della comunicazione digitale siano diverse da quelle 
+di una conversazione privata.
+I messaggi istantanei online e le videochiamate possono 
+indurre alcuni di loro a rivelare informazioni private a un 
+pubblico vasto, senza volerlo. Inoltre molte app e applicazio-
+ni web raccolgono i dati dei loro utenti a fini commerciali, 
+utilizzandoli ad esempio per pubblicità mirate o per vendere 
+a terzi profili identitari.
+VIOLENZA
+PORNOGRAFIA
+PEDOCRIMINALITÀ
+DISCRIMINAZIONE
+DISCORSI D’ODIO
+CONTENUTI PROBLEMATICI
+UTILIZZO ECCESSIVO
+INFORMAZIONI DISTORTE
+CIBERBULLISMO
+VIOLAZIONE DELLA SFERA PRIVATA
+PROTEZIONE DEI DATI
+PUBBLICITÀ OCCULTA
+ABBONAMENTI OCCULTI
+PRESSIONE DEL GRUPPO
+SPAM
+PUBBLICITÀ
+MICROPAGAMENTI
+ABBONAMENTI INDESIDERATI
+Rischi per i bambini e i giovani quando usano i media digitali
+31
+Utilizzo eccessivo dei media
+La grande importanza di Internet per l’intrattenimento e la 
+disponibilità di apparecchi digitali inducono alcuni bambini e 
+giovani a rimanere online per ore. Tuttavia il tempo 
+trascorso davanti allo schermo non è di per sé un indizio 
+sufficiente per poter considerare problematico il comporta-
+mento degli utenti. Se in Svizzera la maggioranza dei 
+bambini e dei giovani usa i media in misura adeguata, per 
+alcuni l’utilizzo e i contenuti dei media, affiancati alle 
+innumerevoli occupazioni del tempo libero, non lasciano 
+spazio a un tempo non strutturato in cui poter riposare 
+mentalmente e dare libero sfogo alla propria creatività.
+Trappole dei costi
+Anche se il costo di ogni singola app, della navigazione 
+mobile, di Spotify, di Netflix o di giochi online non è 
+eccessivo, sommando tutto possono risultare costi elevati. 
+Un altro rischio è rappresentato dagli acquisti in-app o 
+in-game (micropagamenti): molti videogiochi sono inizial-
+mente gratis (free to play), ma prima o poi per vincere si 
+devono ad esempio comprare appositi oggetti o monete 
+virtuali (pay to win).
+Come proteggere i bambini e i giovani  
+dai rischi?
+Esistono approcci tecnici, normativi ed educativi per 
+proteggere i bambini e i giovani dai rischi ai quali si 
+espongono quando usano i media. Per proteggerli in 
+maniera efficace occorre combinare i vari approcci.
+Misure tecniche per la scuola
+•	
+I filtri dei contenuti: sono un tentativo per diminuire 
+la probabilità che i minori incappino in contenuti non 
+adatti a loro su Internet. I filtri, però, presentano dei 
+limiti: in primo luogo, perché i bambini possono comun- 
+que inviarsi tra loro contenuti problematici; in secondo 
+luogo, vi è il rischio che gli insegnanti si credano  
+al sicuro e a volte dimentichino che discutere dei 
+contenuti problematici contribuisce a rafforzare  
+le competenze mediali degli allievi. Se i contenuti 
+vengono filtrati, si è tenuti a informarne i diretti 
+interessati. Inoltre, l’analisi delle liste log provenienti 
+da tali filtri è problematica dal punto di vista della 
+protezione dei dati; per questo motivo, prima di 
+un’eventuale valutazione dei dati, occorre tenere 
+conto degli aspetti giuridici.
+•	
+Proteggere i dati: l’uso di firewall, antivirus, 
+password sicure, comunicazioni criptate e l’eliminazio-
+ne regolare dei cookie dei browser sono misure 
+importanti per proteggere i dati personali ( ➔ cap. 8).
+Definire regole e porre limiti
+Affinché l’utilizzo di computer e telefoni cellulari non diventi 
+eccessivo, sono necessarie regole chiare sia a casa che a 
+scuola, che stabiliscano, per esempio, come e quando i 
+dispositivi digitali possono essere usati a lezione. Queste 
+regole possono essere definite nel regolamento interno 
+della sede scolastica, in quello della classe o nell’ambito  
+di un’apposita convenzione per l’uso. In Ticino, il DECS ha 
+elaborato delle norme di utilizzo dei dispositivi di comunica-
+zione personale a scuola che fungono da riferimento per i 
+regolamenti interni delle sedi di scuola media. 
+Coinvolgere gli allievi nella definizione delle misure 
+tecniche e normative
+Gli aiuti tecnici e le regole sull’utilizzo dei media sono 
+importanti, ma non contribuiscono in modo significativo  
+a un uso più competente dei media. Il discorso cambia se 
+gli allievi vengono coinvolti nella definizione delle condizio-
+ni d’uso. Se hanno voce in capitolo durante l’elaborazione 
+degli accordi per l’utilizzo dei media e delle regole in 
+classe, vengono affrontati anche i temi di rilievo per la loro 
+classe. Inoltre, per chiunque è più facile attenersi alle 
+regole che ha contribuito a elaborare e che, all’occorrenza, 
+ha potuto modificare e la responsabilità personale 
+aumenta.
+32
+Rafforzare le competenze mediali
+Gli specialisti sono concordi nell’affermare che rafforzare  
+le competenze mediali è la misura preventiva più importante 
+per proteggere i bambini e i giovani dai rischi del mondo 
+digitale.
+I bambini e i giovani che hanno potuto fare esperienze 
+costruttive (e formative) nell’uso dei media dispongono 
+infatti di maggiori competenze mediali e consapevolezza; 
+sono così meglio equipaggiati per proteggersi da soli e sono 
+meno esposti al rischio di esperienze negative. Per questo 
+motivo i piani didattici attuali prevedono anche l’educazione 
+ai media.
+Un’educazione all’uso consapevole dei media e delle 
+tecnologie presuppone una cultura della comunicazione 
+aperta, un buon clima all’interno della classe e un buon 
+contatto tra insegnante e allievi. Gli insegnanti devono 
+assumere il loro ruolo di modello anche per quanto riguarda 
+l’utilizzo dei media digitali.
+Questi fattori, uniti a buone competenze di vita, offrono la 
+migliore protezione contro eventuali episodi negativi, sia 
+che ci siano di mezzo i media o meno ( ➔ cap. 7). L’opuscolo 
+«Competenze mediali − Consigli per un utilizzo sicuro dei 
+media digitali» rappresenta una buona base per affrontare 
+questo tema (v. letteratura di approfondimento).
+Come rafforzare concretamente le 
+­competenze mediali a scuola?
+Riflettere sulle proprie abitudini di utilizzo
+«A quali videogame giocate?», «Quanto pagate ogni mese 
+per l’abbonamento del vostro cellulare?», «Quali regole 
+vigono a casa vostra circa il tempo trascorso davanti allo 
+schermo?», «Per quale motivo esistono indicazioni dell’età 
+minima per i film o i videogiochi? Le rispettate?». 
+Quando si affronta il tema dei media, è importante che gli 
+allievi abbiano la possibilità di condividere le loro esperienze 
+e le loro opinioni. Questo approccio è non solo apprezzato, 
+ma anche sensato dal punto di vista pedagogico. A dipenden-
+za dell’età degli allievi e delle conoscenze dell’insegnante,  
+si possono immaginare diverse possibilità, come per 
+esempio tenere un diario sull’uso dei media, lavorare sui 
+dati statistici o realizzare un’indagine su un aspetto legato 
+ai media e discuterne in classe, dibattere temi controversi.
+In questo modo gli allievi possono rendersi conto che anche 
+a casa di altri compagni ci sono regole riguardo all’uso dei 
+media e dei dispositivi e che anche lì si litiga per il tempo 
+trascorso davanti allo schermo o per il fatto di dover usare 
+la paghetta per ricaricare la scheda prepagata.
+Questo confronto tra prospettive diverse è estremamente 
+importante per un’educazione all’uso consapevole dei media 
+digitali. Nella fase di riflessione l’insegnante funge da 
+moderatore, astenendosi soprattutto all’inizio dall’influenza-
+re i contenuti della discussione.
+Le osservazioni moraleggianti e i segnali non verbali, come 
+corrugare la fronte, impediscono un dialogo aperto tra gli 
+allievi. Per animare la discussione l’insegnante dovrebbe 
+formulare domande che non implichino un giudizio di valore.
+L’importante è che la discussione sui problemi legati ai 
+media digitali non venga condotta al di fuori del contesto 
+specifico, ovvero che venga affrontata quando i media 
+vengono usati nell’insegnamento o sono argomento della 
+lezione. La prevenzione fuori contesto comporta il rischio di 
+dare agli adolescenti idee che altrimenti non avrebbero 
+necessariamente avuto. 
+I seguenti ambiti tematici offrono spunti per il dibattito.
+•	
+Domande sul tempo dedicato ai media: una prima 
+domanda che si può porre agli allievi riguarda il tempo 
+che possono trascorrere davanti allo schermo a casa  
+e se sono d’accordo con i limiti imposti dai genitori.
+Secondo loro, a partire da quando il tempo trascorso 
+davanti a uno schermo è da ritenere eccessivo? È 
+inoltre interessante chiedere agli allievi se i genitori 
+limitino anche il tempo da dedicare alla lettura o ai 
+puzzle e perché, probabilmente, questo non succede.
+Per gli allievi è  
+più ­facile attenersi  
+alle ­regole che hanno  
+contribuito a elaborare. 
+33
+•	
+Domande sul tono della comunicazione online:  
+sia che si tratti di messaggi istantanei, di chat o di 
+commenti, anche su Internet dovrebbero valere le 
+regole della buona educazione (netiquette). Affinché i 
+ragazzi capiscano la necessità di queste regole, si 
+possono fare degli esempi o dei giochi di ruolo per 
+aiutarli a mettersi nei panni degli altri. Cosa provo 
+quando gli altri scelgono male le parole o diventano 
+volgari? E io, sono meno inibito/a (più offensivo/a) 
+quando mi esprimo nell’anonimato? 
+•	
+Domande sull’indicazione dell’età minima: per i 
+film, i videogiochi e persino le reti sociali è prevista 
+un’età minima. Gli allievi dovrebbero avere la possibili-
+tà di discutere apertamente sul senso di questi limiti di 
+età. A volte è utile far cambiare loro prospettiva, per 
+esempio chiedendo loro da che età permetterebbero al 
+fratellino e alla sorellina di giocare a un determinato 
+videogame. Anche in questo caso si potrebbe proporre 
+la discussione sul perché i libri e i fumetti vengano 
+controllati meno dei film e dei videogiochi. 
+•	
+Domande sulla protezione dei dati e della 
+personalità: soprattutto nell’ambito della comunicazio-
+ne tramite computer vale la pena discutere se vi siano 
+temi che non vanno affrontati per il rischio che vengano 
+letti anche da terzi. Ci sono immagini che non dovrebbe-
+ro essere diffuse tramite i canali digitali? Quali misure  
+si posso adottare per lasciare in rete meno tracce 
+utilizzabili a fini commerciali, ad esempio per pubblicità 
+mirata? Come criptare la comunicazione?  
+Un altro approccio al tema è discutere sul diritto alla 
+propria immagine o chiedere agli allievi se sarebbero 
+contenti se altre persone potessero disporre liberamente 
+delle loro immagini e dei loro testi. 
+•	
+Domande sui contatti: nelle chat e nelle reti sociali 
+gli allievi entrano in contatto anche con sconosciuti. 
+Quali sono le analogie e le differenze tra le conoscenze 
+e le amicizie nel mondo virtuale e in quello reale? Quali 
+sono le regole per comunicare in modo sicuro con gli 
+sconosciuti?  
+•	
+Domande sull’affidabilità delle informazioni 
+online: per molti allievi non è facile giudicare la 
+veridicità delle informazioni su Internet. Da cosa si 
+­riconosce una fonte affidabile? Quali sono gli indizi che 
+devono far pensare a una notizia falsa (fake news)? 
+Perché ci sono persone che diffondono online notizie 
+ingannevoli?
+Vi sono altri aspetti che si prestano alla discussione: i costi, 
+i malware (p. es. i virus e i cavalli di troia) o le truffe.
+Approccio critico e riflessivo
+Un approccio critico e riflessivo è determinante per evitare 
+che i bambini e i giovani finiscano nelle trappole di Internet. 
+Con questo non s’intendono conoscenze specialistiche, ma 
+una sana diffidenza e la capacità di considerare un fenome-
+no da diversi punti di vista, nella sua complessità.
+Spesso l’apprendimento a scuola si basa ancora su un 
+sapere standardizzato che conosce una sola verità. Sarebbe 
+invece meglio se anche i testi scolastici e le affermazioni 
+degli insegnanti potessero essere sempre messi in discus-
+sione. In quest’ottica Internet costituisce un ottimo stru- 
+mento per raccogliere varie prospettive su un argomento.
+Per questo motivo i piani didattici attuali prevedono anche 
+l’educazione ai media. Affinché gli allievi possano utilizzare 
+anche nella vita quotidiana le conoscenze acquisite a 
+scuola, è indispensabile che mantengano costantemente un 
+approccio critico e riflessivo. 
+Nei Cantoni romandi e in Ticino questo approccio è favorito 
+dall’organizzazione del piano di studio che situa l’educazione 
+ai media e alle tecnologie tra i contesti della Formazione 
+generale e la integra quindi nelle varie materie.
+34
+Per la prevenzione è fondamentale 
+che i docenti, le direzioni  
+scolastiche e i genitori  
+collaborino tra di loro. 
+Da quali spunti può partire la prevenzione a 
+scuola? 
+La scuola può agire a diversi livelli per evitare che i media 
+vengano utilizzati in maniera inappropriata.
+•	
+Durante la lezione, gli insegnanti possono proporre ai 
+bambini e i ai giovani una riflessione sull’uso dei media 
+e promuovere costantemente lo sviluppo delle loro 
+competenze in questo campo. 
+•	
+Le direzioni scolastiche possono autorizzare e stimolare 
+i docenti a integrare i media nell’insegnamento, in 
+modo professionale e adeguato alla situazione  
+(➔ cap. 4 e 5). Molte scuole dispongono di un piano 
+concettuale globale per la prevenzione e l’intervento in 
+caso di crisi, che si può applicare anche ai media 
+digitali ( ➔ cap. 7).
+•	
+Si raccomanda infine di affrontare con i genitori il tema 
+dell’uso dei media al di fuori della scuola nell’ambito 
+delle varie occasioni d’incontro (assemblea dei genitori, 
+colloqui o serate informative). 
+Affinché l’alfabetizzazione mediatica possa avere successo 
+a lungo termine è fondamentale che le misure adottate ai 
+diversi livelli siano coordinate e coerenti. È fondamentale 
+che i vari attori, ossia gli insegnanti, le direzioni degli istituti 
+scolastici e i genitori, collaborino tra loro.
+Anche gli adulti possono imparare dai giovani. Si pensi  
+per esempio alla realizzazione di un progetto (di classe  
+o di istituto) sulla protezione dei dati, che sviluppi una guida  
+o un tutorial su come creare un profilo e impostare i para- 
+metri di un account su una rete sociale (Facebook, Twitter 
+ecc.). Questo documento potrebbe poi essere distribuito  
+ai genitori. Grazie al loro vissuto e alle loro esperienze  
+educative, i genitori e gli insegnanti possono individuare  
+e mettere in discussione alcuni aspetti dei media che ­ 
+sfuggono agli adolescenti. I giovani, a loro volta, possono 
+mostrare agli adulti gli aspetti positivi dei media, per 
+esempio la possibilità di utilizzare i servizi di messaggistica 
+istantanea e le reti sociali per mantenere i contatti o di 
+divertirsi con i videogiochi.
+In alcuni casi, rispetto all’uso dei media, i genitori non 
+assumono il loro ruolo di educatori o lo fanno in maniera 
+insufficiente. Capita così che, in alcune famiglie, i genitori 
+non discutano dell’uso dei media con i figli, i quali navigano 
+spesso in Internet senza chiedere e senza che i genitori 
+fissino dei limiti in termini di tempo e di contenuti quando i 
+figli sono online. In queste situazioni il lavoro di educazione 
+all’uso consapevole dei media e delle tecnologie svolto dalla 
+scuola è ancora più importante. In ogni caso, i genitori sono 
+chiamati ad assumersi le proprie responsabilità al più tardi 
+quando si verificano episodi negativi (➔ cap. 7).
+In Ticino la prevenzione in ambito di media e tecnologie è 
+integrata in un concetto più ampio di educazione all’uso 
+consapevole di questi strumenti. Questo concetto è 
+riassunto in un articolo apparso sulla rivista «Scuola 
+ticinese» No 334 dedicata a questo tema (https://www4.
+ti.ch/decs/ ds/pubblicazioni/edizioni-precedenti/dal-2011/).
+Maggiori informazioni e risorse
+•	 v. supporti per l'insegnamento e materiale didattico a p. 22
+•	 Piattaforma nazionale Giovani e media: www.giovaniemedia.ch
+•	 Opuscolo a fumetti «I Websters – Storie di internet» dell'Ufficio federa-
+le delle comunicazioni in collaborazione con altri partner:  
+www.websters.swiss
+•	 «Scuola ticinese», no 334, https://www4.ti.ch/decs/ds/pubblicazioni/
+edizioni-precedenti/dal-2011/
+•	 Progetto Safer Internet Centre – Generazioni Connesse (Commissione 
+Europea) con risorse per docenti, genitori e ragazzi:  
+www.generazioniconnesse.it 
+Letteratura di approfondimento 
+•	 Attivissimo, Paolo (2012), Facebook e Twitter. Manuale di autodifesa. 
+Conoscere i social network per usarli in modo sicuro.  
+Tratto da http://disinformatico.info
+•	 Boyd, Danah (2014), It’s complicated. La vita sociale degli adolescenti 
+sul web, Castelvecchi editore.
+•	 Cubeddu, Carlotta; Taddia, Federico (2019), Penso Parlo Posto.  
+Breve guida alla comunicazione non ostile, Il castoro.
+•	 Iaquinta Tiziana, Salvo Anna (2017), Generazione TVB. 
+Gli adolescenti digitali, l’amore e il sesso, Bologna: il Mulino.
+•	 Twenge, Jean M. (2018), Iperconnessi. Perché i ragazzi oggi crescono 
+meno ribelli, più tolleranti, meno felici e del tutto impreparati a 
+diventare adulti, Torino: Einaudi.
+35
+L’utilizzo inadeguato dei media può assumere forme molto 
+diverse. Per rendersene conto basta leggere i due esempi 
+seguenti: il primo abbastanza tipico della vita quotidiana  
+dei giovani e il secondo un po’ più particolare. 
+•	
+Due ragazzini di seconda media bisticciano durante  
+la ricreazione e finiscono per insultarsi. Il pomeriggio  
+la lite continua nella chat di classe su un servizio di 
+messaggistica istantanea, dove uno dei due minaccia 
+l’altro di violenza. Il giorno dopo, tutta la classe parla 
+del litigio e l’insegnante si accorge che in classe c’è  
+un problema.
+•	
+Una ragazza di quarta media entra nel sistema 
+informatico della scuola e sostituisce il contenuto del 
+sito Internet con foto di allieve e allievi, aggiungendovi 
+vari commenti. Come devono reagire il docente di 
+classe e la direttrice dell’istituto scolastico? 
+La maggior parte dei bambini e dei giovani usa spesso  
+e volentieri i media digitali. È dunque normale che a volte  
+lo facciano in modo inadeguato. Sovente, come mostrano i 
+due esempi, questi comportamenti si ripercuotono diretta-
+mente o indirettamente sulle lezioni e sulla scuola.
+La quotidianità dei giovani con i media e quindi anche le 
+forme di uso problematico di questi ultimi sono in continuo 
+mutamento. Per gli insegnanti, i direttori degli istituti 
+scolastici e gli altri professionisti del settore queste 
+situazioni sono spesso nuove e quindi non sanno ancora 
+come reagire correttamente. 
+In Ticino la gestione delle situazioni problematiche si 
+inserisce in un concetto molto più ampio di educazione 
+all’uso consapevole (v. articolo su «Scuola ticinese»  
+No. 334; https://www4.ti.ch/decs/ds/pubblicazioni/
+edizioni-precedenti/dal-2011/). Questo approccio vuole 
+valorizzare la relazione educativa tra allievo e docente e 
+pone l’accento sulla complessità della situazione. In questo 
+contesto, la gestione delle situazioni problematiche 
+acquisisce anche un’accezione educativa: l’elaborazione 
+dell’errore, la riparazione, la capacità di uscire da situazioni 
+difficili, ecc. sono competenze di vita importanti sia per gli 
+autori che per le vittime.
+Come deve reagire la scuola in situazioni  
+di crisi o in caso di episodi gravi? 
+Come per altri comportamenti problematici, anche in 
+caso di uso inappropriato dei media bisogna optare  
+per un intervento differenziato che tenga conto della 
+situazione specifica nella sua complessità. Spesso per 
+risolvere il problema basta un semplice colloquio tra 
+l’insegnante e gli allievi coinvolti. L’intervento non deve 
+avere lo scopo di punire gli allievi che hanno agito in 
+modo inappropriato, bensì di approfittare di un errore, 
+trasformandolo in occasione educativa per promuovere 
+un uso consapevole e responsabile dei media. L’errore, 
+così come la riparazione, sono elementi fondamentali  
+per un processo costruttivo. 
+Tuttavia, se gli autori hanno già alle spalle numerosi 
+episodi del genere o, soprattutto, se la vittima ha subìto 
+un pesante danno, la direzione dell’istituto deve essere 
+coinvolta, in particolare nel decidere se sia il caso di 
+rivolgersi ai servizi specializzati (v. allegato al presente 
+capitolo). In alcuni casi, per esempio quando si ha a che 
+fare con un reato perseguibile d’ufficio o quando su una 
+rete sociale vengono formulate minacce molto concrete, 
+non vi è altra soluzione che chiedere l’intervento immedia-
+to della polizia. Gli insegnanti possono comunque essere 
+esentati dall’obbligo di denuncia nella misura in cui ciò  
+si renda necessario per il benessere del bambino o del 
+giovane (v. leggi cantonali sulla scuola).
+Per casi di crisi di questo genere, molte scuole dispongono  
+di piani d’intervento che dovrebbero essere noti a tutto il 
+personale scolastico e in cui sono indicati anche i servizi  
+da contattare in caso di bisogno. In alcuni cantoni, consorzi 
+scolastici e scuole, il modello d’intervento prevede, per 
+esempio, l’azione tempestiva della polizia e stabilisce in quali 
+casi si devono coinvolgere i genitori. Se il modello d’intervento 
+in vigore non è di aiuto, ci si può basare sul modello illustrato 
+qui di seguito per sapere come procedere a seconda della 
+gravità della situazione.
+07_COME REAGIRE IN CASO DI 
+UTILIZZO ABUSIVO DEI MEDIA?
+ 
+36
+Per la vittima anche un reato minore può avere conseguenze 
+pesanti. Se una foto erotica inviata confidando nella discre- 
+zione del destinatario finisce per circolare incontrollatamen-
+te in tutta la scuola, la sofferenza per la giovane vittima può 
+essere altissima: vergogna, disperazione, sensazione di 
+impotenza, delusione d’amore possono portare, in alcuni 
+casi, persino a pensare al suicidio.
+La situazione può essere ancora più difficile quando a tutto 
+questo si aggiunge un giudizio negativo, una condanna, da 
+parte dei genitori, perché in netto contrasto con la loro 
+visione del mondo o per motivi religiosi. In questi casi è 
+importante che la vittima venga aiutata, per esempio che 
+conosca la consulenza telefonica 147 di Pro Juventute, o 
+che possa rivolgersi all’insegnante di sostegno pedagogico/
+al mediatore della sua sede, al servizio medico-psicologico o 
+al consultorio per l’aiuto alle vittime. 
+I diritti e gli obblighi di avviso nei confronti delle autorità 
+sono regolamentati da leggi federali e cantonali e si applica-
+no anche in caso di utilizzo abusivo dei media, quando vi è il 
+sospetto che il benessere di un bambino o di un giovane sia 
+in pericolo.
+Quali comportamenti sono perseguibili 
+penalmente?
+In alcuni casi l’utilizzo abusivo dei media digitali è persegui-
+bile penalmente. Pertanto è utile che i docenti i genitori 
+conoscano il quadro normativo. In Svizzera la maggiore età 
+dal punto di vista penale è fissata a 10 anni; da questa età, 
+quindi, i bambini possono essere chiamati a rispondere dei 
+loro reati.
+Indicazioni in caso di utilizzo abusivo dei media
+Eventuell
+Eventualmente
+Asse temporale
+Conseguenze
+Tipo di intervento
+UTILIZZO ABUSIVO DEI MEDIA DA PARTE DEGLI ALLIEVI
+Colloquio tra gli allievi coinvolti 
+e l’insegnante
+Coinvolgimento della direzione 
+scolastica, eventualmente del 
+servizio di sostegno pedagogico 
+Avvio 
+di una 
+proce-
+dura 
+pena-
+le
+Coinvolgimento dei genitori 
+o di altre persone con 
+compiti educativi
+Le misure adottate non servono a nulla, 
+l’episodio ha conseguenze penali e la 
+vittima vuole sporgere denuncia
+Adozione di misure interne alla classe
+o alla scuola per gli allievi direttamente 
+coinvolti 
+Eventualmente, ricorso a servizi
+specializzati esterni
+Viene sporta 
+denuncia
+penale in 
+polizia
+Misure di 
+accompagnamen-
+to (di prevenzio-
+ne o d’interven-
+to) a livello di 
+classe o di 
+scuola
+37
+Qui di seguito un elenco dei reati che possono entrare in 
+linea di conto per gli adolescenti:
+•	
+nell’ambito del ciberbullismo: estorsione, diffamazione, 
+calunnia, ingiuria, minaccia, coazione (art. 156, 173, 
+174, 177, 180 e 181 del Codice penale svizzero [CP]);
+•	
+abuso di un impianto per l’elaborazione di dati, 
+violazione della sfera segreta o privata mediante 
+apparecchi di presa d’immagini, sottrazione di dati 
+personali (art. 147, 179quater e 179novies CP);
+•	
+accesso indebito a un sistema per l’elaborazione di 
+dati, danneggiamento di dati (art. 143bis e 144bis CP);
+•	
+consegna di materiale pornografico a bambini e giovani 
+di età inferiore a 16 anni; produzione, diffusione o 
+consumo di contenuti pornografici con minorenni, 
+violenza o animali. A seconda delle circostanze, rientrano 
+in questa fattispecie anche gli autoscatti (art. 197 CP);
+•	
+possesso o diffusione di registrazioni sonore o visive 
+con rappresentazioni di atti di cruda violenza verso 
+esseri umani o animali (art. 135 CP);
+•	
+violazioni del diritto d’autore in relazione ai media 
+digitali, per esempio caricare su Internet contenuti 
+protetti dal diritto d’autore (musica, film ecc.): legge 
+federale sul diritto d’autore e sui diritti di protezione 
+affini (LDA);
+•	
+in caso di lesione della personalità viene avviata una 
+procedura civile.
+Perché è importante avere un buon clima 
+all’interno della scuola?
+Di fronte alle esperienze negative non tutti reagiscono allo 
+stesso modo. Anche gli effetti dei media sono strettamente 
+legati alla personalità del singolo e alla sua capacità di 
+resilienza. I bambini e i giovani resilienti sono padroni dei 
+propri sentimenti, sanno generalmente controllare gli 
+impulsi e in caso di problemi sono piuttosto disposti a farsi 
+aiutare. I bambini e i giovani resilienti, che possono contare 
+sul sostegno affidabile delle persone attorno a loro, dispon- 
+gono di maggiori risorse per gestire eventuali derive legate 
+all’utilizzo dei media digitali come per esempio il ciberbulli-
+smo, la dipendenza o l’escalation di violenza. 
+Nelle scuole è dunque essenziale adottare un approccio che 
+favorisca la resilienza, coltivando una cultura della comuni-
+cazione aperta tra insegnanti e allievi nonché tra insegnanti 
+e genitori. I giovani vengono così aiutati ad acquisire compe-
+tenze personali e sociali e si instaura un clima che promuove 
+chiaramente la non-violenza. Se, malgrado tutto, si doves- 
+sero verificare esperienze negative con i media, queste 
+potrebbero manifestarsi con cambiamenti di umore e di 
+comportamento negli allievi coinvolti. In questi casi è 
+importante che gli insegnanti possano approfondire le cause 
+di malessere, discutendone con loro, per offrire sostegno.
+Qui di seguito sono trattate tre forme di utilizzo inadeguato 
+e abusivo dei media dove la scuola può svolgere un ruolo 
+determinante nella prevenzione: il ciberbullismo, gli abusi 
+sessuali legati ai media digitali e l’impiego abusivo di dati.
+Cosa fare in caso di ciberbullismo?
+Il ciberbullismo è una forma specifica di bullismo che com- 
+porta l’utilizzo dei media della comunicazione. Secondo una 
+concezione diffusa, con ciberbullismo s’intende che un 
+singolo individuo o un gruppo vuole danneggiare un’altra 
+persona tramite i media digitali, inviandole ripetutamente 
+foto o messaggi aggressivi e ostili.
+Il ciberbullismo si differenzia dal bullismo classico nelle 
+seguenti caratteristiche: gli autori agiscono talvolta 
+anonimamente, i contenuti si diffondono molto rapidamen-
+te, possono essere visionati 24 ore su 24 e spesso rimango-
+no in rete molto a lungo. Ma attenzione: non tutti i conflitti 
+che nascono durante la ricreazione e poi continuano 
+malauguratamente nella chat di una rete sociale e non tutti i 
+messaggi offensivi vanno classificati come ciberbullismo.
+In ambito scolastico il ciberbullismo non si verifica soltanto 
+tra gli allievi, ma può colpire anche docenti e altre persone.
+38
+I criteri applicati per valutare il fenomeno del ciberbullismo 
+variano da uno studio all’altro. I dati relativi alla frequenza 
+di tali casi vanno dunque presi con la dovuta cautela. 
+Stando allo studio «EU Kids Online» condotto in Svizzera  
+nel 2019, tra il 2 e il 5 per cento dei bambini e dei giovani  
+tra i 9 e i 16 anni subisce atti di ciberbullismo, vale a dire un 
+comportamento vessatorio nei propri confronti almeno una 
+volta alla settimana.
+Il grado di sofferenza dovuto al ciberbullismo dipende non 
+solo dalla capacità di resilienza della vittima, ma anche  
+dal sostegno che questa riceve dalle persone che la 
+circondano. Tra le conseguenze più comuni del ciberbulli-
+smo vi sono perdita della fiducia in se stessi, stati d’ansia 
+e depressione.
+Che cosa possono fare le scuole per prevenire il 
+ciberbullismo? 
+È opportuno che le misure e gli interventi volti a prevenire  
+il ciberbullismo siano integrati in una strategia più ampia  
+di prevenzione del bullismo. Negli istituti scolastici con  
+una cultura della comunicazione aperta, che assumono  
+un atteggiamento chiaro e che hanno definito procedure 
+d’intervento ben precise, gli allievi trovano più facilmente  
+il coraggio di segnalare un problema.
+Il fatto di disporre di misure preventive e procedure 
+d’intervento sensibilizza e sgrava anche gli insegnanti.
+Che cosa fare in un caso concreto di ciberbullismo?
+Gli adulti devono ascoltare attentamente e mantenere la 
+calma. È importante tenere presente che, a livello scolastico, 
+autore e vittima sono entrambi minori bisognosi di sostegno  
+e di protezione. Questo principio deve guidare ogni intervento. 
+Il profilo social dell’autore (o degli autori) deve essere bloccato 
+immediatamente e segnalato alla rete sociale o alla piattafor-
+ma. Si consiglia di salvare, ad esempio mediante screen-shot, 
+il materiale che può fungere da prova (p. es. le conversazioni e 
+le immagini nel servizio di messaggistica istantanea) e subito 
+dopo, se possibile, cancellare – o far cancellare dal gestore 
+della piattaforma – tutti i contenuti in rete.
+I messaggi di testo e le immagini riconducibili all’autore del 
+ciberbullismo vanno conservati come materiale di prova. In 
+base ai protocolli o piani di intervento della scuola è importan-
+te designare un coordinatore degli interventi.
+A seconda della gravità della situazione potranno essere 
+coinvolti la direzione scolastica e/o i genitori.
+Prima di sporgere una denuncia penale, è necessario valutare 
+accuratamente i pro e i contro, per esempio con il servizio di 
+sostegno pedagogico, con il CERDD, con un consultorio per le 
+vittime di reati o con il servizio di consulenza della polizia. In 
+certi casi, infatti, una procedura penale rischia di peggiorare 
+la situazione.
+Di fondamentale importanza per la relazione tra gli allievi è 
+il processo di riparazione. L’accaduto non è modificabile, ma 
+gli allievi devono essere accompagnati in modo da poter 
+riparare almeno in modo simbolico alla sofferenza, per poter 
+ricostruire la relazione.
+Che cosa fare contro gli abusi sessuali 
+perpetrati attraverso i media digitali?
+Quando gli adolescenti cominciano a interessarsi alla 
+sessualità, spesso entrano in gioco anche i media digitali. 
+Per i giovani cercare spiegazioni in rete, guardare materiale 
+pornografico su Internet e flirtare nelle chat sono attività 
+normali.
+I problemi nascono quando vengono oltrepassati determina-
+ti limiti. Dai risultati dello studio «EU Kids Online» condotto 
+in Svizzera nel 2019 emerge che circa un quarto dei bambini 
+e dei giovani tra i 9 e i 16 anni riceve messaggi a carattere 
+sessuale attraverso i media digitali. In questi casi i confini 
+tra divertimento, scoperta della propria sessualità e abusi 
+possono essere labili.
+Si entra nel problematico, se non addirittura nel punibile, 
+quando si va oltre i limiti personali dei bambini e dei giovani 
+oppure quando pedocriminali abusano dell’anonimato 
+garantito da Internet per adescare minorenni. Secondo lo 
+Un atteggiamento fortemente 
+contrario alla violenza da 
+parte della scuola aiuta gli 
+allievi toccati dal problema. 
+39
+studio summenzionato, a un quinto dei bambini e giovani 
+svizzeri sono state richieste informazioni a carattere 
+sessuale online, sebbene non volessero dare alcuna 
+comunicazione in merito.
+In questo ambito, la scuola può svolgere un’importante 
+funzione preventiva, assumendo i propri compiti nell’ambito 
+dell’educazione alla sessualità e all’affettività. 
+Che cosa può fare la scuola per prevenire gli abusi 
+sessuali tramite i media digitali?
+Anche in questo caso valgono gli stessi principi: per 
+proteggere i bambini e i giovani nel migliore dei modi 
+bisogna promuovere costantemente le loro competenze 
+sociali e la loro capacità di riflessione, restare vigili e  
+saper ascoltare i loro problemi. L’uso dei media digitali  
+deve essere affiancato da un’educazione alla sessualità  
+e all’affettività che permetta di affrontare in classe temi 
+chiave, sui quali è importante che gli allievi si confrontino 
+con l’accompagnamento di un adulto. Qui di seguito qualche 
+esempio:
+•	Come presentarsi su Internet?
+•	Quando si chatta con estranei, essere prudenti ed  
+evitare di trasmettere dati personali o fotografie. Se si 
+decide comunque di approfondire la conoscenza e magari 
+di incontrarsi, che precauzioni è possibile prendere?
+•	Prima di produrre e diffondere immagini o testi a 
+contenuto erotico o pornografico, bisogna riflettere bene 
+se sia veramente il caso di farlo.
+•	A prescindere dal danno a cui si potrebbe andare 
+incontro, bisogna tenere presente che la trasmissione di 
+materiale pornografico a bambini e giovani di età inferiore 
+a 16 anni, così come la produzione, la diffusione e il 
+consumo di contenuti pornografici con minorenni (a 
+seconda delle circostanze, anche gli autoscatti), sono 
+punibili. Le autorappresentazioni erotiche possono anche 
+essere utilizzate a scopo di estorsione (sextortion).
+•	A chi ci si può rivolgere se dovesse succedere di vedere 
+contenuti mediali sgradevoli o di fare esperienze 
+negative?
+Quali strategie si possono adottare contro 
+l’impiego abusivo di dati?
+Su Internet, molte persone (anche bambini e giovani) 
+forniscono dati o caricano fotografie personali: nei messaggi 
+su servizi di messaggistica istantanea, nelle reti sociali, 
+partecipando a concorsi, nelle chat, nell’ambito di sondaggi, 
+ma anche a scuola quando utilizzano servizi online durante 
+una lezione.
+Secondo lo studio JAMES 2018, al 33 per cento degli 
+adolescenti è già successo di vedere fotografie o video che 
+li ritraevano caricati in rete senza il loro consenso. La legge 
+federale sulla protezione dei dati è di supporto in caso 
+d’impiego abusivo dei dati personali, tuttavia non offre una 
+protezione assoluta.
+Ciò è dovuto alla natura stessa di Internet: una fotografia 
+scattata con lo smartphone e inviata a cinque persone 
+tramite un servizio di messaggistica istantanea può 
+diffondersi molto rapidamente e in maniera incontrollata.
+È quindi necessario usare in modo consapevole i propri dati.
+Che cosa possono fare le scuole per prevenire 
+l’impiego abusivo di dati? 
+Se nel 2010, fra i giovani utenti delle reti sociali, solo  
+poco più della metà aveva attivato le impostazioni della 
+sfera privata, nel 2020 la quota era di 66%.
+Questa evoluzione è il risultato di diverse iniziative 
+nell’ambito della pedagogia mediale riguardanti la protezio-
+ne della personalità e di un’accresciuta sensibilizzazione  
+dei giovani al proprio comportamento online.
+Durante le lezioni, possono presentarsi situazioni in cui  
+gli allievi modificano fotografie, film e dati, esercitandosi  
+a comunicare con i media digitali. Affinché l’apprendimento 
+sia efficace e duraturo, è importante approfittare di queste 
+occasioni per affrontare diversi aspetti relativi alla 
+protezione dei dati e della personalità. Ecco qualche 
+esempio:
+40
+•	
+fotografare e filmare le persone (docenti, allievi o terzi) 
+solo se autorizzati dai diretti interessati;
+•	
+scegliere password e pseudonimi sicuri: la password 
+non va comunicata a nessuno;
+•	
+caricare fotografie, video e informazioni personali  
+in rete che riguardano terzi solo con il loro consenso.  
+Il diritto all’immagine va rispettato;
+•	
+non accettare richieste di contatto e «amicizia» da 
+qualsiasi persona e rispettare la netiquette;
+•	
+sulle piattaforme dei media sociali attivare le imposta-
+zioni della sfera privata e controllarle regolarmente.
+A chi rivolgersi?
+L’impiego inadeguato e abusivo dei media può assumere 
+numerose forme. A volte in questo campo le esigenze 
+superano le capacità e le competenze degli insegnanti e  
+dei direttori degli istituti scolastici. In caso di bisogno, si 
+può far capo a diversi servizi e offerte d’informazione.
+•	Centro di risorse didattiche e digitali (CERDD)
+•	Consultori LAV per le vittime di reati
+•	Polizia cantonale e il suo Gruppo Visione Giovani
+•	Servizio nazionale di coordinazione per la lotta contro  
+la criminalità su Internet (SCOCI) e Prevenzione Svizzera 
+della Criminalità (PSC) 
+•	Consulenza telefonica 147 (www.147.ch): fornisce un 
+aiuto diretto e veloce ai bambini e ai giovani per telefono, 
+SMS, e-mail o chat
+•	Fondazione ASPI: www.aspi.ch
+•	Centri di consulenza per giovani 
+•	Manuale online per trattare con affrontare le crisi a 
+scuola (in tedesco): www.krisenkompass-plus.ch
+•	Una panoramica dei servizi di informazione e consulenza 
+in Svizzera si trova nella banca dati di Giovani e media: 
+www.giovaniemedia.ch
+Per formarsi e informarsi
+•	Formazioni offerte dal CERDD (formazioni continue 
+annuali, atelier tematici, teatro forum ecc.). Per informa-
+zioni: CERDD.richieste@edu.ti.ch
+•	Associazioni ed enti di prevenzione attivi sul territorio 
+(Fondazione ASPI, Croce Rossa, Radix, Pro Juventute ecc.)
+•	Pro Juventute pubblica informazioni per famiglie e 
+docenti su diversi temi di pedagogia mediale  
+(ciberbullismo, contenuti inappropriati, sexting ecc.):  
+www.projuventute.ch
+Maggiori informazioni 
+•	 La Prevenzione svizzera della criminalità ha realizzato diversi opuscoli, 
+disponibili sul sito www.skppsc.ch, come p. es. il «My little Safebook» 
+sulle molestie in Internet (per giovani, genitori e persone di riferimento). 
+Sono inoltre disponibili opuscoli sui temi della pornografia, del 
+cyberbullismo e del diritto alla propria immagine.
+•	 «Netla – I miei dati sono miei!» (www.netla.ch): campagna lanciata dal 
+Consiglio per la protezione della personalità e dall’Incaricato federale 
+della protezione dei dati e della trasparenza, che propone attività per  
+i bambini, app, schede informative per i genitori e gli insegnanti
+•	 Ufficio federale delle comunicazioni: «The Websters»;  
+www.thewebsters.ch
+•	 Classificazione per età di film, video, DVD e videogiochi in base al loro 
+contenuto: www.pegi.info
+•	 Per l’età di visione dei film, in Ticino sono disponibili indicazioni sul  
+sito di infogiovani (www.ti.ch/ infogiovani; banca dati dei film:  
+https://www4.ti.ch/generale/infogiovani/tempo-libero/cinema/
+banca-dati-cinema/)
+•	 Rilevamento ed intervento precoce con i giovani, Ufficio federale della 
+sanità pubblica (UFSP): https://www.bag.admin.ch/bag/it/home/
+gesund-leben/gesundheitsfoerderung-und-praevention/praeven-
+tion-fuer-kinder-und-jugendliche/frueherkennung-fruehinterven-
+tion-bei-jugendlichen.html
+È opportuno che le scuole  
+integrino la prevenzione  
+del cyberbullismo nella  
+strategia più ampia di  
+prevenzione del bullismo.
+41
+Le scuole dispongono di moltissimi dati personali riguardanti 
+gli allievi, spesso in formato digitale: verifiche, autovaluta-
+zioni, giudizi, informazioni riservate riguardo a eventuali 
+problemi di salute e a disturbi dell’apprendimento, nonché 
+fotografie e registrazioni audio-video fatte durante le  
+lezioni o tracce online lasciate dagli stessi allievi. Cosa 
+fanno gli insegnanti, le direzioni degli istituti scolastici e  
+gli altri professionisti del settore per garantire la sicurezza 
+di questi dati?
+Quali disposizioni legali vanno rispettate?
+L’articolo 13 capoverso 2 della Costituzione federale recita: 
+«Ognuno ha diritto d’essere protetto da un impiego abusivo 
+dei suoi dati personali». Questo significa che chiunque ha  
+un diritto fondamentale all’autodeterminazione informativa, 
+vale a dire che ognuno (quindi anche i bambini, i giovani e  
+gli insegnanti), ha il diritto di decidere per principio da solo 
+sull’utilizzo o sulla divulgazione dei propri dati personali. Vi 
+sono anche altre disposizioni legali, come la legge federale 
+sulla protezione dei dati, il Codice penale oppure le leggi 
+cantonali sulla protezione dei dati, che tutelano il diritto 
+fondamentale delle persone garantito dalla Costituzione e 
+quindi la protezione della personalità e della sfera privata. 
+Alle scuole pubbliche si applicano le leggi cantonali, mentre 
+a quelle private la legge federale sulla protezione dei dati.
+Come vengono applicate queste 
+­disposizioni nelle scuole?
+Nel contesto scolastico si creano spesso situazioni di 
+conflitto tra il compito di adempiere al meglio il mandato 
+educativo previsto dalla legge e l’autodeterminazione infor- 
+mativa. Idealmente bisognerebbe conciliare i due obiettivi. 
+Nella maggior parte dei casi le persone che lavorano diret- 
+tamente con gli allievi hanno il diritto (ma non l’obbligo)  
+di scambiarsi dati personali su questi ultimi. Gli allievi e  
+i genitori possono chiedere informazioni sui loro dati 
+personali registrati dalla scuola o addirittura di consultarli. 
+Generalmente, scaduto un termine di conservazione, i dati 
+che non servono più vengono messi a disposizione del- 
+l’archivio comunale o cantonale. I dati che non vengono 
+archiviati da questi istituti andrebbero immediatamente 
+distrutti.
+Una serie di cantoni ha pubblicato delle raccomandazioni 
+sulla protezione dei dati destinate alle direzioni degli istituti 
+scolastici e agli insegnanti, per aiutarli ad affrontare le 
+questioni riguardanti i dati sensibili degli allievi (v. letteratu-
+ra di approfondimento).
+Di quali aspetti legati alla sicurezza bisogna 
+tenere conto quando si utilizzano i media 
+digitali?
+I media digitali, come i computer, i tablet e i telefoni cel- 
+lulari, semplificano parecchio la raccolta e lo scambio di 
+dati. Ciò può indurre facilmente a trasferimenti illeciti di 
+dati. La sfida consiste nel trovare soluzioni sicure e affidabili 
+dal punto di vista della protezione dei dati che siano al 
+contempo efficaci e facili da usare. Un sistema sicuro deve 
+però poter essere anche controllato. Proprio per questo 
+motivo, per i sistemi informatici rilevanti dal punto di vista 
+della protezione dei dati, è meglio optare per le soluzioni 
+open source. La libera disponibilità del codice sorgente e  
+il fatto che di regola vi lavorino numerosi programmatori 
+indipendenti tra loro fanno sì che il codice dei programmi 
+venga costantemente migliorato.
+Ciò comporta anche una continua verifica della presenza  
+di eventuali falle a livello di sicurezza.
+08_UTILIZZO SICURO DEI DATI 
+SCOLASTICI
+ 
+42
+Comunicazione
+Lo scambio d’informazioni necessario all’amministrazione 
+scolastica riguarda molto spesso dati personali degni di 
+protezione. Per questa ragione è importante che i canali  
+di comunicazione utilizzati presentino due proprietà 
+fondamentali: la confidenzialità (solo le persone autorizzate 
+possono venire a conoscenza del contenuto dei messaggi)  
+e l’autenticazione (la persona che invia e quella che riceve 
+un messaggio devono poter essere identificate in modo 
+inequivocabile).
+In caso di colloqui telefonici è generalmente possibile 
+presupporre che la confidenzialità sia garantita. Tuttavia, 
+anche in questo caso bisogna prestare attenzione all’aspetto 
+dell’autenticazione, dato che spesso è difficile verificare 
+l’identità dell’interlocutore, a meno che non lo si conosca di 
+persona. Lo scambio d’informazioni per lettera garantisce 
+generalmente una maggiore autenticazione, ma in compenso 
+è molto più complicato. Oltre a queste forme di comunica­
+zione, nell’amministrazione scolastica si è ormai affermata 
+anche la corrispondenza tramite posta elettronica, che nella 
+sua forma originale è sì semplice ed efficace, ma non è né 
+confidenziale né autenticabile.
+La scelta del servizio di posta elettronica dovrebbe cadere 
+su un server con foro competente in Svizzera e soggetto  
+al diritto svizzero. Per aumentare la sicurezza è necessario 
+ricorrere a ulteriori strumenti (p. es. Enigmail,  
+www.enigmail.net).
+La confidenzialità, però, non riguarda soltanto il contenuto 
+delle e-mail, ma si estende anche alla cosiddetta «situa-
+zione comunicativa», per esempio la lista dei destinatari  
+di un’e-mail circolare. Generalmente, nelle e-mail con più 
+destinatari, gli indirizzi dei destinatari andrebbero riportati 
+sotto Ccn, che sta per copia per conoscenza nascosta.
+Ancora più semplici da utilizzare rispetto alle e-mail sono  
+i servizi di messaggistica istantanea sul telefono cellulare,  
+la maggior parte dei quali offre anche una funzione chat  
+di gruppo. Per garantire la protezione dei dati si dovrebbe 
+raccomandare a docenti e genitori un’app open source con 
+crittografia end-to-end, quale ad esempio Signal (http://signal.
+org/de/). Se non si può partire dal presupposto che tutti i 
+partecipanti alla comunicazione dispongano di un cellulare,  
+una buona opzione è il servizio di messaggistica istantanea 
+Element (https://element.io), che consente di iscriversi anche 
+con uno pseudonimo, senza dover necessariamente indicare 
+il numero di cellulare o l’indirizzo di posta elettronica.
+Protezione dell’infrastruttura locale
+Se, nel caso dei classici incarti cartacei, per impedire 
+l’accesso ai non autorizzati si ricorre a stanze, archivi o 
+scrivanie che possono essere chiusi a chiave, per protegge-
+re i dati elettronici bisogna utilizzare firewall, VPN (virtual 
+private networks, ossia interfacce di rete), password e 
+meccanismi di codificazione. Si raccomanda di separare la 
+rete dell’amministrazione da quella della scuola.
+L’offerta di Swisscom «Scuole in Internet» include un 
+firewall e degli accessi VPN. Le scuole che scelgono un  
+altro provider oppure che vogliono garantire localmente la 
+sicurezza dei dati possono ricorrere a soluzioni specifiche e 
+semplici come, per esempio, IPFire (http://www.ipfire.org). 
+Per codificare i dati è invece consigliabile utilizzare 
+VeraCrypt (http://www.veracrypt.fr).
+Nel mondo cartaceo, si prevengono le perdite di dati con 
+misure edilizie (p. es. i sistemi antincendio), in quello digitale 
+bisogna invece optare per i backup e i programmi antivirus.
+WLAN
+Il segnale radio di una WLAN (una rete locale che utilizza la 
+tecnologia senza fili) è accessibile in tutta l’area di copertu-
+ra, ovvero spesso anche oltre i confini della scuola e 
+pertanto anche a terzi non autorizzati. La scuola ha il 
+compito di assicurare che queste persone non possano 
+accedere ai suoi dati confidenziali e, inoltre, d’impedire che 
+compromettano la disponibilità dell’accesso al collegamento 
+Internet o che lo utilizzino per attività illegali. Ciò, tuttavia, 
+si contrappone al desiderio di offrire a tutte le persone 
+autorizzate un accesso a Internet semplice tramite WLAN 
+all’interno della scuola.
+Generalmente l’accesso alla WLAN è protetto unicamente 
+da una chiave condivisa (la cosiddetta pre-shared key). Si 
+tratta di un metodo semplice e comodo, ma se qualcuno 
+rivela a terzi la chiave, la protezione della rete non è più 
+garantita. Per questo motivo le scuole dovrebbero utilizzare 
+un WPA-Enterprise, che protegge l’accesso grazie all’uso di 
+un nome utente e una password o di certificati. La guida 
+«Scuola, ICT e protezione dei dati» di educa.Guides presenta 
+ulteriori misure per proteggere le reti WLAN.
+43
+Eliminare i dati in maniera sicura
+Quando si rende necessario eliminare dati analogici, si 
+ricorre principalmente al distruggidocumenti e agli impianti 
+d’incenerimento, ma in nessun caso al cestino o alla rac- 
+colta della carta da riciclare.
+Per i dati digitali vale lo stesso principio, nel senso che la 
+funzione standard per eliminare i dati è praticamente come 
+il cestino analogico: i dati non sono più visibili, ma non sono 
+stati distrutti, sono ancora presenti. Per eliminare effettiva-
+mente e definitivamente i dati è necessario fare altri passi, 
+che variano a seconda del sistema operativo.
+Servizi cloud
+Oggigiorno le scuole utilizzano spesso e volentieri i 
+cosiddetti servizi cloud, messi generalmente a disposizione 
+da fornitori di servizi esterni, che permettono di accedere a 
+dati e servizi in modo autonomo, indipendentemente dal 
+luogo in cui si trova in quel momento l’utente o dall’apparec-
+chio che utilizza.
+Stando alla legge federale sulla protezione dei dati,  
+la scuola è responsabile dell’elaborazione dei dati che  
+la riguardano e deve pertanto continuare ad adempiere  
+i propri obblighi in materia di protezione dei dati e di 
+­sicurezza delle informazioni. Questi obblighi possono 
+risultare incompatibili con l’archiviazione e l’elaborazione 
+dei dati presso fornitori di servizi esterni. Le informazioni 
+sull’appartenenza religiosa e sullo stato fisico, mentale  
+e psichico, ad esempio, sono considerate dati personali 
+degni di particolare protezione.
+Dal punto di vista giuridico risultano particolarmente 
+problematici i fornitori di servizi per i quali non è previsto  
+un foro competente in Svizzera e che non soggiacciono al 
+diritto svizzero. In questi casi spesso la scuola non può  
+far valere il diritto di correggere o di eliminare i dati. Dal 
+punto di vista tecnico bisogna fare in modo che i contenuti 
+rimangano sempre riservati e quindi non accessibili al 
+fornitore esterno. Attualmente il programma Seafile 
+ (http://www.seafile.com) e il suo fornitore svizzero, 
+Metanet (http://www.metanet.ch), o Galaxyweb  
+(http://www.galaxyweb.ch), per esempio, soddisfano  
+questi requisiti di ordine giuridico e tecnico. Anche i servizi 
+cloud locali propongono soluzioni sicure, per esempio sulla 
+base di Nextcloud (http://nextcloud.com/), a patto, però, 
+che l’infrastruttura necessaria sia gestita dalla scuola, da 
+un servizio di supporto informatico di fiducia, dal comune  
+o dal cantone. In Ticino il CERDD offre due piattaforme  
+con un servizio cloud: Officina, per il lavoro tra docenti  
+e Moodle, per le attività che coinvolgono gli allievi.
+Dati sul sito Internet della scuola
+Molte scuole mettono a disposizione informazioni sul 
+proprio sito Internet, sui blog o sulle reti sociali. Quando  
+si pubblicano dati personali su queste piattaforme (in par- 
+ticolare fotografie o filmati), occorre rispettare i principi 
+della protezione dei dati e della personalità. Il «diritto alla 
+propria immagine» implica che le fotografie possano essere 
+pubblicate solo con il consenso delle persone ritratte (ri- 
+spettivamente dei loro genitori o di chi detiene l’autorità 
+parentale). Si raccomanda inoltre alle scuole di non gestire 
+guestbook o forum senza moderatori su queste piattaforme, 
+dato che possono essere considerate responsabili anche di 
+questi contenuti.
+La protezione dei dati va garantita anche agli utenti del sito 
+Internet di una scuola. Per le statistiche sui visitatori di un 
+sito è dunque meglio non ricorrere a servizi esterni, ma 
+preferire soluzioni locali come Matomo (http://matomo.org).
+Maggiori informazioni
+•	 educa.Navigator, confronto di applicazioni software per l'insegnamento, 
+comprese le considerazioni sulla sicurezza e la protezione dei dati:  
+https://navi.educa.ch/ 
+•	 educa.Guides, «Scuola, ICT e protezione dei dati»; https://biblio.educa.ch/
+sites/default/files/guide_protezione_dei_dati.pdf (si prega di notare che la 
+pubblicazione non è stata aggiornata dal 2009)
+•	 Leitfaden Datensicherheit für Lehrpersonen und Schulleitungen, Pubblicato 
+dall’associazione mantello degli insegnanti svizzeri (LCH) in collaborazione con 
+le associazioni degli insegnanti della Germania e dell’Austria:  
+https://www.vbe.de/service/leitfaden-datensicherheit
+•	 Materiale didattico dell'IFPDT con informazioni per i docenti:  
+https://www.edoeb.admin.ch/lezioni
+•	 Cattaneo, Gianni; Lodi, Ilario; Trivilini, Alessandro (2014), Genitori nella rete – 
+Manuale d’uso in prospettiva tecnologica, pedagogica e giuridica, Armando 
+Dadò editore
+Puntare su servizi 
+cloud sicuri! 

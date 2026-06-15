@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "description": "Evaluation queries for multilingual RAG system — Jugend und Medien corpus",
+    "project": "CAS NLP 2025 — Final Project",
+    "languages": ["EN", "FR", "IT", "DE", "RU", "ES", "SQ", "TI"],
+    "register": "Easy Language / natural parent speech",
+    "total_queries": 10
+  },
+  "queries": [
+    {
+      "id": "Q01",
+      "theme": "screen_time_0-7",
+      "translations": {
+        "EN": "My child is 3 years old. How much TV or tablet per day is okay?",
+        "FR": "Mon enfant a 3 ans. Combien de temps par jour pour la télé ou la tablette ?",
+        "IT": "Mio figlio ha 3 anni. Quanto tempo al giorno per la TV o il tablet?",
+        "DE": "Mein Kind ist 3 Jahre alt. Wie lange TV oder Tablet pro Tag ist okay?",
+        "RU": "Моему ребёнку 3 года. Сколько можно смотреть телевизор или планшет в день?",
+        "ES": "Mi hijo tiene 3 años. ¿Cuánto tiempo al día puede ver la tele o el tablet?",
+        "SQ": "Fëmija im është 3 vjeç. Sa kohë TV ose tablet në ditë është mirë?",
+        "TI": "ቆልዓይ 3 ዓመት እዩ። ኣብ መዓልቲ ክንደይ ሰዓት ተለቪዥን ወይ ታብለት ክርኢ ይኽእል?"
+      }
+    },
+    {
+      "id": "Q02",
+      "theme": "screen_time_infants",
+      "translations": {
+        "EN": "My baby is 1 year old. Is TV or phone bad at this age?",
+        "FR": "Mon bébé a 1 an. La télé et le téléphone, c'est mauvais à cet âge ?",
+        "IT": "Il mio bambino ha 1 anno. Il telefono e la TV fanno male ai bambini così piccoli?",
+        "DE": "Mein Baby ist 1 Jahr alt. Sind Handy und TV schlecht in diesem Alter?",
+        "RU": "Моему малышу 1 год. Телевизор и телефон — это вредно в таком возрасте?",
+        "ES": "Mi bebé tiene 1 año. ¿La tele y el móvil son malos a esta edad?",
+        "SQ": "Bebja ime është 1 vjeç. Televizioni dhe telefoni janë të dëmshëm në këtë moshë?",
+        "TI": "ሕጻነይ 1 ዓመት እዩ። ተለቪዥንን ሞባይልን ኣብዚ ዕድመ ጐዳኢ ድዩ?"
+      }
+    },
+    {
+      "id": "Q03",
+      "theme": "minimum_age_tiktok",
+      "translations": {
+        "EN": "My child wants TikTok. From what age is it allowed in Switzerland?",
+        "FR": "Mon enfant veut TikTok. À partir de quel âge c'est autorisé en Suisse ?",
+        "IT": "Mio figlio vuole TikTok. Qual è l'età minima per avere un account in Svizzera?",
+        "DE": "Mein Kind will TikTok. Ab welchem Alter ist das in der Schweiz erlaubt?",
+        "RU": "Мой ребёнок просит TikTok. Со скольки лет им можно пользоваться в Швейцарии?",
+        "ES": "Mi hijo quiere TikTok. ¿Desde qué edad está permitido en Suiza?",
+        "SQ": "Fëmija im dëshiron TikTok. Nga çfarë moshe lejohet në Zvicër?",
+        "TI": "ቆልዓይ TikTok ክጥቀም ደሊ። ኣብ ስዊዘርላንድ ካብ ምንታይ ዕድመ ይፍቐድ?"
+      }
+    },
+    {
+      "id": "Q04",
+      "theme": "cyberbullying",
+      "translations": {
+        "EN": "Someone keeps sending mean messages to my child on WhatsApp or social media. What do I do?",
+        "FR": "On envoie des messages méchants à mon enfant sur WhatsApp ou les réseaux sociaux, encore et encore. Que faire ?",
+        "IT": "Qualcuno continua a mandare messaggi cattivi a mio figlio su WhatsApp o i social. Cosa faccio?",
+        "DE": "Jemand schickt meinem Kind immer wieder gemeine Nachrichten auf WhatsApp oder in sozialen Medien. Was soll ich tun?",
+        "RU": "Кто-то постоянно посылает злые сообщения моему ребёнку в WhatsApp или соцсетях. Что делать?",
+        "ES": "Alguien sigue mandando mensajes malos a mi hijo por WhatsApp o redes sociales. ¿Qué hago?",
+        "SQ": "Dikush i dërgon vazhdimisht mesazhe të këqija fëmijës tim në WhatsApp ose rrjetet sociale. Çfarë bëj?",
+        "TI": "ሓደ ሰብ ንቆልዓይ ኣብ WhatsApp ወይ ማሕበራዊ መራኸቢ ብዙሕ ሳዕ ሕማቕ መልእኽቲ ይሰድድ ኣሎ። እንታይ ክገብር?"
+      }
+    },
+    {
+      "id": "Q05",
+      "theme": "devices_in_bedroom",
+      "translations": {
+        "EN": "Can I let my child keep a tablet in the bedroom?",
+        "FR": "Je peux laisser une tablette dans la chambre de mon enfant ?",
+        "IT": "Posso lasciare un tablet nella camera di mio figlio?",
+        "DE": "Kann ich das Tablet im Kinderzimmer lassen?",
+        "RU": "Можно ли оставлять планшет в детской комнате?",
+        "ES": "¿Puedo dejar el tablet en la habitación de mi hijo?",
+        "SQ": "Mund ta lë tabletën në dhomën e fëmijës tim?",
+        "TI": "ታብለት ኣብ ክፍሊ ቆልዓይ ከቐምጦ ይኽእል ድዩ?"
+      }
+    },
+    {
+      "id": "Q06",
+      "theme": "sexting_grooming",
+      "translations": {
+        "EN": "My daughter sent an intimate photo to a boy. Is that illegal in Switzerland? Could she be in danger?",
+        "FR": "Ma fille a envoyé une photo intime à un garçon. C'est illégal en Suisse ? Elle risque quelque chose ?",
+        "IT": "Mia figlia ha mandato una foto intima a un ragazzo. È illegale in Svizzera? Può essere in pericolo?",
+        "DE": "Meine Tochter hat ein intimes Foto an einen Jungen geschickt. Ist das illegal in der Schweiz? Ist sie in Gefahr?",
+        "RU": "Моя дочь отправила интимное фото мальчику. Это незаконно в Швейцарии? Ей что-то грозит?",
+        "ES": "Mi hija mandó una foto íntima a un chico. ¿Es ilegal en Suiza? ¿Puede estar en peligro?",
+        "SQ": "Vajza ime i dërgoi një foto intime një djali. A është e paligjshme në Zvicër? A mund të jetë në rrezik?",
+        "TI": "ጓለይ ናይ ውልቂ ስእሊ ናብ ወዲ ሰደደት። ኣብ ስዊዘርላንድ ዘይሕጋዊ ድዩ? ሓደጋ ኣሎ ድዩ?"
+      }
+    },
+    {
+      "id": "Q07",
+      "theme": "internet_addiction",
+      "translations": {
+        "EN": "My teenager is on the phone all day. How do I know if it is an addiction?",
+        "FR": "Mon ado est tout le temps sur son téléphone. Comment savoir si c'est une dépendance ?",
+        "IT": "Mio figlio adolescente è sempre sul telefono. Come faccio a sapere se è dipendenza?",
+        "DE": "Mein Teenager ist den ganzen Tag am Handy. Wie erkenne ich eine Sucht?",
+        "RU": "Мой подросток целый день в телефоне. Как понять — это зависимость?",
+        "ES": "Mi adolescente está todo el día con el móvil. ¿Cómo sé si es adicción?",
+        "SQ": "Adoleshenti im është gjatë gjithë ditës në telefon. Si e di nëse është varësi?",
+        "TI": "ወደደይ መንእሰይ ምሉእ መዓልቲ ኣብ ሞባይል እዩ። ምጽጋብ ምዃኑ ከመይ ክፈልጥ?"
+      }
+    },
+    {
+      "id": "Q08",
+      "theme": "sharenting",
+      "translations": {
+        "EN": "I post photos of my child on WhatsApp and Instagram. Is that a problem?",
+        "FR": "Je publie des photos de mon enfant sur WhatsApp et Instagram. C'est un problème ?",
+        "IT": "Pubblico foto di mio figlio su WhatsApp e Instagram. È un problema?",
+        "DE": "Ich poste Fotos meines Kindes auf WhatsApp und Instagram. Ist das ein Problem?",
+        "RU": "Я выкладываю фото своего ребёнка в WhatsApp и Instagram. Это проблема?",
+        "ES": "Publico fotos de mi hijo en WhatsApp e Instagram. ¿Es un problema?",
+        "SQ": "Postoj foto të fëmijës tim në WhatsApp dhe Instagram. A është problem?",
+        "TI": "ናይ ቆልዓይ ስእልታት ኣብ WhatsApp ከምኡ'ውን Instagram እዝርግሕ። ጸገም ድዩ?"
+      }
+    },
+    {
+      "id": "Q09",
+      "theme": "fake_news_deepfakes",
+      "translations": {
+        "EN": "My child saw a strange video online and thought it was real. How do I explain that videos can be fake?",
+        "FR": "Mon enfant a vu une vidéo bizarre en ligne et il a cru que c'était vrai. Comment lui expliquer que les vidéos peuvent être fausses ?",
+        "IT": "Mio figlio ha visto un video strano online e ha pensato che fosse vero. Come spiegargli che i video possono essere falsi?",
+        "DE": "Mein Kind hat ein seltsames Video online gesehen und dachte, es sei echt. Wie erkläre ich, dass Videos gefälscht sein können?",
+        "RU": "Мой ребёнок увидел странное видео в интернете и поверил, что оно настоящее. Как объяснить, что видео могут быть ненастоящими?",
+        "ES": "Mi hijo vio un video raro en internet y creyó que era real. ¿Cómo le explico que los videos pueden ser falsos?",
+        "SQ": "Fëmija im pa një video të çuditshme online dhe mendoi se ishte e vërtetë. Si ia shpjegoj që videot mund të jenë të rreme?",
+        "TI": "ቆልዓይ ዘይልሙድ ቪድዮ ኣብ ኢንተርነት ርኢዩ፡ ሓቂ ምዃኑ ኢሉ ሓሲቡ። ቪድዮታት ሓሶት ክኾኑ ይኽእሉ ምዃኖም ከመይ ጌረ ከረድኦ?"
+      }
+    },
+    {
+      "id": "Q10",
+      "theme": "help_resources",
+      "translations": {
+        "EN": "My child saw something shocking online. Who can I turn to for help?",
+        "FR": "Mon enfant a vu quelque chose de choquant en ligne. À qui je peux m'adresser pour avoir de l'aide ?",
+        "IT": "Mio figlio ha visto qualcosa di scioccante online. A chi posso chiedere aiuto?",
+        "DE": "Mein Kind hat etwas Schockierendes online gesehen. An wen kann ich mich um Hilfe wenden?",
+        "RU": "Мой ребёнок увидел что-то шокирующее в интернете. К кому я могу обратиться за помощью?",
+        "ES": "Mi hijo vio algo impactante en internet. ¿A quién puedo acudir para pedir ayuda?",
+        "SQ": "Fëmija im pa diçka tronditëse online. Tek kush mund të drejtohem për ndihmë?",
+        "TI": "ቆልዓይ ኣብ ኢንተርነት ዘሰምብድ ነገር ረኸበ። ሓገዝ ንምርካብ ናበይ ክኸይድ ይኽእል?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2349 @@
+MEDIENKOMPETENZ  
+IM SCHULALLTAG
+Für  
+Lehrpersonen  
+und  
+Schulleitungen
+Impressum
+Herausgegeben von:
+Jugend und Medien
+Nationale Plattform zur Förderung von Medienkompetenzen
+Bundesamt für Sozialversicherungen
+jugendschutz@bsv.admin.ch
+Die Inhalte wurden erarbeitet von: 
+Pädagogische Hochschule der Fachhochschule Nordwestschweiz,  
+Beratungsstelle für Digitale Medien in Schule und Unterricht – imedias
+Judith Mathez, Claudia Fischer, Roger Mäder, Ronny Standtke,  
+Stanley Schwab 
+Centre des compétences fritic
+Timon Rimensberger
+Repubblica e Cantone Ticino, Centro di risorse didattiche e digitali
+(CERDD)
+Daniele Parenti, Barbara Bonetti
+ZHAW Zürcher Hochschule für Angewandte Wissenschaften,  
+Departement Angewandte Psychologie,  
+Forschungsschwerpunkt Medienpsychologie
+Sarah Genner, Daniel Süss, Lilian Suter
+Bestellung (kostenlos):
+ 
+BBL, Verkauf Bundespublikationen, CH-3003 Bern
+www.bundespublikationen.admin.ch > Aktuelles > Jugend und Medien
+(Bestellnummer 318.852.D) 
+02.21 10 000 860482131
+Erhältlich in Deutsch, Französisch und Italienisch
+Fotos: 
+Pia Neuenschwander, photopia.ch: Titelbild, S. 4, S. 17, S. 28. 
+Beratungsstelle Digitale Medien in Schule und Unterricht – imedias: S. 9, S. 24, S. 27.  
+3. Auflage, Februar 2021
+© 2014 Jugend und Medien, Nationale Plattform zur Förderung von Medienkompetenzen,  
+Bundesamt für Sozialversicherungen 
+Repubblica e Cantone Ticino
+Centro di risorse didattiche e digitali
+3
+LIEBE LESENDE
+ 
+Medienkompetenz ist in unserer von der Digitalisierung geprägten Gesellschaft eine Kulturtechnik – ähnlich
+wichtig wie Lesen, Schreiben und Rechnen. Der verantwortungsvolle Umgang mit digitalen Medien ist daher
+fester Bestandteil der Lehrpläne und ein wichtiges Thema für alle Schulstufen.
+Schulleitende, Lehr- und andere Fachpersonen im Schulbereich sind sich dessen bewusst, sehen sich aber nach
+wie vor mit der Herausforderung konfrontiert, den Bildungsauftrag in Bezug auf die Vermittlung von
+Medienkompetenz umfassend wahrzunehmen. In diesem Zusammenhang stellen sich viele Fragen: Wie
+werden digitale Medien nutzbringend im Unterricht eingesetzt? Welche Haltung ist sinnvoll, wenn es um die
+Verwendung von Smartphones und Tablets geht – innerhalb und ausserhalb des Schulzimmers? Wie kann der
+Datenschutz gewährleistet werden? Was ist notwendig, um Kinder und Jugendliche vor Risiken zu schützen –
+und wie beugt man missbräuchlicher Mediennutzung vor?
+Die vorliegende Broschüre wurde im Rahmen der Aktivitäten der nationalen Plattform Jugend und Medien
+erarbeitet. Sie möchte Fachpersonen im Schulbereich dabei unterstützen, für ihr Schulumfeld passende
+Antworten auf diese Fragen zu finden. Die Lesenden sollen dazu angeregt werden, sich ausführlich mit der
+Thematik zu beschäftigen und konkrete Tipps erhalten, wie Medienkompetenzförderung im Schulalltag
+gelingen kann.
+Medienkompetente Kinder und Jugendliche sind nicht nur gut für die Zukunft gewappnet, sie sind auch besser vor  
+negativen Medienerfahrungen geschützt. Wir danken Ihnen, dass Sie in Ihrem beruflichen Alltag einen wichtigen  
+Beitrag zur Förderung der Medienkompetenz leisten.
+Eine gute Lektüre wünschen Ihnen
+Claudia Fischer 
+Ko-Leiterin Beratungsstelle Digitale 
+Medien in Schule und Unterricht –  
+imedias der PH FHNW
+Ludwig Gärtner 
+Leiter des Geschäftsfeldes Familie, 
+Generationen, Gesellschaft FGG, 
+Bundesamt für Sozialversicherungen
+5
+INHALTSVERZEICHNIS
+ 
+Digitale Medien verändern den Schulalltag	
+6
+Teil A: Jugend, Medien, Bildung	
+9
+01_____ Wie Kinder und Jugendliche Medien nutzen	
+10
+02_ ___ Medienkompetenz in der Schweizerischen Bildungslandschaft	
+14
+Teil B: Unterricht, Chancen, Entwicklungsmöglichkeiten	
+17
+03_ ___ Digitale Medien im Unterricht	
+18
+04_ ___ Potenzial digitaler Medien für die Unterrichtsentwicklung	
+23
+05_ ___ Potenzial digitaler Medien für die Schulentwicklung	
+25
+Teil C: Vorbeugen, richtig reagieren, Daten schützen	
+28
+06_ ___ Schutz vor Risiken	
+29
+07_ ___ Umgang mit missbräuchlicher Mediennutzung	
+35
+08_ ___ Sicherer Umgang mit Schuldaten	
+41
+6
+Digitale Medien – wie beeinflussen  
+sie den Schulalltag und was heisst das  
+für die Schule? 
+Für Lehrpersonen, Schulleitende und andere 
+Fachleute aus dem schulischen Umfeld gehören digitale 
+Medien heute zum Berufsalltag. Einerseits sind sie 
+Arbeitsmittel im Unterricht, für die Kommunikation, für 
+administrative und für schulorganisatorische Abläufe. 
+Andererseits sind diese sich rasant entwickelnden Medien 
+Teil der sozialen Welt der Schüler*innen, zu der auch die 
+Schule gehört. Durch die Präsenz digitaler Medien im 
+Schulalltag ergeben sich vielfältige Fragestellungen, 
+Möglichkeiten und  Herausforderungen – sei es im Unter-
+richt, auf dem Pausenplatz oder im Kontakt mit Eltern. Drei 
+Beispiele illustrieren dies:
+•	Eine 5. Klasse studiert im Sportunterricht einen Volkstanz 
+ein. Die Lehrerin zeigt den nächsten Teil vor. Da rennt  
+eine Schülerin zu ihrer Tasche, holt ihr Smartphone hervor, 
+stellt sich neben die Lehrerin und fragt, ob sie die Sequenz 
+nochmals wiederholen könne. Sie wolle ein Video auf- 
+nehmen, zum Üben daheim. Spontan freut sich die Lehrerin 
+über die gute Idee. Auf der anderen Seite hat sie ein 
+mulmiges Gefühl. Schliesslich hat sie keine Kontrolle 
+darüber, was anschliessend mit diesem Film passiert.  
+Soll sie es in diesem Fall zulassen?
+•	In der Aula wird der Abschlussabend der Projektwoche 
+eröffnet. Viele Eltern sind gekommen, der Schulleiter 
+hält eine Ansprache. Alle Kinder der 4. bis 6. Klasse 
+haben sich in der vergangenen Woche mit ihrer 
+Mediennutzung auseinandergesetzt. Dabei haben sie 
+nicht nur wichtige Regeln über das richtige Verhalten im 
+Internet und den Umgang mit Mobiltelefonen, Tablets 
+und Computern gelernt, sondern auch viel über ihre 
+eigenen Medienerfahrungen nachgedacht und disku-
+tiert. Ganz besonders stolz sind sie auf die vielfältigen 
+Produkte, die im Lauf der Woche entstanden sind. Die 
+einen haben mit selbst gemalten Bildern und eigenen 
+Texten Lernfilme zum Thema erstellt. Andere haben mit 
+Hilfe von Apps kunstvolle Selbstporträts kreiert. Dritte 
+DIGITALE MEDIEN  
+VERÄNDERN DEN SCHULALLTAG
+ 
+haben Fotostories gemacht und wieder andere einfache 
+Computeranimationen. In einer Vernissage präsentieren 
+sie die Ergebnisse ihrer Arbeit.
+•	Ein Schüler einer 7. Klasse fehlt im Unterricht. Die Mutter 
+ruft in der Pause die Klassenlehrerin an. Sie berichtet, 
+dass der Sohn am Vortag beim Umziehen in der Hallenbad- 
+garderobe von Mitschülern mit dem Mobiltelefon gefilmt 
+worden sei. Sie weiss nicht, ob der Film schon weiter 
+geschickt oder gar ins Internet hochgeladen wurde. Die 
+Lehrerin ist sich unsicher, ob sie den Vorfall direkt mit  
+der Klasse thematisieren oder zuerst mit dem Schulleiter 
+Rücksprache nehmen soll.
+Die Beispiele machen deutlich, dass sich die ausserschulische 
+Lebenswelt der Lernenden durch die Mediennutzung immer 
+stärker mit dem Schulalltag vermischt. Die beiden Welten 
+können weder zeitlich noch räumlich voneinander getrennt 
+werden und beeinflussen sich gegenseitig. Was bedeutet 
+dies für die Schule? Welche neuen Möglichkeiten für das 
+Unterrichten ergeben sich daraus? Wie können Lehrpersonen 
+und Schüler*innen Smartphones und Tablets gewinn- 
+bringend für das Lehren und Lernen einsetzen? Mit welchen 
+problematischen Vorkommnissen könnte die Schule 
+konfrontiert werden und wie kann sie diese verhindern oder 
+auffangen? Jede Schule braucht heute Antworten auf  
+diese Fragen. Nur eine Schule, welche die Chancen und 
+Risiken von digitalen Medien im Schulalltag mitberück-
+sichtigt, kann einen sinnvollen Unterricht mit und über  
+Medien anbieten. Und sie kann dazu beitragen, dass Heran- 
+wachsende mit Medien gewinnbringend, verantwortungs-
+bewusst, kritisch, kreativ, genussvoll und sicher umgehen 
+und auf die Gesellschaft von morgen gut vorbereitet sind. 
+7
+Was versteht man unter Medienkompetenz?
+Medienkompetenz gilt als Schlüsselqualifikation der 
+Informationsgesellschaft. In der Regel umfasst der Begriff 
+neben dem technischen Wissen, wie digitale Medien bedient 
+werden, auch die Fähigkeit, verantwortungsbewusst und 
+kritisch mit Medien umzugehen sowie ein Verständnis dafür, 
+wie Informationstechnologien funktionieren. Damit dies 
+gelingt, braucht es Lese- und Schreibkompetenzen, denn auch 
+multimediale Inhalte wie Bilder und Filme müssen «gelesen» 
+und verstanden werden.
+Je nach Definition schliesst Medienkompetenz aktive 
+Gestaltungskompetenzen, Genussfähigkeit sowie soziale 
+und kommunikative Kompetenzen ein. Zu einem zeitgemäs-
+sen Verständnis von Medienkompetenz gehören zudem der 
+sorgfältige Umgang mit persönlichen Daten, das Beachten 
+von Verhaltensregeln, das Abschirmen vor digitalen 
+Ablenkungen, das Filtern von unüberschaubaren Mengen an 
+Informationen und das Einschätzen der Qualität der Inhalte. 
+Im pädagogischen Bereich hat sich das «Dagstuhl-Dreieck» 
+durchgesetzt, um die Perspektiven der digitalen Bildung zu 
+veranschaulichen:
+Technologische Perspektive
+Wie funktioniert das?
+Digitale
+vernetzte 
+Welt
+Phänomene, Gegenstände 
+und Situationen
+Gesellschaftlich-kulturelle
+Perspektive
+Wie wirkt das?
+Anwendungsbezogene Perspektive
+Wie nutze ich das?
+Perspektiven der digitalen Bildung, Quelle: https://gi.de
+Es ist unabdingbar, den Aufbau von Medienkompetenz mit 
+der Entwicklung von Lebenskompetenz zu verschränken. 
+Wer sich den Anforderungen der realen Welt stellen kann, 
+findet sich auch in der virtuellen Welt leichter zurecht. 
+Schüler*innen können dann Medienkompetenz aufbauen, 
+wenn sie die Freiheit haben, Dinge auszuprobieren, selbst zu 
+gestalten und ihre eigenen Erfahrungen zu sammeln –  
+gerade im geschützten Rahmen, den ihnen die Schule bietet.
+Wie eignen sich Kinder und Jugendliche 
+Medienkompetenz an?
+Jüngere Kinder lernen den Umgang mit Medien in erster 
+Linie durch Vorbilder, indem sie das Medienverhalten ihrer 
+Eltern und der Menschen aus ihrem Umfeld beobachten und 
+imitieren. Im Jugendalter nimmt der Einfluss der Erwachsenen 
+zunehmend ab und die Gleichaltrigen werden zur Hauptbe-
+zugsgruppe. So sagen Jugendliche gemäss einer Studie
+(JAMESfocus 2015), dass sie bei Problemen mit dem
+Internet Freund*innen fragen, die sich auskennen, oder sich
+im Internet selbst informieren. Nach wie vor wünschen
+sie sich aber auch Unterstützung von ihren Eltern und von 
+Seiten der Schule. Nicht zu unterschätzen ist deshalb 
+auch die Vorbildrolle von Lehrpersonen.
+Was bedeutet Förderung von Medienkompe-
+tenz in der Schule?
+«Man kann nicht nicht Medienpädagogik betreiben», meint 
+der Schweizer Medienpädagoge Christian Doelker. Medien 
+sind im Leben der Kinder omnipräsent und Bestandteil jedes 
+Schulzimmers. Auch wer sich für die Wandtafel statt für 
+eine digitale Präsentation entscheidet, nutzt ein Medium. 
+Medienkompetenzförderung in der Schule heisst also, sich 
+Gedanken zu machen über die Vor- und Nachteile der 
+verschiedenen Medien und die Kinder zu ermutigen, 
+verschiedene Formen zu erproben. Dazu gehört, die 
+Medienpräferenzen der Kinder und der Lehrpersonen kritisch  
+zu hinterfragen und gegenseitig voneinander zu lernen. 
+Digitale Medien sind dann eine Bereicherung, wenn sie 
+analoge Medien und medienfreie Begegnungen mit neuen 
+Themen, Lerngegenständen und Lernmethoden nicht 
+ersetzen, sondern ergänzen.
+Schüler*innen können dann  
+Medienkompetenz aufbauen,  
+wenn sie die Freiheit haben, 
+Dinge auszuprobieren.
+8
+Was erfahre ich in dieser Broschüre?
+Die vorliegende Broschüre richtet sich an Lehrpersonen, 
+Schulleitende der Volksschule sowie an andere Fachleute 
+aus dem schulischen Umfeld wie Schulsozialarbeitende, 
+Personen aus der Betreuung und  Schulführung, 
+Therapeut*innen usw. Sie zeigt auf, wie die angesprochenen 
+Personen Kinder und Jugendliche beim Aufbau ihrer Medien-
+kompetenz unterstützen können. 
+Selbstverständlich sind auch Bücher, Arbeitshefte und 
+Bilder Medien, die in der Schule ihren festen Platz haben.  
+In dieser Broschüre kommen hingegen hauptsächlich digitale 
+Medien zur Sprache. Das Hybridmedium Computer, das 
+Internet sowie Tablets und Smartphones als «Computer im 
+Taschenformat» nehmen in der Schule eine herausragende 
+Stellung ein; der Informationsbedarf ist entsprechend hoch.
+Teil A dieser Broschüre gibt im Sinn von Orientierungswissen
+einen Einblick in den Stellenwert, den digitale Medien im
+Leben der Schüler*innen einnehmen. Ausserdem befasst er
+sich mit dem aktuellen medienpädagogischen und
+bildungspolitischen Diskurs.
+Teil B nimmt die Chancen in den Blick: Er zeigt, wie Lehrper-
+sonen den Mehrwert von Medien für den Unterricht nutz- 
+bar machen können. Es wird erläutert, welche Bedingun-
+gen auf Klassen- und Schulebene für den Aufbau von  
+Medienkompetenz erfüllt sein müssen und welche Entwick- 
+lungsmöglichkeiten sich daraus ergeben. 
+In Teil C kommen Risiken zur Sprache, die mit der Medien-
+nutzung einhergehen. Es werden Handlungsstrategien zum 
+Schutz vor negativen Medienerlebnissen und der sichere 
+Umgang mit Schuldaten aufgezeigt.
+In Bezug auf digitale Medien im Unterricht gibt es in der 
+Schweiz eine Fülle kantonaler und regionaler Regelungen. 
+Diese Broschüre kann keine detaillierten, gesamtschweize-
+risch gültigen, stufen- und fachspezifischen Inhalte auflisten; 
+das ist die Aufgabe der Lehrpläne und der kantonalen 
+Bildungsdepartemente. Stattdessen zeigt die Broschüre auf, 
+welche Grundhaltungen und Rahmenbedingungen die 
+Förderung der Medienkompetenz begünstigen. Sie soll zur 
+Reflexion anregen und verweist auf weiterführende 
+Informationsquellen und Beratungsstellen.
+Zur Orientierung finden Sie zu Beginn jedes Kapitels 
+Symbole, die zeigen, an welche Zielgruppe sich das 
+Kapitel hauptsächlich richtet:  
+	
+Schulleitende
+	
+Lehrpersonen
+	
+Fachleute aus dem schulischen Umfeld
+Vertiefende Literatur
+•	 Döbeli Honegger, Beat (2017). Mehr als 0 und 1. Schule in einer 
+digitalisierten Welt. hep Verlag.
+•	 Moser, Heinz (2019). Einführung in die Medienpädagogik: Aufwachsen 
+im digitalen Zeitalter. Springer VS.
+9
+TEIL A: JUGEND, MEDIEN, BILDUNG
+ 
+10
+Wie viele Schüler*innen haben ein eigenes Smartphone? 
+Werden überhaupt noch Bücher gelesen?
+Ist es wahr, dass sich Jungen viel stärker für Games 
+interessieren als Mädchen?
+Lehrpersonen, Schulleitungen und andere Fachleute aus 
+dem schulischen Umfeld sind oft nicht mit digitalen 
+Medien in der heutigen Form aufgewachsen. Sie brauchen 
+deshalb ein klares Bild, wie und weshalb Kinder und 
+Jugendliche digitale Medien nutzen. Nur so können sie die 
+Heranwachsenden bei der Erweiterung und Vertiefung 
+ihrer Medienkompetenz verantwortungsbewusst begleiten, 
+können die Kinder und Jugendlichen in ihrer Lebenswelt, 
+bei ihren Interessen abholen und ihr Vorwissen berücksich- 
+tigen ( ➔ Kapitel 3).
+Wie nutzen Heranwachsende digitale  
+Medien?
+Das Smartphone ist für viele Jugendliche das wichtigste 
+Medium. Gemäss JAMES-Studie 2020 besitzen 99% der 
+Jugendlichen ab 12 Jahren ein Smartphone. Nach eigenen 
+Angaben wird das Handy an Wochentagen im Schnitt  
+knapp 4 Stunden genutzt, am Wochenende gut 5 Stunden. 
+Dabei steht vor allem der Chat via WhatsApp (Einzel- und 
+Gruppenchat) hoch im Kurs. Daneben hören Jugendliche 
+Musik oder nutzen soziale Netzwerke und das Internet. 
+Auch Videos zu schauen ist beliebt. Darüber hinaus nutzt 
+eine Mehrheit das Handy auch als Uhr und Wecker. Die 
+beliebtesten Apps sind Instagram, WhatsApp, Snapchat  
+und YouTube. Rund drei Viertel der Jugendlichen nutzen die 
+sozialen Netzwerke Instagram und Snapchat täglich, über 
+die Hälfte sogar mehrmals täglich. Etwa drei Viertel haben 
+auch einen Account bei TikTok. Facebook spielt kaum mehr 
+eine Rolle: 70% nutzen die Plattform nie oder geben an, 
+dass sie sie nicht kennen. Im öffentlich einsehbaren 
+Bereich dieser sozialen Netzwerke verhalten sich die 
+meisten Jugendlichen kommunikativ zurückhaltend und sind 
+eher passive Nutzende. Nebst der Smartphone-Nutzung 
+01_WIE KINDER UND  
+JUGENDLICHE MEDIEN NUTZEN
+ 
+gehen Jugendliche auch anderen Medientätigkeiten nach: 
+64% sehen regelmässig – d.h. täglich oder mehrmals pro 
+Woche – fern, 43% hören regelmässig Radio, 34% spielen 
+regelmässig Videogames. Beliebt sind ausserdem Strea-
+ming-Angebote: Drei Viertel der Familien, in denen 
+Jugendliche leben, haben ein Film- und Serien-Abonnement 
+wie Netflix, über die Hälfte ein Musik-Streaming-Abonne-
+ment wie Spotify. Handy und Tablet üben auf viele Kinder 
+im Primarschulalter eine grosse Faszination aus. Allerdings 
+ist besonders die Nutzung eines Handys stark vom Alter  
+der Kinder abhängig. Gemäss der MIKE-Studie 2019 besitzt 
+rund ein Viertel der 6- bis 9-Jährigen ein eigenes Gerät,  
+bei den 10-/11-Jährigen sind es fast zwei Drittel, bei den 
+12-/13-Jährigen sind es fast 80%. Kinder in der 1. bis 3. 
+Primarklasse nutzen ausserdem genauso häufig ein Tablet 
+wie ein Handy. Die beliebtesten Apps sind YouTube, 
+WhatsApp, Snapchat, Instagram und TikTok. Handys und 
+Tablets werden darüber hinaus auch oft zum Spielen von 
+Games genutzt.
+Im Gegensatz zu den Jugendlichen ist der Medienalltag von 
+Kindern noch nicht so stark durch das Smartphone und  
+die Internetnutzung geprägt. Eine Mehrheit der Kinder sieht 
+mindestens einmal pro Woche fern, hört Musik, liest Bücher, 
+spielt Games oder schaut Videos auf YouTube. Games spielen 
+für viele Kinder somit eine wichtige Rolle, wobei Jungen  
+im Primarschulalter häufiger gamen als Mädchen. Dieser 
+Geschlechterunterschied verstärkt sich im Jugendalter noch. 
+Zwei Drittel der Kinder spielen mindestens einmal pro 
+Woche Games, sei es mit dem Handy, dem Tablet, am 
+Computer / Laptop oder auf einer Konsole. Unter Jugendli-
+chen nimmt das Spielen von Videogames mit zunehmendem 
+Alter ab. Unter Kindern sind die Games Fortnite, Minecraft 
+und FIFA besonders populär, unter Jugendlichen Call of Duty, 
+Fortnite, Minecraft, FIFA und Grand Theft Auto (GTA).
+Obwohl sich die Mediennutzung seit Ende der 1990er-Jahre 
+mit dem Aufkommen des Internets und der Mobiltelefone 
+stark gewandelt hat und das Angebot an digitalen Medien 
+11
+Im Gegensatz zu Jugendlichen 
+ist der Medienalltag von  
+Kindern noch nicht so stark 
+durch Smartphone und Internet 
+geprägt.
+enorm gewachsen ist, sind die nichtmedialen Freizeitaktivi-
+täten im selben Zeitraum mehrheitlich stabil geblieben: 
+Freund*innen treffen, Sport machen und Familienausflüge 
+sind im Alltag von Jugendlichen zwischen 12 und 19 Jahren 
+weiterhin zentral. Bei Primarschulkindern sind Sport, Spielen 
+sowie Freund*innen treffen die Aktivitäten, denen sie  
+in ihrer Freizeit besonders gern nachgehen. Dazwischen 
+rangiert die beliebteste Medientätigkeit – das Gamen.
+Wie nutzen Kinder und Jugendliche Medien 
+für die Schule?
+Inwiefern Kinder und Jugendliche Medien in der Schule 
+einsetzen, hängt massgeblich vom Digitalisierungsgrad  
+der Schule und deren Haltung ab. Oft spielen Medien aber 
+eine Rolle beim Lernen und bei den Hausaufgaben. Insbe- 
+sondere bei den Jugendlichen ist das Smartphone das 
+wichtigste Medium bei den Hausaufgaben. 
+Computer und Laptop werden nur für intensive Internetre-
+cherchen, für Aufgaben auf bestimmten Websites oder 
+Plattformen sowie Word- und PowerPoint-Anwendungen 
+genutzt. Im Schulunterricht ist die Nutzung von Smart-
+phones hingegen selten, obwohl darin ein grosses Potenzial 
+für den Unterricht liegt ( ➔ Kapitel 3). Schüler*innen 
+nutzen Computer und Internet auch zum Lernen: Schon 
+vor Corona gaben 4 von 10 Lehrpersonen auf der 
+Sekundarstufe Hausaufgaben, für deren Bearbeitung 
+digitale Medien genutzt werden mussten. Um sich im 
+Internet zu informieren, werden primär Suchmaschinen wie 
+Google genutzt, aber auch soziale Netzwerke und Video-
+plattformen wie YouTube werden von über drei Vierteln der 
+Jugendlichen mehrmals pro Woche oder häufiger als 
+Informationsquelle eingesetzt. Etwa ein Drittel nutzt 
+Wikipedia täglich oder mehrmals pro Woche um sich zu 
+informieren. Einen grossen Stellenwert haben zudem 
+WhatsApp-Gruppenchats, in denen das Lernen für die 
+Schule, die Organisation des Schulalltags und die Hausauf-
+gaben diskutiert werden. Der Austausch von fertig 
+gelösten Hausaufgaben spielt dabei nur eine untergeord-
+nete Rolle.
+Da Kinder deutlich seltener das Internet nutzen, wird dieses 
+von ihnen auch weniger oft für Hausaufgaben und Lernen 
+eingesetzt. Dabei dient ebenfalls vor allem Google als 
+Informationsquelle, häufig auch YouTube. Spezielle Kinder- 
+plattformen sind eine weitere Möglichkeit der Informations-
+suche, werden aber vergleichsweise selten genutzt.
+Medienfreie Zeiten und Tätigkeiten haben für Kinder und 
+Jugendliche in der Schweiz nach wie vor einen hohen 
+Stellenwert, sowohl inner- als auch ausserhalb der Schule.
+Studien zur Mediennutzung von Kindern und Jugendlichen
+Bernath, Jael; Suter, Lilian; Willemse, Isabel; Külling, Céline; Süss, Daniel; 
+Waller, Gregor (2020): JAMES – Jugend, Aktivitäten, Medien – Erhebung 
+Schweiz. Zürich; Zürcher Hochschule für Angewandte Wissenschaften.
+Heeg, Rahel; Genner, Sarah; Steiner, Olivier; Schmid, Magdalene; Suter, 
+Lilian; Süss, Daniel (2018): Generation Smartphone. Ein partizipatives 
+Forschungsprojekt mit Jugendlichen. Hochschule für Soziale Arbeit FHNW
+und ZHAW Zürcher Hochschule für Angewandte Wissenschaften.
+Hermida, Martin (2019): EU Kids Online Schweiz. Schweizer Kinder und 
+Jugendliche im Internet: Risiken und Chancen. Pädagogische Hochschule 
+Schwyz, Goldau.
+Medienpädagogischer Forschungsverbund Südwest (mpfs) (1998–2020): 
+Jugend, Information, (Multi-)Media. Basisuntersuchung zum Medienum-
+gang 12- bis 19-Jähriger in Deutschland. 
+Steiner, Olivier, Heeg, Rahel (2019): «always on»: Wie Jugendliche das 
+ständige Online-Sein erleben. Hochschule für Soziale Arbeit FHNW: 
+Muttenz/Olten.
+Suter, Lilian; Külling, Céline; Bernath, Jael; Waller, Gregor;  Willemse, 
+Isabel und Süss, Daniel (2019): JAMESfocus – Digitale Medien im 
+Unterricht. Zürich: Zürcher Hochschule für Angewandte Wissenschaften.
+Waller, Gregor; Suter, Lilian; Willemse, Isabel; Külling, Céline; Bernath, 
+Jael; Martel, Nicolas (2019). MIKE – Medien, Interaktion, Kinder, Eltern: 
+Ergebnisbericht zur MIKE-Studie 2019. Zürich; Zürcher Hochschule für
+Angewandte Wissenschaften.
+12
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Sich mit Freund*innen treffen
+Sport treiben
+ausruhen, nichts tun
+Familienausﬂüge
+Freizeit ohne Medien
+täglich / mehrmals pro Woche in %
+GENERATION INTERNET
+Wie sich die Freizeitaktivitäten der Jugendlichen 
+seit 1998 verändert haben.
+Quellen: Klingler (2008) / Medienpädagogischer Forschungsverbund Südwest (mpfs) (2009), JIM-Studien 1998–2019
+13
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+fernsehen
+das Internet nutzen
+Tageszeitung
+lesen
+das Smartphone
+nutzen
+Musik streamen
+Radio höhren
+Musik höhren
+(CD, Kassette)
+Musik höhren
+Bücher lesen
+gamen
+Freizeit mit Medien 
+täglich / mehrmals pro Woche in %
+14
+Schüler*innen, die digitale Medien souverän und sicher 
+nutzen, sind nicht nur gut auf die Berufsbildung und den 
+Besuch weiterführender Schulen vorbereitet, sondern auch 
+auf die Teilnahme am sozialen, kulturellen, wirtschaftlichen 
+und politischen Leben. In unserer von digitalen Medien durch- 
+drungenen Welt erreicht Medienkompetenz somit den Status 
+einer Kulturtechnik, vergleichbar mit Lesen, Schreiben und 
+Rechnen. Die adäquate Nutzung digitaler Medien hilft den 
+jungen Menschen zudem bei der Entwicklung von Lebens-
+kompetenzen wie Selbstwahrnehmung, Kommunikationsfä-
+higkeit und Problemlösefertigkeit. Dadurch können sie im 
+Alltag mit Mitmenschen, Problemen und Stresssituationen 
+angemessen umgehen.
+Soll die Schule die Heranwachsenden auf die Gesellschaft 
+von morgen vorbereiten, gehört dazu also auch die Förderung 
+eines kompetenten Umgangs mit digitalen Medien. Daraus 
+leitet sich ein Bildungsauftrag für die Schule ab. Was aber 
+sollen die Kinder und Jugendlichen in der Schule konkret 
+lernen? In der Deutschschweiz wird diese Frage im Lehrplan 
+21 im Modul Medien und Informatik geregelt. Der Lehrplan 
+wird derzeit in den letzten Deutschschweizer Kantonen 
+eingeführt. In der französischsprachigen Schweiz ist der 
+harmonisierte Lehrplan PER (plan d’études romand) in Kraft. 
+Die Fachgruppe «PER EdNum» ist derzeit dabei, den Medien- 
+und Informatikbereich zu aktualisieren. Im Kanton Tessin 
+arbeitet ebenfalls eine Arbeitsgruppe an der Vertiefung und 
+Umsetzung des Bereichs «Tecnologie e media». Dabei findet 
+eine Harmonisierung mit dem Lehrplan 21 statt.
+Welche neuen Aufgaben ergeben sich für die 
+Schule?
+Durch die wachsende Bedeutung digitaler Medien ergeben 
+sich neue Aufgaben für die Schule, und zwar in vielfacher 
+Hinsicht. Sie werden im Lehrplan abgebildet:
+•	Lebensweltperspektive: Die Schule soll die Erfahrungen, 
+welche die Kinder und Jugendlichen ausserhalb der 
+Schule mit Medien machen, als Ressource nutzen und sie 
+in den Unterricht einbeziehen. Sie soll die Lernenden zur 
+kritischen Reflexion ihrer Mediennutzung anregen und sie 
+auf ihrem Weg zu einem mündigen Medienumgang 
+unterstützen. Durch die Auseinandersetzung mit Medien 
+und die Teilhabe daran wird die Entwicklung der eigenen 
+Persönlichkeit und der eigenen kulturellen Identität mit 
+beeinflusst.
+•	Berufsperspektive: Die Schule soll sicherstellen, dass die 
+Heranwachsenden am Ende der obligatorischen Schulzeit 
+Medien und Informatik in der Berufslehre oder in den 
+weiterführenden Schulen sinnvoll einsetzen und nutzen 
+können.
+•	Bildungsperspektive: Die Schule soll die Schüler*innen 
+befähigen, mit der Informationsflut und dem technischen 
+Wandel zurechtzukommen. Dazu braucht es fundamentale 
+Kompetenzen wie die Fähigkeit, sich in einem unüber-
+sichtlichen Angebot zu orientieren, oder die Kompetenz, 
+sich während der gesamten Lebensspanne neues Wissen 
+und neue Fähigkeiten anzueignen.
+•	Lehr-Lernperspektive: Digitale Medien sollen schliesslich 
+in Schule und Unterricht situations- und stufengerecht als 
+Lehr- und Lernwerkzeuge genutzt werden. 
+Aus diesen vielfältigen Anforderungen ergeben sich für die 
+Schule auch Chancen ( ➔ Kapitel 4, Kapitel 5).
+02_MEDIENKOMPETENZ IN DER 
+SCHWEIZERISCHEN BILDUNGS-
+LANDSCHAFT
+ 
+15
+Welche Bildungsziele soll die Schule 
+aufgreifen?
+Damit Kinder und Jugendliche in der modernen Medien- und 
+Informationsgesellschaft bestehen können, sollen sie 
+während der Schulzeit mit drei Bildungsaspekten vertraut
+gemacht werden. Sie sind im Lehrplan ausführlich erläutert 
+und werden hier in verkürzter Form dargestellt:
+•	Medien verstehen und verantwortungsvoll nutzen: 
+Schüler*innen können sich in einer sich rasch verändernden 
+Medienwelt orientieren, Medien kompetent reflektieren 
+und nutzen sowie die damit verbundenen Chancen und 
+Risiken einschätzen. Sie kennen Verhaltensregeln und 
+Rechtsgrundlagen für ihr Medienhandeln. Ein Unterrichts-
+beispiel: In einem Halbtag setzt sich eine 7. Klasse mit  
+der eigenen Handynutzung auseinander. Die Lernenden 
+vergleichen auf Basis eines Fragebogens ihre individuellen 
+Nutzungsgewohnheiten, sammeln die liebsten Apps und 
+diskutieren in Gruppen über die Vor- und Nachteile der 
+ständigen Erreichbarkeit.
+•	Grundkonzepte der Informatik verstehen und zur Problemlö-
+sung einsetzen: Die Kinder und Jugendlichen erwerben 
+grundlegende Methoden zum Umgang mit Informationen 
+und Daten und können Abläufe beschreiben und formalisie-
+ren. Diese Lösungsstrategien übertragen sie auf verschie-
+dene Lebensbereiche. Ein Unterrichtsbeispiel: Eine 2. 
+Klasse beschäftigt sich mit einem Bodenroboter, welcher 
+über sieben Tasten (vorwärts, rückwärts, links, rechts, 
+Start, Pause, löschen) programmiert und gesteuert werden 
+kann. Wie muss er programmiert werden, damit er unter 
+der Brücke aus Bauklötzen durchfahren kann?
+•	Erwerb von Anwendungskompetenzen: Schüler*innen 
+nutzen Informations- und Kommunikationstechnologien in 
+verschiedenen Fach- und Lebensbereichen. Auch dazu 
+ein Unterrichtsbeispiel: Eine 5. Klasse dokumentiert ihre 
+Projektwoche in einem Klassenblog. Die Kinder erstellen 
+Texte und Bilder, laden sie auf den Blog und erstellen 
+Kommentare zu den Beiträgen der anderen. 
+Die drei Bereiche Medien, Informatik und Anwendungskom-
+petenzen sind nicht trennscharf. Im Lehrplan ist dazu zu 
+lesen: «So setzt beispielsweise eine effiziente Internetre-
+cherche sowohl Kenntnisse über die Funktionsweise von 
+Suchmaschinen (Informatik) als auch Hintergründe zu 
+Geschäftsmodellen und Zensurmassnahmen von Suchma-
+schinen (Medien) voraus, als auch konkretes Wissen zur 
+Bedienung derzeit aktueller Suchmaschinen (Anwendung).» 
+(Modullehrplan Medien und Informatik, S. 7).
+Wie ist Medienkompetenz im Lehrplan 21 
+verankert?
+Der Modullehrplan Medien und Informatik unterscheidet die 
+Kompetenzbereiche Medien und Informatik sowie die 
+Anwendungskompetenzen. Wie hängen diese zusammen und 
+in welcher Form sollen sie im Unterricht vermittelt werden?
+Zu Medien und Informatik enthält der Modullehrplan 
+einleitende Kapitel (Bedeutung und Zielsetzungen, didakti-
+sche, strukturelle und inhaltliche Hinweise) sowie die 
+Darstellung des Kompetenzaufbaus über die verschiedenen 
+Stufen. Der Lehrplan legt fest, welcher Grundanspruch in 
+jeder Kompetenz erfüllt werden muss. Der Erwerb der 
+Anwendungskompetenzen hingegen ist eine fächerübergrei-
+fende Aufgabe und betrifft alle Fachbereiche. In den 
+einleitenden Kapiteln der jeweiligen Fachbereiche werden 
+die zu erwerbenden Kompetenzen aufgelistet und Bezüge 
+zum Fachbereich hergestellt.
+Medien
+Anwendungskompetenzen
+Sprachen
+Mathematik
+NMG
+Gestalten
+Musik
+Informatik
+16
+Welches sind die Herausforderungen bei der 
+Umsetzung?
+Bei der Umsetzung der im Lehrplan 21 definierten Kompe-
+tenzen stellen sich grundsätzliche Fragen: Wie werden die 
+formulierten Anforderungen im Schulalltag umgesetzt? 
+Welche Lehrpersonen vermitteln die Inhalte? Braucht es 
+dazu eigene Zeitgefässe in der Stundentafel oder werden 
+die Inhalte integriert unterrichtet? Die Kantone lösen diese
+Aufgabe unterschiedlich.
+Werden Medien, Informatik und Anwendungskompetenzen 
+in der Schule als überfachliches Thema behandelt, vermit-
+teln verschiedene Fachlehrpersonen die Inhalte. Sie müssen 
+über eine entsprechende Aus- oder Weiterbildung verfügen, 
+um das Thema im Unterricht angemessen berücksichtigen 
+zu können. 
+Wird das Modul Medienbildung und Informatik hingegen in 
+einem separaten Zeitgefäss und von spezialisierten Lehrper-
+sonen unterrichtet, stellt sich die Frage nach dem Fachbezug. 
+Insbesondere bei der Medienbildung lassen sich die Kompe-
+tenzen nur anhand konkreter Inhalte vermitteln ( ➔ Kapitel 3) 
+und dazu braucht es wiederum das Wissen der Fachlehrper-
+sonen. Auf jeden Fall sind sorgfältige Absprachen zwischen 
+allen involvierten Lehrpersonen erforderlich. 
+Zudem stellt sich auch die Frage, welche Lehrmittel zum 
+Einsatz kommen und wie die technische Infrastruktur 
+angepasst werden soll, damit das Konzept mit begrenzten 
+personellen und finanziellen Ressourcen umgesetzt werden
+kann. Schliesslich müssen die Lehrpersonen auch befähigt 
+sein, im Unterricht mit dem rasanten technologischen Wandel 
+Schritt zu halten und die Einbindung von Medien und 
+Informatik in der Praxis zu üben und anzuwenden. Die Heraus- 
+forderungen, denen die Schule sich stellen muss, erfordern 
+nicht zuletzt von Pädagogischen Hochschulen, ihr Angebot 
+in diesem Bereich laufend zu überprüfen. So kann eine 
+angemessene Aus- und Weiterbildung der Lehrpersonen 
+gewährleistet werden.
+Weiterführende Informationen
+Lehrplan 21: www.lehrplan.ch 
+Plan d’études romand PER: www.plandetudes.ch
+Piano di studio della scuola dell'obbligo: www.pianodistudio.ch
+Die Unterrichtsbeispiele in diesem Kapitel stammen von der Plattform 
+www.mia4u.ch. Sie unterstützt Lehrpersonen bei ihrer Unterrichts- 
+planung im Bereich «Medien und Informatik».
+Medienkompetenz bedeutet 
+auch, Medieninhalte kritisch 
+reflektieren zu können.
+17
+TEIL B: UNTERRICHT, CHANCEN, 
+ENTWICKLUNGSMÖGLICHKEITEN
+ 
+18
+Es gehört zu den Aufgaben der Schule, Kindern und
+Jugendlichen einen angemessenen Medienumgang zu
+vermitteln ( ➔ Kapitel 2). Lehrpersonen und Schulleiter*innen 
+teilen diese Meinung; doch sie fragen sich, wann, wo und  
+wie man digitale Medien im Unterricht auf sinnvolle Art und 
+Weise einsetzen und thematisieren kann. Dazu kommt eine 
+sich schnell wandelnde Medienwelt, die es anspruchsvoll 
+macht, konkrete Themen längerfristig zu etablieren.  
+Sie verlangt nach einer permanenten Auseinandersetzung. 
+In vielen Fällen erfordert dies von den Lehrpersonen – wie 
+jede Weiterentwicklung – einen Zusatzaufwand, weil sie sich 
+neues Wissen, neue Fertigkeiten und Methoden aneignen 
+müssen. Dem stehen jedoch gewichtige Vorteile gegenüber: 
+Passend eingesetzt und begleitet, bieten digitale Medien 
+einen Mehrwert für den Unterricht, und der Bildungsauftrag 
+der Schule wird wahrgenommen. 
+Wie kann Medienkompetenz aufgebaut 
+werden, ohne dass dabei andere Inhalte zu 
+kurz kommen?
+Unterricht mit digitalen Medien eröffnet stets auch Möglich-
+keiten, über Medienthemen zu sprechen. Beispielsweise 
+kann der grosse Erfahrungsschatz, den Kinder und 
+Jugendliche im Umgang mit verschiedenen Social-Media-
+Werkzeugen mitbringen (➔ Kapitel 1), Grundlage für  
+neue Formen des Austausches und der Kooperation im 
+Unterricht bilden. Ein paar Beispiele:
+•	Im Unterricht werden Ideen für die nächste Schulreise 
+gesammelt. Mit Hilfe eines digitalen Boards werden die 
+Vorschläge zentral festgehalten, mit Bildern und Zusatzin-
+formationen ergänzt, kommentiert und bewertet. Dies 
+bietet gleichzeitig auch Anknüpfungspunkte für eine 
+Diskussion über die Wirkung unterschiedlicher Kommuni-
+kationsarten oder über den Umgang miteinander – im 
+Netz genauso wie im Klassenzimmer. 
+•	Auch bei Rechercheaufträgen können medienbildnerische 
+Fragen aufkommen: Im Fachbereich «Natur, Mensch, 
+Gesellschaft» setzen sich die Kinder in Gruppen mit 
+verschiedenen Fragen zum Klimaschutz auseinander 
+(z. B. erneuerbare und fossile Energieträger, Klimawandel 
+oder Treibhauseffekt) und recherchieren dazu online. 
+Dabei schätzen sie ab, ob die Ergebnisse der Realität 
+entsprechen können. Sie vergleichen Suchresultate 
+bezüglich Verständlichkeit, Vertrauenswürdigkeit, 
+Aktualität, versteckten Werbe- und anderen Botschaften. 
+Dabei kommen Fragen auf wie: Welche Suchmaschine 
+verwenden wir? Wie gehen wir damit um, dass wir 
+unzählige Suchresultate erhalten? Welche wählen wir 
+aus? Dürfen wir die Bilder einfach kopieren und 
+verwenden?
+•	Die Möglichkeiten digitaler Medien erweitern auch den 
+Rahmen herkömmlicher schriftlicher Dokumentationsfor-
+men. Der Einbezug von Audio- und Videoproduktion 
+eröffnet ein breites Feld kreativer Darstellungsformen. 
+Mit der Produktion von «Lernfilmen» verarbeiten 
+Schüler*innen beispielsweise die Informationen aus den 
+obigen Rechercheaufträgen. Dabei berücksichtigen  
+sie ihr Publikum: Das Gesprochene oder Geschriebene soll 
+gut nachvollziehbar sein, Visualisierungen und Bilder  
+das Verständnis unterstützen. Die Lernenden filmen dabei 
+mit den eigenen Smartphones und erledigen die Nach-
+bearbeitung dank einer Videoapp mit ein paar simplen 
+Handgriffen. Im Vordergrund stehen die Inhalte, weniger 
+technische Perfektion oder Spezialeffekte.
+•	Mit ePortfolios schliesslich können Lernprozesse vielfältig 
+dokumentiert werden. Hier können Text, Audio, Bild  
+oder Video integriert werden. Durch zeit- und ortsunge-
+bundenes Arbeiten im Team entstehen neue Formen  
+der Kommunikation unter den Heranwachsenden, mit der 
+Lehrperson oder auch anderen Bezugspersonen.
+03_DIGITALE MEDIEN IM
+UNTERRICHT
+ 
+19
+Zudem gibt es eine Vielzahl von Lernangeboten in Form von 
+Webdiensten oder Apps, die vor allem die Übungseinheiten 
+effizienter gestalten. Nächtelanges Korrigieren von Diktaten 
+und Kopfrechenserien wird so obsolet – ausserdem liefern 
+diese Programme erst noch eine präzisere Auswertung der 
+Leistungen. Gute Programme geben den Lernenden direktes 
+Feedback und ermöglichen ein adaptives Üben. Dazu ein 
+Schüler aus einem Schulversuch: «Wir hatten ein Lernpro-
+gramm für Geometrie und Algebra. Zuletzt bekam man ein
+Feedback, wie gut man ist und welche Fortschritte man
+gemacht hat. Das ist etwas anderes, als wenn der Lehrer
+vorne etwas erzählt. Ein persönliches Feedback ist dann
+meistens schwierig zu erhalten.» 
+Moderne Lehrmittel setzen digitale Komponenten teilweise 
+bereits parallel zu den gedruckten Materialien ein oder 
+verfügen über Zusatzmaterialien in digitaler Form sowie über 
+Konzepte für deren Einsatz im Unterricht. 
+Am Ende dieses Kapitels finden sich Links zu elektronischen 
+Lehr- und Lernressourcen, also Plattformen mit geeigneten 
+Apps und Webtools für den Unterricht.
+Auf welcher Schulstufe sind welche Medien 
+und Geräte sinnvoll? 
+Zur stufengerechten Vermittlung von Medienkompetenz
+gibt es sowohl liberale als auch konservative Ansätze, 
+ebenso zum Einstiegsalter in die digitale Welt. Tatsache 
+ist: Viele Kinder kommen heute im privaten Umfeld bereits 
+vor dem Kindergartenalter mit digitalen Medien in 
+Berührung. Das Smartphone oder Tablet der Eltern gehört 
+für sie ebenso selbstverständlich zur Kindheit wie Lego 
+oder Puppen. Zentral ist, dass sie von Beginn weg in ihrer
+Mediennutzung begleitet werden. Das heisst: Digitale
+Medien sind bereits im Kindergarten ein Thema. Im
+Unterricht geht es jedoch nicht darum, die Geräte für die
+Unterhaltung zu nutzen, sondern vielmehr zum Lernen und 
+zum Erstellen eigener Medienprodukte. 
+Tablets und Convertibles bieten mit ihrer intuitiven Touch- 
+Bedienung, dem geringen Gewicht und der integrierten 
+Kamera eine hervorragende Einstiegsmöglichkeit in die 
+digitale Medienwelt. Kinder können mit diesen einfach  
+zu bedienenden Geräten sehr schnell selbstständig 
+arbeiten und sie gestalterisch einsetzen. 
+Die lange Akkulaufzeit, die Mobilität und die Bildschirm-
+grösse, die das Arbeiten in Kleingruppen erlaubt, machen  
+Tablets und Convertibles auch über die ersten Schuljahre 
+hinaus zu einem idealen Gerät für einen schüler*innenzen- 
+trierten Unterricht. Dank integrierter Kamera und Mikrofon 
+ersetzt das Multifunktionsgerät zudem Digitalkamera, 
+Videokamera und Tonaufnahmegerät.
+Erst wenn die Kinder schreiben können, ist der Wechsel auf 
+eine Tastatur sinnvoll. Dazu kann in einem ersten Schritt 
+durchaus diejenige auf dem Tablet verwendet werden. Ab 
+der 5. Klasse, spätestens aber auf der Sekundarstufe, 
+sollten die Lernenden auf verschiedenen Geräten Erfahrun-
+gen sammeln können. Wenn es um Tätigkeiten wie das 
+Verfassen längerer Texte geht, sollte mit Tastatur und Maus 
+bzw. Touchpad gearbeitet werden.
+Die meisten Jugendlichen verfügen über ein eigenes 
+Smartphone. Idealerweise wird es hie und da auch in den 
+Unterricht integriert. Richtet die Lehrperson die Arbeits-
+aufträge auf Kleingruppen aus, können die Schüler*innen 
+mit den in der Klasse verfügbaren Geräten arbeiten.  
+Ein Lehrer beschreibt das Potenzial für den Unterricht so: 
+«Meine stiefmütterliche Einstellung gegenüber der Nutzung 
+von Handys während des Unterrichts hat sich verändert.  
+Ich habe mich geöffnet, und die Schülerinnen und Schüler 
+haben angefangen, das Handy als Kamera und Aufnahme-
+gerät für Projekte zu nutzen. Ich habe heute eine andere 
+Einstellung zu Dingen, die ich früher aus irgendwelchen 
+Sicherheitsgründen weghaben wollte. Heute finde ich: Nutzt 
+diese Geräte, aber nutzt sie gleich zum Lernen und nicht  
+nur zum Spass.» Wichtig ist dabei, dass damit kein Zwang 
+zum Kauf eines privaten Geräts entsteht.
+20
+Darüber hinaus lassen sich auf diese Weise positive wie 
+negative Erfahrungen mit dem Smartphone gemeinsam
+reflektieren. Damit ein solcher Austausch funktioniert,
+werden das bereits vorhandene Wissen und die Vorerfah-
+rungen der Jugendlichen einbezogen. Diese bieten
+Anknüpfungspunkte für eine kritische Auseinandersetzung
+( ➔ Kapitel 6).
+Welche Lehr- und Lernarrangements  
+eignen sich besonders gut, um mit digitalen 
+Medien und Geräten zu arbeiten?
+Damit digitale Medien und Geräte im Unterricht optimal 
+eingesetzt werden können, braucht es nicht nur eine 
+entsprechende Infrastruktur und kompetente Lehrperso-
+nen, sondern auch angepasste Unterrichtsformen. 
+Besonders geeignet sind erweiterte Lehr- und Lernformen 
+wie das Arbeiten mit Wochenplänen oder Projektunter-
+richt. Sie machen es den Lernenden leicht, selbstständig 
+Inhalte zu erarbeiten und aufzubereiten. Wie produktiv 
+hier der Einsatz mobiler digitaler Geräte ist, zeigt sich 
+beispielsweise im Projekt https://www.my-pad.ch/. 
+Tablets werden in Schulklassen (vom Kindergarten bis zum 
+Ende der obligatorischen Schulzeit) in Verbindung mit 
+erweiterten Lehr- und Lernformen genutzt. 
+Ein Beispiel aus einer 2. Klasse: Die Kinder sind dabei, ein 
+Stück für ein Theatertreffen zu üben. Mit dem Tablet 
+werden die Szenen gefilmt und danach in der Gruppe 
+gemeinsam angeschaut, besprochen und Anpassungen 
+festgelegt. Die Kinder entpuppen sich als sehr kritisches 
+Publikum: Jede Bewegung, jeder Satz wird genauestens 
+analysiert und beurteilt. Korrektur- und Verbesserungsvor-
+schläge werden den Schauspieler*innen direkt mitgeteilt 
+und sind durch die Filmaufnahme auch nachvollziehbar.
+Kooperatives Lernen
+Digitale und mobile Medien eignen sich ausgezeichnet für 
+Erarbeitungs- und Präsentationsphasen im Unterricht.  
+Das macht sie für das kooperative Lernen besonders 
+prädestiniert. Schüler*innen teilen sich dabei die Recherche- 
+arbeit zu einem vorgegebenen oder selbst gewählten Thema 
+Danach sammeln sie die Informationen in der Gruppe und 
+entscheiden, welches die relevanten Ergebnisse sind. 
+Gemeinsam setzen sie diese in ein Medienprodukt um, sei 
+dies ein Lernfilm, eine Wortwolke zum Thema oder  
+eine Präsentation mit Folien. Die Produkte präsentieren sie 
+abschliessend der Klasse oder publizieren sie im Internet. 
+Dabei eignen sie sich Kompetenzen an, die in unserer 
+Gesellschaft zunehmend gefragt sind. Ein Schüler: «Man 
+muss zuletzt etwas haben, um es den anderen zu präsentie-
+ren. Das ist auch ein Ansporn. Dementsprechend kennt man 
+sich danach besser aus – im Thema, aber auch mit den 
+digitalen Tools.»
+Digitale Medien fördern das kooperative Lernen nicht zuletzt 
+deshalb, weil sich die Lernenden die Geräte teilen müssen. 
+Gerade im Kindergarten und in der Schule (etwa bis zur 
+4. Klasse) ist das durchaus sinnvoll. Das Lernen von- und 
+miteinander ist hier zentral – analog wie digital. Viele 
+Schulen beginnen etwa ab der 5. Klasse, alle Lernenden mit 
+digitalen Geräten auszustatten. Statt ihren Auftrag 
+gemeinsam vor demselben Bildschirm zu erledigen, arbeiten 
+die Schüler*innen dann zunehmend zeit- und ortsunabhängig 
+kooperativ zusammen.
+Die Smartphones der Jugend-
+lichen können in den  
+Unterricht integriert werden.
+21
+Selbstgesteuertes Lernen
+Beim selbstgesteuerten Lernen müssen die Lernenden sich 
+zu einem gesetzten oder selbst gewählten Inhalt selbst-
+ständig Informationen beschaffen. Dabei lernen sie, 
+Informationen zu suchen, zu bewerten und auszusortieren. 
+Über die damit einhergehenden Veränderungen im Lernprozess 
+berichtet eine Schülerin: «Es macht einen Unterschied,  
+ob man vom Lehrer alles Wissen auf dem Tablett serviert 
+bekommt oder ob er sagt: ‹Das ist das Thema. Erarbeitet 
+dazu etwas in Gruppen und stellt es nachher vor.› In Vierer- 
+gruppen suchen wir dann die Informationen im Internet, 
+schauen, welche Informationen relevant sind und machen 
+daraus eine Präsentation. Man muss aktiv sein. Man kann 
+nicht einfach nur passiv dasitzen und sagen: ‹Was der redet, 
+nimmt mich nicht wunder.›» Der Begriff «selbstgesteuert» 
+bezieht sich dabei nicht nur auf das Thema, sondern auch auf 
+die Arbeitstechnik. Digital oder analog: Die Lernenden 
+müssen entscheiden, welches die adäquaten Mittel sind, 
+um die Inhalte zu erarbeiten und sie passend an das 
+Publikum zu bringen. 
+Wie kann die Lehrperson eine lernförder-
+liche Atmosphäre herstellen?
+Digitale Geräte kann man auf viele verschiedene Arten 
+nutzen. Das macht sie zu interessanten Werkzeugen  
+im Unterricht. Die Kehrseite ist, dass sich Kinder und 
+Jugendliche leicht dazu verleiten lassen, sich mit anderem 
+als dem Schulstoff zu beschäftigen. Damit dies nicht 
+geschieht, braucht es ansprechende und differenzierende 
+Aufgabenstellungen. Wenn die Schüler*innen selbstbe-
+stimmt in einer Lernumgebung arbeiten, die ihren 
+Bedürfnissen und ihrem Lernstand entspricht, und wenn 
+digitale Geräte regelmässig zum Einsatz kommen, wird 
+deren schulische Nutzung zur Selbstverständlichkeit. 
+Darüber hinaus braucht es – wie in anderen Bereichen 
+auch – klare Regeln, wie digitale Medien und Geräte im 
+Schulalltag genutzt werden dürfen  
+( ➔ Kapitel 6).
+Für die Lehrperson heisst dies unter anderem: Es braucht 
+eine stärkere Binnendifferenzierung. Die Schüler*innen  
+sollen also Aufgaben lösen, die ihren jeweiligen Fähigkeiten 
+und Kenntnissen sowie ihrem Lernstand entsprechen.  
+Mit den bereits genannten Lehr- und Lernarrangements 
+sowie passenden Tools, die freies und vielschichtiges 
+Arbeiten ermöglichen, kann dies gewährleistet werden.  
+Die Lehrperson schafft sich so zudem Freiraum,  
+um die Lernenden zu begleiten und individuell zu fördern. 
+Eine Lehrerin der 6. Klasse berichtet aus ihrem Unterricht: 
+«Für das Bildnerische Gestalten habe ich eine Origami-
+Werkstatt erstellt. Dazu habe ich YouTube-Faltanleitungen 
+für Vögel herausgesucht und nach Schwierigkeitsgrad 
+geordnet. In Zweiergruppen falteten die Schülerinnen und 
+Schüler zuerst einfachere Vögel. Sie nutzten die Möglichkeit, 
+das Video zu stoppen und knifflige Sequenzen mehrmals 
+anzuschauen. Die Gruppen kamen dabei unterschiedlich 
+schnell vorwärts. Für Kinder, welche Mühe hatten, konnte ich 
+mir viel Zeit nehmen. Die Schnellsten konnte ich auf weiter- 
+führende Videoanleitungen verweisen.»
+Wie stark soll der Gebrauch von  
+elektronischen Geräten und digitalen  
+Medien eingeschränkt werden? 
+Viele Schulen kennen ein generelles Verbot für Mobiltelefone 
+im Unterricht und auch Computer kommen oft nur unter 
+strengen Rahmenbedingungen zum Einsatz. Lässt man den 
+Schüler*innen hingegen freie Hand in der Wahl ihrer Mittel, 
+finden sie teilweise Lösungen, welche die Lehrperson nicht 
+vorgesehen hat. Eine solche Situation hat eine Lehrerin mit 
+ihrer 8. Klasse erlebt: «Ich war zuerst entrüstet, als ich den 
+Schülerinnen und Schülern ein englisches Lied zum 
+Übersetzen gab und sie dann einfach im Internet nach 
+Übersetzungen suchten. Das sind Veränderungen, die ich 
+auch bei mir zulassen muss: Gewisse Aufgabenstellungen 
+muss ich anpassen. Eigentlich finde ich es schön, wenn sie 
+auf die Idee kommen, sich Hilfsmittel zu suchen.»
+22
+Diese Lehrerin wertet den Einsatz digitaler Medien als 
+Chance und hat erkannt, dass der Unterricht angepasst 
+werden muss (  ➔ Kapitel 4). Klar ist: Wenn elektronische 
+Geräte und digitale Medien im Schulalltag Einzug halten, 
+rückt die Schule einen Schritt näher an die Lebenswelt  
+der Kinder und Jugendlichen heran. Eine allzu restriktive 
+Grundhaltung der Schulleitung und der Lehrperson ist in 
+dieser Situation nicht zweckmässig. Wenn die Schule eine 
+grundlegende Medienkompetenz vermitteln soll, müssen  
+die Heranwachsenden auch die Gelegenheit erhalten, 
+digitale Medien zu nutzen – nur so können sie Erfahrungen 
+machen, die sie stärken. Die Lernenden brauchen eine Spiel- 
+wiese, auf der sie Dinge ausprobieren und auch Fehler 
+machen dürfen. Dabei können sogar negative Erfahrungen 
+lehrreich sein, weil sie die Jugendlichen im Umgang mit 
+digitalen Medien kompetenter machen ( ➔ Kapitel 6). 
+Lehrmittel zur Medienbildung
+•	 Lehrmittelverlag Zürich: «connected»
+•	 Lehrmittelverlag St. Gallen: «inform@21»
+Plattformen mit elektronischen Lehr- und Lernressourcen:
+•	 Ein Teil der Unterrichtsbeispiele in diesem Kapitel stammen von der 
+Plattform www.mia4u.ch. Sie unterstützt Lehrpersonen bei ihrer 
+Unterrichtsplanung im Bereich «Medien und Informatik».
+•	 Dreimaldrei: Planungshilfe für drei Kompetenzbereiche und drei Zyklen 
+der Pädagogischen Hochschule Zürich – Zentrum Medienbildung: 
+www.dreimaldrei.ch
+•	 Apps und Webtools für den Unterricht von der Beratungsstelle Digitale 
+Medien und Unterricht – imedias: www.imedias.ch/appadvisor
+•	 SRF mySchool, Thema «Medien und Informatik»: 
+https://www.srf.ch/sendungen/myschool/themen/medien-und-informatik
+•	 App-Empfehlungen des Deutschen Jugendinstituts (DJI): 
+www.datenbank-apps-fuer-kinder.de
+•	 Suchmaschine für Bildungsmedien: 
+www.bildungsserver.de/elixier
+•	 Schoolmaps: Unterrichtsideen für den Einsatz des Kartenviewers des 
+Bundes: http://www.schoolmaps.ch
+23
+Digitale Medien und elektronische Geräte verändern zuneh- 
+mend den Schulalltag. Sie bieten im Unterricht Möglichkei-
+ten, die noch vor wenigen Jahren in dieser Form undenkbar 
+waren. Die Lehrpersonen brauchen also Wegleitungen, wie 
+sie diese neuen Möglichkeiten sinnvoll in den Unterricht 
+einbauen können. Und sie müssen mit der Tatsache zurecht-
+kommen, dass die Schüler*innen einer anderen Medienge-
+neration angehören und deshalb digitale Medien und 
+elektronische Geräte anders nutzen als sie selbst. Diese auf 
+den ersten Blick anspruchsvolle Aufgabe gelingt, wenn das 
+Vorwissen und die Fähigkeiten, welche die Kinder und 
+Jugendlichen mitbringen, in den Unterricht einfliessen.  
+Das bedeutet: Im Schulalltag braucht es eine angepasste 
+Herangehensweise zur Vermittlung von Bildungsinhalten. 
+Was verändert sich für die Lehrperson?
+Ein Lehrer bringt die Antwort auf diese Frage wie folgt auf 
+den Punkt: «Ich denke, dass eine Demokratisierung des 
+Wissens stattgefunden hat. Es gibt Schüler*innen, die auf 
+einigen Gebieten mehr wissen als ich. Wenn ich weiss, 
+dass ein Schüler sich mit einer bestimmten Technologie sehr 
+gut auskennt und ich mich nicht damit auseinandersetzen 
+will, dann zeigt er das den anderen. Ich moderiere nur noch 
+den Prozess.» 
+Das Rollenverständnis und die Aufgaben der Lehrpersonen 
+verändern sich also. Es geht nicht mehr nur darum, Wissen  
+zu vermitteln, sondern Lernprozesse zu begleiten. Die Lehr- 
+person wird zum Lerncoach, der oder die für das Unterrichts-
+setting zuständig ist, das Lernen fördert und die Lernenden 
+im Schulalltag begleitet. Auch im Unterricht ohne digitale 
+Medien ist Lerncoaching möglich. Aber weil der Einsatz 
+digitaler Medien zur Neugestaltung von Lernaufgaben 
+einlädt, bietet sich diese Form der Lernbegleitung gerade 
+für den Unterricht mit und über Medien an.
+Lerncoaches unterstützen die Lernenden nicht nur, wenn  
+sich diese, selbstständig oder unter Anleitung, neue 
+Kenntnisse aneignen, sondern sie hinterfragen das Erarbeitete  
+auch immer wieder. Förderliche Lehr-/Lernarrangements 
+sind beispielsweise kooperatives und selbstgesteuertes 
+Lernen sowie binnendifferenzierende Aufgabenstellungen. 
+( ➔ Kapitel 3).
+Diese veränderte Grundhaltung erfordert von den Lehr-
+personen Mut. Sie müssen bereit sein, ihr Rollenverständnis 
+weiterzuentwickeln und die Heranwachsenden  
+als Expert*innen in den Unterricht einzubeziehen.
+Welches sind die Anforderungen an die 
+Lehrperson?
+Damit Lehrpersonen den Schüler*innen vermitteln können, 
+wie man kompetent mit digitalen Medien umgeht, brauchen 
+sie eine Basis. Sie verfügen über:
+•	ausreichende Medienkompetenz und (medien-)technische 
+Fertigkeiten
+•	(medien-)pädagogische, allgemein- und fachdidaktische 
+Kompetenz ( ➔ Kapitel 3)
+•	Orientierungswissen zum Medienumfeld der  
+Schüler*innen ( ➔ Kapitel 1, Kapitel 6)
+•	Wissen zum Bereich «Medien und Informatik» im Lehrplan 
+( ➔ Kapitel 2)
+•	die Bereitschaft, die Kompetenzen aus den verschiedenen 
+Bereichen zu verknüpfen und sich laufend an das sich 
+verändernde Medienumfeld anzupassen
+Aufgabe der Schulen und Schulleitungen ist es, die 
+Lehrpersonen entsprechend zu befähigen und Ressourcen 
+bereitzustellen ( ➔ Kapitel 5).
+04_POTENZIAL DIGITALER MEDIEN 
+FÜR DIE UNTERRICHTSENTWICK-
+LUNG
+ 
+24
+Kein Unterricht mehr ohne digitale Medien? 
+Digitale Medien bieten viele Möglichkeiten, aber es wäre 
+falsch, ihren Nutzen zu überschätzen. Sie können im Unter- 
+richt auch einfach als Werkzeuge eingesetzt werden.  
+In sinnvollen und lernförderlichen didaktischen Lernsettings 
+hat sich aber auch gezeigt, dass mit Hilfe von Medien völlig 
+neue Aufgabenstellungen möglich sind. Wie bereichernd der 
+Unterricht für die Schülerinnen und Schüler ist, hängt letzt- 
+lich immer noch massgeblich von der Lehrperson ab. Kein 
+noch so ausgeklügeltes Gerät oder Medium kann sie ersetzen.
+Weiterführende Informationen
+Kantonale ICT-Fachstellen: www.educa.ch/ict-fachstellen
+Kantonale pädagogische Weiterbildungsstellen: Pädagogische 
+Hochschule des Schulkantons
+Vertiefende Literatur
+Döbeli Honegger, Beat (2016): Mehr als 0 und 1. Schule in einer 
+digitalisierten Welt. Bern: hep.
+Wampfler, Philippe (2013): Facebook, Blogs und Wikis in der Schule.  
+Ein Social-Media-Leitfaden. Göttingen: Vandenhoeck & Ruprecht.
+Wampfler, Philippe (2014): Generation «Social Media». Wie digitale 
+Kommunikation Leben, Beziehungen und Lernen Jugendlicher verändert. 
+Göttingen: Vandenhoeck & Ruprecht.
+25
+Die Institution Schule reagiert stets mit einer gewissen 
+Verzögerung auf technologische Entwicklungen – und das 
+ist gut so. Primär steht in der Schule der Mensch im 
+Zentrum. So wird Technologie immer im pädagogischen 
+Kontext beurteilt und weder marktwirtschaftliche Faktoren 
+wie Produktivitätssteigerung noch die Notwendigkeit 
+technischer Innovation zwecks Wettbewerbsvorteil stehen 
+im Fokus. Beim Thema Digitalisierung sehen sich Schulen 
+jedoch mit einem gesellschaftlichen Phänomen konfrontiert, 
+das gerade auch für pädagogische Organisationen weitrei-
+chende Folgen haben wird.
+•	Wie verändern die ständige Verfügbarkeit digitaler Geräte 
+und unlimitierter Internetzugang das Verhalten und die 
+Rollen der Kinder und Jugendlichen, der Lehrpersonen – 
+ aber auch der Eltern?
+•	Wie kann die Sicherheit schulischer Daten angesichts der 
+immer grösseren Gerätedichte im schulischen Umfeld 
+gewährleistet werden?
+•	Welche technischen Lösungen muss die Schule ange-
+sichts des immer grösseren «Breitband-Hungers» von 
+Online-Diensten und Online-Applikationen bereitstellen?
+•	Wie können Kommunikations-, Kooperations- und 
+Austauschplattformen für den schulischen Gebrauch in 
+Einklang mit Administrations- und Verwaltungsplattfor-
+men gebracht werden?
+Dies sind nur ein paar Fragen, welche unter die Stichworte 
+«Digitalisierung» und «digitale Transformation» fallen. 
+Technische Hypes sind oft so schnelllebig, dass sie an der 
+Schule vorbeiziehen, ohne Spuren zu hinterlassen. Was sich 
+jedoch langfristig als technologische Entwicklung etabliert 
+(Digitalisierung) und entsprechend gesellschaftliche 
+Relevanz erlangt (digitale Transformation), findet seinen 
+Niederschlag letzten Endes auch in der Volksschule und 
+wird als Thema für die Schulentwicklung bedeutsam.
+Wie sollen Schulen mit dem Thema Digitalisierung 
+umgehen?
+Der Begriff Digitalisierung steht für den weltumfassenden 
+Megatrend der digitalen Transformation und der Durchdrin-
+gung all unserer Lebensbereiche – Wirtschaft, Staat, 
+Gesellschaft, Individuum – mit digitalen Medien und 
+Technologien. Doch wie sollen Schulleitende und Lehrperso-
+nen auf diesen Megatrend reagieren?
+Die Schule sollte ihre «träge» Reaktionszeit auf technologi-
+sche Entwicklungen als etwas Positives sehen und zu ihrem 
+strategischen Vorteil nutzen. Anstatt in technologische 
+Hypes zu investieren, lohnt es sich, technologische und 
+damit einhergehende gesellschaftliche Entwicklungen 
+langfristig zu beobachten – und erst dann zu entscheiden, 
+welche personellen, pädagogischen und finanziellen 
+Investitionen sich lohnen. Eine eher «defensive» Strategie 
+bei technologischen Fragen ist nachhaltig ausgerichtet und 
+führt zu einer inhaltlichen Auseinandersetzung mit dem 
+Thema Digitalisierung aus der Perspektive der Schule.
+Die Herausforderung besteht darin, die Digitalisierung als 
+unumkehrbare Realität anzuerkennen und sich auf das 
+Thema der digitalen Transformation und dessen Bedeutung 
+für den pädagogischen Alltag einzulassen. So wird der Weg 
+frei, das Potenzial, die Chancen und Risiken der Digitalisie-
+rung und der digitalen Transformation im Kontext der Schule 
+einzuschätzen und entsprechende Veränderungen einzulei-
+ten. Hierbei gilt als oberstes Gebot: Pädagogik ist und bleibt 
+das Kerngeschäft der Schule. Es gilt unbedingt zu vermei-
+den, dass bei der Digitalisierungsstrategie der Schule 
+finanzielle und personelle Ressourcen zu einem hohen Teil in 
+Verwaltungsprozesse und in die Infrastruktur fliessen – und 
+am Ende zu wenig Ressourcen für den Unterricht und für 
+pädagogische Entwicklungen übrig bleiben.
+05_ POTENZIAL DIGITALER MEDIEN 
+FÜR DIE SCHULENTWICKLUNG
+ 
+26
+Wie werden die Herausforderungen der 
+Digitalisierung gemeistert?
+Verantwortliche für Digitalisierung und digitale 
+Transformation
+Im Sinne einer partizipativen Schulentwicklung lohnt es sich 
+für eine Schulleitung, Lehrpersonen in die thematische 
+Mitverantwortung einzubeziehen. Dies erfolgt sinnvoller-
+weise über bereits etablierte und spezialisierte Funktionen 
+wie die des schulhausinternen pädagogischen ICT-Supports 
+(PICTS) oder des technischen ICT-Supports (TICTS). Als 
+Hüter*innen des Themas entwickeln die spezialisierten 
+Kolleg*innen Konzepte, Instrumente und Lösungen, welche 
+der Schule helfen, ihre digitale Zukunft optimal zu gestalten.
+Auf der pädagogischen Ebene unterstützen sie Kolleg*innen 
+bei der didaktischen Konzeption und Umsetzung medienge-
+stützter Lernumgebungen ebenso wie bei der Aufarbeitung 
+medienpädagogischer Themen und haben den Überblick 
+über Online-Anwendungen für den Unterricht. Sie wissen, 
+welche Bedeutung die Themen Digitalisierung und digitale 
+Transformation auf den Alltag von Lehrpersonen, Lernen-
+den, Eltern und Behörden haben.
+Auf der Ebene der Organisation zeichnen sie dafür verant-
+wortlich, dass die digitale Transformation zur gelebten 
+Schulkultur wird. Digitale Arbeits-, Kooperations- und 
+Kommunikationsplattformen ermöglichen Lehrpersonen 
+neue Formen der Kommunikation und des Wissensaus-
+tauschs. Effiziente Lösungen zur Verwaltung und Administ-
+ration schaffen die Basis für optimierte und transparente 
+Prozesse – von der Beurteilung von Schüler*innen und 
+kantonalen Leistungsvorgaben bis hin zur Einhaltung von 
+Datenschutzanforderungen.
+Zuverlässige Infrastruktur bereitstellen und Band-
+breite sicherstellen
+Eine zuverlässig funktionierende Infrastruktur ist zwingen-
+de Voraussetzung, damit der Prozess der digitalen 
+Transformation gelingt. Für ein reibungsloses Arbeiten 
+muss der technische Support rund um die Uhr gewährleistet 
+sein – sei es durch spezialisierte Lehrpersonen oder Externe.
+Im Zuge der Digitalisierung ist davon auszugehen, dass in 
+Zukunft noch weit mehr Applikationen, Dienstleistungen 
+und Dienste über das Internet laufen werden als heute 
+schon. Eine leistungsfähige Internetanbindung mit ausrei-
+chender Bandbreite, stabile lokale Netzwerke, ein professionell 
+implementiertes WLAN und ein zeitgemässes IT-Security-  
+Konzept sind für Schulen ein Muss. Für diese Thematik und 
+die Folgekosten der Professionalisierung müssen Finanz-
+behörden durch die Schulleitungen besonders sensibilisiert 
+werden. Hilfestellung für die Entwicklung eines ganzheitli-
+chen Konzepts für den Einsatz digitaler Medien an Schulen 
+bietet der ICT-Guide des Kantons Zürich.
+Diskurs zum Thema Digitalisierung und digitale 
+Transformation führen
+Unabhängig davon, wie weit eine Schule bei der Digitalisie-
+rung ihres Schulalltags gehen will: Am Ende ist die Tatsache 
+ausschlaggebend, dass sie sich aktiv mit dem Thema der 
+Digitalisierung und der digitalen Transformation auseinan-
+dersetzt und eine bewusste pädagogische Haltung dazu 
+entwickelt. In diesem Prozess werden innerhalb des 
+Kollegiums verschiedene Meinungen aufeinanderprallen, 
+denn die Folgen der Digitalisierung und der digitalen 
+Transformation betreffen alle Beteiligten einer Schule – 
+Schulleitung, Lehrpersonen, Schüler*innen, Eltern, 
+Administrationspersonal und Behörden.
+Die Suche nach einem möglichst grossen gemeinsamen 
+Nenner dieser unterschiedlichen Anspruchsgruppen ist ein 
+intensiver Prozess und eine Chance für die Schulentwick-
+lung. Genau dies bedeutet digitale Transformation: Sie ist 
+kein Projekt mit einem Anfang und einem Ende, sondern 
+vielmehr eine fortlaufende Entwicklung. Bei der Frage der 
+Digitalisierung können durchaus auch technische Fragen  
+zur IT-Infrastruktur in den Fokus rücken. Diese Diskussion 
+muss aber in ständigem Abgleich mit pädagogischen Fragen 
+stehen und darf nicht isoliert betrachtet werden.
+Jede Schule braucht eine 
+bewusste pädagogische und
+didaktische Haltung zum 
+Thema Medien.
+27
+Das Ergebnis dieses Schulentwicklungsprozesses kann 
+beispielsweise in einer Digitalisierungsstrategie der Schule 
+münden, in einer Road-Map zur digitalen Transformation 
+oder in einem Medienleitbild für die Schule. Darin definieren 
+die Beteiligten ihre Grundhaltung und die Rolle, welche 
+digitale Medien an ihrer Schule spielen sollen. Darauf 
+aufbauend können konkrete Handlungsfelder definiert und 
+die notwendigen Rahmenbedingungen geschaffen werden. 
+Ein klares Commitment der Schulleitung, Digitalisierung und 
+digitale Transformation als Thema für Schulentwicklung  
+zu definieren, ist eine zwingende Voraussetzung für den 
+Einstieg in diesen Prozess.
+Was sind die Vorteile eines solchen Entwicklungs-
+prozesses?
+Eine schulische Strategie zur Digitalisierung hilft, administra-
+tive und organisatorische Prozesse effizienter zu gestalten 
+und leistet somit einen Beitrag zur Schonung und Optimierung 
+von personellen Ressourcen.
+Von viel grösserer Bedeutung jedoch ist der aus der Digitali- 
+sierung resultierende Prozess der digitalen Transformation 
+als Schulentwicklungsthema. Mit einer schulischen Strategie 
+dazu kann eine neue Unterrichtskultur der Kooperation,  
+der Kommunikation und des Wissenstransfers etabliert 
+werden – und zwar bei allen Beteiligten: unter Lehrpersonen 
+und unter Schüler*innen ebenso wie zwischen Lehrper-
+sonen und den Schüler*innen.
+Weiterführende Informationen und vertiefende Literatur:
+•	 ICT-Guide des Kantons Zürich: www.ict-guide.zh.ch
+•	 Bericht der Projektschule Goldau:  
+www.projektschule-goldau.ch/brings-mit
+TEIL C: VORBEUGEN, RICHTIG 
+REAGIEREN, DATEN SCHÜTZEN
+ 
+29
+Welche Gefahren gibt es in der digitalen 
+Welt? 
+Heranwachsende nutzen soziale Netzwerke, Messenger-
+dienste und Chats, um sich mit Gleichaltrigen auszutau-
+schen, um den Kontakt mit entfernt wohnenden Familienan-
+gehörigen zu pflegen, Liebesbeziehungen anzubahnen oder 
+sich selbst darzustellen. All diese Aktivitäten, die auch im 
+Offline-Leben eine wichtige Rolle spielen, gehören zum 
+Heranwachsen und fördern die Entwicklung der eigenen 
+Identität. 
+Nicht alle Kinder und Jugendlichen sind sich aber bewusst, 
+dass digitale Medien auch Risiken mit sich bringen. 
+Lehrpersonen, Schulleitende und andere Fachleute aus dem 
+schulischen Umfeld sind ebenso wie Eltern in ihrem Alltag 
+mit Kindern in Kontakt, die häufig über eine hohe Nutzungs-
+kompetenz und viel Experimentierfreude verfügen, aber 
+wenig über ihr Medienverhalten nachdenken. Ihre Aufgabe 
+ist es, die Heranwachsenden bestmöglich vor den Gefahren 
+zu schützen. Viele Erziehende fühlen sich jedoch unsicher, 
+welche Regeln im Umgang mit digitalen Medien sinnvoll sind,  
+wo die Grenzen liegen und vor welchen Risiken die Kinder 
+geschützt werden müssen.
+Gewalthaltige Medieninhalte
+Im Internet sind für Kinder und Jugendliche ungeeignete
+Inhalte viel einfacher zugänglich als in der analogen Welt.  
+Zu diesen Inhalten gehören etwa Gewaltdarstellungen, die 
+via Messenger, in Filmen oder in Computerspielen 
+zugänglich sind. Es kommt auch vor, dass Jugendliche selbst 
+gewalthaltige Medieninhalte produzieren und diese  
+auf Videoplattformen veröffentlichen. Im Gegensatz zu
+sexuellen Inhalten werden Gewaltdarstellungen von
+Online-Videoportalen mehrheitlich toleriert und sind so
+für Kinder und Jugendliche leicht zugänglich. 
+06_SCHUTZ VOR RISIKEN
+ 
+Pornografische oder unerwünschte sexuelle Inhalte
+Durch das Internet ist Pornografie auch für Kinder und
+Jugendliche sehr einfach zugänglich geworden. Einige rufen 
+solche Inhalte gezielt auf, etwa um ihre Neugier zu stillen. 
+Andere stossen ungewollt auf sexuelle oder pornografische 
+Bilder und Filme, zum Beispiel in Pop-up-Werbefenstern. 
+Cybermobbing und Sexting
+Digitale Medien machen den Transfer von Texten, Bild- und 
+Filmmaterial zu einem Kinderspiel. Inhalte können – gewollt 
+oder ungewollt – eine enorme Reichweite erlangen. Im Falle 
+von Cybermobbing bedeutet dies, dass Opfer innert kürzerster 
+Zeit vor einer grossen Community blossgestellt werden 
+und die Inhalte an verschiedenen Orten immer wieder 
+auftauchen können. Dies gilt auch für erotische Bilder oder 
+Filme von Jugendlichen, die ursprünglich als Liebesbeweis 
+verschickt wurden (Sexting) und dann missbräuchlich 
+weiterverbreitet werden. Der Vertrauensmissbrauch kann 
+gravierende Folgen für die Opfer haben.  
+Sexuelle Belästigungen und Übergriffe, 
+Cybergrooming, Pädokriminalität
+Beliebt am Chatten ist, dass man online in Echtzeit miteinander 
+«plaudern» kann. Leider finden in anonymen Chats und  
+Foren häufig sexuelle Belästigungen statt. Dabei ist rund die 
+Hälfte der Täter*innen unter 18 Jahre alt. Cybergrooming 
+bedeutet, dass pädosexuell interessierte Personen gezielt 
+Minderjährige ansprechen, ihr Vertrauen gewinnen und  
+ihre Opfer schliesslich sexuell ausbeuten. Sie nutzen dabei 
+neben Chats und Foren auch Dating-Apps, Online-Games 
+und Social Media.
+30
+Hassrede, Diskriminierung, problematische Inhalte 
+und verzerrte Informationen
+In der relativen Anonymität des Internets kann es zu 
+Beleidigungen und Diskriminierungen von Personen 
+aufgrund ihrer Hautfarbe, ihrer ethnischen Zugehörigkeit, 
+ihres Geschlechts, ihrer sexuellen Orientierung oder  
+ihrer Religion kommen (Hassrede oder auch Hate Speech/
+Cyberhate). Jugendliche können hier als Opfer, aber auch  
+auf Täter*innenseite betroffen sein. Zu Themen, die die 
+Neugierde wecken (Drogen, Essstörungen, etc.) kursieren 
+zudem online Informationen, die für Kinder und Jugendliche 
+nicht immer leicht einzuordnen sind. Bestimmte Informa-
+tionsseiten und Online-Communities können jugendliche 
+Betroffene weiter in ihre Probleme hineinziehen. Zudem 
+können sich Nutzer*innen online gegenseitig zu selbstschä-
+digendem oder kriminellem Verhalten anstacheln.
+Gefahren für den Daten- und
+Persönlichkeitsschutz
+Viele Kinder und Jugendliche sind sich nicht bewusst, wie 
+sehr sich die Spielregeln der digitalen Kommunikation
+von einem privaten Gespräch unterscheiden. Online- Messen-
+ger und Videochat verleiten einige unter ihnen, unbedacht 
+private Informationen einer grösseren Öffentlichkeit preiszu-
+geben. Zudem sammeln viele App- und Webanwendungen 
+die Daten ihrer Nutzer*innen zu kommerziellen Zwecken. Sie 
+verwenden sie beispielsweise für gezielte Werbung oder 
+verkaufen Identitätsprofile an Dritte.
+GEWALT
+PORNOGRAFIE
+DISKRIMINIERUNG
+HASSREDE
+PÄDOKRIMINALITÄT
+VERLETZUNG DER PRIVATSPHÄRE
+VERZERRTE INFORMATIONEN
+CYBERMOBBING
+DATENSCHUTZ
+EXZESSIVE NUTZUNG/NUTZUNGSDAUER
+PROBLEMATISCHE INHALTE
+GRUPPENDRUCK
+ABOFALLEN
+BETRUG
+SPAM
+WERBUNG
+MICRO-PAYMENTS
+SCHLEICHWERBUNG
+Gefahren für Kinder und Jugendliche bei der Nutzung digitaler Medien
+31
+Nutzungsdauer und übermässiger Medienkonsum
+Der grosse Unterhaltungswert des Internets und die 
+Verfügbarkeit digitaler Geräte verleiten manche Kinder und 
+Jugendlichen dazu, stundenlang online zu sein. Die reine 
+Bildschirmzeit bietet allerdings noch keine ausreichenden 
+Hinweise darauf, ob das Nutzungsverhalten als problema-
+tisch einzustufen ist. Während die meisten Heranwachsen-
+den in der Schweiz Medien in angemessenem Umfang 
+nutzen, nehmen für einige Mediennutzung und -inhalte 
+unverhältnismässig viel Raum ein. Dadurch fehlt die Zeit für 
+andere Freizeitaktivitäten, für die Pflege von Freundschaften 
+und die Familie sowie für Schlaf und die Schule.
+Kostenfalle
+Apps, mobiles Surfen, Spotify, Netflix, Online-Games kosten 
+zwar für sich alleine gesehen wenig, können sich aber doch 
+zu beträchtlichen Beträgen summieren und so zur Kostenfal-
+le werden. Riskant sind ausserdem In-App- bzw. In-Game-
+Käufe (Micro-Payments). So sind viele Games erstmal 
+kostenlos (free to play). Um allerdings langfristig im Spiel 
+erfolgreich zu sein, muss man beispielsweise Spielgegen-
+stände oder eine Spielwährung kaufen (pay to win).
+Wie kann man Heranwachsende vor Risiken 
+schützen?
+Es gibt technische, regulative und erzieherische Ansätze, um 
+Kinder und Jugendliche vor den Risiken zu schützen, die mit 
+digitalen Medien einhergehen. Für einen wirkungsvollen 
+Schutz müssen diese kombiniert werden.
+Technische Massnahmen für die Schule
+•	
+Content-Filter (Inhaltsfilter): Sie verhindern, dass 
+Kinder auf jugendschutzrelevante Inhalte im Internet 
+stossen. Filter sind aber ein zweischneidiges Schwert. 
+Erstens können Kinder untereinander trotzdem 
+problematische Inhalte versenden. Zweitens bergen sie 
+die Gefahr, dass sich die Lehrpersonen in falscher Sicher-
+heit wiegen und vergessen, dass auch die Diskussion 
+über problematische Inhalte zur Stärkung der Medien-
+kompetenz beiträgt. Der Einsatz von Content-Filtern 
+setzt die Information der Betroffenen voraus, weshalb 
+ein entsprechender Hinweis erfolgen muss. Zudem  
+ist die Auswertung von Log-Listen aus Content-Filtern 
+datenschutztechnisch problematisch und eine Daten-
+bearbeitung muss rechtlich beurteilt werden.
+•	
+Daten schützen: Firewall, Virenschutz, gute Pass-
+wörter, eine verschlüsselte Kommunikation und  
+das regelmässige Löschen von Cookies im Browser 
+sind wichtige Massnahmen, um persönliche Daten  
+zu schützen ( ➔ Kapitel 8).
+Regeln definieren und Grenzen setzen
+Damit der Gebrauch von Computern und Mobiltelefonen nicht 
+ausufert, braucht es klare Regeln, zu Hause und in der 
+Schule. Sie legen beispielsweise den Gebrauch von digitalen 
+Geräten im Unterricht fest. In der Schule können diese 
+Regeln in den Schulhausregeln, als Klassenregeln oder als 
+spezifische Nutzungsvereinbarung formuliert werden.  
+Die Informationsseite zu KITS für Kids (Tableteinführung für 
+Schüler*innen der Stadt Zürich) bietet einen Überblick über 
+Medienregeln für den Unterricht. 
+32
+Lernende bei technischen und regulativen
+Massnahmen einbeziehen
+Technische Hilfen und Mediennutzungsregeln sind zwar 
+wichtig, tragen jedoch wenig zu einem kompetenteren 
+Umgang mit Medien bei. Dies sieht anders aus, wenn die 
+Schüler*innen bei der Festlegung der Rahmenbedingungen 
+miteinbezogen werden. Dürfen sie bei der Entwicklung  
+der Regeln mitreden, ist gewährleistet, dass sich diese an 
+ihrer aktuellen Mediennutzung orientieren. Zudem wird  
+die Eigenverantwortung der Heranwachsenden gestärkt; 
+sie halten sich leichter an Regeln, die sie selbst mitgestaltet 
+haben.
+Stärkung der Medienkompetenz
+Die Fachwelt ist sich einig, dass die Stärkung der Medien-
+kompetenz die wichtigste präventive Massnahme darstellt, 
+um Heranwachsende vor den Gefahren in der digitalen Welt 
+zu schützen. Medienkompetente Kinder und Jugendliche 
+wissen sich selber zu schützen und machen dadurch weniger 
+negative Erfahrungen – sie nutzen digitale Medien ange-
+messen und sinnvoll. Die aktuellen Lehrpläne haben Medien-
+bildung deshalb im Curriculum verankert. 
+Voraussetzungen für eine gelingende Medienbildung im 
+Unterricht sind eine offene Kommunikationskultur, ein gutes 
+Klima innerhalb der Klasse und ein guter Draht zwischen der 
+Lehrperson und den Lernenden. Die Lehrperson nimmt ihre 
+Vorbildrolle auch im Umgang mit digitalen Medien wahr. 
+Diese Faktoren bieten, gemeinsam mit einer gut entwickel-
+ten Lebenskompetenz, den besten Schutz gegen allfällige 
+negative Vorkommnisse – mit oder ohne Medien ( ➔ Kapitel 7). 
+Eine gute Grundlage für Fragen rund um Medienkompetenz  
+bietet die Broschüre «Medienkompetenz. Tipps zum sicheren 
+Umgang mit digitalen Medien» (siehe Literaturhinweise).
+Wie wird die Medienkompetenz im  
+Unterricht konkret gestärkt?
+Nutzungsverhalten reflektieren
+«Welche Computerspiele spielt ihr?», «Wie viel bezahlt ihr im 
+Monat für euer Handy-Abo?», «Welche Regeln habt ihr zu 
+Hause bezüglich Bildschirmzeiten?», «Weshalb gibt es 
+Altersempfehlungen für Filme und Computerspiele und 
+haltet ihr euch daran?» 
+Wann immer Medien zum Thema gemacht werden, sollten 
+die Lernenden ihre Erfahrungen und ihre Meinung einbringen 
+und reflektieren können. Dies macht den Kindern und 
+Jugendlichen nicht nur Spass, sondern ist auch aus pädagogi-
+scher Sicht sinnvoll. Je nach Klassenstufe und Vorwissen 
+der Lehrperson bieten sich dazu verschiedene Möglichkeiten 
+an, zum Beispiel ein Medientagebuch, eine statistische 
+Erhebung oder ein Klassengespräch. Dabei sehen Kinder 
+etwa, dass es bei anderen zu Hause ebenfalls Regeln zur 
+Mediennutzung gibt, dass auch andere um Bildschirmzeiten 
+streiten oder die Prepaid-Karten vom Taschengeld bezahlen 
+müssen.
+Dieser Abgleich unterschiedlicher Perspektiven ist enorm 
+wichtig, damit die Kinder und Jugendlichen einen sinnvollen 
+Umgang mit digitalen Medien lernen. In der Reflexions-
+phase übernimmt die Lehrperson die Moderations-Rolle und 
+nimmt sich insbesondere zu Beginn inhaltlich zurück. 
+Moralisierende Bemerkungen und nonverbale Signale wie 
+ein Stirnrunzeln hemmen den offenen Austausch. Um die 
+Diskussion anzuregen, sollte die Lehrperson mit wertfreien 
+Fragen operieren.
+Wesentlich ist, dass die Diskussion über die Problemfelder 
+digitaler Medien nicht aus dem Kontext gerissen wird, 
+sondern dann stattfindet, wenn das Medium im Unterricht 
+eingesetzt oder thematisiert wird. Die Gefahr kontextloser 
+Prävention ist, dass man Heranwachsende auf Ideen bringt, 
+die sie allenfalls vorher gar nicht hatten. 
+Heranwachsende halten sich 
+leichter an Regeln,  
+die sie selbst mitgestaltet 
+haben.
+33
+Die folgenden Themenkreise bieten Anlass für einen 
+Austausch:
+•	
+Fragen zur Medienzeit: Bei vielen digitalen Medien 
+lohnt es sich nachzufragen, wie viel Zeit die Kinder zu 
+Hause vor dem Bildschirm verbringen dürfen und ob sie 
+damit einverstanden sind. Wie viel Bildschirmzeit ist 
+ihrer Ansicht nach zu viel? Interessant ist auch die 
+Frage, ob Eltern den Kindern auch die Zeit beschränken, 
+die sie zum Lesen oder Puzzlespielen aufwenden, und 
+wieso dies wohl nicht der Fall ist.
+•	
+Fragen zum Ton in der Online-Kommunikation:  
+Ob in Instant-Messengern, Chats oder Kommentaren: 
+Anstandsregeln sollten auch im Internet gelten 
+(Netiquette). Um diese Forderung zu verbildlichen, 
+erleichtern Fallbeispiele oder Rollenspiele den 
+Perspektivenwechsel. Was empfinde ich, wenn andere 
+sich im Ton vergreifen und unflätig werden? Bin ich 
+selber weniger gehemmt, wenn ich anonym bin?
+•	
+Fragen zu Altersempfehlungen: Filme, Computer-
+spiele oder auch soziale Medien kennen Altersempfeh-
+lungen. Die Lernenden sollten offen über den Sinn von 
+Altersfreigaben diskutieren können. Hilfreich ist 
+manchmal, wenn die Kinder eine andere Perspektive 
+einnehmen müssen. Dies gelingt, wenn  
+sie etwa beurteilen müssen, ob sie beispielsweise ein 
+bestimmtes Spiel für ihre jüngeren Geschwister 
+freigeben würden. Wiederum könnte auch hier die 
+Frage angestossen werden, weshalb Bücher und auch 
+Comics wohl weniger stark kontrolliert werden als 
+Filme und Computerspiele.
+•	
+Fragen zum Daten- und Persönlichkeitsschutz: 
+Gerade im Bereich der computervermittelten Kommuni-
+kation lohnt es sich zu besprechen, ob es Themen gibt, 
+die man nicht via digitale Medien diskutiert, weil 
+andere mitlesen könnten. Gibt es Bilder, die nicht über 
+digitale Kanäle verbreitet werden sollten? Welche 
+Massnahmen können ergriffen werden, damit man 
+weniger Spuren im Netz hinterlässt, die dann kommer-
+ziell genutzt werden, beispielsweise für gezielte 
+Werbung? Wie kann man verschlüsselt kommunizieren? 
+Einen anderen Zugang zum Thema eröffnet die 
+Diskussion über das Recht am eigenen Bild und ob  
+die Kinder und Jugendlichen es gerne sähen,  
+wenn andere über ihre Bilder oder Texte frei verfügen 
+dürften.
+•	
+Fragen zum Knüpfen von Kontakten: In Chats und 
+sozialen Netzwerken kommen die Lernenden auch mit 
+Unbekannten in Kontakt. Was ist gleich, was ist anders 
+bei Bekanntschaften und Freundschaften in der 
+Online- und Offline-Welt? Welches sind die Regeln für 
+eine sichere Kommunikation mit Unbekannten? 
+•	 Fragen zur Verlässlichkeit von Online-Informati-
+onen: Für viele Schüler*innen ist es nicht leicht, den 
+Wahrheitsgehalt von Informationen aus dem Internet 
+zu beurteilen. Woran erkennen wir eine verlässliche 
+Quelle? Welches sind Warnhinweise für Fake News? 
+Weshalb gibt es Personen, die online irreführende 
+Informationen verbreiten?
+Auch andere Aspekte eignen sich als Diskussionsthemen:  
+Kosten, Malware (beispielsweise Viren und Trojaner) oder 
+Betrug.
+Kritische Grundhaltung
+Eine kritische Grundhaltung entscheidet, ob Kinder und 
+Jugendliche in die Fettnäpfchen des Internets treten oder 
+nicht. Dabei geht es überhaupt nicht um Fachwissen, 
+sondern um eine gesunde Zurückhaltung und die Fähigkeit, 
+verschiedene Perspektiven zu einem Phänomen einzunehmen. 
+Das Lernen in der Schule gründet oft noch auf kanonisier-
+tem Wissen, das nur eine einzige Wahrheit kennt. Wichtig 
+wäre, dass auch Schulbuchtexte und Aussagen von Lehrper-
+sonen jederzeit in Frage gestellt werden dürfen. Um 
+verschiedene Perspektiven zu einem Sachverhalt zusammen-
+zutragen, ist das Internet ein hervorragendes Werkzeug.  
+Die aktuellen Lehrpläne gewährleisten, dass Medienbildung 
+einen Platz im schulischen Curriculum innehat. Damit die 
+Schüler*innen das dort erworbene Wissen auch in ihrem 
+Alltag anwenden können, ist die kontinuierliche Pflege einer 
+kritischen Grundhaltung unabdingbar.
+34
+Für die Prävention ist 
+zentral, dass Lehrpersonen,
+Schulleitung und Eltern 
+Hand in Hand arbeiten.
+Welche Ansatzpunkte für die Prävention hat 
+die Schule? 
+Die Schule kann auf verschiedenen Ebenen präventiv  
+gegen unerwünschte Mediennutzung vorgehen: 
+•	
+Die Lehrpersonen reflektieren die Mediennutzung mit 
+den Kindern und Jugendlichen im Unterricht  
+und fördern deren Kompetenzen in diesem Bereich 
+kontinuierlich. 
+•	
+Die Schulleitung befähigt die Lehrpersonen, Medien 
+situationsangemessen und professionell in den 
+Unterricht einzubinden ( ➔ Kapitel 4 und 5). Viele 
+Schulen verfügen über ein Gesamtkonzept zur 
+Prävention und Krisenintervention, das auch im Zusam- 
+menhang mit digitalen Medien zum Tragen kommt  
+( ➔ Kapitel 7). 
+•	
+Und schliesslich wird empfohlen, in der Elternarbeit die 
+Mediennutzung ausserhalb der Schule zu thematisie-
+ren, sei es mit etablierten Elternmitwirkungsgremien, 
+in Elterngesprächen oder an thematischen Informati-
+onsveranstaltungen für Eltern. 
+Für eine nachhaltige Förderung der Medienkompetenz ist es 
+wichtig, die Massnahmen auf den unterschiedlichen Ebenen 
+miteinander zu verknüpfen. Es ist zentral, dass die unter-
+schiedlichen Akteur*innen – Lehrpersonen, Schulleitung und 
+Eltern – Hand in Hand arbeiten. Projektwochen, Elternaben-
+de, schulübergreifende Informationsveranstaltungen 
+könnten das Resultat einer solchen schulweiten Auseinan-
+dersetzung sein. Oft haben Eltern und Lehrpersonen 
+aufgrund ihrer Lebens- und Erziehungserfahrung ein gutes 
+Gespür, wo die Heranwachsenden bei ihrer Mediennutzung 
+«blinde Flecken» haben. Umgekehrt können die Jüngeren 
+den Älteren positive Aspekte ihrer Mediennutzung aufzei-
+gen, beispielsweise die Nutzung von Messengerdiensten 
+und Social Media für die Kontaktpflege oder den Spielspass 
+beim Gamen.
+In einigen Fällen nehmen die Eltern ihre Erziehungsfunktion 
+in Bezug auf digitale Medien nicht oder nicht ausreichend 
+wahr. So finden in manchen Familien keine Gespräche zur 
+Mediennutzung der Kinder statt, die Kinder nutzen ohne 
+Rückfrage das Internet und die Eltern setzen keine zeitlichen 
+oder inhaltsbezogenen Schranken, wenn die Kinder sich 
+online bewegen. Umso mehr Gewicht kommt hier der 
+Präventionsarbeit der Schule zu. Allerdings müssen die 
+Eltern spätestens dann in die Pflicht genommen werden, 
+wenn es zu negativen Vorkommnissen kommt ( ➔ Kapitel 7).
+Weiterführende Informationen und vertiefende Literatur
+•	 Broschüre «Medienkompetenz. Tipps zum sicheren Umgang mit 
+digitalen Medien» der nationalen Plattform Jugend und Medien. 2019. 
+Download unter www.jugendundmedien.ch.
+•	 KITS für Kids der Stadt Zürich: https://www.stadt-zuerich.ch/
+kitsfuerkids
+Präventionsangebote im Internet:
+•	 Nationale Plattform Jugend und Medien: www.jugendundmedien.ch
+•	 Bundesamt für Kommunikation BAKOM in Zusammenarbeit mit 
+verschiedenen Partnerinstitutionen: «Geschichten aus dem Internet»: 
+www.websters.swiss 
+•	 Präventionsprogramm für den Zyklus 3:  http://be-freelance.net
+•	 EU-Initiative für mehr Sicherheit im Netz: www.klicksafe.de
+•	 Das Internet sicher nutzen: www.saferinternet.at
+•	 Internet-Surfschein: www.internet-abc.de
+Lehrmittel zum Thema: 
+•	 Lehrmittelverlag Zürich: «connected»
+•	 Lehrmittelverlag St. Gallen: «inform@21»
+35
+Ein alltägliches Beispiel und ein Ausnahmefall zeigen die 
+Bandbreite unerwünschter und missbräuchlicher Medien-
+nutzung: 
+•	
+Zwei Jungen einer 7. Klasse streiten sich auf dem 
+Pausenhof. Es fallen Beleidigungen. Am selben 
+Nachmittag geht der Streit im Klassenchat eines 
+Messengerdienstes weiter. Dort droht einer der Jungen 
+dem anderen Gewalt an. Am Folgetag ist der Streit 
+Thema in der Klasse, die Unruhe fällt der Lehrerin auf.
+•	
+Ein Mädchen einer 9. Klasse hackt die Website der 
+Schule und löscht die Inhalte. Stattdessen fügt sie 
+Bilder von Schüler*innen ein und versieht diese mit 
+Kommentaren. Wie sollen der Klassenlehrer und die 
+Schulleiterin reagieren? 
+Die meisten Kinder und Jugendlichen nutzen digitale Medien 
+oft und gerne. Da erstaunt es nicht, dass es auch uner-
+wünschte und missbräuchliche Formen der Mediennutzung 
+gibt. Häufig betreffen diese – wie in den obigen Beispielen 
+– den Unterricht oder die Schule direkt oder indirekt. Der 
+Medienalltag junger Menschen und damit auch die Formen 
+problematischer Mediennutzung wandeln sich laufend. Für 
+Lehrpersonen, Schulleitende und andere Fachleute aus  
+dem schulischen Umfeld sind die Situationen oft neu und sie 
+sind sich deshalb unsicher, welche Reaktion die richtige ist.
+Wie soll die Schule bei negativen  
+Vorkommnissen und Krisen vorgehen? 
+Wie bei anderen unerwünschten Verhaltensweisen ist auch 
+bei unerwünschter Mediennutzung eine situationsadäquate, 
+abgestufte Vorgehensweise zu wählen. Oft löst sich ein 
+Problem bereits durch ein klärendes Gespräch zwischen der 
+Lehrperson und den Betroffenen. Die Heranwachsenden 
+sollen mit der Massnahme nicht in erster Linie bestraft, 
+sondern in der Weiterentwicklung ihrer Medien- und 
+Selbstkompetenz unterstützt und gefördert werden. 
+Besteht aber bei den Tatbeteiligten bereits eine längere 
+Vorgeschichte oder wurde das Opfer massiv geschädigt, 
+entscheidet die Schulleitung über das weitere Vorgehen und 
+das allfällige Hinzuziehen von Fachstellen (siehe Anhang zu 
+diesem Kapitel). Es gibt auch Fälle, in denen unverzüglich die 
+Polizei beigezogen werden muss. Wenn es sich beispiels-
+weise um ein Offizialdelikt handelt (sexuelle Handlungen mit
+Kindern, Verbreitung von Kinderpornografie, schwere 
+Körperverletzung, Tötungsdelikt usw.) oder wenn über ein 
+soziales Netzwerk eine sehr konkrete Bedrohung mit  
+hoher Realisierungsgefahr angekündigt wird. Lehrkräfte 
+können allerdings von der Anzeigepflicht befreit sein,  
+soweit das Wohl des Kindes dies erfordert (siehe kantonale 
+Volksschulgesetze).
+Viele Schulen verfügen für solche Krisenfälle über Interven-
+tionspläne. Generell ist darauf zu achten, dass diese im 
+Schulteam bekannt sind. Dort sind auch die Anlaufstellen 
+aufgeführt, die bei Unsicherheiten kontaktiert werden 
+können. In einzelnen Kantonen, Schulgemeinden und Schulen 
+sieht das Interventionsmodell beispielsweise ein frühes 
+Einschalten der Polizei vor. Es legt auch fest, in welchen 
+Fällen die Eltern involviert werden. Hilft das gültige 
+Interventionsmodell nicht weiter, kann das abgebildete 
+Eskalationsstufen-Modell im Sinn einer Orientierungshilfe 
+dazu beitragen, die angemessene Vorgehensweise zu finden. 
+07_UMGANG MIT MISS- 
+BRÄUCHLICHER MEDIENNUTZUNG
+ 
+36
+Aus Sicht des Opfers kann auch ein Bagatelldelikt eine fatale 
+Wirkung entfalten. Ein im Vertrauen verschicktes erotisches 
+Bild, das an der Schule unkontrolliert in Umlauf gerät,  
+kann einen jungen Menschen in Scham, Verzweiflung und 
+Liebeskummer stürzen und in Einzelfällen auch Suizidge-
+danken auslösen. Es ist wichtig, dass ein Opfer in solchen 
+und ähnlichen Fällen Hilfe erfährt, dass ihm beispielsweise 
+Telefon 147 von Pro Juventute bekannt ist oder dass es sich 
+an die Schulsozialarbeit, an die schulpsychologische 
+Beratungsstelle oder die Opferhilfe-Beratungsstelle wenden 
+kann. Verschärft wird die Situation, wenn die Eltern von 
+Betroffenen aus weltanschaulichen oder religiösen Gründen 
+die Tat verurteilen. 
+Betreffend Meldepflichten und Melderechten haben bei 
+Verdacht auf Gefährdung des Kindswohls auch im Zusam-
+menhang mit missbräuchlicher Mediennutzung die bundes-
+rechtlichen und kantonalen Regelungen Gültigkeit.
+Welche Verhaltensweisen sind strafbar?
+In einigen Fällen ist die missbräuchliche Nutzung digitaler 
+Medien auch strafbar. Für Erziehende ist es hilfreich, die 
+rechtlichen Rahmenbedingungen zu kennen. Kinder ab 10 
+Jahren sind in der Schweiz strafmündig, können also für ihre 
+Taten zur Verantwortung gezogen werden. 
+Eventuell
+Eventuell
+Zeitachse
+   Konsequenz
+   Intervention
+   MISSBRÄUCHLICHE MEDIENNUTZUNG DURCH SCHÜLER*INNEN
+Gespräch zwischen Betroffenen 
+und Lehrperson
+Einbezug der Schulleitung, 
+evtl. der Schulsozialarbeit
+Strafver-
+folgung
+Einbezug der Eltern / 
+Erziehungsberechtigten
+Getroffene Massnahmen fruchten nicht, 
+der Vorfall ist strafrelevant 
+und die Opferseite will Anzeige 
+erstatten
+Klassen- oder schulinterne 
+Massnahme für Direktbetroffene 
+Gegebenenfalls Einschalten 
+externer Fachstellen
+Strafan-
+zeige 
+bei der 
+Polizei
+Begleitende 
+Interventions-  
+oder Präventions- 
+massnahmen 
+auf Klassen-  
+oder Schul-
+ebene
+Orientierungshilfe bei missbräuchlicher Mediennutzung
+37
+Folgende Straftaten können für Heranwachsende relevant sein:
+•	
+In Zusammenhang mit Cybermobbing: Erpressung, Üble 
+Nachrede, Verleumdung, Beschimpfung, Drohung, 
+Nötigung (Art. 156, 173, 174, 177, 180, 181 Strafgesetz-
+buch StGB)
+•	
+Betrügerischer Missbrauch einer Datenverarbeitungs-
+anlage, Verletzung des Geheim- oder Privatbereichs 
+durch Aufnahmegeräte, unbefugtes Beschaffen von 
+Personendaten (Art. 147, 179quater, 179novies StGB)
+•	
+Unbefugtes Eindringen in ein Datenverarbeitungssys-
+tem, Datenbeschädigung (Art. 143bis, 144bis StGB)
+•	
+Weitergabe pornografischen Materials an Kinder unter 
+16 Jahren; Herstellung, Weitergabe oder Konsum 
+pornografischer Inhalte mit Minderjährigen, Gewalt oder 
+Tieren. Darunter fallen unter bestimmten Umständen 
+auch Selbstaufnahmen. (Art. 197 StGB).
+•	
+Besitz oder Weitergabe von Ton- und Bildaufnahmen 
+grausamer Gewalt gegen Mensch oder Tier (Art. 135 
+StGB)
+•	
+Urheberrechtsverletzungen im Zusammenhang mit 
+digitalen Medien, z. B. Hochladen urheberrechtlich 
+geschützter Inhalte (Musik, Filme usw.) ins Internet: 
+Bundesgesetz über das Urheberrecht und verwandte 
+Schutzrechte
+•	
+Bei einer Persönlichkeitsverletzung ist zudem mit  
+einer Zivilklage zu rechnen.
+Weshalb ist ein gutes Schulklima wichtig?
+Nicht alle Menschen reagieren auf negative Erfahrungen 
+gleich. Auch Medienwirkungen sind stark abhängig von  
+der psychischen Widerstandsfähigkeit oder Resilienz. 
+Resiliente Kinder und Jugendliche verfügen über einen guten 
+Zugang zu ihren Gefühlen, haben ihre Impulse eher unter 
+Kontrolle und sind eher bereit, sich bei Problemen Hilfe zu 
+holen als nicht-resiliente. Verlässliche, unterstützende 
+Bezugspersonen sind zentral für die Herausbildung von 
+Resilienz. Negative Auswirkungen digitaler Medien wie 
+Cybermobbing, Suchtverhalten oder Aggressionssteigerung 
+durch Gewaltinhalte können resiliente Kinder und Jugendliche 
+besser abfedern. Deshalb ist es von zentraler Bedeutung, 
+dass auch in der Schule ein resilienzfördernder Umgang 
+gepflegt wird. Dieser zeigt sich darin, dass zwischen 
+Lehrpersonen und Lernenden, aber auch zwischen Lehrperso-
+nen und Eltern eine offene Kommunikationskultur gepflegt 
+wird. Die jungen Menschen werden beim Herausbilden ihrer 
+Selbst- und Sozialkompetenzen unterstützt und das Klima  
+ist von einer klaren Haltung gegen Gewalt geprägt. Treten 
+trotzdem negative Medienerlebnisse auf, können sich  
+diese in Stimmungs- und Verhaltensänderungen niederschla-
+gen. Die Lehrperson sollte diesen in einem Gespräch auf  
+den Grund gehen.
+Nachfolgend werden drei Formen von unerwünschter und 
+missbräuchlicher Mediennutzung aufgegriffen, für deren 
+Prävention die Schule eine herausragende Stellung 
+einnehmen kann: Cybermobbing, sexuelle Übergriffe im 
+Zusammenhang mit digitalen Medien und Datenmissbrauch. 
+Was tun bei einem Cybermobbing-Vorfall?
+Cybermobbing – auch Cyberbullying und Internetmobbing 
+genannt – ist eine Sonderform von Mobbing. Ein gängiges 
+Verständnis definiert Cybermobbing als Verhalten, bei dem 
+Einzelne oder Gruppen unter Nutzung digitaler Medien 
+anderen wiederholt mit aggressiven oder feindseligen 
+Nachrichten oder Bildern Schaden zufügen wollen. Cyber-
+mobbing unterscheidet sich in einigen Punkten vom klassischen 
+Mobbing: Die Täter*innen können anonym agieren, die  
+Inhalte verbreiten sich sehr rasch und sind rund um die Uhr 
+und oft über lange Zeiträume online zugänglich. Aber 
+Achtung: Nicht jeder Konflikt, der auf dem Pausenhof 
+beginnt und sich unschön im Chat einer Social-Media-
+Plattform fortsetzt, nicht jede beleidigende Textnachricht ist 
+als Cybermobbing einzustufen. Cybermobbing kommt im 
+schulischen Umfeld nicht nur zwischen Heranwachsenden 
+vor; auch Lehrpersonen und andere Personen aus dem 
+schulischen Umfeld können betroffen sein. 
+38
+Verschiedene Studien messen Cybermobbing anhand 
+unterschiedlicher Kriterien. Zahlen, die angeben, wie häufig 
+Cybermobbing vorkommt, sind daher mit Vorsicht zu 
+geniessen. Gemäss der Schweizer Studie von «EU Kids 
+Online» (2019) werden 2 bis 5 Prozent der 9- bis 16-Jährigen 
+online stark gemobbt, erleben also mindestens einmal pro 
+Woche gemeines Verhalten.
+Wie sehr jemand unter Cybermobbing leidet, hängt neben 
+der psychischen Widerstandsfähigkeit des Mobbing-Opfers 
+auch von der Unterstützung ab, die es aus seinem Umfeld 
+erhält. Mögliche Folgen des Cybermobbings sind der Verlust 
+an Selbstvertrauen, Angstzustände und Depressionen.
+Was können Schulen zur Prävention von Cyber- 
+mobbing tun? 
+Es ist sinnvoll, die Cybermobbing-Prävention in die schuli-
+sche Mobbingprävention zu integrieren. An Schulen  
+mit offener Kommunikationskultur, die eine klare Haltung 
+einnehmen und bei Vorkommnissen definierte Abläufe 
+kennen, trauen sich Schüler*innen eher, ein Problem zu 
+melden. Auch die Lehrpersonen werden durch Präventi-
+onsmassnahmen sensibilisiert und durch ein definiertes 
+Standardvorgehen entlastet. 
+Was tun im Ernstfall?
+Erwachsene sollten aufmerksam zuhören und Ruhe bewahren. 
+Die belästigende Person soll sofort gesperrt und  
+dem sozialen Netzwerk oder Chatforum gemeldet werden. 
+Beweismaterial wie in Messengern geführte Unterhaltungen 
+und Bilder sollte man sichern, beispielsweise mittels 
+Screenshot, und danach – wenn möglich – alle Online-Inhalte 
+löschen oder von den Plattformbetreibern löschen lassen. 
+Text- und Bildnachrichten, die auf die Täterschaft hinweisen, 
+sind als Beweismaterial aufzubewahren. Eine verantwort-
+liche Person wird bestimmt und trifft verbindliche Abmachun-
+gen mit allen Beteiligten. Falls die schulinternen Mass-
+nahmen nicht fruchten, werden auch die Eltern einbezogen.
+Eine Strafanzeige bei der Polizei sollte sorgfältig abgewogen 
+werden, beispielsweise zusammen mit der Schulsozialar-
+beit, einer polizeilichen Beratungsstelle oder einer Opferhilfe-
+Beratungsstelle, denn ein strafrechtliches Verfahren kann 
+die Situation unter Umständen verschlimmern.
+Was tun gegen sexuelle Übergriffe, bei 
+denen digitale Medien eine Rolle spielen?
+Wenn Heranwachsende anfangen, sich für Sexualität zu 
+interessieren, kommen häufig auch digitale Medien  
+ins Spiel. Aufklärungsseiten im Netz suchen, Pornografie 
+anschauen oder im Chat flirten sind normale Internetak-
+tivitäten Jugendlicher. Problematisch wird es erst dann, 
+wenn Grenzen überschritten werden. Laut der schweizerischen 
+Studie von «EU-Kids-Online» (2019) erhält rund ein Viertel  
+der 9- bis 16-Jährigen sexuelle Nachrichten über digitale 
+Medien. Dabei können die Grenzen zwischen Spass,  
+Entdecken der eigenen Sexualität und Übergriffen verwischt 
+werden.
+Problematisch oder gar strafbar ist, wenn persönliche 
+Grenzen der Kinder und Jugendlichen überschritten
+werden oder wenn Pädokriminelle die Anonymität des 
+Internets für die Anbahnung von Kontakten zu Minder- 
+jährigen missbrauchen. So wurde rund ein Fünftel der 
+Schweizer Kinder und Jugendlichen gemäss obiger Studie 
+online nach sexuellen Informationen über sich gefragt, 
+obwohl sie diese Fragen eigentlich nicht beantworten 
+wollten. 
+Die Schule kann hier eine wichtige präventive Funktion 
+erfüllen, gerade auch für Kinder, deren Eltern die Sexualer-
+ziehung nicht ausreichend wahrnehmen. 
+Eine klare Haltung  
+der Schule gegen Gewalt  
+hilft betroffenen  
+Kindern und Jugendlichen.
+39
+Was können Schulen zur Prävention von sexuellen 
+Übergriffen im Zusammenhang mit digitalen Medien 
+tun?
+Auch hier gilt: Die kontinuierliche Arbeit an der Reflexions-
+und Sozialkompetenz der Heranwachsenden, ein waches 
+Auge und ein offenes Ohr für ihre Anliegen und Sorgen sind 
+der beste Schutz. Die Nutzung digitaler Medien soll mit  
+der schulischen Sexualerziehung verknüpft werden. Folgende 
+Themen und Botschaften können im Unterricht aufgegriffen 
+und vermittelt werden:
+•	Wie stelle ich mich im Internet dar?
+•	Mit Unbekannten chatte ich nur mit einer gesunden 
+Portion Misstrauen und gebe keine persönlichen  
+Kontaktdaten oder Fotos heraus. Wenn überhaupt ein 
+Treffen stattfinden soll, dann nur in Begleitung einer 
+erwachsenen Person und an einem öffentlichen Ort.
+•	Ich wäge besonnen ab, ob ich von mir erotisches oder 
+pornografisches Bild- und Textmaterial erstelle  
+und verbreite. Abgesehen vom Schaden, den man sich 
+persönlich damit zufügen kann, ist die Weitergabe 
+pornografischen Materials an Kinder unter 16 Jahren 
+strafbar, ebenso die Herstellung, Weitergabe oder  
+der Konsum pornografischer Inhalte mit Minderjährigen. 
+Darunter fallen unter Umständen auch Selbstaufnahmen. 
+Erotische Selbstdarstellungen können zudem zum 
+Gegenstand von Erpressungen werden (Sextortion).
+•	An wen kann ich mich wenden, wenn ich unangenehme 
+Medieninhalte sehe oder unangenehme Erfahrungen 
+mache?
+Was tun gegen Datenmissbrauch?
+Viele Menschen, so auch Kinder und Jugendliche, geben im 
+Internet persönliche Daten oder Bilder von sich preis: in 
+Messenger-Nachrichten, in sozialen Netzwerken, bei der 
+Teilnahme an Wettbewerben, im Chat, bei Umfragen,  
+aber auch, wenn sie im Rahmen des Unterrichts mit Online- 
+Diensten arbeiten. 
+Gemäss der Schweizer JAMES-Studie 2020 haben 32%  
+der Heranwachsenden schon erlebt, dass Fotos oder  
+Videos von ihnen ohne ihre Zustimmung ins Netz gestellt 
+wurden. Das Datenschutzgesetz hilft zwar, wenn persön-
+liche Daten missbraucht worden sind, der Schutz ist jedoch 
+nicht umfassend. Das hängt mit dem Wesen des Internets 
+zusammen: Ein Bild, mit dem Smartphone aufgenommen  
+und dann über einen Messengerdienst an fünf Personen 
+geschickt, kann sich enorm schnell und unkontrolliert 
+verbreiten. Es braucht deshalb einen verantwortungsvollen 
+Umgang mit den eigenen Daten. 
+Was können Schulen zur Prävention von 
+Datenmissbrauch tun?
+Hatte 2010 erst knapp über die Hälfte der jugendlichen 
+Nutzer*innen sozialer Netzwerke die Privatsphäre-
+Einstellungen aktiviert, waren es 2020 66%. Dieser Anstieg 
+fällt mit verschiedenen medienpädagogischen Bestrebungen 
+zum Persönlichkeitsschutz und einer erhöhten Sensibilität 
+bezüglich der eigenen Online-Nutzung von Jugendlichen 
+zusammen.
+Im Unterricht arbeiten Lernende immer wieder mit Bildern, 
+Filmen, Daten und digitaler Kommunikation. Damit der 
+Lerneffekt nachhaltig ist, sollen ebendiese Anlässe dazu 
+genutzt werden, Fragen des Daten- und Persönlichkeits-
+schutzes zu thematisieren. Dazu gehören beispielsweise: 
+•	Aufnahmen von Bildern und Videos (von Lehrpersonen, 
+Lernenden oder Dritten) werden nur mit Einwilligung 
+erstellt.
+•	Es werden sichere Pseudonyme und Passwörter verwendet. 
+Das Passwort wird niemandem verraten.
+•	Werden Bilder, Filme oder persönliche Informationen 
+online gestellt, wird vorgängig das Einverständnis der 
+Betroffenen eingeholt. Das «Recht am eigenen Bild»  
+wird respektiert.
+40
+•	Neue Kontakte oder «Freundschaften» werden zurückhal-
+tend akzeptiert und die Netiquette wird eingehalten.
+•	Die Privatsphäre-Einstellungen auf Social-Media-Plattfor-
+men werden sorgfältig eingestellt und regelmässig 
+überprüft.
+Wer hilft weiter?
+Das Feld unerwünschter und missbräuchlicher Mediennut-
+zung ist weit. Manchmal übersteigen die Anforderungen die 
+Expertise und den Zuständigkeitsbereich von Lehrpersonen 
+und Schulleitenden. Folgende Stellen und Informationsange-
+bote können weiterhelfen:
+•	Kantonale Kriseninterventionsstellen, Stellen für 
+Schulsozialarbeit, schulpsychologische Beratungsstellen, 
+Opferhilfe-Beratungsstellen, Kinderschutz-Fachstellen 
+und Fachstellen für Gewaltprävention
+•	Medienfachstellen der Pädagogischen Hochschulen 
+•	Direkte und rasche Hilfe für betroffene Kinder und 
+Jugendliche: Beratung 147 von Pro Juventute via Telefon, 
+SMS, E-Mail oder Chat, die E-Beratung  
+https://www.tschau.ch der Kinder- und Jugendförderung 
+Schweiz sowie Jugendberatungsstellen
+•	KrisenKompass Plus. Online-Handbuch für den Umgang 
+mit Krisen in der Schule: www.krisenkompass-plus.ch
+•	Unabhängig von konkreten Vorkommnissen ist es sinnvoll, 
+dass die Schule Kontakt mit der Polizei (Präventionsstelle 
+oder Jugendpolizei) unterhält. Sie kann sich auch an  
+die Schweizerische Kriminalprävention und die Nationale 
+Koordinationsstelle zur Bekämpfung der Internetkrimi-
+nalität (KOBIK) wenden. 
+•	Eine Übersicht über Informations- und Beratungsangebote 
+in der Schweiz findet sich in der Datenbank von Jugend 
+und Medien – https://www.jugendundmedien.ch
+Weiterführende Informationen
+•	 Die Schweizerische Kriminalprävention hat verschiedene Broschüren 
+erarbeitet, die über die Website www.skppsc.ch verfügbar sind:  
+«My little Safebook» über Belästigungen im Internet richtet sich an 
+Jugendliche, Eltern und Erziehungsberechtigte; darüber hinaus  
+sind Broschüren zu den Themen Pornografie, Cybermobbing und  
+«Das eigene Bild» verfügbar.
+•	 Pro Juventute bietet Informationen zu medienpädagogischen Themen 
+(Cybermobbing, Games, Sexting usw.): www.projuventute.ch
+•	 Auf der Website des Bundesamts für Gesundheit finden sich eine 
+Charta, ein Handbuch und Rechtsgrundlagen für Schulen zur 
+Früherkennung und Frühintervention: https://www.bag.admin.ch/bag/
+de/home/gesund-leben/gesundheitsfoerderung-und-praevention/
+praevention-fuer-kinder-und-jugendliche/frueherkennung-fruehinter-
+vention-bei-jugendlichen.html 
+Es ist ratsam, die 
+Cybermobbing-Prävention 
+in die schulische  
+Mobbingprävention zu 
+integrieren.
+41
+Im schulischen Umfeld fallen sehr viele persönliche Daten 
+über Schüler*innen an, oft in digitaler Form: Lernkontrollen, 
+Selbsteinschätzungen, Zeugnisse, vertrauliche Informationen 
+über allfällige gesundheitliche Probleme und Lernstörungen 
+sowie während des Unterrichts beispielsweise Bild- und 
+Tonaufnahmen oder die Spuren, welche die Lernenden im 
+Internet hinterlassen. Wie gehen Lehrpersonen, Schulleitende 
+und andere Fachleute aus dem schulischen Umfeld korrekt 
+und sicher mit diesen Daten um?
+Welche Rechtsgrundlagen sind zu beachten?
+Die Schweizerische Bundesverfassung besagt in Artikel 13: 
+«Jede Person hat Anspruch auf Schutz vor Missbrauch  
+ihrer persönlichen Daten.» Damit ist das Grundrecht auf 
+informationelle Selbstbestimmung gegeben, d.h. jede 
+Person (also auch Kinder, Jugendliche und Lehrpersonen) 
+haben das Recht, grundsätzlich selbst darüber zu bestim-
+men, ob, wie und wann ihre persönlichen Daten weiterge-
+geben oder verwendet werden. Auch die weiteren Rechts-
+grundlagen, etwa das Bundesgesetz über den Datenschutz, 
+das Schweizerische Strafgesetzbuch oder die kantonalen 
+Datenschutzgesetze, bezwecken den Schutz eines verfas-
+sungsmässig garantierten Grundrechts von Personen und 
+damit den Schutz der Persönlichkeit und der Privatsphäre. 
+Bei öffentlichen Schulen kommt das kantonale Gesetz  
+zur Anwendung, bei Privatschulen das eidgenössische 
+Datenschutzgesetz
+Wie sieht die Handhabung in der  
+Schulpraxis aus?
+Im schulischen Umfeld entsteht häufig ein Spannungsfeld 
+zwischen der möglichst reibungslosen Erfüllung des 
+gesetzlichen Bildungsauftrags einerseits und der informatio-
+nellen Selbstbestimmung andererseits. Hier ist idealerweise 
+ein Gleichgewicht der Bedürfnisse herzustellen. In den 
+meisten Fällen dürfen (nicht müssen) persönliche Daten 
+zwischen den Personen, die unmittelbar mit den Lernenden 
+zusammenarbeiten, weitergegeben werden. Schüler*innen 
+sowie Eltern können verlangen, dass sie über die von der 
+Schule gespeicherten Personendaten Auskunft bekommen 
+oder sogar Einsicht erhalten. Nicht mehr benötigte Daten 
+werden üblicherweise nach Ablauf einer Aufbewahrungsfrist 
+dem Gemeinde- oder Staatsarchiv zur Archivierung 
+angeboten. Daten, die von diesen nicht übernommen werden, 
+sollten unverzüglich vernichtet werden.
+Eine Reihe von Kantonen hat Empfehlungen für Schulleitungen 
+und Lehrpersonen zum Thema Datenschutz herausgegeben, 
+um sie bei Fragen zu den empfindlichen Schüler*innendaten 
+zu unterstützen (siehe Literaturhinweise).
+Welche Sicherheitsaspekte müssen im 
+Umgang mit digitalen Medien berücksichtigt 
+werden?
+Digitale Geräte wie Computer, Tablets und Mobiltelefone 
+vereinfachen die Datenerhebung und den Datenaustausch 
+erheblich. Dies kann leicht zu unzulässigen Datentransfers 
+führen. Die Herausforderung besteht darin, sichere und 
+datenschutzfreundliche Lösungen zu finden, die dennoch 
+effizient und einfach zu bedienen sind. Sichere Systeme 
+müssen unter anderem auch überprüfbar sein. Nicht zuletzt 
+aus diesem Grund sollten bei datenschutzrelevanten 
+IT-Systemen bevorzugt Lösungen aus dem Open-Source-
+Bereich eingesetzt werden. Durch den offen gelegten 
+Quelltext und die Tatsache, dass in der Regel mehrere 
+voneinander unabhängige Entwickler*innen daran arbeiten, 
+findet eine laufende Verbesserung des Programmcodes 
+statt. Diese schliesst auch die laufende Überprüfung auf 
+allfällige Sicherheitslücken ein.
+08_SICHERER UMGANG MIT
+SCHULDATEN
+ 
+42
+Kommunikation
+Der für die Schulverwaltung notwendige Informationsaus-
+tausch umfasst sehr häufig schützenswerte Personendaten. 
+Aus diesem Grund sollten die dort verwendeten Kommuni-
+kationswege zwei wesentliche Eigenschaften haben: 
+Vertraulichkeit (nur berechtigte Personen dürfen vom Inhalt 
+der Nachrichten Kenntnis erlangen) und Zurechenbarkeit 
+(die absendenden und empfangenden Personen von 
+Nachrichten müssen eindeutig identifiziert sein).
+Bei Gesprächen am Telefon kann man im Allgemeinen davon 
+ausgehen, dass die Vertraulichkeit gewährleistet ist. 
+Trotzdem ist Vorsicht bezüglich der Zurechenbarkeit geboten, 
+da die Identität des Gegenübers, solange nicht persönlich 
+bekannt, oft nur schwer überprüfbar ist. Im Gegensatz dazu 
+ist der Informationsaustausch via Brief zwar meist zurechen-
+barer, dafür jedoch deutlich umständlicher. Neben Brief und 
+Telefon hat sich an den Schulen auch E-Mail als Kommunika-
+tionsmittel für die Schulverwaltung durchgesetzt. E-Mails  
+in ihrer ursprünglichen Form sind zwar effizient und einfach, 
+jedoch weder vertraulich noch zurechenbar.
+Bei der Wahl des E-Mail-Dienstes sollte darauf geachtet 
+werden, dass gegenüber dem Dienst ein Gerichtsstand  
+in der Schweiz besteht und auf den Vertrag schweizerisches 
+Recht anwendbar ist. Idealerweise sollte sich der Dienst  
+in der Schweiz befinden. Dies ist beispielsweise bei Proton- 
+Mail (http://protonmail.com/de/) der Fall. Für einen höheren 
+Sicherheitsstandard muss mit einem zusätzlichen Werk-
+zeug, z.B. Enigmail (http://www.enigmail.net), nachgeholfen 
+werden. Vertraulichkeit erstreckt sich jedoch nicht nur auf 
+den Inhalt von E-Mails, sondern auch auf die so genannten 
+«Kommunikationsumstände», wie zum Beispiel die Liste  
+der Empfänger*innen einer Rundmail. In der Regel sind 
+Massenmails mit den Empfängeradressen in Blindkopie 
+(BCC) zu verschicken.
+Noch einfacher als E-Mail sind Instant-Messenger auf Handys, 
+die meistens auch einen Gruppenchat anbieten. Damit der 
+Datenschutz gewährleistet ist, sollte den Lehrpersonen und 
+Eltern eine quelloffene App mit Ende-zu-Ende-Verschlüs-
+selung, wie z.B. Signal (http://signal.org/de/) empfohlen 
+werden. Falls nicht davon ausgegangen werden kann, dass 
+alle Kommunikationsteilnehmenden über ein Handy 
+verfügen, ist der Messenger Element (https://element.io)  
+eine gute Wahl, da die Anmeldung dort auch mit einem 
+Pseudonym möglich ist, ohne die zwingende Angabe von 
+Handynummer oder E-Mail-Adresse.
+Absicherung der lokalen Infrastruktur
+Während bei klassischen Papierakten abschliessbare Räume, 
+Aktenschränke oder Büropulte vor unbefugtem Zugriff 
+schützen, sollten zum Schutz elektronischer Daten Firewalls, 
+VPNs (Virtual Private Networks, sichere Netzwerk-Schnitt-
+stellen), Passwörter und Verschlüsselungsmechanismen 
+verwendet werden. Eine Trennung von Verwaltungs- und 
+Schulnetzwerk wird empfohlen.
+Das Swisscom-Angebot «Schulen ans Internet» beinhaltet 
+bereits eine Firewall und VPN-Zugänge. Schulen, die sich  
+für einen anderen Provider entscheiden oder die Absiche-
+rung lokal vornehmen wollen, können dazu auf spezialisierte 
+und einfache Lösungen wie zum Beispiel IPFire 
+(http://www.ipfire.org) zurückgreifen. Für die Verschlüs-
+selung der Daten empfiehlt sich die Verwendung von 
+VeraCrypt (http://www.veracrypt.fr).
+In der Papierwelt schützen bauliche Massnahmen (z.B. 
+Brandschutz) die Akten vor Datenverlust. Bei digitalen 
+Medien sollten Backups und Antivirenprogramme eingesetzt 
+werden.
+WLAN
+Die Funksignale eines WLANs, eines drahtlosen lokalen 
+Netzwerks, sind im gesamten abgedeckten Gebiet zugänglich, 
+das heisst häufig über das Schulareal hinaus und damit  
+auch für unbefugte Dritte. Die Schule muss sowohl vertrau-
+liche Daten vor dem Zugriff solcher Drittpersonen schützen 
+als auch dafür sorgen, dass Dritte die Verfügbarkeit des 
+Internetanschlusses nicht stören oder ihn für illegale Hand- 
+lungen missbrauchen. Dem steht der Wunsch entgegen,  
+im Schulhaus allen berechtigten Personen einen einfachen 
+Internetzugang via WLAN zur Verfügung zu stellen.
+Üblicherweise wird der Zugang zum WLAN nur mit einem 
+gemeinsamen Schlüssel (dem preshared key) abgesichert. 
+Dies ist zwar eine recht einfache und bequeme Methode. 
+Wenn jedoch jemand den Schlüssel an Dritte verrät, ist der 
+Zugangsschutz nicht mehr gewährleistet. Aus diesem Grund 
+sollte an einer Schule möglichst WPA-Enterprise verwendet 
+werden, das den Zugang auf der Basis von Benutzername 
+und Passwort oder Zertifikaten absichert. Im educa.Guide 
+43
+«Datenschutz. Sicherer Umgang mit Personendaten» werden 
+weitere Massnahmen zur Absicherung des WLAN-Zugangs 
+aufgeführt.
+Sicheres Löschen von Daten
+Wenn analoge Daten vernichtet werden müssen, kommen 
+vor allem Aktenvernichter oder die Kehrichtverbrennungs-
+anlage zum Einsatz, auf keinen Fall aber der Papierkorb oder 
+die Altpapiersammlung.
+Bei digitalen Daten ist es ähnlich, wobei die Standardfunkti-
+onen zum Löschen von Dateien ähnlich dem analogen 
+Papierkorb funktionieren: Die Dateien sind zwar aus dem 
+Blickfeld verschwunden, aber immer noch vollständig 
+vorhanden. Um Dateien wirklich vollumfänglich und endgültig 
+zu löschen, müssen zusätzliche Schritte unternommen 
+werden, die sich je nach Betriebssystem unterscheiden.
+Cloud-Dienste
+Heute werden in der Schule gern sogenannte Cloud-Dienste 
+verwendet, die meist von externen Dienstleistern zur 
+Verfügung gestellt werden, da sie relativ unabhängig vom 
+momentanen Aufenthaltsort oder verwendeten Endgerät 
+den Zugriff auf Dateien und Dienstleistungen ermöglichen.
+Datenschutzrechtlich bleibt die Schule für die Datenbearbei-
+tung verantwortlich. Sie hat weiterhin sicherzustellen, dass 
+sie ihre Pflichten in Bezug auf Datenschutz und Informati-
+onssicherheit wahrnehmen kann. Diese Pflichten können der 
+Speicherung und Verarbeitung von Daten bei externen 
+Anbietern entgegenstehen. Als besonders schützenswerte 
+Personendaten gelten beispielsweise Informationen zur 
+Religionszugehörigkeit und zum geistigen, seelischen und 
+körperlichen Zustand.
+Aus juristischer Sicht sind vor allem solche Dienstleister 
+problematisch, gegenüber denen kein Gerichtsstand in der 
+Schweiz besteht und auch kein schweizerisches Recht 
+anwendbar ist. Häufig kann die Schule in diesen Fällen das 
+Recht auf Berichtigung und Löschung von Daten nicht 
+durchsetzen. Aus technischer Sicht muss sichergestellt 
+werden, dass die Inhalte gegenüber dem externen Dienstleis-
+ter in jedem Fall vertraulich bleiben. Diese Anforderungen 
+(sowohl juristisch als auch technisch) werden momentan 
+beispielsweise durch die Software Seafile (http://www.
+seafile.com) und Schweizer Hoster wie Metanet (http://www.
+metanet.ch) oder Galaxyweb (http://www.galaxyweb.ch) 
+erfüllt. Auch lokale Cloud-Lösungen, z.B. auf der Basis von 
+Nextcloud (http://nextcloud.com/) gewährleisten den Dienst 
+unter sicheren Rahmenbedingungen. Voraussetzung dafür ist 
+allerdings, dass die benötigte Infrastruktur durch die Schule, 
+eine vertrauenswürdige IT-Supportfirma, die Gemeinde oder 
+den Kanton betrieben wird.
+Daten auf der Schul-Webseite
+Viele Schulen stellen auf eigenen Websites, Blogs oder 
+sozialen Netzwerken Informationen zur Verfügung. Bei der 
+Veröffentlichung von persönlichen Daten auf diesen 
+Plattformen, insbesondere bei Bildern oder Videos, sind die 
+Prinzipien des Daten- und Persönlichkeitsschutzes zu beach-
+ten. So besagt das «Recht am eigenen Bild», dass Personen-
+bilder nur dann veröffentlicht werden dürfen, wenn die 
+Abgebildeten (beziehungsweise ihre Eltern oder Erziehungsbe-
+rechtigten) sich damit einverstanden erklärt haben. Des 
+Weiteren wird empfohlen, keine unmoderierten Gästebücher 
+oder Foren auf diesen Plattformen zu betreiben, da die 
+Schule für diese Inhalte ebenfalls verantwortlich sein kann.
+Der Datenschutz sollte auch für die Besucher*innen einer 
+Schul-Webseite beachtet werden. So sollte für die Websei-
+tenstatistik auf externe Dienste verzichtet werden  
+und stattdessen eine lokale Lösung wie Matomo (http://
+matomo.org) zum Einsatz kommen.
+Weiterführende Informationen
+•	 educa.Navigator zum Vergleich von Software-Anwendungen für den 
+Unterricht, unter Einbezug von Sicherheits- und Datenschutzüberlegungen: 
+http://navi.educa.ch
+•	 educa.Guide «Datenschutz. Sicherer Umgang mit Personendaten»: https://
+biblio.educa.ch/sites/default/files/guide_datenschutz.pdf 
+•	 Leitfaden Datensicherheit für Lehrpersonen und Schulleitungen.  
+www.vbe.de/service/leitfaden-datensicherheit 
+•	 Lehrmittel Datenschutz des Eidgenössischen Datenschutz- und 
+Öffentlichkeitsbeauftragten EDÖB: www.edoeb.admin.ch/lehrmittel
+Bei Cloud-Diensten 
+auf sichere Lösungen 
+setzen!

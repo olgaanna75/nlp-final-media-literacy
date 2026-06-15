@@ -1,0 +1,2459 @@
+ COMPÉTENCES NUMÉRIQUES
+Recommandations pour l'utilisation des médias numériques
+Pour les parents 
+et les personnes 
+de référence
+Impressum
+Éditeur
+Jeunes et médias
+Plateforme nationale de promotion des compétences numériques 
+Office fédéral des assurances sociales 
+jugendschutz@bsv.admin.ch 
+et
+Haute école zurichoise des sciences appliquées (ZHAW)
+Département de psychologie appliquée
+Équipe de recherche en psychologie des médias
+info.psychologie@zhaw.ch 
+Textes rédigés par les membres, actuels et anciens, de l’équipe de recherche en psychologie 
+des médias, cités par ordre alphabétique :
+MSc Jael Bernath, MSc Paulina Domdey, Dr. Sarah Genner, MSc Céline Külling-Knecht, Prof. Dr. Daniel Süss, 
+MSc Lilian Suter, MSc Gregor Waller, lic. phil. Isabel Willemse 
+En collaboration avec la plateforme nationale Jeunes et médias, OFAS
+Relecture des versions française et italienne :
+Nevena Dimitrova, PhD, Haute école de travail social et de la santé Lausanne (HETSL), HES-SO
+Eleonora Benecchi, PhD, Istituto Media e giornalismo all'Università della Svizzera italiana 
+Les brochures peuvent être téléchargées sur 
+jeunesetmedias.ch et zhaw.ch/psychologie/medienkompetenz
+Commande (gratuite) :
+OFCL, vente de publications fédérales, CH-3003 Bern
+bundespublikationen.admin.ch/fr
+Numéro de commande 318.850.f
+09.25 2500  860585512
+Disponible en français, en allemand et en italien
+Layout : Scarton Stingelin AG
+Illustrations : Nina Christen, Team Tumult
+8e édition, octobre 2024
+© 2013 Jeunes et médias, Plateforme nationale de promotion des compétences numériques, 
+Office fédéral des assurances sociales / Haute école zurichoise des sciences appliquées ZHAW
+3
+CHÈRES LECTRICES, 
+CHERS LECTEURS
+ 
+Les enfants et les jeunes grandissent de nos jours dans un univers numérique particulièrement riche et en perpétuelle 
+évolution. Les personnes responsables de leur éducation s’y sentent bien souvent déstabilisées ou même dépassées et 
+s’interrogent à juste titre : combien de temps au maximum un enfant devrait-il consacrer aux médias numériques ? 
+Et quels sont les risques et les opportunités qui y sont liés ?
+Certains parents souhaiteraient préserver leurs enfants de l’influence des médias, et ainsi leur permettre de grandir dans 
+un environnement loin du numérique. Mais ce n’est ni possible, ni judicieux, car les médias offrent toute une série d’oppor­
+tunités de développement et d’apprentissage. En outre, les enfants et les jeunes doivent apprendre à évoluer en toute 
+sécurité dans l’univers numérique et à trouver leur équilibre entre événements non-numériques et expériences vécues au 
+travers des médias. Pour résumer : il est important qu’ils acquièrent des compétences numériques.
+Le présent guide répond aux questions fréquemment posées autour du thème des jeunes et des médias numériques. Il fournit 
+une aide à l’orientation et vise à encourager les parents à encadrer activement les enfants et les jeunes dans l’usage de ces 
+médias. L’apparition d’éventuels conflits au cours de cet accompagnement est tout à fait normale et constitue la base même 
+d’un apprentissage mutuel et réciproque. Les personnes en charge de l’éducation qui relèvent ce défi, qui ne craignent pas 
+les conflits et qui prêtent une oreille attentive au vécu des enfants dans le monde numérique font le bon choix – même si 
+leur compréhension technique est peut-être un peu plus élémentaire que celle des jeunes ou qu’ils se sentent moins à l’aise 
+dans l’espace virtuel. 
+Nous vous souhaitons une agréable lecture. 
+Prof. Dr. Daniel Süss 
+Au nom de l’unité spécialisée 
+en psychologie des médias 
+de la ZHAW
+Astrid Wüthrich 
+Vice-directrice de l’Office fédéral des 
+assurances sociales et cheffe du 
+domaine Famille, générations et société
+5
+01_____ Compétences numériques
+02_ ___ Éducation aux médias
+03_ ___ Règles relatives à l’utilisation des médias numériques
+04_ ___ Le premier smartphone
+05_ ___ Réseaux sociaux : Instagram, TikTok et Cie
+06_ ___ Influence
+07_ ___ Image de soi et canons de beauté
+08_ ___ Jeux vidéo
+09_ ___ Usage excessif
+10_____ Violence et médias
+11_____ TV, films et streaming
+12_____ Cyberharcèlement et discours de haine en ligne
+13_____ Pornographie et sexting
+14_____ Cybergrooming et harcèlement sexuel en ligne
+15_____ Sécurité et protection des données
+16_____ Intelligence artificielle
+17_____ Désinformation, manipulation et deepfakes
+18_____ Enfants et infos
+19_____ Achats en ligne
+20_ ___ Conseil et informations supplémentaires
+21_____ Faits et chiffres
+22_ ___ Études
+Plateforme nationale Jeunes et médias
+Recherches en psychologie des médias au sein de la ZHAW
+TABLE DES MATIÈRES
+ 
+7
+Qu’entend-on par compétences numériques ? 
+Avoir des compétences numériques signifie savoir utiliser 
+les médias de manière consciente et surtout responsable. Il 
+ne s’agit pas seulement de satisfaire notre soif d’informa­
+tion et de divertissement, mais aussi de nous interroger sur 
+le contenu des médias et sur notre propre consommation. À 
+l’ère d’Internet, les compétences numériques comprennent 
+bien sûr les connaissances purement techniques, mais aussi 
+la bonne utilisation des médias numériques. En d’autres 
+termes, cela consiste à faire preuve de prudence dès lors 
+qu’il s’agit de mettre ses données personnelles en ligne, à 
+porter un œil critique sur les informations, à suivre les règles 
+générales d’utilisation et à se déconnecter régulièrement.  
+Que fait la Confédération pour promouvoir 
+les compétences numériques ?
+Depuis 2011, l’Office fédéral des assurances sociales s’engage 
+activement, sur mandat du Conseil fédéral, en faveur de la 
+protection de la jeunesse face aux médias, et a notamment 
+fait de la promotion des compétences numériques l’une de 
+ses priorités. Il est important d’enseigner aux enfants et aux 
+jeunes comment bien gérer les médias numériques et 
+comment se protéger. Or, cela ne peut se faire sans l’accom­
+pagnement des parents, des personnes de référence et des 
+professionnel.le.s. La plateforme nationale Jeunes et 
+médias est là pour les soutenir.
+Qui transmet les compétences numériques 
+aux enfants et aux jeunes ? 
+Les parents jouent un rôle déterminant dans la transmission 
+des compétences numériques, puisque c’est en famille que 
+les enfants découvrent les médias. Les petits voient leurs 
+parents les utiliser avant même de prendre eux-mêmes en 
+main une tablette ou un smartphone, et imitent leur compor­
+tement. Il est donc important que les parents réfléchissent 
+01_COMPÉTENCES NUMÉRIQUES
+ 
+à leur propre consommation et soient conscients de leur rôle 
+de modèle. Transmettre aux jeunes enfants des compé­
+tences numériques et les initier prudemment aux médias 
+leur donnera une assise solide qui leur permettra plus 
+tard d’utiliser ces médias de manière responsable. En ce qui 
+concerne l’acquisition des compétences techniques, les 
+enfants appliquent avec succès le principe de l’apprentis­
+sage sur le tas : on apprend en essayant et en faisant. 
+Plus ils grandissent, plus ils imitent ce que font les enfants 
+de leur âge. Cependant, ils ont besoin d’être soutenus par 
+des adultes de référence pour pouvoir utiliser les médias de 
+façon créative, sûre et enrichissante. Outre les parents, 
+les écoles jouent un rôle crucial en apprenant aux élèves à 
+se servir des médias et en intégrant ces derniers dans 
+l’enseignement. Du reste, les plans d’études actuels intègrent 
+systématiquement un module consacré aux médias et à 
+l’informatique.
+Pourquoi le soutien des parents est-il si 
+important ? 
+Les enfants et les jeunes se révèlent souvent bien plus 
+doués dans l’utilisation des médias numériques que leurs 
+parents. Cependant, grâce à leur expérience, les adultes 
+ont une longueur d’avance sur les enfants et les jeunes lorsqu’il 
+s’agit d’analyser d’un œil critique les contenus transmis et 
+d’évaluer les conséquences sociales. Le soutien des parents 
+reste donc essentiel, par exemple pour évaluer la crédibilité 
+de certaines sources d’information, pour déterminer quelles 
+données personnelles il est judicieux de ne pas divulguer 
+sur Internet, ou encore pour fixer le temps d’écran. Il est tout 
+aussi important que les enfants puissent se confier à leurs 
+parents et leur parler des rencontres virtuelles désagréables, 
+des propos déplacés ou des contenus choquants (violence, 
+pornographie) auxquels ils sont confrontés.
+8
+Pourquoi les enfants et les jeunes 
+consacrent-ils tant de temps aux médias ?
+Pour les enfants et les jeunes d’aujourd’hui, il serait difficile 
+de concevoir un monde sans médias (numériques). Lire, 
+écouter de la musique, regarder des séries, jouer, discuter, 
+poster des selfies, liker des contenus, regarder les nouvelles 
+ou préparer un exposé pour l’école : ils peuvent s’adonner à 
+leurs centres d’intérêt et s’acquitter de leurs obligations 
+sur une diversité d’outils digitaux. Ils utilisent par exemple 
+les médias pour se divertir, pour communiquer avec leur 
+famille et leurs proches, pour participer à la vie sociale ou 
+encore pour s’informer ou trouver de l’inspiration. Mais 
+pas seulement, puisque ces médias les aident aussi à gérer 
+les étapes de leur développement et les différents do­
+maines de la vie. Dans leur recherche d’autonomie, les 
+médias leur permettent par exemple de se détacher de leurs 
+parents en trouvant leur propre espace (numérique). Les 
+relations avec leurs pairs gagnent en importance, et la place 
+accordée aux réseaux sociaux et aux jeux augmente en 
+importance. En effet, ces derniers répondent au besoin de 
+reconnaissance, d’appartenance et d’orientation qui joue 
+un rôle dans le développement d’une identité propre.
+02_ÉDUCATION AUX MÉDIAS
+ 
+9
+Quels sont les points importants de 
+l’éducation aux médias ?
+Alors qu’il est important d’accompagner les jeunes 
+enfants, il est essentiel de montrer aux enfants plus âgés 
+qu’on s’intéresse à l’utilisation qu’ils font des médias et 
+aux contenus qu’ils consomment. 
+En résumé, il faut demander, écouter et comprendre – pas 
+seulement en ce qui concerne les activités quotidiennes 
+évidentes, mais également le monde numérique de l’enfant. 
+Celui-ci sentira qu’il existe à vos yeux et parlera plus 
+facilement des médias et de ce qu’il y vit. Montrez à votre 
+enfant qu’il peut se confier à vous s’il fait des expériences 
+négatives. Si possible, ne jugez pas. Si vous comprenez 
+pourquoi votre enfant utilise certains médias plutôt que 
+d’autres et à quels besoins ils répondent, il sera plus facile 
+de lui parler des autres options. Quelles activités lui 
+conviendraient également, voire mieux ?
+Comment donner l’exemple ? 
+Pour pouvoir expliquer à votre enfant les bénéfices et les 
+risques des médias numériques, il vous faut d’abord les 
+connaître. Votre enfant observe la manière dont vous utilisez 
+les médias et découvre l’importance que vous accordez à 
+vos appareils. De nombreux enfants sont même énervés par 
+le temps démesuré que leurs parents passent sur ces 
+médias. Les plus petits, en particulier, comprennent difficile­
+ment, voire ne comprennent pas du tout, ce que leurs 
+parents font exactement sur leur téléphone, par exemple. 
+Cet appareil concentre en effet toute une série d’activités. 
+Expliquez à votre enfant ce que vous y faites. Il apprendra 
+ainsi à faire la différence entre les diverses activités et 
+pourra y participer. De fait, il peut aussi avoir l’impression 
+d’être exclu lorsque vous utilisez les médias en sa présence. 
+Vous pouvez donner l’exemple en montrant qu’une gestion 
+responsable des médias numériques et une approche saine 
+en matière de joignabilité permet de se reposer, d’améliorer 
+sa concentration et de consacrer toute son attention aux 
+conversations avec les personnes qui nous font face. En proposant 
+à votre enfant une alternative aux activités numériques, 
+vous l’aidez en outre à diversifier ses expériences et ses 
+intérêts. 
+10
+À quels points prêter attention lorsque l’on 
+fixe des règles ? 
+Les enfants qui disposent d’un cadre clair peuvent apprendre 
+à réguler leur comportement. Malheureusement, il n’existe 
+pas de recette miracle. Chaque pays et chaque culture a ses 
+propres normes. Mais d’une manière générale, il est 
+conseillé de fixer les règles avec votre enfant, qui se sentira 
+alors pris au sérieux. Il faut lui expliquer aussi clairement 
+que possible le pourquoi de ces règles. Il peut être utile d’établir 
+un contrat d’utilisation des médias numériques. Vous 
+trouverez des modèles qui peuvent être personnalisés en 
+ligne. N’y incluez pas uniquement le temps d’utilisation 
+et les contenus autorisés, mais aussi les règles de compor­
+tement propres à l’espace numérique. Si le contrôle parental 
+est activé, il faut le communiquer clairement. Indiquez aussi 
+les conséquences : que se passe-t-il si votre enfant ne 
+respecte pas les règles ? Les enfants trouveront toujours le 
+moyen de les contourner. Tester les limites fait partie de 
+leur développement et, pour les jeunes, c’est une manière 
+de se détacher de leurs parents. Mais évitez d’utiliser les 
+médias comme récompense ou punition, au risque de leur 
+donner encore plus d’importance. Les menaces, les 
+sanctions et les interdictions strictes peuvent aussi s’avérer 
+contre-productives en amenant l’enfant à dissimuler 
+certaines choses au lieu de vous confier ses expériences 
+négatives.  
+➔ 04_Le premier smartphone
+Les médias évoluent très rapidement, 
+les règles aussi ?
+Le nombre de nouveaux appareils, d’applications et de 
+contenus ne cesse d’augmenter. Les modes se succèdent 
+constamment. Il n’est pas facile de rester à jour, mais 
+discuter avec votre enfant vous permettra de découvrir plus 
+rapidement les nouveautés et les sujets qui lui tiennent à 
+cœur. Il est conseillé de réexaminer périodiquement, avec 
+votre enfant, les règles que vous avez fixées : sont-elles 
+encore pertinentes ? Correspondent-elles au stade de développe­
+ment et aux capacités de votre enfant ? Vous le préparez 
+ainsi à utiliser les médias de manière autonome au fur et à 
+mesure qu’il grandit. Il est également conseillé d’interroger 
+les parents d’enfants du même âge sur les règles qu’ils 
+appliquent et éventuellement de convenir de règles communes 
+lorsque ces enfants se retrouvent. Il vaut également la 
+peine de consulter régulièrement les conseils sur les médias 
+numériques et les sites Internet contenant de informations 
+pertinentes pour les parents. Vous y trouverez des sujets 
+actuels et de nombreuses astuces vous permettant de préparer 
+vos enfants à grandir harmonieusement avec les médias 
+numériques.
+À quoi faut-il veiller en appliquant 
+les règles relatives à l’utilisation 
+des médias numériques ?  
+L’équilibre entre médias numériques et autres activités de 
+loisir est essentiel : pour un enfant qui rencontre ses amis, 
+fait du sport ou de la musique, passer aussi une heure et 
+demie par jour à jouer aux jeux vidéo, ce n’est pas un 
+problème. Par contre, pour un autre, cela peut être trop. 
+Proposez donc toujours des activités non-numériques 
+pour équilibrer l’utilisation des médias. En effet, il est impor­
+tant de passer du temps loin des écrans. Pour bien dévelop­
+per leur cerveau, les enfants ont besoin d’être directement 
+en contact avec les objets. Et l’air frais et l’exercice 
+physique sont tout aussi importants au développement 
+moteur et sensoriel que la lumière du jour l’est pour les 
+yeux. Passer trop de temps devant un écran peut provoquer 
+des troubles oculaires et des problèmes liés à la posture. 
+Combien de temps d’écran et à quel âge : 
+comment se renseigner ?
+Nombre de parents souhaiteraient pouvoir se référer à des 
+directives précises. Mais donner de pures indications de 
+03_RÈGLES RELATIVES À L’UTILISA­
+TION DES MÉDIAS NUMÉRIQUES
+ 
+11
+temps ne sert généralement à rien, puisque tout dépend des 
+contenus consultés, de la qualité de l’accompagnement et 
+de l’équilibre entre activités numériques et non-numériques. 
+La décision sur le choix des appareils et des contenus ainsi 
+que sur le temps d’écran devrait être prise en fonction de 
+l’enfant et de la situation. Observez votre enfant : comment 
+se sent-il après une heure d’utilisation des médias numé­
+riques ? Et après deux heures ? Sort-il souvent, rencontre-t-il 
+souvent des enfants de son âge ? Est-ce qu’il pratique des 
+loisirs ? A-t-il de bonnes notes ? Comment dort-il ? Est-ce 
+qu’il utilise les jeux, la télévision ou les réseaux sociaux 
+pour combattre ses émotions négatives et l’ennui ? Se 
+contente-t-il de consommer ces médias, ou s’en sert-il aussi 
+pour produire du contenu ? Toutes ces questions sont des 
+repères qui vous permettent de décider quel temps d’écran 
+convient à votre enfant. 
+Et qu’est-ce que cela représente en minutes 
+par jour ?
+Plus les enfants sont jeunes, moins ils devraient passer de 
+temps devant un écran. Tous les spécialistes s’accordent 
+sur ce point. En revanche, quand il s’agit de recommander 
+un nombre de minutes ou d’heures pour un âge précis, les 
+avis diffèrent. En effet, il est impossible de formuler un chiffre 
+exact adapté à tous les enfants d’une tranche d’âge. Ce 
+qui convient à un enfant peut être beaucoup trop pour un 
+autre. 
+Il est nettement plus important d’accompagner l’enfant dans 
+son usage des médias numériques en fonction de son âge et 
+de choisir des contenus appropriés plutôt que de compter 
+les minutes chronomètre en main. 
+Les enfants de moins d’un an ne devraient jamais être mis 
+devant un écran. Entre un et quatre ans, les enfants 
+peuvent participer à des appels vidéo ou consulter des 
+contenus adaptés à leur âge en compagnie de leurs 
+parents. Cela peut représenter cinq à dix minutes par jour, 
+un peu plus pour les plus âgés, mais toujours sous la 
+supervision d’un adulte. 
+En début de scolarité (soit entre cinq et huit ans), les enfants 
+ne devraient pas passer plus de 30 à 60 minutes par jour 
+devant un écran pendant leurs loisirs. De neuf à dix ans, il 
+ne faudrait pas dépasser 100 minutes par jour, afin que 
+l’enfant ait assez de temps pour pratiquer d’autres loisirs.
+ 
+Avec des enfants un peu plus âgés, on peut aussi convenir 
+d’un forfait de temps hebdomadaire, alors qu’avec les 
+adolescents, il est plutôt recommandé de fixer des plages 
+horaires sans écran. 
+Il n’est pas nécessaire de fixer un nombre identique de 
+minutes chaque jour, puisque le temps d’écran varie en 
+fonction de la situation et devrait être adapté au rythme 
+de chaque famille. 
+Liens
+jeunesetmedias.ch
+projuventute.ch
+internetsanscrainte.fr
+habilomedias.ca
+12
+04_LE PREMIER SMARTPHONE
+ 
+Quel est le bon moment ?
+Posséder enfin son premier smartphone peut être vécu 
+comme une fenêtre sur le monde, l’expression du passage 
+à l’âge adulte et un signe d’appartenance à son groupe 
+d’amis. Mais comment savoir si l’enfant est prêt ? Cela 
+dépend avant tout de son développement, de ses capacités 
+et de ses aptitudes, ainsi que de son sens des responsabili­
+tés. L’enfant a-t-il déjà pris l’habitude d’utiliser un smart­
+phone ou une tablette en famille ? S’est-il montré respon­
+sable et a-t-il respecté les règles ? Pourquoi a-t-il 
+concrètement besoin de son propre smartphone ? Jeunes 
+et médias et Pro Juventute ont élaboré une check-list qui 
+guide les parents dans leur décision et contient des 
+questions et des recommandations supplémentaires.
+Est-il judicieux de laisser les enfants en bas 
+âge jouer sur un smartphone ?
+Un smartphone n’est pas un jouet. Bien sûr, son utilisation 
+intuitive permet aux petits de tester de nombreuses 
+fonctionnalités et de découvrir que leurs actions ont un 
+résultat. Mais à cet âge-là, pour développer leur sens 
+tactile, les enfants ont besoin d’objets dont ils peuvent faire 
+l’expérience avec leurs cinq sens. Or, c’est impossible avec 
+des appareils où tout est virtuel. Les nombreux stimuli visuels 
+et acoustiques peuvent submerger les enfants en bas âge, 
+qui ne sont pas encore en mesure de les différencier et de 
+les traiter. En outre, les stimuli les plus importants pour le 
+développement de l’enfant sont ceux de son environnement 
+social. 
+Family Link & Cie : les applications de 
+contrôle parental sont-elles utiles ? 
+Les paramètres de sécurité de l’appareil et les applications 
+spécifiques de protection peuvent donner aux parents 
+l’impression de garder le contrôle. Ils peuvent par exemple 
+fixer une limite de temps sur le smartphone de leur enfant, 
+bloquer certaines applications et surveiller l’utilisation que 
+l’enfant en fait, mais aussi sa localisation. Ces applications 
+ne peuvent toutefois pas protéger complètement l’enfant 
+des expériences négatives ou des contenus inappropriés. 
+Il vaut donc mieux fixer des règles avec lui et développer 
+une relation de confiance. Il ne faut de plus pas oublier 
+que les enfants ont aussi droit à leur sphère privée et à leur 
+autonomie. Au préalable, les parents devraient donc 
+annoncer clairement qu’ils utilisent ces applications et préciser 
+comment, dire à l’enfant qu’ils peuvent voir une partie de 
+ce qu’il fait, et adapter les règles en fonction de l’âge. 
+Comment éviter que les parents et 
+les jeunes ne se retrouvent avec des 
+factures exorbitantes ?
+Au début, il est conseillé d’utiliser une carte de prépaiement 
+qu’on charge avec un certain montant. Les parents peuvent 
+ainsi fixer une somme d’argent de poche destinée au 
+smartphone et il est plus facile pour les enfants de surveiller 
+ce qu’ils dépensent. Les offres mobiles destinées aux 
+enfants assurent également un meilleur contrôle des coûts. 
+Les jeunes devraient bien s’informer sur les conditions 
+d’abonnement et les forfaits. Pour des raisons de coût, il est 
+conseillé de désactiver le roaming à l’étranger. 
+13
+Check-list smartphone
+Nous avons parlé en famille de l’utilité du smartphone.
+Nous avons parlé et défini en famille de ce qui était important pour nous concernant l’usage des médias 
+numériques.
+Nous nous sommes mis d’accord sur le prix d’achat du téléphone, les dépenses mensuelles et les achats 
+intégrés. 
+Nous avons convenu de règles d’utilisation du téléphone avec notre enfant et parlé des conséquences s’il 
+ne les respecte pas.
+Nous avons parlé avec notre enfant de la limitation du temps d’écran et avons fixé une durée avec lui.
+Nous sommes conscients que les enfants ont aussi droit à leur sphère privée et qu’il ne faut pas manipuler 
+leur téléphone sans qu’ils le sachent.
+Notre enfant sait faire la différence entre ce qui est privé et ce qui est public et nous avons discuté des 
+informations, photos ou vidéos qui peuvent être mises en ligne et de celles qui doivent rester privées.
+Notre enfant sait où se trouvent les paramètres de visibilité, de confidentialité ou de protection des données 
+et comment les configurer, et il est capable de bloquer et de signaler les contacts indésirables.
+Nous avons parlé à notre enfant des recommandations d’âge et avons activé les réglages parentaux, 
+si nécessaire.
+Nous avons expliqué à notre enfant comment vérifier les contenus douteux et comment reconnaître la 
+publicité.
+Notre enfant sait que la loi s’applique aussi sur Internet et qu’en Suisse, les enfants peuvent être condamnés 
+dès l’âge de 10 ans.
+Nous avons parlé à notre enfant du cyberharcèlement et du comportement respectueux à adopter sur Internet.
+Notre enfant est informé du fait que sur Internet, il peut croiser des gens mal intentionnés. Il sait qu’il doit 
+être prudent lorsqu’il a des contacts avec des inconnus. Avant de transmettre des informations privées à 
+quelqu’un, il doit nous en parler. Il sait également qu’il ne doit pas retrouver des gens qu’il a rencontré en 
+ligne sans nous en parler.
+Notre enfant sait qu’il peut toujours s’adresser à nous en cas de rencontre ou d’événement indésirable en 
+ligne. Il connaît les possibilités, les services de signalement et les personnes de confiance auxquels s’adres­
+ser et sait où il peut trouver de l’aide. 
+14
+Quelles règles de comportement fixer ?
+Pour bien dormir, il est conseillé de ne pas garder son 
+smartphone dans la chambre à coucher pendant la nuit et 
+d’utiliser un réveil normal. De même, porter une montre 
+traditionnelle permet d’éviter de consulter son téléphone à 
+tout bout de champ. On regarde souvent son téléphone par 
+automatisme et sans s’en rendre compte. Or, en société ou 
+même en pleine conversation, cela peut heurter les autres. 
+Dans ces cas-là, il faudrait soit expliquer à l’autre pourquoi 
+on est obligé de consulter son smartphone, soit le mettre 
+sur silence et hors de portée.
+Aspects juridiques 
+Aspects techniques du contrôle parental
+Lorsqu’ils utilisent des applications de contrôle 
+parental, les parents doivent veiller à trouver un 
+équilibre entre la sécurité de l’enfant et son droit à la 
+sphère privée. Il est important de vérifier les condi­
+tions générales et les conditions d’utilisation de ces 
+applications. 
+Art. 13 de la Constitution fédérale, 
+« Protection de la sphère privée »
+15
+05_RÉSEAUX SOCIAUX : INS­
+TAGRAM, TIKTOK ET CIE
+ 
+Quels sont les bénéfices des réseaux 
+sociaux ?
+Les réseaux sociaux tels qu’Instagram, TikTok ou Snapchat 
+offrent de multiples possibilités aux jeunes. En tant que 
+principal moyen de communication, ils leur permettent 
+d’échanger avec leurs proches et de suivre (en temps réel) 
+ce que font les autres ; ainsi, les jeunes ont le sentiment 
+d’appartenir au groupe et peuvent participer aux conversa­
+tions. Les fonctions telles que les vues, le partage de 
+contenu, les likes et les commentaires répondent à un 
+besoin de confirmation de soi et de réconfort. Les jeunes 
+peuvent tester leur créativité et l’image qu’ils veulent 
+donner d’eux-mêmes et, ainsi, mesurer la façon dont les 
+autres les perçoivent. Lors de cette phase de développe­
+ment délicate qu’est l’adolescence, où l’on se forge aussi 
+une identité, les réseaux sociaux offrent une possibilité 
+intéressante de se comparer, d’expérimenter et de s’orien­
+ter. Ils permettent aussi de se lier avec des inconnus qui 
+partagent les mêmes idées, ou d’interagir avec des 
+influenceurs. De nombreux jeunes s’informent via les 
+réseaux sociaux, qu’il s’agisse d’actualité ou d’autres 
+intérêts. 
+Quels sont les risques liés aux réseaux 
+sociaux ?
+Utiliser les réseaux sociaux comporte également certains 
+risques. Par exemple, des inconnus peuvent contacter et 
+harceler les jeunes. Les commentaires négatifs sur les 
+contenus que les jeunes ont réalisés, l’absence complète de 
+réaction ou les commentaires haineux peuvent affaiblir 
+l’estime de soi. Les parallèles sociaux avec des modèles 
+positifs sont motivants, mais se comparer à des idéaux 
+irréalistes a un effet délétère. De plus, les jeunes ne sont 
+pas toujours conscients du nombre de personnes pouvant 
+voir leurs photos et commentaires, et de ce qui peut être fait 
+de leur contenu. Or, cela peut avoir des conséquences 
+importantes lorsque, par exemple, ils postulent à une place 
+d’apprentissage et, en même temps, postent des selfies 
+gênants ou des propos haineux. Sans compter le risque 
+d’usurpation d’identité et la diffusion de contenus insultants 
+et déplacés.  
+➔ 12_Cyberharcèlement et discours de haine en ligne 
+➔ 14_Cybergrooming et harcèlement sexuel en ligne  
+➔ 17_Désinformation, manipulation et deepfakes 
+À quoi les parents doivent-ils faire atten­
+tion ?
+Parlez avec votre enfant des bénéfices et des risques des 
+réseaux sociaux et expliquez-lui qu’une certaine méfiance et 
+un regard critique sont importants s’il veut pouvoir les 
+utiliser de manière sûre. Il est utile d’essayer les réseaux en 
+question et de se familiariser avec leurs conditions 
+d’utilisation. Quelles sont les limites d’âge des différentes 
+plateformes ? Quels sont les paramètres de contrôle 
+parental disponibles ? En matière de sphère privée et de 
+protection des données, quels paramètres puis-je activer, 
+en accord avec mon enfant ? On peut ainsi contrôler quels 
+contacts ont accès à quelles informations et images. Il 
+faudrait toujours n’accepter que des followers que l’on connaît. 
+Par respect pour la sphère privée des autres, il faut éviter 
+de poster des photos ou des vidéos d’eux sans leur accord. 
+Attention : les paramètres des plateformes relatifs à la 
+sphère privée sont parfois compliqués et changent réguliè­
+rement. Et même lorsque des paramètres restrictifs sont 
+activés, il ne faut jamais poster ce que l’on n’afficherait pas 
+dans un lieu public.  
+➔ 15_Sécurité et protection des données
+16
+À quoi dois-je faire attention lorsque je 
+partage ou poste des photos de mon enfant ?
+Il est devenu courant de partager des photos de ses enfants 
+sur Internet, ce qu’on appelle aussi le sharenting, de l’anglais 
+to share, partager, et parenting, élever des enfants. Les 
+parents influenceurs, qui commercialisent une partie de leur 
+vie de famille, ou les enfants influenceurs peuvent aussi 
+donner l’impression que partager des photos d’enfants est 
+courant et inoffensif. Mais en réalité, cela peut avoir des 
+conséquences importantes sur la sphère privée et le 
+bien-être de votre enfant. Nombre de photos que les 
+parents trouvent peut-être adorables seront vécues plus 
+tard par les enfants comme embarrassantes ou peuvent 
+être détournées à des fins pédopornographiques. Il est 
+donc important de rester attentif et de sélectionner 
+soigneusement les photos que vous partagez et publiez, 
+non seulement sur les réseaux sociaux, mais aussi sur les 
+messageries comme WhatsApp. Les enfants ont des droits, 
+dont celui de pouvoir donner leur accord avant d’être 
+photographiés et que les images soient partagées. Vérifiez 
+régulièrement les paramètres relatifs à la sphère privée des 
+plateformes que vous utilisez afin de contrôler qui a accès 
+aux contenus publiés. 
+Est-ce que je peux 
+partager la photo 
+de mon enfant 
+sur Internet ?
+OK !
+Je peux partager  
+la photo.
+STOP !
+Ne pas partager  
+la photo.
+Ai-je vériﬁé 
+mes paramètres de 
+sécurité, est-ce que 
+je sais qui pourra 
+voir la photo ?
+Ai-je supprimé 
+les données personnel-
+les que je ne souhaite pas 
+divulguer (p. ex. le lieu 
+de résidence, la date 
+de naissance) ?
+Ai-je conscience 
+que lorsque je poste 
+la photo sur une 
+plateforme, je lui cède 
+une partie des droits 
+sur l’image ? 
+Ai-je pris 
+la photo moi-même 
+ou ai-je la permission 
+de l’utiliser ?
+Les parents ou 
+les détenteurs de 
+l’autorité parentale 
+sont-ils d’accord pour part-
+ager la photo ?
+Sur la photo, mon 
+enfant est-il habillé et 
+dans une situation qui  
+ne risque  pas d’être 
+gênante pour lui ?
+Si mon enfant est 
+assez grand pour 
+donner son avis, est-il  
+d’accord pour  
+partager la photo ?
+Est-ce que 
+je trouverais acceptable 
+de tomber sur une 
+telle photo de moi 
+enfant sur Internet ?
+Toutes les personnes 
+photographiées étaient-el-
+les d’accord d’être prises en 
+photo ? Ai-je leur  auto risation 
+pour partager la photo ?
+Serait-il acceptable 
+que la photo devienne 
+accessible à tous (p. ex. 
+si elle est envoyée sans 
+demander l’autorisa-
+tion) ? 
+17
+À l’avenir, est-ce que les enfants et les 
+jeunes ne se verront plus que sur Internet ?
+Non. Internet vient compléter les possibilités de contact, 
+mais ne remplace pas les rencontres réelles. Les enfants et 
+les jeunes utilisent avant tout les réseaux sociaux et les 
+jeux vidéo pour échanger avec leurs proches. Ils peuvent 
+ainsi communiquer à distance et créer quelque chose 
+ensemble dans l’espace virtuel. C’est un mode de rencontre 
+confortable et flexible, puisqu’il ne dépend ni du lieu ni de 
+l’heure.  
+Les réseaux sociaux rendent-ils accro ?
+Les réseaux sociaux peuvent avoir des caractéristiques 
+«addictives». Meta, l’entreprise qui détient Facebook, 
+Instagram et WhatsApp, comme d’autres poids lourds 
+d’Internet, utilise des mécanismes ciblés pour augmenter 
+le temps que nous passons en ligne. Ce faisant, ces 
+entreprises acceptent implicitement que cela peut nuire au 
+bien-être psychique des enfants et des jeunes. Outre le 
+souhait d’appartenir à un groupe, l’utilisation abusive des 
+réseaux peut répondre à un besoin d’attention ou de 
+confirmation, ou encore à la peur de la solitude. À cet égard, 
+une vie familiale de qualité peut renforcer l’enfant. 
+➔ 09_Usage excessif
+Les réseaux sociaux influencent-ils la santé 
+mentale ?
+Globalement, l’utilisation excessive des médias numériques 
+laisse moins de temps au sommeil, à l’exercice, aux contacts 
+personnels, aux autres loisirs et à la pensée créative. Or, 
+négliger des besoins vitaux tels que le sommeil ou l’exercice 
+physique a un impact négatif sur le psychisme. De même, 
+se comparer à des corps idéalisés ou à des représentations 
+de «  vie parfaite  » sur les réseaux sociaux peut affecter 
+négativement les jeunes souffrant déjà d’un manque d’estime 
+de soi, ce qui peut parfois favoriser l’apparition de troubles 
+alimentaires ou d’une dépression. Mais d’autres facteurs 
+entrent aussi en jeu, comme la personnalité, la constitution 
+de chacun, l’environnement familial ou l’intensité avec 
+laquelle le jeune utilise les réseaux sociaux. Être essentiel­
+lement confrontés à de mauvaises nouvelles (images de 
+guerre, etc.) et se perdre dans des contenus déstabilisants 
+(doom scrolling) peut venir renforcer l’inquiétude, la 
+tristesse et les craintes des adolescents. Restez attentif au 
+comportement et à la santé psychique de votre enfant, et 
+entretenez le dialogue. Cependant, les réseaux sociaux 
+peuvent aussi être un lieu où parler de santé mentale, où 
+expliquer ce que sont les maladies psychiques et où combattre 
+les préjugés qui les accompagnent.  
+➔ 07_Image de soi et canons de beauté
+Aspects juridiques 
+Droit à l’image 
+Avant de publier des photos ou des vidéos d’autrui, 
+par exemple sur les réseaux sociaux, il faut obtenir 
+son autorisation. Dans le cas contraire, les personnes 
+représentées peuvent s’opposer en justice à la 
+publication. Prendre la pose peut être considéré 
+comme un consentement, bien qu’ultérieurement, la 
+personne puisse tout de même s’opposer à la 
+publication. Seules les photos et vidéos prises dans 
+l’espace public ou lors d’une manifestation publique 
+font exception. Dans ces cas-là, il est possible de se 
+passer du consentement des personnes représentées 
+pour autant qu’elles ne constituent pas le sujet 
+principal de l’image. 
+ 
+Les enfants et les jeunes qui postent des photos et 
+des vidéos sur Internet doivent être conscients qu’ils 
+18
+n’ont pas le droit de publier des images d’autrui sans leur 
+consentement. 
+Le droit à l’image s’applique également aux enfants. Les 
+parents devraient soigneusement peser le pour et le 
+contre avant de publier des photos ou des vidéos d’eux. 
+Alors qu’il faudrait parler des avantages et inconvénients 
+avec les enfants plus âgés et leur demander leur 
+consentement, les parents sont responsables de veiller à 
+ce que les droits des plus petits soit respectés. 
+Art. 28 CC, «Protection des atteintes à la personnalité»
+Droit d’auteur  
+Les enfants et les jeunes doivent comprendre que partager 
+des contenus tels que des photos, des vidéos ou de la 
+musique sur des réseaux sociaux peut porter atteinte aux 
+droits d’auteur. Les parents devraient donc parler des 
+conséquences légales avec leurs enfants et les informer 
+qu’ils devraient partager uniquement des contenus dont 
+ils possèdent les droits ou qu’ils ont eux-mêmes créés. 
+Loi sur le droit d’auteur
+Images violentes
+Il est interdit de posséder, de mettre à disposition 
+d’autrui ou de créer des images illustrant des actes de 
+cruauté envers des personnes ou des animaux. Cette 
+interdiction s’applique également aux photos et aux 
+vidéos partagées sur les réseaux sociaux et dans les 
+groupes de messagerie. Dans ce dernier cas, il convient 
+d’être particulièrement vigilant, puisque de nombreux 
+services de messagerie sauvegardent automatiquement 
+les photos et les vidéos sur les smartphones des 
+membres du groupe si ces derniers n’ont pas désactivé 
+cette fonction. Or, cela équivaut à posséder ce type 
+d’images. 
+Art. 135 CP, « Représentation de la violence »
+Limite d’âge pour les réseaux sociaux
+Les conditions d’utilisation de la plupart des réseaux 
+sociaux prévoient un âge minimum, qui est fréquemment 
+de 13 ans. La raison est en principalement que ces 
+plateformes proposent aussi des contenus (publicitaires) 
+qui ne sont pas adaptés aux enfants. Toutefois, l’âge 
+n’est pas contrôlé au moment de l’inscription. Sur de 
+nombreuses plateformes, il est possible de signaler les 
+comptes semblant appartenir à des enfants de moins de 
+13 ans. Quelques réseaux autorisent ces derniers à 
+utiliser un compte si celui-ci est créé par les parents et 
+désigné comme tel dans leur profil. 
+À partir de 13 ans, les jeunes peuvent officiellement 
+utiliser les réseaux sociaux, mais cela ne veut pas dire 
+pour autant qu’ils savent se protéger des risques. Le 
+devoir de surveillance des parents ne s’arrête donc pas 
+au treizième anniversaire de leur enfant. 
+Kidfluencing et protection des jeunes travailleurs
+En Suisse, les enfants et les jeunes de moins de 15 ans 
+ne sont autorisés à travailler qu’à certaines conditions 
+bien précises. Cette réglementation ne s’applique 
+cependant qu’aux mineurs salariés. Un mineur qui gagne 
+de l’argent grâce à une chaîne sur une plateforme en 
+ligne est considéré comme un travailleur indépendant, et 
+ses parents assument sa représentation légale jusqu’à 
+sa majorité. 
+Les enfants de parents influenceurs qui apparaissent 
+dans leurs contenus ne sont en revanche pas considé­
+rés comme des travailleurs. Les parents sont tenus de 
+protéger les droits de leurs enfants et, dès que ceux-ci 
+sont capables de discernement, d’obtenir leur consen­
+tement avant de publier des photos et des vidéos qui 
+les représentent. 
+Art. 30 de la loi sur le travail, « Âge minimum »
+Ordonnance sur la protection des jeunes travailleurs (OLT 5)
+19
+Qu’est-ce qu’un influenceur ?
+Les influenceurs sont les stars de la jeune génération 
+d’Internet. Pour beaucoup d’enfants et de jeunes, ils sont à 
+la fois des idoles et des modèles. Ils partagent une grande 
+partie de leur vie privée avec leurs followers tout en faisant 
+la promotion de produits et de services. Plus ils ont de 
+followers, plus la publicité leur rapporte. Les stars des 
+réseaux sociaux sont souvent sponsorisées par les entre­
+prises pour leurs recommandations, mais la plupart ne l’expli­
+citent pas, ou pas suffisamment. Puisque les influenceurs 
+sont rémunérés, leur avis ou leur critique d’un produit n’est 
+pas toujours sincère, et peut être piloté par l’entreprise. Or, 
+les enfants et les jeunes veulent ressembler à leur idole. 
+Comme leur nom l’indique, les influenceurs peuvent donc 
+avoir une influence positive, mais aussi négative sur eux.
+Pourquoi les jeunes aiment-ils autant les 
+influenceurs ?
+Les influenceurs ont souvent le même âge et s’intéressent 
+aux mêmes choses : le style de vie, la mode et la beauté, le 
+fitness, la santé, les jeux vidéo, la comédie, et donnent 
+même à voir le quotidien des jeunes. Certains entendent 
+aussi réveiller les consciences sur des sujets de société 
+tels que la durabilité, la protection de l’environnement, la 
+santé mentale ou la justice sociale. On trouve en outre de 
+plus en plus d’enfants stars des réseaux sociaux (kidfluen­
+cers), qui promeuvent des produits et services destinés à 
+d’autres enfants. Ces profils sont en général gérés par les 
+parents. Les enfants et les jeunes se sentent proches des 
+stars des réseaux sociaux, car elles évoluent dans le même 
+espace numérique que leurs proches. Ils peuvent interagir 
+avec elles de plusieurs façons : commentaires, likes, DM 
+(messages privés, ou MP), sondages, adresse directe via 
+les stories ou sur les lives Instagram et TikTok, etc. Ces 
+interactions servent à suggérer une proximité amicale et 
+une participation à la vie des jeunes fans. 
+06_INFLUENCE
+ 
+20
+Pourquoi l’impact des influenceurs peut-il 
+être problématique ?
+En se fiant aux influenceurs, les jeunes risquent non 
+seulement d’être tentés d’acheter des produits, mais aussi 
+de copier les opinions et les comportements de ces stars. 
+Sans esprit critique, cette influence peut poser problème. 
+En effet, certains influenceurs ont des attitudes discrimi­
+nantes, dévalorisantes ou antidémocratiques. Des mouve­
+ments extrémistes, par exemple, peuvent en outre recruter 
+des jeunes par le biais de personnalités des réseaux sociaux. 
+Et pour couronner le tout, les représentations proposées 
+collent souvent aux vieux clichés ainsi qu’aux stéréotypes 
+de genre, ce qui peut renforcer les préjudices et encourager 
+les jeunes à ne pas dépasser le cadre établi. 
+Quels sont les éléments publicitaires les 
+plus difficiles à reconnaître pour les en­
+fants ? 
+Les contenus sponsorisés ou les placements de produits, de 
+logos ou de marques sont parfois intégrés dans les images 
+ou les vidéos de telle sorte qu’il est difficile d’identifier qu’il 
+s’agit de publicité déguisée. Les concours et les codes 
+promotionnels incitent les jeunes à participer et sont aussi 
+une forme de publicité. Les filtres amusants de TikTok ou 
+Snapchat, qui permettent par exemple de se transformer en 
+héros d’un nouveau film ou jeu, peuvent être sponsorisés. 
+De plus, les créateurs et créatrices de contenu sont par exemple 
+payés pour jouer à certains jeux et les présenter à leur 
+public. Nombre de contenus camouflés en pur divertisse­
+ment visent en réalité à promouvoir des produits ou des 
+marques.
+Profession influenceur – de quoi s’agit-il ? 
+De plus en plus de jeunes expriment le souhait de devenir 
+influenceur. En effet, l’aspect prétendument glamour et 
+fascinant de leur mode de vie peut paraître attirant. La présence, 
+sur les réseaux sociaux, d’influenceurs et influenceuses qui 
+ont réussi peut donner l’impression que la gloire et le succès 
+sont à la portée de tous. Les obstacles et les efforts sont 
+escamotés. Il est important de parler aux enfants de la 
+réalité et des difficultés de cette profession afin de leur en 
+donner une image équilibrée.  
+Comment les parents peuvent-ils protéger 
+leurs enfants ?
+Les parents devraient apprendre à leurs enfants à recon­
+naître les publicités classiques, mais aussi les formes 
+mixtes de publicité déguisée. Parlez avec votre enfant des 
+intérêts économiques et des revenus qui se cachent 
+derrière les idoles d’Internet. Parlez-lui aussi de la réalité et 
+des difficultés potentielles qui vont de pair avec la condition 
+d’influenceur, ainsi que de la pression qui y est liée. Ces 
+intérêts économiques entrent souvent aussi en jeu dans les 
+valeurs véhiculées par les influenceurs et influenceuses, 
+notamment en ce qui concerne les stéréotypes de genre et 
+les idéaux de beauté ; abordez ces questions de manière 
+critique avec vos enfants. 
+➔ 07_Image de soi et canons de beauté
+21
+07_IMAGE DE SOI ET CANONS DE 
+BEAUTÉ
+ 
+Prendre un selfie, oui, mais comment ?
+Il s’agit avant tout de s’afficher, d’être original et d’attirer 
+l’attention. Poster des images de soi sur Internet permet de 
+se forger une identité et d’être reconnu en tant que tel. Les 
+jeunes s’amusent à faire des expériences, à se mettre en 
+scène et parfois à provoquer. Mais il est judicieux de 
+toujours se demander : est-ce vraiment moi ? Est-ce que ça 
+me correspond ? Est-ce que j’afficherais la photo en public ? 
+Réfléchir à la manière dont on souhaite que les autres nous 
+perçoivent ou changer son point de vue permet de développer 
+un style authentique. 
+Filtres, Photoshop et course à l’optimisation 
+de soi – où tout cela mène-t-il ?
+Une grande partie des selfies ne sont pas des clichés sponta­
+nés, mais des mises en scène ciblées. Lumière, angle, pose, 
+habillement et maquillage sont souvent parfaitement 
+coordonnés, les photos sont soigneusement sélectionnées 
+et retravaillées avec des filtres et/ou des logiciels spéciali­
+sés. En vidéo, on peut même utiliser des filtres en temps 
+réel qui modifient les proportions du corps, vieillissent ou 
+rajeunissent, retouchent le visage, sans que les autres s’en 
+aperçoivent. Ces fonctionnalités mettent en avant des 
+Est-ce que je peux 
+partager la photo  
+sur Internet ?
+OK !
+Je peux partager  
+la photo.
+STOP !
+Ne pas partager  
+la photo.
+Ai-je vériﬁé 
+mes paramètres de 
+sécurité. Est-ce que 
+je sais qui pourra 
+voir la photo ?
+Ai-je supprimé les 
+données personnelles 
+que je ne souhaite pas 
+divulguer (p. ex. le lieu 
+de résidence, la date 
+de naissance) ?
+Ai-je conscience 
+que lorsque je poste 
+la photo sur une 
+plateforme, je lui cède 
+une partie des droits 
+sur l’image ? 
+Ai-je pris 
+la photo moi-même 
+ou ai-je la permission 
+de l’utiliser ?
+Est-ce que je 
+supporterais que mes 
+parents voient 
+la photo ?
+Sur la photo, 
+personne n’est 
+dans une situation 
+gênante ?
+Ai-je conscience 
+des informations 
+qui sont partagées par 
+le biais du marquage 
+et des hashtags ?
+Ai-je réﬂéchi aux 
+éventuelles conséquences 
+négatives liées au partage 
+de la photo ?
+Toutes les 
+personnes photo-
+graphiées étaient-elles 
+d’accord d’être prises en 
+photo ? Ai-je leur auto-
+risation pour partager 
+la photo ?
+Serait-il 
+acceptable que 
+la photo devienne 
+accessible à tous (p. ex. 
+si elle est envoyée sans 
+demander l’autorisa-
+tion) ? 
+22
+canons de beauté irréalistes et renforcent la course à 
+l’optimisation de soi. Certains filtres utilisés sur les réseaux 
+sociaux se traduisent en outre par une uniformisation des 
+photos. Il en résulte un canon de beauté homogène et 
+standardisé, où la diversité et l’individualité sont remisées 
+au second plan. Cette norme peut influencer négativement 
+l’image que les jeunes ont de leur corps, notamment 
+pendant la puberté, période durant laquelle ils se montrent 
+déjà critiques. 
+Que peuvent faire les parents ?
+Les parents jouent un rôle important dans l’accompagne­
+ment de l’enfant en quête d’identité et de reconnaissance. 
+Valorisez votre enfant. Répétez-lui que la vraie beauté 
+n’est pas une question d’aspect, et soulignez l’importance 
+d’autres valeurs. Qu’est-ce qui rend quelqu’un intéressant 
+et attirant ? Encouragez votre enfant à découvrir ses points 
+forts et à les développer, et insistez sur ses aptitudes afin 
+de renforcer son assurance. Expliquez-lui que beaucoup de 
+contenus sont retouchés et mis en scène. Parlez-lui des 
+stéréotypes de genre et de l’influence qu’ils peuvent exercer 
+sur les gens. Expliquez-lui que cataloguer les jeunes 
+hommes comme indépendants, dynamiques et dominants, 
+et les jeunes femmes comme sexy, vulnérables et sensibles, 
+ce qu’on retrouve souvent dans les médias, est unidimen­
+sionnel et partial. Soulignez l’importance de remettre ces 
+stéréotypes en question afin de renforcer la diversité et les 
+possibilités de chacun. Aidez votre enfant à trouver des 
+modèles positifs sur les réseaux sociaux. 
+Les forums sur Internet peuvent-ils aider en 
+cas de troubles de l’alimentation ?
+Les personnes souffrant de troubles de l’alimentation 
+peuvent trouver des conseils professionnels par courriel, par 
+téléphone ou sur place, par exemple auprès de l’Association 
+Boulimie Anorexie. Mais certains forums en ligne et profils 
+peuvent aussi décourager les personnes qui en auraient 
+besoin de chercher de l’aide. Divers hashtags (#thinspira­
+tion, #bonespiration, #ED pour eating disorder) renvoient à 
+des contenus qui érigent les troubles alimentaires en mode 
+de vie. De plus, les utilisateurs s’encouragent mutuellement 
+dans cette voie destructrice. Comme pour d’autres mala­
+dies, dépendances et tendances suicidaires, une thérapie 
+menée par des professionnel.le.s est indispensable pour 
+vaincre ces affections. 
+Liens
+boulimie-anorexie.ch – Association Boulimie Anorexie
+23
+Comment m’informer sur les jeux vidéo et 
+encadrer mon enfant ?
+Les jeux vidéo font partie du quotidien de nombreux enfants. 
+Intéressez-vous aux jeux auxquels joue votre enfant, même si 
+vous ne les utilisez pas vous-même. Jouez avec lui ou 
+regardez-le faire en lui demandant de vous expliquer le jeu. 
+C’est un bon point de départ pour parler des contenus du jeu 
+et des risques qui y sont liés (consommation excessive, 
+cybergrooming, dépenses, harcèlement, propos déplacés, 
+etc.).
+Vérifiez que les jeux sont adaptés à l’âge de votre enfant 
+(PEGI) et qu’il est suffisamment mûr pour y jouer. Bannissez 
+l’ordinateur et la console de jeux de la chambre de votre 
+enfant. Comme, aujourd’hui, on joue aussi beaucoup sur le 
+smartphone et la console portable, il est important de ne 
+pas garder ces appareils auprès de soi pendant la nuit. 
+Qu’est-ce que Let’s play ?
+Les jeunes adorent non seulement jouer, mais aussi regarder 
+des Let’s Play. Dans les Let’s Play, des gamers jouent en 
+live, commentent et expliquent le déroulement du jeu et 
+proposent des solutions et des astuces permettant 
+d’avancer plus rapidement. Ces vidéos sont diffusées en 
+direct sur des sites comme Twitch. Les spectateurs, qui 
+peuvent discuter entre eux et avec le créateur de contenu 
+dans un chat, partagent au plus près les émotions du 
+gamer. Les vidéos sont également disponibles sur des sites 
+comme YouTube. 
+Qu’est-ce que PEGI ?
+PEGI (Pan European Game Information) est un système de 
+classification (3/7/12/16/18 ans) des jeux vidéo, qui indique 
+si le contenu du jeu est adapté à l’âge du joueur. Des 
+pictogrammes indiquent également que le jeu comporte les 
+08_JEUX VIDÉO
+ 
+éléments suivants : violence, sexe, drogue, peur, discrimina­
+tion, propos grossiers, jeux de hasard, achats intégrés. 
+PEGI vise à prévenir les éventuelles répercussions négatives 
+d’une utilisation non adaptée à l’âge de l’enfant, mais ne 
+porte pas sur la difficulté du jeu. La classification par âge 
+n’a donc aucune visée pédagogique, sans compter que les 
+parents sont les mieux placés pour savoir ce qui convient à 
+leur enfant. Informez-vous en ligne sur les jeux.
+Combien de temps l’enfant peut-il jouer ?
+Il est judicieux de convenir avec l’enfant d’une durée d’écran 
+quotidienne ou hebdomadaire. Cette durée inclut non 
+seulement les jeux, mais aussi le temps passé devant la 
+télévision ou sur Internet. Les consoles de jeux permettent 
+de limiter le temps d’utilisation. Pour certains jeux, il est 
+parfois plus utile de fixer d’autres limites, par exemple le 
+nombre de tours. Fixez également des règles de communica­
+tion. Avec qui votre enfant a-t-il le droit de communiquer en 
+jouant, et comment ?  
+➔ 03_Règles relatives à l’utilisation des médias numériques
+Les jeux peuvent-ils rendre dépendant ?
+Les jeux, et notamment les jeux multijoueurs en ligne (par 
+ex. Clash of Clans) présentent un potentiel de dépendance 
+non négligeable, car le jeu n’a pas de fin en soi et continue 
+même lorsque le joueur n’est pas en ligne. Les jeux en ligne 
+(par ex. Fortnite) peuvent en outre engendrer une pression 
+de groupe qui peut empêcher un joueur de se déconnecter 
+lorsqu’il en a envie alors que ses amis continuent à jouer. 
+Certains éléments du jeu mettent aussi la pression. Il peut 
+s’agir de récompenses limitées dans le temps, qu’on ne peut 
+recevoir qu’en se connectant et en jouant tous les jours, 
+comme le Battle Pass dans Fortnite. Plus on joue, plus on 
+peut recevoir de récompenses. Ce système est générale­
+ment gratuit, du moins en partie, mais payer permet de 
+recevoir plus de récompenses, et des récompenses plus 
+24
+intéressantes. Toutefois, les causes de la dépendance 
+doivent aussi être recherchées dans le manque de maîtrise 
+au quotidien et une faible estime de soi. L’instabilité 
+émotionnelle est également un facteur de risque. Les 
+enfants qui se sentent négligés et incompris sont 
+particulièrement vulnérables. En effet, ils peuvent avoir 
+tendance à se réfugier dans un monde imaginaire et 
+essaient de chasser leurs peurs et leurs frustrations en 
+jouant.  
+➔ 09_Usage excessif
+Les jeux violents rendent-ils agressif ? 
+Le lien entre utilisation de jeux vidéo violents et agressivité 
+au quotidien est ténu. D’autres facteurs tels que l’environne­
+ment familial et social ou la présence d’armes jouent un rôle 
+plus important. On reproche en outre souvent aux jeux de 
+tirs et d’action de banaliser la violence, car ils passent ses 
+conséquences sous silence. En effet, cela permet aux 
+producteurs de vendre leurs jeux à des enfants plus jeunes
+➔ 10_Violence et médias
+Quels sont les bénéfices des jeux vidéo ?
+Les jeux procurent du plaisir, mais pas uniquement. Ils 
+renforcent le sentiment de communauté, contribuent à 
+améliorer les compétences de communication (souvent 
+en anglais) et développent diverses capacités cognitives 
+telles que la réflexion, l’orientation spatiale et la résolution 
+de problèmes. Ils font aussi souvent appel à la créativité 
+et permettent de tester diverses identités. Des études 
+révèlent en outre que les joueurs ont des réactions plus 
+rapides que les autres et résolvent plus vite des tâches 
+complexes.  
+Que sont les achats intégrés ?
+Nombre de jeux (applications ou jeux sur des plateformes en 
+ligne) peuvent être téléchargés et utilisés gratuitement. 
+Cependant, en y jouant, l’utilisateur se voit proposer la possibili­
+té d’effectuer des achats intégrés. Autrement dit, il peut 
+payer pour obtenir des versions améliorées du jeu, des 
+fonctionnalités supplémentaires ou des objets virtuels qui 
+lui donneront des avantages stratégiques. La prudence est 
+de mise avec, par exemple, les loot boxes, qui relèvent des 
+jeux de hasard. En effet, on ne sait pas ce qu’on recevra en 
+les achetant. Les packs de joueurs d’EA Sports FC 24 
+(anciennement FIFA) en sont un bon exemple. Ils donnent 
+accès à des récompenses rares et précieuses. Les chances 
+de remporter le gros lot sont toutefois minces. 
+Pour éviter ces frais, il est possible de désactiver l’option 
+« achats intégrés » dans les paramètres du smartphone ou 
+de la tablette. Sur les consoles de jeux, vérifiez si les 
+paramètres du jeu ou un mot de passe permettent de 
+bloquer les achats. Par ailleurs, il faut si possible éviter de 
+lier son compte de joueur ou ses appareils à un compte 
+bancaire. Convenez de règles pour les achats intégrés qui 
+soient adaptées à l’âge de votre enfant. 
+Liens
+pegi.info/fr
+jouezmalin.be – plateforme pour parents et enseignants 
+sur le monde des jeux vidéo
+pedagojeux.fr – Le jeu vidéo expliqués pour les parents
+e-enfance.org/informer/controle-parental/ – Conseils 
+concrets sur les réglages techniques pour la protection 
+des mineurs
+25
+09_USAGE EXCESSIF
+ 
+Peut-on devenir accro à Internet ? 
+Ce n’est pas Internet en soi qui rend dépendant, mais certains 
+contenus et activités tels que les jeux de rôle en ligne ou 
+les réseaux sociaux présentent un risque de dépendance. Le 
+besoin de récompense, de succès et de reconnaissance est 
+immédiatement satisfait, par exemple en atteignant un score 
+élevé dans un jeu ou en recevant des likes, des flammes 
+ou des cœurs sur les réseaux sociaux. Internet permet de se 
+développer et d’expérimenter des identités variées. La 
+pornographie en ligne présente également un potentiel de 
+dépendance. 
+Qu’entend-on par cyberdépendance ?
+On parle de cyberdépendance lorsque l’utilisation d’Internet 
+devient excessive, néfaste et fait peser des risques sur la 
+personnalité et la santé. Attention toutefois de bien faire la 
+distinction : on peut consulter Internet régulièrement sans 
+pour autant en être dépendant. Les addictions comportemen­
+tales se situent sur un continuum allant d’un usage normal 
+à un trouble addictif, en passant par un usage à risque ou 
+problématique. Il est important de vérifier qu’il n’y a pas 
+d’autres maladies sous-jacentes. En effet, l’utilisation excessive 
+de médias numériques peut parfois être une stratégie pour 
+éviter de se confronter à d’autres problèmes tels que la dépression 
+ou l’anxiété. Il faut donc en tenir compte. Il est en outre 
+recommandé d’associer les proches à tout traitement. 
+Quels sont les signes d’une 
+cyberdépendance ?
+Lorsqu’on souffre de cyberdépendance, toutes les pensées 
+sont tournées vers l’activité en ligne et le centre des 
+relations sociales se déplace vers l’espace virtuel. Une 
+durée d’utilisation excessive des médias ne suffit toutefois 
+pas, à elle seule, à caractériser une cyberdépendance. La 
+motivation à consommer certains contenus joue un rôle 
+important, notamment lorsque cette consommation vise à 
+remédier aux problèmes ou au stress. La cyberdépendance 
+se reconnaît aux signes qui peuvent apparaître dans 
+différents domaines (vie sociale, loisirs, formation, vie 
+professionnelle) :
+•	besoin impérieux d’être toujours en ligne (perte de 
+contrôle) ; 
+•	échec des tentatives de réduire sa consommation 
+d’Internet ; 
+•	poursuite de l’utilisation problématique d’Internet malgré 
+les répercussions ; 
+•	baisse des résultats scolaires et/ou professionnels ;
+•	isolement social ;
+•	perte de contact avec les personnes du même âge, fait de 
+négliger son travail scolaire et sa vie de famille ;
+•	perte d’intérêt pour les loisirs pratiqués précédemment.
+Quelles peuvent être les conséquences à 
+long terme d’une cyberdépendance sur les 
+jeunes ?
+Outre les problèmes scolaires ou les conflits au travail, la 
+cyberdépendance peut amener à négliger les contacts sociaux 
+et provoquer des problèmes familiaux. On constate aussi 
+fréquemment des problèmes d’épuisement, puisque l’activité 
+en ligne prend le pas sur le sommeil. De plus, passer trop de 
+temps assis devant son écran peut provoquer des problèmes 
+de posture et de vue. La cyberdépendance peut aussi avoir des 
+conséquences financières. En fonction des activités pratiquées 
+en ligne, on peut dépenser beaucoup pour des objets virtuels, 
+des abonnements, des achats intégrés ou des jeux. 
+Comment les parents peuvent-ils reconnaître 
+les signes avant-coureurs d’une cyberdépen­
+dance ?
+Le repli sur soi est souvent un signe précoce d’utilisation 
+problématique d’Internet. Il se caractérise par le fait de 
+26
+négliger les relations sociales hors ligne, d’abandonner 
+d’autres loisirs et d’éviter la question de son propre rapport 
+à Internet. Ce repli peut s’accompagner d’une baisse des 
+performances scolaires ou professionnelles. Pour les proches, 
+c’est le dernier moment pour réagir. 
+Que peuvent faire les parents s’ils 
+soupçonnent que leur enfant souffre de 
+cyberdépendance ?
+Tout d’abord, dire à son enfant qu’on se fait du souci pour 
+lui et proposer de l’écouter. Rejeter la faute sur les médias 
+numériques est souvent contre-productif ; il vaut mieux 
+adopter une attitude bienveillante et mettre l’accent sur le 
+bien-être de l’enfant. Il est ensuite judicieux de limiter le 
+temps d’écran quotidien ou hebdomadaire et de chercher 
+avec l’enfant des idées de loisirs alternatifs. Les parents 
+et les proches devraient en outre chercher à comprendre ce 
+que cache cette consommation excessive d’Internet (désir 
+d’appartenance, gratification, succès, etc.) et comment 
+l’enfant pourrait satisfaire ces besoins de manière plus 
+saine dans le monde non-virtuel. Vous pouvez trouver 
+de l'aide professionnelle auprès des centres de consultation 
+en matière d’addictions. 
+Liens
+safezone.ch – Consultation en ligne sur les addictions
+indexaddictions.ch – Services et offres spécialisés dans 
+les addictions
+27
+Consommer des contenus violents pousse-t-
+il à la violence ?
+La question de l’impact négatif des images violentes est 
+aussi vieille que les médias eux-mêmes et revient sur le 
+devant de la scène à chaque nouveau support, du livre à 
+Internet et aux jeux vidéo, en passant par le film et la 
+bande dessinée. Le débat public est souvent très vif et les 
+médias servent de bouc émissaire. 
+Il n’existe pourtant pas de relation de cause à effet claire. 
+Les études longitudinales montrent que seule une infime 
+partie de cette hausse de l’agressivité s’explique par la 
+consommation de contenus violents, qui est plutôt due à 
+d’autres facteurs tels que la personnalité et l’environnement 
+social. Dans certains cas, une augmentation passagère de 
+l’agressivité a été observée après l’exposition à des 
+représentations de violence. Ce qui est certain, en revanche, 
+c’est que quelqu’un qui présente déjà une personnalité 
+assez agressive choisira plutôt des contenus médiatiques à 
+caractère violent. 
+Des jeux violents sont souvent retrouvés au 
+domicile de personnes ayant été frappées de 
+folie meurtrière. Y a-t-il un lien de cause à 
+effet ? 
+Les jeux vidéo et les jeux en ligne sont un média de masse : 
+ils sont vendus à des millions d’exemplaires. De nombreux 
+jeunes, en particulier les garçons, apprécient les jeux 
+d’action. Il n’est donc pas surprenant que l’on en retrouve 
+chez les jeunes auteurs de tels crimes. Le lien entre 
+l’utilisation de jeux de ce type et l’agressivité au quotidien 
+est ténu, sauf pour les groupes à risque. 
+10_VIOLENCE ET MÉDIAS
+ 
+Vraisemblablement, la consommation de contenus média­
+tiques à caractère violent a des répercussions négatives 
+surtout sur les jeunes qui sont considérablement exposés à 
+la violence dans la famille, à l'école et dans le cercle de 
+pairs et qui ont déjà une personnalité agressive.
+Les représentations de violence dans les 
+médias peuvent-elles aussi avoir des effets 
+positifs ?
+L’hypothèse selon laquelle la consommation de contenus 
+violents permettrait d’évacuer l’agressivité est assez 
+populaire. On observe certes que les gamers jouent parfois 
+à des jeux violents dans ce but, mais il n’a pas encore été 
+possible de prouver scientifiquement l’existence d’un tel 
+effet. 
+Comment réagir si mon enfant s’expose à des 
+contenus trop violents ?
+Parfois, les jeunes cherchent délibérément à se démarquer 
+de leurs parents ou à les provoquer en consommant des 
+contenus choquants. Cependant, il est aussi possible qu’ils 
+soient attirés par un jeu pour d’autres raisons que la 
+violence, sans que celle-ci ne soit un critère déterminant. Il 
+est important de chercher le dialogue avec votre enfant et 
+d’affirmer clairement votre position face à la violence, mais 
+aussi de lui demander pourquoi ce jeu le fascine autant. 
+Expliquez-lui les conséquences que peuvent avoir les actes 
+violents dans la vie réelle ; généralement, elles ne sont pas 
+représentées dans les jeux vidéo. Il peut également s’avérer 
+utile de discuter avec les parents des amis de votre enfant 
+pour partager vos expériences et vos avis respectifs vis-à-vis 
+de la violence dans les médias. 
+28
+Quels sont les films et les émissions de 
+télévision adaptés aux enfants ?
+Des programmes tels que RTS Kids ou Okoo de France 
+Télévisions sont bien adaptés aux enfants. Les limites d’âge 
+attribuées aux films offrent aux parents de précieuses 
+indications et devraient absolument être respectées ; toutefois, 
+il faut garder à l’esprit qu’il ne s’agit pas de recommanda­
+tions pédagogiques. Les contenus peuvent être perçus de 
+manière très différente selon les individus, de sorte que 
+même les films adaptés aux enfants ou aux jeunes peuvent 
+déclencher des émotions et des réactions dont il est 
+important de discuter avec eux. 
+Des informations sur les limites d’âge sont disponibles sur 
+les supports audiovisuels (par ex. les DVD) et pour les 
+projections publiques (par ex. au cinéma). Les chaînes nationales 
+signalent les contenus inadaptés aux enfants et aux jeunes 
+par une ligne jaune ou rouge à côté du logo. Sur la RTS, la 
+ligne rouge désigne les programmes contenant des scènes 
+violentes ou érotiques susceptibles de choquer certaines 
+sensibilités, et la ligne jaune, ceux pour lesquels un accord 
+parental est recommandé. Les plateformes de streaming 
+(par ex. Netflix) fournissent également des indications sur 
+les limites d’âge. En Suisse, la Commission nationale du film 
+et de la protection des mineurs recommande un âge 
+minimum pour accéder à un film en salle ou sur support 
+audiovisuel.
+11_TV, FILMS ET STREAMING
+ 
+YouTube, Netflix & Cie : quelle est la popularité 
+des services de streaming ?
+YouTube est désormais le service en ligne préféré des 
+enfants et des jeunes en Suisse. Cependant, outre une foule 
+de contenus adaptés aux enfants, YouTube recèle aussi du 
+matériel inapproprié librement accessible, même sans 
+compte. Par ailleurs, après chaque vidéo, d’autres contenus 
+sont proposés ; or, ceux-ci ne sont pas nécessairement 
+adaptés aux enfants. 
+En Suisse, près de la moitié des jeunes ont leur propre abon­
+nement de streaming sur Neftlix, Spotify, etc. ; par ailleurs, 
+près de 90% des ménages sont abonnés à un service de 
+streaming (JAMES 2022). Ces services payants comportent 
+certes des paramètres de protection des mineurs, mais il 
+est très facile de les contourner.
+Peut-on laisser les enfants seuls devant la 
+télévision ?
+Le téléviseur n’est pas un baby-sitter, pas plus que les 
+tablettes ou les smartphones qui permettent de visionner 
+des contenus vidéo ou télévisuels. Les parents devraient 
+encadrer autant que possible leurs enfants (surtout s’ils sont 
+en bas âge) dans leur utilisation des médias, ceci afin de 
+pouvoir répondre immédiatement à leurs questions et de les 
+aider à mieux comprendre et contextualiser les contenus 
+qu’ils regardent. En outre, sur YouTube, il ne suffit pas d’écouter 
+de loin ce que les enfants regardent, car certaines vidéos 
+inadaptées à leur âge peuvent être accompagnées d’une 
+musique enfantine. Il est important de dire clairement non, 
+par exemple lorsque l’enfant souhaite regarder un pro­
+gramme inapproprié, et de fixer une limite de temps même 
+pour les émissions pour enfants. Proposez à vos enfants des 
+alternatives à la consommation passive de films ou de 
+vidéos. 
+29
+Quelles règles appliquer pour les enfants ?
+Il n’est pas recommandé d’interdire totalement aux enfants 
+de regarder la télévision ou YouTube, car ils s’empresse­
+raient d’aller le faire chez leurs amis, en toute tranquillité. 
+Des études montrent que les enfants apprennent à utiliser 
+les médias de manière raisonnable lorsque leurs parents 
+montrent l’exemple et que des règles ont été définies au 
+sein de la famille, par exemple concernant les émissions que 
+les enfants ont le droit de regarder. Établissez une planifica­
+tion du temps d’écran avec vos enfants et veillez à ce que 
+les règles convenues soient respectées, sous peine de les 
+rendre inefficaces. 
+Liens
+rts.ch/kids
+france.tv/enfants
+filmrating.ch/fr – Commission nationale du film et de la 
+protection des mineurs
+30
+12_CYBERHARCÈLEMENT ET 
+DISCOURS DE HAINE EN LIGNE 
+ 
+Qu’est-ce que le cyberharcèlement ?
+Le cyberharcèlement – également connu sous le nom de 
+harcèlement sur Internet ou de cyberintimidation – consiste 
+à diffuser de manière intentionnelle et pendant un certain 
+temps des textes, des images ou des films offensants par 
+des moyens de communication électroniques (par ex. 
+téléphone portable ou ordinateur) dans le but de dénigrer, 
+d’exposer ou de harceler quelqu’un. Pour les personnes 
+ciblées, les répercussions peuvent être graves : perte de 
+confiance en soi, anxiété, dépression, etc. Les harceleurs, 
+quant à eux, s’exposent à des conséquences pénales. 
+Quelle est la différence entre harcèlement et 
+cyberharcèlement ?
+Le cyberharcèlement se distingue du harcèlement par le fait 
+qu’il ait lieu en ligne et que les harceleurs ne soient pas 
+physiquement face à leurs victimes. Les insultes proférées 
+sur Internet restent souvent visibles, se propagent parfois 
+rapidement à un grand nombre d’utilisateurs et sont difficiles 
+à supprimer. L’anonymat d’Internet permet aux auteurs 
+de harcèlement d’agir pratiquement incognito, ce qui réduit 
+leurs inhibitions. Les jeunes touchés par le cyberharcèle­
+ment sont souvent aussi harcelés dans la vie réelle. On 
+constate toutefois que les victimes de cyberharcèlement 
+présentent un risque plus élevé d’automutilation et de 
+pensées suicidaires. 
+31
+À partir de quand parle-t-on de cyberharcè­
+lement ?
+Les limites entre ce qui peut être considéré comme amusant 
+et ce qui peut être ressenti comme blessant sont floues. Il y 
+a du cyberharcèlement dès lors qu’un individu se sent persé­
+cuté, harcelé ou insulté sur Internet. Les jeunes ne sont pas 
+toujours conscients de l’impact que peuvent avoir les photos 
+ou les commentaires humiliants qu’ils diffusent sur Internet 
+ou qu’ils se transmettent entre amis. Ces actes sont 
+souvent considérés comme de simples plaisanteries, mais 
+vécus comme blessants par les personnes qui les subissent. 
+Il peut cependant aussi s’agir d’actions délibérées visant à 
+porter atteinte à une personne. 
+Comment prévenir le cyberharcèlement ?
+Les parents et l’école doivent éduquer les enfants et les 
+jeunes au sujet du cyberharcèlement et leur transmettre des 
+compétences en la matière. Il s’agit notamment de leur 
+apprendre à traiter de manière responsable les données 
+personnelles et sensibles, à paramétrer les réglages de 
+confidentialité, à adopter un comportement respectueux 
+(« nétiquette ») en ligne et hors ligne, à comprendre les 
+dynamiques de groupe (notamment la pression du groupe) et 
+à développer des compétences sociales telles que l’empa­
+thie. Les jeunes doivent prendre conscience de l’impact que 
+peut avoir leur comportement sur Internet, de ce que signifie 
+le cyberharcèlement pour les personnes concernées et du 
+fait que, dans certaines circonstances, les harceleurs sont 
+passibles de sanctions pénales. 
+Que faire en cas de cyberharcèlement ?
+Il ne faut en aucun cas répondre à ses cyberharceleurs, mais 
+plutôt commencer par demander de l’aide à des personnes 
+de confiance. Ensuite, bloquer les auteurs du harcèlement et 
+les signaler au réseau social ou au forum concerné. Étant 
+donné que certains sites effacent ou masquent les conver­
+sations avec les personnes bloquées, il vaut mieux d’abord 
+sauvegarder des preuves sur son ordinateur (par ex. 
+captures d’écran de conversations ou d’images). Lorsque 
+des photos ou des vidéos insultantes sont publiées, il faut 
+les supprimer ou demander aux exploitants de la plateforme 
+de le faire. Les parents peuvent évaluer avec le corps 
+enseignant, la direction, le service de psychologie scolaire 
+ou les services sociaux de l’école s’il est judicieux de porter 
+plainte ; ils peuvent également demander conseil à un 
+service d’aide aux victimes, par exemple. 
+Que faire si mon enfant harcèle d’autres 
+enfants en ligne ?
+Faites bien comprendre à votre enfant que son comportement 
+est blessant et peut même avoir des conséquences pénales. 
+Essayez aussi de comprendre ce qui l’a poussé à agir ainsi. Incitez 
+votre enfant à changer de point de vue et demandez-lui 
+comment il se sentirait si les rôles étaient inversés. Faites-lui 
+voir les conséquences possibles et discutez avec lui de ce 
+que veut dire un comportement respectueux (hors ligne et en 
+ligne). Discutez ensemble de la manière dont votre enfant 
+peut assumer la responsabilité de ses actes. Comment 
+peut-il s’excuser pour son comportement et réparer le mal 
+commis ?
+32
+Discours de haine : de quoi s’agit-il ? 
+Par discours de haine (en anglais hate speech), on entend 
+généralement les attaques verbales visant des individus ou 
+des groupes de personnes en raison de leur couleur de 
+peau, de leur religion, de leur origine (supposée), de leur 
+genre ou de leur orientation sexuelle. Souvent fondés 
+sur des préjugés et des stéréotypes, ces propos insultants 
+sont étroitement liés aux rapports de pouvoir ou de 
+discrimination présents dans le monde physique, qui se 
+reportent dans la sphère virtuelle. En effet, sur le net, 
+il est plus facile d’injurier et d’exclure sous couvert d’anony­
+mat. La vaste plateforme qu’offre Internet est aussi
+utilisée de manière ciblée par des individus ou des groupes 
+extrémistes à des fins de propagande. Les personnes qui 
+s’engagent en faveur des groupes discriminés et contre la 
+haine en ligne sont également la cible de commentaires 
+haineux, d’insultes et de menaces. 
+➔ 17_Désinformation, manipulation et deepfakes
+Qu’est-ce que les trolls ?  
+Les trolls sont des personnes qui provoquent et offensent 
+intentionnellement d’autres personnes en ligne et sur les 
+réseaux sociaux. Ils peuvent aussi chercher à influencer de 
+manière ciblée les discussions et l’ambiance d’un site ou 
+d’un forum en multipliant les remarques critiques. Leur but 
+est d’attirer l’attention, de provoquer d’autres utilisateurs 
+et de les pousser à avoir des réactions émotionnelles. 
+Que faire lorsqu’on rencontre des trolls 
+en ligne ?
+Aidez votre enfant à comprendre quel est le but des trolls 
+et expliquez-lui qu’ils choisissent généralement leurs 
+victimes au hasard. De cette façon, votre enfant sera sans 
+doute moins affecté s’il devait un jour faire l’objet des 
+commentaires offensants d’un troll. La victime d’un troll est 
+censée croire qu’elle est mal vue par un public large et 
+important. Faites comprendre à votre enfant que la plupart 
+de ces offenses et de ces reproches n’intéressent pas les 
+personnes dont l’avis compte vraiment pour lui. Il faut par 
+ailleurs éviter à tout prix de se laisser entraîner dans une 
+discussion, le mieux étant d’ignorer, de bloquer et de 
+signaler les trolls et de ne pas se laisser influencer par eux.
+Aspects juridiques
+En Suisse, le cyberharcèlement ne figure pas en tant 
+que tel dans le code pénal. En fonction des circons­
+tances, plusieurs infractions peuvent toutefois entrer 
+en ligne de compte, dont :
+Art. 180 CP, « Menaces »
+Art. 156 CP, « Extorsion et chantage »
+Art. 181 CP, « Contrainte »
+Art. 174 CP, « Calomnie »
+Art. 173 CP, « Diffamation »
+La discrimination et l’incitation à la haine sont 
+également sanctionnables.  
+Art. 261bis CP, « Discrimination et incitation à la haine »
+33
+13_PORNOGRAPHIE ET SEXTING
+ 
+Que sait-on de la consommation de 
+pornographie par les jeunes ?
+En moyenne, les jeunes sont confrontés pour la première 
+fois à la pornographie vers l’âge de 13 ans, un âge qui tend 
+à diminuer. Les garçons consomment généralement ce 
+type de contenus plus tôt, plus souvent et plus régulière­
+ment que les filles. Néanmoins, il est important de ne pas 
+partir du principe qu’ils sont les seuls concernés. Les filles 
+regardent aussi du porno, même si elles le font plus 
+rarement et ne l’admettent pas toujours ouvertement lors 
+des enquêtes. Cette différence est probablement due aux 
+stéréotypes de genre et à la manière dont la sexualité 
+féminine est perçue dans notre société. Le premier contact 
+avec la pornographie est souvent involontaire, par exemple 
+lorsque des jeunes en montrent à leurs amis sans leur 
+demander leur avis. 
+Quels sont les effets négatifs de 
+la pornographie en ligne sur les jeunes ?
+La pornographie revêt de nombreuses formes ; tout dépend 
+donc du contenu spécifique. La situation devient probléma­
+tique lorsque les jeunes tirent toutes leurs connaissances 
+sur la sexualité de tels contenus. En effet, la pornographie 
+n’est pas faite pour cela : souvent, elle donne une image 
+faussée de la sexualité en représentant le désir et le corps 
+de manière peu réaliste et en véhiculant des stéréotypes 
+de genre parfois discutables. Ainsi, si les jeunes ne 
+reçoivent pas d’éducation sexuelle répondant aux questions 
+qui les intéressent, la pornographie peut les déstabiliser 
+quant à leur propre sexualité. 
+Les contenus érotiques sur Internet 
+peuvent-ils aussi avoir un impact positif ?
+Pour les adolescents d’un certain âge qui commencent à 
+s’informer sur leur sexualité, la pornographie peut parfois être 
+utile, pour autant que les représentations qu’elle véhicule 
+fassent l’objet d’une réflexion critique et soient vues dans le 
+contexte d’un développement sexuel sain. La pornographie 
+peut donc les aider à explorer leurs fantasmes, leur orienta­
+tion sexuelle, leurs désirs, leurs limites et leurs besoins dans 
+un cadre sûr. Elle peut ainsi avoir un effet libérateur et amélio­
+rer l’acceptation de soi.
+Que faire si je trouve du porno sur 
+le téléphone portable de mon enfant ?
+La sexualité intrigue beaucoup les jeunes. Certains enfants 
+s’échangent par message des clips ou des images érotiques 
+téléchargés depuis Internet. Il importe à cet égard de 
+connaître le cadre légal (voir « Aspects juridiques » ci-des­
+sous). Pour résumer, les jeunes de moins de 16 ans ne 
+sont pas eux-mêmes punissables s’ils regardent du porno en 
+ligne. Par contre, toute personne qui rend de tels contenus 
+accessibles aux moins de 16 ans (par exemple en les envoyant 
+par message ou en les montrant sur un smartphone) 
+s’expose à des sanctions pénales, même si elle est elle-même 
+mineure. Si vous trouvez du porno sur le téléphone de votre 
+enfant, vous devez donc agir. Votre enfant doit savoir qu’il 
+ne peut pas envoyer ces images à d’autres. Attention : 
+certains services de messagerie enregistrent automatique­
+ment sur le smartphone tous les médias reçus. Cette 
+fonction devrait être désactivée si l’enfant est par exemple 
+membre de grands groupes de discussion. 
+34
+Comment puis-je protéger mon jeune enfant 
+des contenus pornographiques ? 
+Les appareils donnant accès à Internet ne devraient pas 
+être accessibles aux enfants sans contrôle. En tant que 
+parent(s), vous devriez paramétrer l’appareil afin de garder 
+le contrôle sur les contenus. Les programmes de contrôle 
+parental filtrent les sites Internet à contenu pornographique, 
+mais ne peuvent pas offrir une protection parfaite.
+Qu’est-ce que le sexting, et quels sont ses 
+risques ? 
+Le terme sexting décrit l’échange numérique d’images 
+érotiques prises soi-même ou de textes érotiques rédigés 
+de sa propre plume. Ce type de communication est assez 
+répandu parmi les jeunes vivant leurs premières expé­
+riences sexuelles. Le sexting n’est pas punissable s’il est 
+consenti et que la différence d’âge entre les personnes 
+impliquées ne dépasse pas trois ans. 
+Toutefois, la situation peut facilement basculer. Une photo 
+dénudée envoyée en gage d’amour peut se transformer en 
+réel danger en cas de séparation : par vengeance, elle peut 
+être envoyée à des tiers, voire publiée sur Internet. Il faut 
+tout particulièrement se méfier des personnes mal inten­
+tionnées qui incitent leur victime à effectuer des actes 
+d’ordre sexuel devant leur webcam ou à envoyer des vidéos 
+intimes pour ensuite les faire chanter (sextorsion), voir 
+« Aspects juridiques » et le chapitre
+➔ 14_Cybergrooming et harcèlement sexuel en ligne
+Comment aborder la question du sexting 
+avec mon enfant ?
+Parler de sexting avec son enfant peut être difficile, mais il 
+est important de le faire. Au lieu de juger, abordez la 
+question de façon aussi ouverte et neutre que possible. Par 
+exemple, demandez à votre enfant ce qu’il en pense et 
+réfléchissez ensemble aux raisons qui peuvent pousser à 
+envoyer de tels messages. Encouragez votre enfant à 
+écouter son instinct et à ne pas se filmer, se prendre en 
+photo ou laisser quelqu’un d’autre le faire s’il ne se 
+sent pas à l’aise. Ce point est particulièrement important, 
+car la pression peut être grande. Faites-lui bien comprendre 
+qu’il est inacceptable et parfois même sanctionnable 
+pénalement de partager des images dénudées d’autres 
+personnes. Évoquez les conséquences possibles d’une 
+diffusion non désirée de tels contenus, comme le chantage 
+(sextorsion). Discutez également des alternatives au 
+sexting : comment peut-on être sexy sans se déshabiller ? 
+Si votre enfant a déjà partagé de telles images de lui, ne le 
+jugez pas, mais demandez-lui sans le brusquer quelles 
+étaient ses motivations. Essayez de savoir s’il y a été forcé 
+et ce qu’il espérait obtenir. Si le partage de ces contenus a 
+des répercussions négatives, soutenez votre enfant et 
+accompagnez-le éventuellement à la police ou à un centre 
+de conseil. 
+Que faire si un enfant subit un abus lié au 
+sexting ?
+Vous ne devez pas faire face seul à cette situation. Faites-
+vous rapidement aider par des spécialistes (par ex. services 
+de conseil, psychologue scolaire, police) et déterminez avec 
+eux s’il est judicieux de porter plainte. Lorsqu’une dyna­
+mique de groupe est en jeu, par exemple en cas de cybe­
+rharcèlement, il faut impliquer l’école et toutes les per­
+sonnes concernées. 
+35
+Aspects juridiques
+Mineurs et pornographie légale
+Il est interdit de montrer ou de rendre accessible un 
+contenu pornographique à une personne de moins de 
+16 ans. 
+Art. 197, al. 1, CP « Pornographie »
+Diffusion de contenus privés à caractère sexuel
+Celui qui transmet à un tiers un contenu à caractère 
+sexuel tel qu’une photo ou une vidéo ou rend ces images 
+publiques sans le consentement de la personne qui y est 
+identifiable est sanctionnable.  
+Art. 197a CP, « Transmission indue d’un contenu non 
+public à caractère sexuel » (délit poursuivi sur plainte) 
+Sexting : critères d’impunité pour les jeunes
+Le sexting est autorisé à condition que les critères 
+suivants soient remplis : 
+•	tous les participants doivent consentir à la création et 
+à la transmission du matériel ;
+•	les participants se connaissent personnellement ;
+•	ni la personne créant le contenu ni la personne 
+donnant accès à ce dernier ne doivent fournir ou 
+promettre une rémunération ;
+•	tous les participants doivent être majeurs ou, si l’un au 
+moins est mineur, la différence d’âge ne doit pas 
+excéder trois ans. 
+Art. 197, al. 8 et al. 8 bis, CP, « Pornographie »
+Sextorsion
+La sextorsion (mot-valise composé de « sexe » et d’« extor­
+sion ») est une méthode qui consiste à faire chanter 
+quelqu’un avec des photos ou des vidéos explicites. Il peut 
+s’agir de photos envoyées à l’origine dans le cadre d’un 
+sexting, donc de manière consensuelle, mais aussi 
+d’images obtenues par grooming (voir ➔ 14_Cybergroo­
+ming et harcèlement sexuel en ligne). L’auteur de la 
+sextorsion menace sa victime de publier les images ou de 
+les transmettre à des tiers. Il peut parfois réclamer 
+de l’argent, mais, le plus souvent, il demande d’autres 
+images, éventuellement encore plus explicites.  
+La sextorsion ne constitue pas une infraction en tant que 
+telle, mais les articles de loi suivants peuvent néanmoins 
+s’appliquer :
+Art. 156 CP, « Extorsion et chantage »
+Art. 174 CP, « Calomnie »
+Art. 179 quater CP, « Violation du domaine secret ou du 
+domaine privé au moyen d’un appareil de prise de vues »
+Art. 197 CP, « Pornographie »
+Art. 180 CP, « Menaces »
+Art. 181 CP, « Contrainte »
+Art. 187 CP, « Actes d’ordre sexuel avec des enfants » 
+(si la victime a moins de 16 ans)
+Pornographie illégale
+Celui qui fabrique, montre, rend accessible, obtient ou 
+possède du matériel pornographique ayant comme 
+contenu des actes d’ordre sexuel avec des animaux ou 
+des actes d’ordre sexuel (effectifs ou non effectifs) avec 
+des mineurs est sanctionnable. 
+Art. 197, al. 4 et 5, CP, « Pornographie »
+Que faire si l’on tombe sur de la pédopornographie 
+en ligne ?
+Les images d’actes d’ordre sexuel (effectifs ou non, par 
+exemple des contenus ou des animations générés par IA) 
+avec des mineurs sont illégales. Il est possible de 
+signaler ces liens sur le site clickandstop.ch. Il ne faut en 
+aucun cas télécharger ce type de contenu ou faire des 
+captures d’écran, même pas à des fins de documenta­
+tion, sous peine d’être soi-même sanctionnable. 
+36
+Qu’est-ce que le cybergrooming ?
+Par cybergrooming, on entend le fait d’aborder de manière 
+ciblée des mineurs sur Internet pour nouer avec eux des 
+contacts à caractère sexuel. Les auteurs de cybergrooming 
+(dans la grande majorité des cas, il s'agit d'hommes adultes) 
+ont souvent recours à des stratégies similaires pour 
+approcher les enfants ou les jeunes. Ils tentent d’établir une 
+relation de confiance et de créer un rapport de dépendance 
+pour pouvoir ensuite manipuler et contrôler leurs victimes. 
+Les jeunes peuvent être confrontés au cybergrooming sur 
+tous les sites qu’ils utilisent et où ils peuvent être contac­
+tés : réseaux sociaux comme TikTok, Instagram et Snapchat, 
+plateformes en ligne comme YouTube et Twitch, mais aussi 
+jeux en ligne et plateformes de jeux comme Fortnite et 
+Roblox. Pour contourner les mesures de sécurité de ces 
+sites, les auteurs de cybergrooming tentent de passer le 
+plus rapidement possible à des moyens de communication 
+plus privés, tels que des applications de messagerie ou de 
+chat vidéo.
+Comment protéger mon enfant des 
+pédocriminels présents sur les chats ?
+Il est essentiel de rendre les jeunes attentifs aux signes qui 
+doivent les alerter. Les pédocriminels peuvent par exemple 
+tenter d’orienter la conversation sur le thème du sexe ou des 
+expériences sexuelles, appâter les jeunes avec de l’argent 
+ou d’autres récompenses (par ex. jeux en ligne), leur demander 
+d’envoyer des photos et des vidéos ou d’allumer la webcam, 
+leur proposer de poursuivre la conversation sur  une plate­
+forme plus privée (application de messagerie, téléphone, 
+e-mail ; cela leur permet également d’obtenir plus de données 
+personnelles), ou même suggérer une rencontre en personne. 
+Les tentatives de cybergrooming doivent être signalées 
+à la police et leurs auteurs doivent être bloqués. Faites savoir 
+à votre enfant qu’il peut toujours s’adresser à vous s’il est 
+victime de harcèlement sexuel sur Internet. A la fin du 
+chapitre, vous trouverez des liens vers des services de conseil. 
+Quelles sont les règles générales à 
+respecter pour faire un usage sûr des chats ?
+En règle générale, il est plus sûr de discuter sur les réseaux 
+sociaux ou les applications de messagerie que sur les sites 
+de chat anonyme (par ex. Discord, Twiq ou Chatroom2000), 
+où le harcèlement sexuel est fréquent. De manière générale, 
+il faut inciter les enfants à rester sur leurs gardes, à ne pas 
+envoyer de coordonnées personnelles ni de photos à une 
+personne dont ils ont fait la connaissance sur un chat, et à 
+ne jamais la rencontrer en personne sans être accompa­
+gnés. Si une rencontre doit avoir lieu, elle doit toujours se 
+faire en présence d’un adulte et dans un lieu public. En 
+tant que parent, il est important que vous parliez ouverte­
+ment de ce sujet avec votre enfant, afin qu’il sache qu’il 
+peut se confier à vous s’il vit une expérience désagréable 
+sur Internet ou qu’il est victime de cyberharcèlement. 
+Que faire si mon enfant reçoit des photos de 
+nu par message ?
+Sur les réseaux sociaux tels que TikTok, Instagram ou 
+Snapchat, les applications de messagerie, les e-mails ou les 
+chats de jeux vidéo, des inconnus peuvent envoyer des 
+photos de nu (ou nudes) non sollicitées aux jeunes. Souvent, 
+ces derniers ne prennent pas cela très au sérieux ; pourtant, 
+l’envoi de photos de pénis (ou dickpics), par exemple, 
+constitue une infraction qui peut faire l’objet d’une plainte. 
+Le site Internet de Netzpigcock peut aider à porter plainte 
+rapidement et facilement. 
+14_CYBERGROOMING ET 
+HARCÈLEMENT SEXUEL EN LIGNE
+ 
+Liens
+147.ch/fr – Consultation pour enfants et jeunes 
+(Pro Juventute)
+netzpigcock.ch – Générateur de plaintes contre l'envoi de 
+photos de pénis (en allemand)
+37
+Aspects juridiques
+Harcèlement sexuel et cybergrooming
+Un délit d’ordre sexuel peut aussi être uniquement 
+verbal, qu’il s’agisse de paroles ou de texte. Le harcèle­
+ment sexuel constitue une infraction sanctionnable sur 
+plainte. 
+Le cybergrooming est une forme de harcèlement sexuel 
+où des adultes abordent des mineurs sur Internet et 
+essaient de gagner leur confiance. Ils se présentent 
+souvent comme quelqu’un du même âge que leur victime. 
+Leur objectif est d’obtenir des photos ou des vidéos à 
+caractère sexuel ou même une rencontre, lors de laquelle 
+ils tentent parfois d’agresser sexuellement l’enfant.
+Le simple fait d’essayer, en d’autres termes le grooming, 
+est sanctionnable. Le cybergrooming peut tomber sous le 
+coup des délits suivants : 
+Art. 187 CP, « Actes d’ordre sexuel avec des enfants »
+Art. 22 CP, « Punissabilité de la tentative »
+Art. 197, al. 4, CP, « Pornographie »
+Art. 198 CP, « Désagréments causés par la confrontation 
+à un acte d’ordre sexuel » (délit poursuivi sur plainte) 
+Envoi non désiré de contenus pornographiques 
+Celui qui montre du matériel pornographique à autrui 
+sans y avoir été invité, ou même l’envoie sur une 
+messagerie instantanée ou un réseau social, est 
+sanctionnable. 
+Art. 197, al. 2, CP, « Pornographie »
+38
+15_SÉCURITÉ ET PROTECTION DES 
+DONNÉES
+ 
+À quoi les parents doivent-ils faire attention 
+lorsque leurs enfants utilisent Internet ?
+N’oubliez pas que les enfants n’ont pas nécessairement 
+besoin d’un ordinateur pour accéder à Internet : ils peuvent 
+également le faire via un smartphone ou tout autre appareil 
+disposant d’une connexion Wi-Fi (par ex. tablette, console 
+de jeu vidéo, smart watch ou télévision). Lorsqu’ils surfent 
+sur Internet, ils devraient utiliser une connexion sécurisée 
+(Wi-Fi protégé par un mot de passe à la maison ou VPN) afin 
+de protéger leurs données des éventuelles attaques. Les 
+parents devraient inciter leurs enfants à ne pas communi­
+quer de données personnelles, comme le nom complet, 
+l’adresse, le numéro de téléphone ou le numéro de carte de 
+crédit, ou à le faire uniquement après concertation avec un 
+adulte de référence. Les enfants devraient en outre informer 
+leurs parents avant de télécharger des contenus ou des 
+applications. 
+➔ 05_Réseaux sociaux : Instagram, TikTok et Cie
+Quels moteurs de recherche pour 
+les enfants ?
+Au lieu des outils habituels tels que Google, il est recom­
+mandé de définir comme page d’accueil un moteur de 
+recherche spécifiquement destiné aux enfants. Ces sites ont 
+l’avantage de n’afficher que des contenus adaptés et un 
+nombre de résultats raisonnable pour chaque requête. Par la 
+suite, lorsque les jeunes commencent à utiliser Google, il 
+est également possible d’activer dans un premier temps la 
+fonction SafeSearch, qui permet de filtrer les résultats de 
+recherche. 
+Est-il recommandé d’utiliser des filtres 
+Internet comme protection ?
+Il est indispensable d’installer des filtres bloquant l’accès 
+aux contenus préjudiciables, en les adaptant selon la 
+maturité de l’enfant. Lorsque des adultes et des enfants se 
+partagent un ordinateur sur lequel sont installés des filtres, 
+il est recommandé de créer différents comptes d’utilisateur. 
+Des programmes de filtrage sont disponibles sous forme 
+d’application pour les smartphones ou autres appareils dotés 
+d’une connexion Wi-Fi. Tout cela ne remplace cependant 
+pas des discussions ouvertes et adaptées à l’âge des enfants 
+sur la sexualité et la violence, devant leur permettre 
+d’apprendre à gérer ces deux thématiques. Par ailleurs, les 
+filtres peuvent donner un faux sentiment de sécurité : les 
+jeunes parviennent parfois à les contourner en se communi­
+quant des sites dont les noms sont anodins. Ou alors, ils se 
+connectent chez des amis qui disposent d’un accès sans 
+filtre à Internet.  
+39
+Quels autres dispositifs de sécurité les 
+parents peuvent-ils mettre en place sur 
+l’ordinateur, la tablette ou le smartphone ?
+•	Le pare-feu de l’ordinateur doit être activé. Il le protège 
+des attaques sur Internet et empêche les accès non 
+autorisés. 
+•	Installez des applications de sécurité ou des programmes 
+anti-virus fiables pour vous protéger des logiciels 
+malveillants, des virus et autres menaces. 
+•	Mettez régulièrement à jour le système d’exploitation et 
+les logiciels ou applications pour combler les lacunes de 
+sécurité et avoir accès à toutes les dernières fonctionnali­
+tés. Les logiciels anti-virus devraient être paramétrés de 
+manière à actualiser régulièrement et automatiquement 
+la liste des virus. 
+•	Pour protéger vos données personnelles, vérifiez les 
+autorisations des applications avant de les télécharger et 
+ne leur accordez que les accès nécessaires.
+•	Faites régulièrement des copies de sauvegarde pour 
+éviter de perdre des données en cas de défaillance 
+(y compris matérielle).
+•	Effacez régulièrement les cookies (informations sur les 
+sites web consultés) de votre navigateur (par ex. Chrome, 
+Safari, Firefox, Edge) afin de préserver votre sphère 
+privée et d’optimiser l’utilisation de la mémoire.
+•	Verrouillez vos appareils à l’aide d’un mot de passe, d’un 
+code PIN ou d’une méthode d’authentification biométrique 
+(par ex. empreinte digitale ou reconnaissance faciale) 
+pour empêcher les tiers d’y accéder à votre insu.
+Comment créer un mot de passe aussi sûr 
+que possible ?
+De manière générale, plus un mot de passe est long, plus il 
+est sûr. Il devrait comporter au moins 8 caractères, dont des 
+minuscules, des majuscules, des chiffres et des caractères 
+spéciaux tels que points ou virgules. Évitez les termes bien 
+connus (par ex. « mot de passe ») et les informations 
+personnelles telles que l’adresse, la date de naissance, le 
+numéro de téléphone, etc. Vous pouvez aussi utiliser un 
+logiciel de gestion des mots de passe, qui permet de générer 
+et de sauvegarder des mots de passe sûrs.  
+Qu’est-ce que le Darknet ?
+Le terme Darknet désigne des zones sur Internet qui sont 
+cryptées plusieurs fois et inatteignables sur les navigateurs 
+et moteurs de recherche usuels. La navigation y est ainsi 
+anonyme. Cela permet aux internautes de protéger leurs 
+informations personnelles des annonceurs qui collectent 
+et vendent des données, ainsi que des attaques potentielles 
+qui chercheraient à les identifier. Il s’agit là d’un atout 
+essentiel pour les dissidents vivant dans des pays où la 
+liberté d’expression est restreinte, mais aussi pour les 
+lanceurs d’alerte ou les journalistes. L’utilisation du darknet 
+n’est donc pas forcément illégale. Par contre, on y trouve de 
+nombreux contenus et commerces illégaux : pédopornogra­
+phie, extrémisme, commerce de drogues et d’armes, traite 
+d’êtres humains et autres marchés noirs. 
+Les jeunes qui s’y connaissent en informatique peuvent 
+assez facilement avoir accès au darknet, mais ils n’ont 
+souvent pas conscience des dangers et des possibles 
+conséquences pénales.
+Liens
+qwantjunior.com – Moteur de recherche pour enfants
+e-enfance.org/informer/controle-parental/ – Conseils 
+concrets sur les réglages techniques pour la protection 
+des mineurs
+40
+16_INTELLIGENCE ARTIFICIELLE   
+ 
+Qu’est-ce que l’intelligence artificielle ?
+L’intelligence artificielle (IA) est une technologie conçue 
+pour effectuer des tâches qui nécessiteraient normalement 
+de recourir à l’intelligence humaine. Il peut par exemple 
+s’agir de la reconnaissance vocale, de la communication, de 
+la résolution de problèmes ou de la prise de décisions. L’IA 
+apprend à partir des données qu’elle reçoit et des expé­
+riences qu’elle fait ; ainsi, plus on l’utilise, plus elle s’amé­
+liore. L’intelligence artificielle est déjà présente dans de 
+nombreux domaines de notre vie quotidienne. Les recom­
+mandations personnalisées de services de streaming tels 
+que Netflix, qui nous proposent des films ou des séries 
+correspondant à nos goûts, sont par exemple basées sur des 
+algorithmes d’IA. Alexa et Siri y ont également recours pour 
+diffuser de la musique ou répondre à nos questions. 
+Que doit savoir mon enfant sur 
+les applications d’IA ? 
+Les enfants et les adolescents sont déjà confrontés à l’IA 
+depuis longtemps : recommandations sur les réseaux sociaux 
+et les services de streaming, correcteurs automatiques, etc. 
+Toutefois, les applications d’IA se développent à une vitesse 
+fulgurante et de nouveaux produits arrivent sans cesse sur le 
+marché : ChatGPT, l’application Gemini de Google ou encore le 
+chatbot « My AI » de Snapchat. Il est donc important de 
+discuter avec votre enfant des opportunités et des risques 
+que recèlent les IA et de tester des logiciels avec lui. 
+Expliquez-lui que les informations fournies par les chatbots 
+doivent toujours être vues d’un œil critique et comparées à 
+d’autres sources. Rendez-le également attentif à la protection 
+des données : par exemple, sur Snapchat, le chatbot 
+enregistre les messages et les contenus qui lui sont envoyés. 
+41
+Qu'est-ce que les social bots ?
+Les social bots sont des programmes informatiques qui 
+agissent de manière autonome et peuvent être utilisés pour 
+manipuler et déconcerter les utilisateurs. Ils simulent une 
+identité humaine et communiquent comme de vraies 
+personnes sur les réseaux sociaux ou sur d’autres forums 
+interactifs. Les algorithmes employés pour créer les social 
+bots recourent en grande partie à l’intelligence artificielle. 
+Par exemple, sur Facebook, Instagram ou X, ils peuvent 
+aimer, commenter, partager ou publier automatiquement 
+des contenus. Ils contribuent ainsi à fausser des tendances 
+et des opinions.
+Qu’est-ce que mon enfant doit savoir des 
+social bots ? 
+Expliquez à votre enfant que les profils sur les réseaux 
+sociaux et les forums ne proviennent pas forcément d’une 
+personne en chair et en os, même s’ils ont l’air très réels. 
+Les social bots envoient souvent des demandes de contact 
+à des personnes réelles ou veulent les suivre sur Instagram 
+pour rendre leur liste d’amis plus crédible ou accéder à plus 
+d’informations sur les profils. Dites à votre enfant de 
+n’accepter aucune demande de contact de personnes qu’il 
+ne connaît pas. Faites-lui aussi comprendre que les 
+commentaires et les activités en ligne ne proviennent pas 
+nécessairement d’une personne réelle.
+42
+17_DÉSINFORMATION, 
+MANIPULATION ET DEEPFAKES  
+ 
+Les enfants peuvent-ils distinguer la fiction 
+de la réalité dans les médias ?
+Les enfants commencent à être capables de faire la distinc­
+tion entre une invention et un fait réel vers l’âge de six 
+ou sept ans. En ce qui concerne la télévision, ils parviennent 
+mieux à distinguer la fiction de la réalité si les parents 
+regardent avec eux et les accompagnent activement.
+Les médias reflètent-ils objectivement 
+la réalité ?
+Les médias ne pourront jamais reproduire parfaitement la 
+réalité. Même les émissions réalisées avec sérieux sont 
+subjectives, ne présentent qu’une fraction de la réalité et 
+reconstituent parfois des scènes. De plus, en fonction 
+de sa personnalité, de ses expériences et de ses attentes, 
+chacun perçoit différemment les images diffusées par les 
+médias. En parlant avec leurs enfants, les parents peuvent 
+expliquer que les médias ne reflètent jamais entièrement 
+la réalité. Ils encouragent ainsi la réflexion critique sur les 
+contenus médiatiques.
+Désinformation, fake news et deepfakes – 
+de quoi s’agit-il ? 
+La désinformation est le fait de diffuser volontairement 
+des informations fausses ou trompeuses afin de manipuler 
+autrui, d’influencer l’opinion publique ou de semer la 
+confusion. Les fake news sont des informations fausses ou 
+déformées intentionnellement, diffusées dans un but 
+précis. Elles servent par exemple des intérêts financiers, 
+politiques, idéologiques ou encore personnels, visent à 
+influencer l’opinion publique ou à nuire à certains groupes 
+de personnes ou à des individus. Sur les réseaux sociaux, 
+les fake news, provocantes, excitantes et surprenantes, se 
+répandent comme un feu de poudre. Les deepfakes sont 
+des photos, des vidéos et des données audio modifiées à 
+l’aide de l’intelligence artificielle (IA). On peut donc faire 
+faire ou faire dire à quelqu’un des choses qu’il n’a en réalité 
+jamais faites ou dites. Plusieurs applications ou filtres 
+intégrés aux réseaux sociaux mettent la réalisation de 
+deepfakes à la portée de tout un chacun. 
+Quels en sont les risques ?
+L’objectif étant d’induire les gens en erreur ou de les 
+influencer avec des informations et des contenus erronés 
+et trompeurs, ces techniques ne peuvent être que dange­
+reuses. Elles peuvent par exemple être utilisées pour échauffer 
+les esprits contre des décisions politiques et ainsi renforcer 
+les tensions sociales, engendrer la méfiance et peser sur les 
+processus démocratiques en sapant la confiance de la 
+population envers les informations. Les jeunes, en particu­
+lier, dont l’opinion n’est pas encore formée, sont vulné­
+rables face à la manipulation et à la désinformation, qui 
+peuvent influencer durablement leurs perceptions et leurs 
+idées.
+43
+Que peuvent faire les parents ?
+Les enfants et les jeunes ont beaucoup de difficulté à 
+évaluer la véracité et l’intention des textes, des images et 
+des vidéos. En tant qu’adulte, vous disposez d’une expé­
+rience essentielle pour les accompagner dans leurs décou­
+vertes et leur servir de modèle. Aidez votre enfant à 
+développer son regard critique et à acquérir des stratégies 
+pour évaluer les contenus médiatiques. Expliquez-lui que 
+tout ce qui se trouve sur Internet n’est pas nécessairement 
+vrai, même si la présentation donne une impression de 
+sérieux. Les nouvelles, les photos et les vidéos peuvent être 
+manipulées. Montrez-lui quels motifs peuvent se cacher 
+derrière la désinformation, les fake news et les deepfakes. 
+Vous pouvez par exemple chercher une nouvelle douteuse 
+et l’analyser avec votre enfant. Connaître des techniques 
+telles que la recherche par image pour en retrouver la 
+source (avec Tineye) ou la vérification d’URL est aussi très 
+utile. Si votre enfant tombe sur des contenus faux, trou­
+blants ou effrayants, il devrait vous en informer ou en parler 
+à une autre personne de confiance.  
+➔ 18_Enfants et infos
+Liens
+hoaxbuster.com – Plateforme collaborative contre 
+la désinformation
+tineye.com – Recherche par image pour retrouver 
+la source
+44
+18_ENFANTS ET INFOS  
+ 
+À quoi faut-il penser lorsqu’on lit ou regarde 
+les infos ?
+Il est rare que les enfants et les jeunes cherchent active­
+ment à s’informer de l’actualité. C’est plutôt elle qui les 
+trouve en empruntant différents canaux. Sur les réseaux 
+sociaux, ils voient non seulement défiler des contenus 
+récréatifs ou communicatifs, mais également journalis­
+tiques. Au vu de la quantité d’informations disponibles, 
+ils ont de la peine à distinguer le vrai du faux et à évaluer la 
+pertinence des contenus. On a aussi souvent tendance à 
+vivre dans une bulle de filtrage et donc à consulter des 
+informations partiales. Ce n’est pas parce qu’un contenu est 
+souvent partagé et donc largement diffusé qu’il est 
+particulièrement pertinent (pour la société), d’autant plus 
+qu’il est souvent faux. 
+➔ 17_Désinformation, manipulation et deepfakes 
+Dites à votre enfant qu’il est important de s’informer aussi 
+par d’autres moyens et de consulter des sources variées sur 
+des thèmes d’actualité. Soulignez aussi l’importance des 
+médias de qualité.  
+Existe-t-il des sites d’information pour 
+les enfants ?  
+Il existe des sites d’information spéciaux qui s’adressent 
+aux enfants et aux jeunes et qui proposent des contenus de 
+qualité, fiables et adaptés à leur âge. Les enfants devraient 
+aussi utiliser des moteurs de recherche adaptés à leur âge. 
+Vous pouvez utiliser ces sites comme page d’accueil sur le 
+compte de votre enfant.
+➔ 15_Sécurité et protection des données
+Faut-il protéger les enfants 
+des informations qui concernent les guerres 
+et les catastrophes ?
+Les parents ne devraient pas regarder les nouvelles à la 
+télévision avec leurs enfants. Il est néanmoins presque 
+impossible de protéger entièrement les enfants des images 
+éprouvantes. Parlez-en donc avec eux et aidez-les à retrouver 
+un sentiment de sécurité. Expliquez-leur la situation sans 
+dramatiser et en tenant compte de leur âge afin de ne pas 
+susciter des angoisses. Évitez les détails sinistres – à moins 
+que l’enfant insiste. Exprimer de la compassion et de la 
+consternation est en revanche parfaitement adéquat.
+Images de guerre sur les réseaux sociaux : 
+comment protéger les jeunes ?
+Sur les réseaux sociaux, les jeunes peuvent être confrontés à 
+des images et des vidéos perturbantes de scènes de guerre, 
+qui suscitent angoisse et crainte. Il est difficile pour les jeunes, 
+mais aussi pour les adultes, de déterminer si ces images sont 
+véridiques, puisqu’elles sont sorties de leur contexte et qu’il 
+peut en outre s’agir de deepfakes ou d’autres manipulations. 
+Expliquez à vos enfants les raisons qui président aux guerres et 
+aux crises, et proposez-leur de s’impliquer concrètement (faire 
+un don, fabriquer une banderole pour une manifestation, etc.) 
+pour montrer leur solidarité et combattre leur sentiment 
+d’impuissance. Discutez de la différence entre les informations 
+rédigées par des professionnels qui s’appuient sur des sources 
+et les contenus non journalistiques tels que tribunes d’opinion 
+et billets personnels. Si ce qui défile sur son feed met votre 
+enfant très mal à l’aise, montrez-lui comment il peut (techni­
+quement) limiter la visibilité de certains contenus et gérer son 
+feed. 
+Liens
+arte.tv/fr/videos/RC-014082/arte-journal-junior – Journal 
+Junior de ARTE
+francetvinfo.fr/l-actu-pour-les-jeunes – L’actu pour les 
+jeunes de France Info
+45
+19_ACHATS EN LIGNE  
+ 
+À quoi faut-il veiller lors des achats en 
+ligne ?
+Les achats en ligne sont populaires auprès de toutes les 
+classes d’âge et offrent de nombreux avantages : possibilité 
+de comparer les différentes offres, rabais propres aux 
+boutiques en ligne, et confort. Mais on se heurte aussi à 
+quelques inconvénients : il est difficile de juger du produit 
+avant l’achat, un prix d’achat bon marché peut être renchéri 
+par des frais d’expédition élevés, et la sécurité de nom­
+breuses boutiques en ligne laisse à désirer, sans même 
+parler des fausses boutiques. 
+Comment reconnaître une fausse boutique ? 
+Plusieurs signes devraient nous alerter sur la possibilité 
+d’une arnaque : rabais très importants, prix inhabituellement 
+bas par rapport aux autres vendeurs, produits épuisés 
+ailleurs mais pourtant disponibles, coordonnées du vendeur 
+manquantes ou douteuses, et processus de paiement non 
+sécurisé ou site non crypté. Un impressum lacunaire, de fausses 
+évaluations clients, un site bourré de fautes ou l’absence de 
+labels de qualité et de certificats sont d’autres signaux 
+d’alarme potentiels. 
+Comment aider et accompagner ses enfants 
+dans leurs achats en ligne ?
+Comme dans d’autres domaines (numériques), accompagner 
+soigneusement les enfants au début permet d’éviter bien 
+des difficultés plus tard. Les jeunes doivent comprendre que 
+l’argent qu’ils dépensent est bien réel, et qu’ils doivent en 
+posséder avant de faire des achats. Expliquez à votre enfant 
+quelles sont les possibilités de paiement et ce qu’il se passe 
+lorsqu’on ne règle pas ses factures. Une carte de crédit 
+prépayée permet de garder un meilleur aperçu de ses 
+dépenses que des commandes sur facture.
+Aspects juridiques
+Achats en ligne par des mineurs
+Les mineurs ne peuvent conclure des contrats de 
+vente sans l’accord de leurs parents ; cela s’applique 
+aussi aux achats sur Internet. Les achats que l’enfant 
+ou le jeune effectue avec son argent de poche ou le 
+salaire d’un petit boulot font exception et sont licites. 
+Il faut déterminer au cas par cas si l’achat est 
+effectué avec l’argent de l’enfant ou si le montant 
+dépensé est plus élevé. 
+Art. 19 CC, « Personnes capables de discernement 
+mais privées de l’exercice des droits civils »
+46
+20_INFORMATIONS 
+COMPLÉMENTAIRES SUR LES 
+ASPECTS JURIDIQUES ET LES 
+SERVICES DE CONSEIL 
+Avez-vous besoin de conseils professionnels ?
+Vous constatez que votre enfant passe beaucoup trop de 
+temps devant l’ordinateur ou joue aux jeux vidéo jusqu’aux 
+petites heures. Ou alors, il vous raconte qu’il a reçu des 
+messages douteux, messages que vous classez sans 
+l’ombre d’un doute dans la catégorie des avances sexuelles. 
+Que pouvez-vous faire en cas de cyberharcèlement, de 
+dépendance numérique, de harcèlement sexuel ou d’autres 
+problèmes liés aux médias numériques ? 
+Pour obtenir de l’aide et du soutien sur ces questions (ou 
+d’autres), vous pouvez vous adresser à des services de conseil. 
+En cas d’urgence et pour les entretiens de conseil, nous 
+vous recommandons de contacter :
+•	Elternnotruf : conseils 24h/24 pour les parents, les 
+familles et les personnes de référence. Par téléphone au 
+0848 35 45 55, par e-mail, par tchat ou en face-à-face 
+(voir sur elternnotruf.ch/fr)  
+•	Conseil gratuit aux parents (hors taxes téléphoniques), 
+offre de Pro Juventute : par téléphone au 058 261 61 61 
+ou en ligne sur projuventute.ch/fr/conseils-aux-parents
+•	Conseils et soutien gratuits et anonymes pour les enfants 
+et les jeunes (24h/24) par téléphone, SMS et chat, offre 
+de Pro Juventute : 147.ch
+Aspects juridiques et droit pénal des 
+mineurs en Suisse
+À la fin de certains chapitres de la présente brochure, un 
+court paragraphe est consacré aux aspects juridiques du 
+thème concerné. Ci-après, vous trouverez quelques 
+informations plus générales à ce sujet.
+Tout d’abord, il est important de savoir qu’en Suisse, les 
+enfants peuvent être condamnés dès l’âge de 10 ans. Le 
+droit pénal des mineurs met l’accent sur la protection et 
+l’éducation des jeunes concernés afin d’éviter qu’ils ne 
+commettent d’autres délits. Puisque la majorité pénale 
+est fixée à un si jeune âge, il est essentiel que les 
+enfants et les jeunes qui surfent en ligne sans supervi­
+sion sachent ce qui est autorisé et ce qui ne l’est pas. 
+Sur Internet, ils peuvent être confrontés à la loi de 
+différentes manières – en tant que victimes d’infrac­
+tions, mais aussi en tant qu’auteurs. Souvent, il s’avère 
+que ces derniers n’étaient pas conscients de commettre 
+un acte répréhensible. Les parents, eux aussi, ne savent 
+pas toujours que l’utilisation des médias numériques en 
+famille soulève des questions juridiques à ne pas 
+négliger. Or, il est important qu’ils donnent l’exemple. 
+S’ils demandent par exemple à leurs enfants, dès le plus 
+jeune âge, l’autorisation de prendre des photos d’eux ou de 
+publier celles-ci sur les réseaux sociaux, comme l’impose en 
+principe le droit à l’image, les enfants intégreront l’idée que 
+l’on ne peut pas faire ce que l’on veut avec les images 
+d’autrui. Ainsi, lorsqu’ils seront plus grands, ils prendront les 
+mêmes précautions avec leurs amis. 
+Si vous souhaitez consulter les articles de loi pertinents, 
+vous pouvez directement cliquer sur les liens indiqués 
+dans la brochure PDF. Vous trouverez par ailleurs toutes 
+les publications du droit fédéral sur Fedlex. En bas de la 
+page d’accueil, la rubrique « Textes choisis » renvoie 
+notamment au code pénal ou à la loi sur le travail. 
+Le site Internet de la Prévention suisse de la criminalité 
+(PSC) propose également diverses informations. On y 
+trouve notamment des flyers sur des questions juridiques 
+en lien avec les médias numériques, parfois assortis 
+d’exemples pratiques. 
+Liens
+fedlex.admin.ch – La plateforme de publication du 
+droit fédéral
+skppsc.ch – La prévention suisse de la criminalité
+47
+Enfants et médias
+Source : étude MIKE 2021, étude représentative sur les  
+enfants de 6 à 13 ans en Suisse
+45 % 
+écoutent de la musique chaque jour ou 
+presque chaque jour.
+46 % 
+regardent la télévision chaque jour ou 
+presque chaque jour
+40 % 
+lisent des livres chaque jour ou presque 
+chaque jour.
+30 % 
+jouent à des jeux vidéo chaque jour ou 
+presque chaque jour.
+30 % 
+utilisent un téléphone mobile chaque jour 
+ou presque chaque jour.
+Plus de 50% des enfants dès 10 ans ont leur propre 
+téléphone ; ce taux grimpe à 75% chez les 12 à 13 ans.  
+40% des petits enfants, 68% des 10 à 11 ans et 81% des 
+12 à 13 ans utilisent un téléphone au moins une fois par 
+semaine. Près de 40% des 6 à 7 ans utilisent régulièrement 
+Internet. À la fin de l’école primaire, ils sont 90%.
+73% des enfants de primaire vont au moins une fois par 
+semaine sur YouTube. En termes de fréquence d’utilisation, 
+cette plateforme occupe la première place pour cette classe 
+d’âge. 
+37% des enfants de primaire en Suisse utilisent TikTok, 
+28% Snapchat et 17% Instagram au moins une fois par 
+semaine. 
+19% des enfants possédant leur propre téléphone y 
+sacrifient leur sommeil au moins une fois par semaine. 
+21_FAITS ET CHIFFRES
+ 
+Jeunes et médias
+Source : Étude JAMES 2022, étude représentative sur les 
+jeunes de 12 à 19 ans en Suisse
+99 % 
+des jeunes en Suisse possèdent un 
+téléphone portable. Presque tous les 
+appareils sont des smartphones.
+96 % 
+des jeunes interrogés utilisent Internet 
+quotidiennement ou plusieurs fois par 
+semaine, contre 55% pour la télévision. 
+93 % 
+des jeunes ont accès à Internet chez 
+eux. 
+77 % 
+ont leur propre ordinateur. 
+98 % 
+ont un compte sur au moins un réseau 
+social. Instagram et YouTube sont les sites 
+les plus utilisés. 
+60 % 
+des jeunes protègent leur sphère privée 
+en restreignant l’accès à leurs photos et à 
+leurs vidéos à certains contacts seulement. 
+73 % 
+des garçons et 32% des filles ont déjà 
+regardé un film porno sur leur ordinateur 
+ou leur téléphone.  
+65 % 
+des garçons et 19% des filles jouent 
+quotidiennement ou plusieurs fois par 
+semaine aux jeux vidéo.
+En moyenne, ils utilisent leur téléphone un peu plus de
+ 3 heures par jour en semaine, et 4 heures et quart le 
+week-end.
+48
+Étude ADELE 2018 de la ZHAW et Swisscom 
+ADELE – Activités – Digitales – Éducation – Loisirs – 
+Enfants.
+Étude qualitative sur l’utilisation en famille des médias 
+par les enfants suisses d’âge préscolaire. Étude de la Haute 
+école zurichoise de sciences appliquées. 
+zhaw.ch/psychologie/adele
+Étude MIKE 2021 de la ZHAW, Jeunes et médias et 
+de la fondation Jacobs
+MIKE – Médias, Interaction, Enfants, Parents. 
+Chiffres périodiques représentatifs sur les enfants et les 
+médias en Suisse. Étude de la Haute école zurichoise de 
+sciences appliquées. 
+zhaw.ch/psychologie/mike
+Étude JAMES 2022 de la ZHAW et Swisscom 
+JAMES – Jeunes, activités, médias – enquête Suisse. 
+Chiffres représentatifs sur les jeunes et les médias en 
+Suisse. Étude de la Haute école zurichoise de sciences 
+appliquées. Paraît tous les deux ans. Des analyses complé­
+mentaires sur des thèmes spécifiques sont publiées 
+l’année suivant la publication de l’étude, sous le titre de 
+JAMESfocus. 
+zhaw.ch/psychologie/james et 
+zhaw.ch/psychologie/jamesfocus
+EU Kids Online : Suisse, 2019, PH Schwyz
+EU Kids Online Suisse est une étude représentative menée 
+en Suisse alémanique et en Suisse romande auprès d’élèves 
+âgés de 9 à 16 ans ainsi qu’auprès de leurs enseignants, et 
+qui vise à recueillir des données sur les opportunités et les 
+risques liés à l’utilisation d’Internet.  
+eukidsonline.ch 
+MEKiS (compétence numérique dans le travail social) 
+de la Haute école spécialisée du Nord-Ouest de la Suisse (FHNW) 
+et la BFF Kompetenz Bildung Bern.
+Études et autres publications sur l’accompagnement 
+professionnel en matière d’éducation aux médias pour les 
+enfants et les jeunes, ainsi que pour les adultes avec 
+handicap dans les secteurs du travail social et de l’intégra­
+tion professionnelle.
+mekis.ch 
+Étude SWIPE – SWIss study on Preschool screen 
+Exposure 
+SWIPE est une enquête en ligne regroupant diverses 
+institutions de toutes les régions linguistiques de la Suisse 
+afin d'étudier l’exposition aux médias numériques des plus 
+jeunes enfants. 
+swipe-study.ch
+Études JIM, études KIM et études FIM du MPFS 
+Réseau de recherche en pédagogie des médias du Sud-
+Ouest Études allemandes portant respectivement sur le 
+rapport aux médias des jeunes, des enfants et des familles, 
+publiées chaque année par le MPFS.
+mpfs.de  
+22_ÉTUDES
+ 
+49
+Depuis 2011, la Confédération mène ses activités de 
+protection des jeunes face aux médias et de promotion des 
+compétences numériques via la plateforme Jeunes et 
+médias. Cette plateforme est gérée par l’Office fédéral des 
+assurances sociales (OFAS). Elle agit à la fois sur le plan de 
+la réglementation et sur celui de l’éducation. La Confédéra­
+tion entend ainsi favoriser les échanges et la collaboration 
+entre les parties prenantes. 
+Pour les parents, les enseignants et 
+les personnes de référence
+Jeunesetmedias.ch contient des informations ainsi que des 
+conseils pratiques pour accompagner activement au 
+quotidien les enfants et les jeunes dans le monde numé­
+rique. Le site rassemble des connaissances relatives aux 
+opportunités et aux risques des médias numériques.
+PLATEFORME NATIONALE JEUNES 
+ET MÉDIAS
+Pour une protection efficace des jeunes face aux 
+médias en Suisse
+En plus de promouvoir les compétences numériques, la 
+Confédération s’engage aussi pour une meilleure régulation. 
+Vous trouverez plus d’informations concernant la plateforme 
+Jeunes et médias et ses activités sur jeunesetmedias.ch
+50
+Direction : Prof. Dr. habil. Daniel Süss, 
+MSc Gregor Waller
+Équipe : MSc Lilian Suter, lic. phil. Isabel Willemse, 
+MSc Céline Külling-Knecht, MSc Jael Bernath, 
+MSc Mirjam Jochim, BSc Pascal Streule
+À la ZHAW, Haute école zurichoise de sciences appliquées, 
+département de psychologie appliquée, nous analysons, à 
+travers des études empiriques orientées sur la pratique, la 
+manière dont les enfants et les jeunes utilisent les médias 
+numériques et quelle influence cette utilisation a sur leurs 
+opinions, leurs motivations et leur comportement. Nous 
+nous intéressons aux sujets potentiellement conflictuels tels 
+que la représentation de la violence, la sexualité, la 
+pornographie ou la dépendance comportementale, mais 
+aussi aux conditions permettant une utilisation productive 
+des médias grâce à la promotion des compétences numé­
+riques. Les contenus médiatiques de qualité et la capacité 
+des jeunes, des enseignants et des parents à utiliser les 
+médias numériques peuvent contribuer à faire de ces 
+derniers une composante culturelle qui favorise le dévelop­
+pement psychosocial. Nous analysons le quotidien média­
+tique, depuis le livre jusqu’aux réseaux sociaux en passant 
+par la télévision, le cinéma et les jeux vidéo. Nous évaluons 
+les projets de pédagogie des médias et les mesures de 
+prévention liées à la protection des jeunes face aux 
+médias. Sur le plan scientifique, nous conseillons les autorités, 
+les diffuseurs, les écoles et les associations sur toutes les 
+questions liées à la sécurité et au développement d’un 
+quotidien médiatique épanouissant. Nous sommes membres 
+de réseaux de recherche et de développement nationaux et 
+internationaux dans les domaines de la psychologie et de la 
+pédagogie des médias ainsi que des sciences de la communi­
+cation. Voici un florilège de nos projets de recherche 
+actuels :
+Étude JAMES : jeunes, activités, médias
+ÜPlus de 1000 jeunes de 12 à 19 ans des trois principales 
+régions linguistiques de Suisse sont interrogés tous les deux 
+ans depuis 2010 sur leur comportement face aux médias. Les 
+enquêtes ont porté aussi bien sur les loisirs classiques que 
+sur l’utilisation des médias. Financé par Swisscom. 
+Étude MIKE : interaction entre médias, enfants et 
+parents en Suisse
+L’étude MIKE, réalisée pour la première fois en 2015, est 
+une étude nationale de la ZHAW sur les enfants et les 
+médias. Elle se penche sur les habitudes d’utilisation des 
+médias des enfants de 6 à 12 ans. Il s'agit de la première 
+étude représentative de ce genre en Suisse. 
+Étude ADELE : Activités – Digitales – Éducation – 
+Loisirs – Enfants
+L’étude qualitative ADELE, commandée par Swisscom à la 
+ZHAW, se penche sur l’utilisation des médias des enfants de 
+4 à 7 ans. Elle prend la forme d’entretiens détaillés avec des 
+enfants alémaniques et romands et leurs parents. 
+Elle analyse en profondeur les différents facteurs d’in­
+fluence du milieu familial sur l’utilisation des médias par les 
+enfants et vient à ce titre compléter les études MIKE et 
+JAMES. 
+Génération Smartphone – un projet de recherche 
+participatif avec des jeunes
+En partenariat avec la Haute école spécialisée du Nord-
+Ouest, la ZHAW s’interroge sur l’importance du smartphone 
+dans le quotidien des jeunes à travers le projet de recherche 
+qualitatif «  Génération Smartphone  ». Ce projet pèse les 
+opportunités et les risques du smartphone, non seulement 
+du point de vue des adultes, mais aussi de celui des jeunes. 
+Il est soutenu par la fondation Mercator Schweiz.
+Plus d’informations sur zhaw.ch/psychologie
+RECHERCHES EN PSYCHOLOGIE DES 
+MÉDIAS AU SEIN DE LA ZHAW
+ 
+52
