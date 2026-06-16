@@ -1,10 +1,12 @@
-# Cross-Lingual RAG System for Migrant Parents in Switzerland
+# Cross-lingual RAG system for migrant parents in Switzerland
 ## CAS NLP 2025 — University of Bern
+
 **Author**: Olga Bobrowska-Braccini
 **Email**:olga.bobrowska@students.unibe.ch
 **Date**: June 2026
 
----
+<div style="page-break-after: always;"></div>
+
 
 ## Abstract
 
@@ -33,7 +35,7 @@ a RAGAS 0.4.3 framework constraint. Cross-lingual retrieval is confirmed
 for all target languages. Tigrinya produces the highest similarity scores (up to 0.91), attributable
 to the distinctive position of Ethiopic script in the embedding space.
 
----
+
 
 ## Table of contents
 
@@ -818,10 +820,10 @@ work, alongside the following.
 Regarding a possible future corpus enrichment, the depth asymmetry
 between source and target languages is structural — each target
 language has approximately 12 indexed chunks compared to 115 for
-German, French and Italian. Within Switzerland, cantonal integration
-platforms (hallo-bern.ch, hallo-baselland.ch) and the SIKJM programme
-"Tell Me a Story" already publish content on parenting in Tigrinya and
-other minority languages. Beyond Switzerland, the Australian eSafety
+German, French and Italian. Within Switzerland, cantonal integration platforms (hallo-bern.ch,
+hallo-baselland.ch) and the Swiss Institute for Children's and Youth
+Media (SIKJM / ISJM / ISMR) programme "Tell Me a Story" already
+publish content on parenting in Tigrinya and other minority languages. Beyond Switzerland, the Australian eSafety
 Commissioner publishes Tigrinya advice sheets on social media, online
 gaming and cyberbullying. These represent natural extensions of the
 current corpus. Additional target languages already present in the
@@ -852,50 +854,50 @@ publication cycle of Jugend und Medien.
 Office fédéral des assurances sociales (OFAS). (2020–2024).
 Jeunes et médias — La plateforme nationale de promotion des
 compétences médiatiques [National platform for media literacy].
-www.jugendundmedien.ch / www.jeunesetmedias.ch / www.giovaniemedia.ch
+<https://www.jugendundmedien.ch> / <https://www.jeunesetmedias.ch> / <https://www.giovaniemedia.ch>
 
 Confédération suisse. (2019). Loi fédérale sur les étrangers et
 l'intégration (LEI) [Federal Act on Foreign Nationals and
 Integration (FNIA)]. Fedlex.
-https://www.fedlex.admin.ch/eli/cc/2008/746/fr
+<https://www.fedlex.admin.ch/eli/cc/2008/746/fr>
 
 ### NLP models
 
 Reimers, N., & Gurevych, I. (2020). Making monolingual sentence
 embeddings multilingual using knowledge distillation.
 Proceedings of EMNLP 2020, 4512–4525.
-https://arxiv.org/abs/2004.09813
+<https://arxiv.org/abs/2004.09813>
 
 Es, S., James, J., Anke, L. E., & Schockaert, S. (2023).
 RAGAS: Automated evaluation of retrieval augmented generation.
-https://arxiv.org/abs/2309.15217
+<https://arxiv.org/abs/2309.15217>
 
 ### Software
 
-Chroma. (2024). ChromaDB (v0.4) [Software]. https://www.trychroma.com
+Chroma. (2024). ChromaDB (v0.4). <https://www.trychroma.com>
 
 Hunter, J. D. (2007). Matplotlib: A 2D graphics environment.
 Computing in Science & Engineering, 9(3), 90–95.
 
-LangChain AI. (2024). LangChain [Software, used as RAGAS dependency].
-https://github.com/langchain-ai/langchain
+LangChain AI. (2024). LangChain (used as RAGAS dependency).
+<https://github.com/langchain-ai/langchain>
 
 McKinney, W. (2010). Data structures for statistical computing
 in Python. Proceedings of the 9th Python in Science Conference, 56–61.
 
-Ollama. (2024). Ollama [Software]. https://ollama.com
+Ollama. (2024). Ollama . <https://ollama.com>
 
-PyMuPDF. (2024). PyMuPDF (v1.24) [Software].
-https://pymupdf.readthedocs.io
+PyMuPDF. (2024). PyMuPDF (v1.24) 
+<https://pymupdf.readthedocs.io>
 
-Streamlit Inc. (2024). Streamlit (v1.57) [Software].
-https://streamlit.io
+Streamlit Inc. (2024). Streamlit (v1.57) .
+<https://streamlit.io>
 
 ## 10. Acknowledgements
 
 My deepest thanks go to my family, in particular to my son Bruno and
-my husband Saverio, for being there throughout this journey — loudly
-or quietly, as needed — and for all the small everyday things that
+my husband Saverio, for being there throughout this journey — *forte* or *piano*, as needed
+— and for all the small everyday things that
 made room for this work to happen.
 
 Thanks to the CAS NLP teaching team for their guidance throughout
